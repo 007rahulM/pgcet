@@ -1,6 +1,32 @@
-# Permutation & Combination — Complete Guide
+# Permutation & Combination — Overview
 
-## 🔍 The Key Question to Ask
+One of the most important topics. Expect **3–5 questions** in MCA PGCET.
+
+## Subtopics in This Folder
+
+| File | Topic |
+|------|-------|
+| [01-Permutations.md](./01-Permutations.md) | Arrangements, circular permutations, identical items |
+| [02-Combinations.md](./02-Combinations.md) | Selections, handshakes, diagonals, "at least" problems |
+| [03-Special-Cases.md](./03-Special-Cases.md) | Restrictions (together/apart), position constraints |
+
+## Quick Reference
+
+- "Arrange / order matters" → See [01-Permutations.md](./01-Permutations.md)
+- "Select / order doesn't matter" → See [02-Combinations.md](./02-Combinations.md)
+- "Must/must not sit together" → See [03-Special-Cases.md](./03-Special-Cases.md)
+
+## The Key Question
+
+> **Does ORDER matter?**
+> - YES → **Permutation (P)**
+> - NO → **Combination (C)**
+
+---
+
+## Complete Guide (All Topics Combined)
+
+### 🔍 The Key Question to Ask
 
 > **Does ORDER matter?**
 > - YES → **Permutation (P)**

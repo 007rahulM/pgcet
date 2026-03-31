@@ -1,6 +1,26 @@
-# Percentages — Complete Guide
+# Percentages — Overview
 
-## 🔍 When This Comes Up
+One of the **most frequently asked topics** in MCA PGCET. Expect **2–4 questions** from here.
+
+## Subtopics in This Folder
+
+| File | Topic |
+|------|-------|
+| [01-Basic-Calculations.md](./01-Basic-Calculations.md) | Finding part, whole, and percentage; fraction equivalents |
+| [02-Percentage-Change.md](./02-Percentage-Change.md) | Increase, decrease, and successive changes |
+| [03-Percentage-Applications.md](./03-Percentage-Applications.md) | Comparison problems, elections, combined applications |
+
+## Quick Reference
+
+- "What % of X is Y?" → See [01-Basic-Calculations.md](./01-Basic-Calculations.md)
+- "X increased/decreased by Y%" → See [02-Percentage-Change.md](./02-Percentage-Change.md)
+- "A is X% more than B" → See [03-Percentage-Applications.md](./03-Percentage-Applications.md)
+
+---
+
+## Complete Guide (All Topics Combined)
+
+### 🔍 When This Comes Up
 
 - "What % of X is Y?"
 - "X is increased/decreased by Y%"

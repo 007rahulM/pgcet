@@ -1,6 +1,26 @@
-# Number System — Complete Guide
+# Number System — Overview
 
-## 🔍 Topics Covered
+Foundational topic that appears in many forms. Expect **2–4 questions** in MCA PGCET.
+
+## Subtopics in This Folder
+
+| File | Topic |
+|------|-------|
+| [01-HCF-and-LCM.md](./01-HCF-and-LCM.md) | HCF, LCM methods, applications (bells, divisibility problems) |
+| [02-Divisibility-Rules.md](./02-Divisibility-Rules.md) | Rules for 2–12, quick divisibility checks |
+| [03-Number-Types.md](./03-Number-Types.md) | Prime/composite, factors, sums, remainder basics |
+
+## Quick Reference
+
+- "Find HCF / LCM" → See [01-HCF-and-LCM.md](./01-HCF-and-LCM.md)
+- "Is this number divisible by X?" → See [02-Divisibility-Rules.md](./02-Divisibility-Rules.md)
+- "Prime numbers / number of factors" → See [03-Number-Types.md](./03-Number-Types.md)
+
+---
+
+## Complete Guide (All Topics Combined)
+
+### 🔍 Topics Covered
 
 - LCM and HCF
 - Divisibility rules

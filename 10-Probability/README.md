@@ -1,6 +1,26 @@
-# Probability — Complete Guide
+# Probability — Overview
 
-## 🔍 When This Comes Up
+Expect **3–5 questions** in MCA PGCET. These are high-scoring, formula-driven questions.
+
+## Subtopics in This Folder
+
+| File | Topic |
+|------|-------|
+| [01-Basic-Probability.md](./01-Basic-Probability.md) | Sample spaces, coins, dice, cards, basic P formula |
+| [02-Compound-Events.md](./02-Compound-Events.md) | AND/OR rules, independent events, "at least one" |
+| [03-Standard-Problems.md](./03-Standard-Problems.md) | Card, ball, dice problem patterns, conditional probability |
+
+## Quick Reference
+
+- "What is P(X)?" → See [01-Basic-Probability.md](./01-Basic-Probability.md)
+- "P(A and B) / P(A or B)" → See [02-Compound-Events.md](./02-Compound-Events.md)
+- "Drawing cards/balls/dice problems" → See [03-Standard-Problems.md](./03-Standard-Problems.md)
+
+---
+
+## Complete Guide (All Topics Combined)
+
+### 🔍 When This Comes Up
 
 - Tossing coins, rolling dice
 - Drawing cards from a deck
