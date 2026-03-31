@@ -1,6 +1,26 @@
-# Simple & Compound Interest — Complete Guide
+# Simple & Compound Interest — Overview
 
-## 🔍 When This Comes Up
+Expect **2–3 questions** from here in MCA PGCET. These are direct formula-application problems.
+
+## Subtopics in This Folder
+
+| File | Topic |
+|------|-------|
+| [01-Simple-Interest.md](./01-Simple-Interest.md) | SI formula, finding P/R/T, when sum doubles |
+| [02-Compound-Interest.md](./02-Compound-Interest.md) | CI formula, half-yearly/quarterly, Rule of 72 |
+| [03-CI-vs-SI-Comparison.md](./03-CI-vs-SI-Comparison.md) | Difference between CI and SI, mixed problems |
+
+## Quick Reference
+
+- "Find SI" → See [01-Simple-Interest.md](./01-Simple-Interest.md)
+- "Find CI / compounded half-yearly" → See [02-Compound-Interest.md](./02-Compound-Interest.md)
+- "Difference between CI and SI" → See [03-CI-vs-SI-Comparison.md](./03-CI-vs-SI-Comparison.md)
+
+---
+
+## Complete Guide (All Topics Combined)
+
+### 🔍 When This Comes Up
 
 - "Find Simple Interest / Compound Interest"
 - "After how many years will amount double?"

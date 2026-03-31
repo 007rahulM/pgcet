@@ -1,6 +1,26 @@
-# Averages — Complete Guide
+# Averages — Overview
 
-## 🔍 When This Comes Up
+Appears in almost every competitive exam. Expect **2–3 questions** in MCA PGCET.
+
+## Subtopics in This Folder
+
+| File | Topic |
+|------|-------|
+| [01-Basic-Average.md](./01-Basic-Average.md) | Simple average, consecutive numbers, missing value |
+| [02-Changed-Average.md](./02-Changed-Average.md) | Member joining/leaving, replacement problems |
+| [03-Weighted-Average.md](./03-Weighted-Average.md) | Combining groups, weighted averages |
+
+## Quick Reference
+
+- "Average of numbers / find missing value" → See [01-Basic-Average.md](./01-Basic-Average.md)
+- "New member joins / member replaced" → See [02-Changed-Average.md](./02-Changed-Average.md)
+- "Two groups combined average" → See [03-Weighted-Average.md](./03-Weighted-Average.md)
+
+---
+
+## Complete Guide (All Topics Combined)
+
+### 🔍 When This Comes Up
 
 - "Average of a group of numbers"
 - "New member joins — average changes"
