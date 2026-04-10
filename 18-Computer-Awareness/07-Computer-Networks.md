@@ -177,28 +177,5 @@ A network is a group of computers connected to **share resources and communicate
 
 ---
 
-## ✔️ Answers with Full Explanation
 
-1. **(D) 7**
-   Explanation: OSI (Open Systems Interconnection) model has 7 layers: Physical, Data Link, Network, Transport, Session, Presentation, Application (bottom to top). TCP/IP model has only 4 layers.
-
-2. **(C) Router**
-   Explanation: Routers operate at Layer 3 (Network) and use IP addresses to forward packets between different networks. Hubs and Repeaters are Layer 1. Switches are Layer 2 (use MAC addresses).
-
-3. **(B) Reliable, ordered delivery**
-   Explanation: TCP (Transmission Control Protocol) provides connection-oriented, reliable communication. It uses acknowledgements, sequence numbers, and retransmission. UDP is faster but unreliable (used for video streaming, gaming).
-
-4. **(B) Domain to IP translation**
-   Explanation: DNS (Domain Name System) converts human-readable domain names (www.google.com) to IP addresses (142.250.x.x) that computers use. It's like a phone book for the internet.
-
-5. **(C) 443**
-   Explanation: HTTPS (secure HTTP) uses port 443. HTTP uses port 80. FTP uses port 21. SMTP uses port 25. These port numbers are standardized and appear frequently in exam questions.
-
-6. **(B) 32**
-   Explanation: IPv4 uses 32-bit addresses, divided into 4 groups of 8 bits each (octets), written as xxx.xxx.xxx.xxx. This gives ~4.3 billion possible addresses. IPv6 uses 128 bits to provide far more addresses.
-
-7. **(B) Network**
-   Explanation: The Network layer (Layer 3) handles routing — it determines the best path for data packets across networks using logical (IP) addresses. Routers work at this layer. The Transport layer handles end-to-end delivery.
-
-8. **(C) Building/floor**
-   Explanation: LAN (Local Area Network) covers a small geographic area like a building, floor, or campus. MAN covers a city. WAN covers countries/worldwide. PAN covers personal devices within ~10 meters.
+> 📖 **[See detailed step-by-step solutions →](./07-Computer-Networks-Answers.md)**

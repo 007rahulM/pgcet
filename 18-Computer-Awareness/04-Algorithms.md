@@ -156,28 +156,5 @@ Low=4, High=4, Mid=4 → arr[4]=23 = 23 FOUND!
 
 ---
 
-## ✔️ Answers with Full Explanation
 
-1. **(C) O(n²)**
-   Explanation: Quick Sort's worst case occurs when the pivot chosen is always the largest or smallest element (already sorted array). In this case, partitioning produces n-1 elements on one side each time, giving O(n²). Average case is O(n log n), which is why it's popular in practice.
-
-2. **(C) Merge Sort**
-   Explanation: Merge Sort always divides into equal halves (log n levels) and merges in O(n) at each level → total O(n log n) in best, average, AND worst case. Quick Sort has O(n²) worst case.
-
-3. **(A) Sorted**
-   Explanation: Binary search works by comparing with the middle element and deciding to go left or right. This only works if the array is sorted. On unsorted data, binary search produces wrong results.
-
-4. **(C) 7**
-   Explanation: Binary search takes at most ⌈log₂(n)⌉ comparisons. For n=128: log₂(128) = log₂(2⁷) = 7 comparisons.
-
-5. **(C) Insertion Sort**
-   Explanation: Insertion Sort has O(n) best case for already-sorted (or nearly-sorted) arrays because elements need very few shifts. It's the algorithm playing cards players naturally use.
-
-6. **(B) O(n)**
-   Explanation: Merge Sort needs an auxiliary array of size n to merge the two halves. This makes it non-in-place. In-place merge exists but is complex.
-
-7. **(C) O(n²)**
-   Explanation: Selection Sort always does n-1 comparisons in pass 1, n-2 in pass 2, etc. = n(n-1)/2 = O(n²) regardless of input. There's no optimization possible.
-
-8. **(A) k**
-   Explanation: After each pass, the largest unsorted element "bubbles up" to its correct position. After k passes, the k largest elements are in their correct final positions.
+> 📖 **[See detailed step-by-step solutions →](./04-Algorithms-Answers.md)**
