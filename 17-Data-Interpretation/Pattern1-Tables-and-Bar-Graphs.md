@@ -132,11 +132,5 @@ Step 4: % increase Jan→Mar = (9000−8000)/8000 × 100 = 1000/8000 × 100 = **
 
 ---
 
-## ✔️ Answers
 
-1. A: 2019=400, 2021=500. % increase = (500−400)/400 × 100 = 100/400 × 100 = **25%**
-2. Company B was lowest in **2019** (300)
-3. Total 2022 = 480+400+600 = **₹1480 crore**
-4. A:C in 2020 = 450:480 = 15:16 → **15:16**
-5. B total = 300+350+320+400 = 1370. Average = 1370/4 = **₹342.5 crore**
-6. A: (480−400)/400=20%. B: (400−300)/300=33.3%. C: (600−500)/500=20%. **Company B (33.3%)** ✅
+> 📖 **[See detailed step-by-step solutions →](./Pattern1-Tables-and-Bar-Graphs-Answers.md)**

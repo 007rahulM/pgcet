@@ -165,28 +165,5 @@ An OS is **system software** that:
 
 ---
 
-## ✔️ Answers with Full Explanation
 
-1. **(B) Manage resources**
-   Explanation: OS manages CPU, memory, files, I/O devices. It acts as a resource manager and provides a user-friendly interface. It does NOT compile programs (that's a compiler) or create hardware.
-
-2. **(C) Round Robin**
-   Explanation: Round Robin assigns a fixed time quantum (e.g., 10ms) to each process in order. After the quantum expires, the process goes back to the end of the ready queue. This ensures fairness — every process gets equal CPU time.
-
-3. **(C) 4**
-   Explanation: All 4 Coffman conditions must be simultaneously true for deadlock: Mutual Exclusion, Hold & Wait, No Preemption, Circular Wait. Removing even ONE condition prevents deadlock.
-
-4. **(B) Disk storage**
-   Explanation: Virtual memory uses disk space to extend apparent RAM. When RAM is full, inactive pages are moved to disk (swap space). The process "sees" a much larger memory space than physically available.
-
-5. **(C) Priority**
-   Explanation: The 4 deadlock conditions are: Mutual Exclusion, Hold and Wait, No Preemption, and Circular Wait. Priority is a scheduling algorithm, not a deadlock condition.
-
-6. **(C) Indexed**
-   Explanation: Indexed allocation maintains an index block with direct pointers to all file blocks. This allows O(1) random access to any block. Linked allocation requires traversal from the beginning.
-
-7. **(B) Burst Time + Waiting Time**
-   Explanation: Turnaround Time = time from process submission to completion = Waiting Time (in queue) + Burst Time (actual execution). Response Time = time until first response.
-
-8. **(C) Thrashing**
-   Explanation: Thrashing occurs when the system spends more time paging (moving data between RAM and disk) than executing programs. It happens when too many processes compete for limited memory.
+> 📖 **[See detailed step-by-step solutions →](./05-Operating-Systems-Answers.md)**

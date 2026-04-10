@@ -134,20 +134,5 @@ For exam purposes, let's use a clean version:
 
 ---
 
-## ✔️ Answers
 
-**Caselet 1:**
-- Science = 60% × 1200 = 720; Commerce = 25% × 1200 = 300; Arts = 15% × 1200 = **180**
-1. **180 students** ✅
-2. Girls in Science = 50% × 720 = **360 girls** ✅
-3. Boys in Commerce = 60% × 300 = **180 boys** ✅
-4. Girls: Science=360, Commerce=120, Arts=54. Total = 534. % = 534/1200 × 100 = **44.5%** ✅
-
-**Caselet 2:**
-- Total = 5,00,000
-- Below 30: 40% × 5L = 2,00,000
-- 30-60: 35% × 5L = 1,75,000
-- Above 60: 25% × 5L = **1,25,000**
-5. **1,25,000** ✅
-6. 80% × 2,00,000 = **1,60,000** ✅
-7. Literate: 1,60,000 + 75%×1,75,000 + 50%×1,25,000 = 1,60,000 + 1,31,250 + 62,500 = **3,53,750** ✅
+> 📖 **[See detailed step-by-step solutions →](./Pattern3-Caselets-Answers.md)**

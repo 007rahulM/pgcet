@@ -148,13 +148,5 @@ Monthly rainfall (mm): Jan=80, Feb=60, Mar=40, Apr=20, May=10, Jun=90, Jul=150, 
 
 ---
 
-## ✔️ Answers
 
-1. 25% × 50000 = **₹12,500**
-2. 10% → (10/100) × 360 = **36°**
-3. Rent: 40% × 50000 = ₹20,000. Education: 15% × 50000 = ₹7,500. Difference = **₹12,500**
-4. 10% = **1/10**
-5. **August** (160 mm)
-6. 80+60+40 = **180 mm**
-7. Check drops: Feb(60)−Jan(80)=−20, Mar(40)−Feb(60)=−20, Apr(20)−Mar(40)=−20, May(10)−Apr(20)=−10. Biggest drop = **20 mm** (Feb, Mar, or Apr from previous — tied at 20)
-8. Total = 80+60+40+20+10+90+150+160+120+70+50+90 = 940. Average = 940/12 ≈ **78.3 mm**
+> 📖 **[See detailed step-by-step solutions →](./Pattern2-Pie-Charts-and-Line-Graphs-Answers.md)**

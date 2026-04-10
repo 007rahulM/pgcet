@@ -180,34 +180,5 @@
 
 ---
 
-## ✔️ Answers with Full Explanation
 
-1. **(B) RAM**
-   Explanation: RAM (Random Access Memory) is volatile — it loses all data when the computer is turned off. ROM, EPROM, PROM are all non-volatile (they retain data without power).
-
-2. **(B) 1024**
-   Explanation: In computing, 1 KB = 2¹⁰ bytes = 1024 bytes. This is because computers work in binary (powers of 2), not decimal. 1000 bytes = 1 kilobyte in SI units, but in computing 1024 bytes = 1 KB.
-
-3. **(C) ALU**
-   Explanation: ALU = Arithmetic Logic Unit. It handles +, −, ×, ÷ and logical comparisons. The CU (Control Unit) controls instruction flow. Registers are tiny storage. Cache is fast memory.
-
-4. **(C) Plotter**
-   Explanation: A plotter is an output device that draws vector graphics (engineering drawings). Mouse, Keyboard, Scanner are all input devices.
-
-5. **(C) 7**
-   Explanation: Standard ASCII uses 7 bits → 2⁷ = 128 characters (0–127). Extended ASCII uses 8 bits → 256 characters. Unicode uses 16+ bits.
-
-6. **(C) Register**
-   Explanation: Speed order: Register > Cache > RAM > Hard Disk. Registers are physically inside the CPU itself, making them the fastest.
-
-7. **(B) Translates entire program at once**
-   Explanation: A compiler reads the WHOLE program, checks all syntax errors, and produces an executable. An interpreter processes one line at a time. C, C++, Java use compilers. Python uses interpreter.
-
-8. **(D) ROM**
-   Explanation: BIOS (Basic Input Output System) is stored in ROM because it must survive power loss — it needs to start every time the computer boots.
-
-9. **(D) Hard Disk**
-   Explanation: Secondary storage = external, non-volatile, large capacity. RAM and Cache are primary (internal). ROM is also primary. Hard Disk is secondary storage.
-
-10. **(B) 1024 MB**
-    Explanation: 1 GB = 1024 MB = 1024 × 1024 KB = 1024 × 1024 × 1024 bytes = 2³⁰ bytes.
+> 📖 **[See detailed step-by-step solutions →](./02-Computer-Fundamentals-Answers.md)**

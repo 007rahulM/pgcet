@@ -199,34 +199,5 @@ INNER JOIN Courses ON Students.CourseID = Courses.ID;
 
 ---
 
-## ✔️ Answers with Full Explanation
 
-1. **(C) SELECT**
-   Explanation: SELECT is a DQL (Data Query Language) command used to retrieve/read data from tables. INSERT adds new rows, UPDATE modifies existing rows, DELETE removes rows.
-
-2. **(B) Unique identification of rows**
-   Explanation: PRIMARY KEY uniquely identifies each row in a table. No two rows can have the same primary key value. It also cannot be NULL. Example: Student_ID as primary key ensures no two students have the same ID.
-
-3. **(B) INNER JOIN**
-   Explanation: INNER JOIN returns only rows where there is a match in BOTH tables. LEFT JOIN returns all left table rows + matched right rows (unmatched = NULL). RIGHT JOIN is the reverse.
-
-4. **(D) MAX**
-   Explanation: MAX() returns the highest value in a column. MIN() returns lowest. AVG() returns average. SUM() returns total. Use: SELECT MAX(Salary) FROM Employees;
-
-5. **(C) DROP**
-   Explanation: DROP TABLE removes the entire table structure AND data permanently. DELETE removes specific rows but table remains. TRUNCATE removes all rows but table structure remains. DROP is DDL, DELETE/TRUNCATE are DML.
-
-6. **(B) SELECT, FROM, WHERE**
-   Explanation: SQL syntax order: SELECT (what columns) → FROM (which table) → WHERE (which rows). Full order: SELECT → FROM → WHERE → GROUP BY → HAVING → ORDER BY.
-
-7. **(B) Atomicity**
-   Explanation: Atomicity = "all or nothing". If a transaction fails halfway (e.g., system crash during bank transfer), all changes are rolled back as if nothing happened. The entire transaction must complete or none of it applies.
-
-8. **(B) 2NF**
-   Explanation: 2NF eliminates partial dependencies — all non-key attributes must depend on the ENTIRE primary key, not just part of it. 1NF eliminates repeating groups. 3NF eliminates transitive dependencies.
-
-9. **(B) The primary key of another table**
-   Explanation: A FOREIGN KEY creates a link between two tables. It references the PRIMARY KEY of another table. Example: Orders table has Customer_ID as foreign key linking to Customers table's primary key.
-
-10. **(C) ROLLBACK**
-    Explanation: ROLLBACK undoes all changes made in the current transaction, returning the database to its last committed state. COMMIT saves all changes permanently. There's no UNDO command in standard SQL.
+> 📖 **[See detailed step-by-step solutions →](./06-DBMS-and-SQL-Answers.md)**

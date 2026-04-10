@@ -294,28 +294,5 @@ while(i < 3) {
 
 ---
 
-## ✔️ Answers with Full Explanation
 
-1. **Output: 15**
-   Explanation: x starts at 10. x = x + 5 = 10 + 5 = 15. printf("%d", x) prints 15.
-
-2. **(B) char**
-   Explanation: `char` is a 1-byte data type that stores a single character. Characters are stored as ASCII values internally. C doesn't have a string data type — strings are arrays of char ending with '\0'.
-
-3. **(B) 9**
-   Explanation: `int arr[10]` declares 10 elements. C arrays are 0-indexed: arr[0], arr[1], ..., arr[9]. The last valid index is 9 (= size − 1). Accessing arr[10] is undefined behavior.
-
-4. **(B) Address of x**
-   Explanation: `&` is the "address-of" operator. `&x` gives the memory address where variable x is stored. When used with bitwise operations (int a = 5 & 3), it means bitwise AND. Context matters!
-
-5. **Output: 0 1 2**
-   Explanation: i starts at 0. Loop continues while i < 3. Prints 0, increments to 1. Prints 1, increments to 2. Prints 2, increments to 3. Now 3 < 3 is false, loop ends.
-
-6. **(B) Skips current iteration**
-   Explanation: `continue` skips the rest of the loop body for the current iteration and jumps to the next iteration (increment/condition check). `break` fully exits the loop.
-
-7. **(C) 4**
-   Explanation: In most 32-bit and 64-bit systems, `int` is 4 bytes (32 bits). However, on older 16-bit systems it's 2 bytes. The C standard only guarantees int ≥ 16 bits. Most modern MCQ exams assume 4 bytes.
-
-8. **(C) Value at address p**
-   Explanation: `*` before a pointer is the dereference operator — it goes to the address stored in p and retrieves the value there. If `p = &x` and `x = 10`, then `*p = 10`. This is how pointers let you indirectly access variables.
+> 📖 **[See detailed step-by-step solutions →](./08-Programming-in-C-Answers.md)**
