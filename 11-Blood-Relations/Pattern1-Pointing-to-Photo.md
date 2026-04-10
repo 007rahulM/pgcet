@@ -144,10 +144,4 @@ Step 3: "The father of my father" = the man's grandfather ✓ — this matches t
 
 ---
 
-## ✔️ Answers
-
-1. She is the man's **Aunt** (mother's sister) — traced: his mother's husband's mother = his grandmother; grandmother's daughter = his mother's sister (aunt)
-2. The man is the boy's **Father** or maternal uncle — "only daughter of my mother" = me (if female) or his sister; her son = the boy → man is the boy's **Maternal Uncle**
-3. She is the **Son** of the woman → the person is her **Son** ✅
-4. She is his **Mother** (wife of the only son of his grandfather = wife of his father)
-5. A is the **Maternal Uncle** of B (A's mother's only daughter = A's sister; B's mother = A's sister → A is B's maternal uncle)
+> 📖 **[See detailed step-by-step solutions →](./Pattern1-Pointing-to-Photo-Answers.md)**

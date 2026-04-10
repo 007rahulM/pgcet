@@ -140,10 +140,4 @@ Step 3: P(boy | glasses) = 10/25 = 2/5
 
 ---
 
-## ✔️ Answers
-
-1. Red Kings = 2. P = 2/52 = **1/26**
-2. P = 6/10 × 5/9 = 30/90 = **1/3**
-3. Sum ≥ 10: sum 10 (3 ways), 11 (2 ways), 12 (1 way) = 6. P = 6/36 = **1/6**
-4. Exactly 2T: TTH,THT,HTT = 3C2 ways = 3. P = 3/8
-5. P = 5/8 × 3/7 = 15/56
+> 📖 **[See detailed step-by-step solutions →](./03-Standard-Problems-Answers.md)**

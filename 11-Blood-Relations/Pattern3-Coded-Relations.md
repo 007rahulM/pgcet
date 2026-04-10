@@ -186,14 +186,4 @@ Step 4: P is Q's wife → P is S's granddaughter-in-law
 
 ---
 
-## ✔️ Answers
-
-1. A + B (A is father of B), B − C (B is mother of C) → A is father of B who is mother of C → A is **grandfather** of C ✅
-
-2. A & B (A is wife of B), B + C (B is father of C) → A is wife of B, B is father of C → A is **mother** of C ✅
-
-3. A × B (A is brother of B), B − C (B is mother of C), C ÷ D (C is sister of D) → A is uncle of C (brother of C's mother), C is sister of D → A is **uncle** of D ✅
-
-4. A ÷ B (A is sister of B), B + C (B is father of C), C × D (C is brother of D) → A is sister of B = C's aunt; D is C's sibling → A is **aunt** of D ✅
-
-5. A = B (A is husband of B), B − C (B is mother of C), C + D (C is father of D) → A is father of C (husband of C's mother), C is father of D → A is **grandfather** of D ✅
+> 📖 **[See detailed step-by-step solutions →](./Pattern3-Coded-Relations-Answers.md)**

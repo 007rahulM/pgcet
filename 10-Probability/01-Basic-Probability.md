@@ -153,10 +153,4 @@ Step 3: P(not red) = 5/10 = 1/2
 
 ---
 
-## ✔️ Answers
-
-1. Primes = {2,3,5}. P = 3/6 = **1/2**
-2. At least 1T: complement = P(all H) = P(HH) = 1/4. P(at least 1T) = 1−1/4 = **3/4**
-3. 4/52 = **1/13**
-4. 4/7
-5. {5,6} = 2/6 = **1/3**
+> 📖 **[See detailed step-by-step solutions →](./01-Basic-Probability-Answers.md)**
