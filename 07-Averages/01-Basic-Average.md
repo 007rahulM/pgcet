@@ -17,52 +17,122 @@
 
 ## ✅ Step-by-Step Examples
 
-### Example 1 (Basic Average)
+### Example 1
 
-**Problem:** Marks of 5 students: 70, 80, 65, 90, 75. Average?
+**❓ Question:** Marks of 5 students: 70, 80, 65, 90, 75. Find their average.
 
-- Sum = 380
-- Average = 380/5 = **76** ✅
+**🤔 What I understood:**
+- Given: 5 marks — 70, 80, 65, 90, 75
+- Find: The average mark
 
----
+**💡 What I'll use:** Average = Sum of all values / Number of values
 
-### Example 2 (Find Missing Value)
+**✏️ My Solution:**
 
-**Problem:** Average of 6 numbers is 30. Five of them are 25, 30, 35, 28, 32. Find the 6th.
+Step 1: Add up all marks
+Sum = 70 + 80 + 65 + 90 + 75 = 380
 
-- Sum of all 6 = 30 × 6 = 180
-- Sum of 5 = 150
-- 6th number = 180 − 150 = **30** ✅
+Step 2: Divide by the count
+Average = 380 / 5 = **76**
 
----
-
-### Example 3 (Average of Consecutive Numbers)
-
-**Problem:** Average of 1 to 20.
-
-- Sum = n(n+1)/2 = 20×21/2 = 210
-- Average = 210/20 = **10.5** ✅
-- **Shortcut:** Average of first n naturals = (n+1)/2 = 21/2 = 10.5 ✅
+**✅ Answer: Average = 76**
 
 ---
 
-### Example 4 (Average of Consecutive Even/Odd)
+### Example 2
 
-**Problem:** Average of first 10 odd numbers?
+**❓ Question:** Average of 6 numbers is 30. Five of them are 25, 30, 35, 28, 32. Find the 6th.
 
-- First 10 odd = 1,3,5,7,9,11,13,15,17,19. Sum=100.
-- Avg = **10**
-- **Shortcut:** Average of first n odd numbers = n ✅
+**🤔 What I understood:**
+- Given: Average of 6 numbers = 30; five known numbers: 25, 30, 35, 28, 32
+- Find: The 6th number
+
+**💡 What I'll use:** Sum = Average × Count, then subtract the known sum
+
+**✏️ My Solution:**
+
+Step 1: Find the total sum required
+Sum of all 6 = 30 × 6 = 180
+
+Step 2: Find sum of the known 5
+Sum of 5 = 25 + 30 + 35 + 28 + 32 = 150
+
+Step 3: Subtract to get the 6th
+6th number = 180 − 150 = **30**
+
+**✅ Answer: 6th number = 30**
 
 ---
 
-### Example 5 (Batsman Average)
+### Example 3
 
-**Problem:** A batsman's average in 10 innings = 40. In the 11th innings, score = 90. New average?
+**❓ Question:** Find the average of numbers from 1 to 20.
 
-- Old sum = 400
-- New sum = 400 + 90 = 490
-- New average = 490/11 = **44.5** ✅
+**🤔 What I understood:**
+- Given: Consecutive integers from 1 to 20
+- Find: Their average
+
+**💡 What I'll use:** Sum of first n naturals = n(n+1)/2, then divide by n; or shortcut: Average = (n+1)/2
+
+**✏️ My Solution:**
+
+Step 1: Use the sum formula
+Sum = 20 × 21 / 2 = 210
+
+Step 2: Divide by count
+Average = 210 / 20 = **10.5**
+
+Shortcut: Average of first n naturals = (n+1)/2 = 21/2 = **10.5** ✓
+
+**✅ Answer: Average = 10.5**
+
+---
+
+### Example 4
+
+**❓ Question:** What is the average of the first 10 odd numbers?
+
+**🤔 What I understood:**
+- Given: The first 10 odd numbers: 1, 3, 5, 7, 9, 11, 13, 15, 17, 19
+- Find: Their average
+
+**💡 What I'll use:** Shortcut — Average of first n odd numbers = n
+
+**✏️ My Solution:**
+
+Step 1: Verify with direct sum
+Sum = 1+3+5+7+9+11+13+15+17+19 = 100
+Average = 100 / 10 = **10**
+
+Step 2: Confirm with shortcut
+Average of first n odd numbers = n = **10** ✓
+
+**✅ Answer: Average = 10**
+
+---
+
+### Example 5
+
+**❓ Question:** A batsman's average in 10 innings = 40. In the 11th innings he scores 90. What is his new average?
+
+**🤔 What I understood:**
+- Given: Average over 10 innings = 40; 11th innings score = 90
+- Find: New average after 11 innings
+
+**💡 What I'll use:** New Sum = Old Sum + New Score, then divide by new count
+
+**✏️ My Solution:**
+
+Step 1: Find old total
+Old sum = 40 × 10 = 400
+
+Step 2: Add new score
+New sum = 400 + 90 = 490
+
+Step 3: Divide by new count
+New average = 490 / 11 = **44.5**
+
+**✅ Answer: New average = 44.5**
 
 ---
 

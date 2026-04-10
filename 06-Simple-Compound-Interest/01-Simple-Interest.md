@@ -33,46 +33,109 @@ Where:
 
 ## ✅ Step-by-Step Examples
 
-### Example 1 (Find SI and Amount)
+### Example 1
 
-**Problem:** ₹5000 invested at 8% per year for 3 years. Find SI and Amount.
+**❓ Question:** ₹5000 invested at 8% per year for 3 years. Find SI and Amount.
 
-- SI = 5000 × 8 × 3 / 100 = **₹1200**
-- Amount = 5000 + 1200 = **₹6200** ✅
+**🤔 What I understood:**
+- Given: Principal = ₹5000, Rate = 8% per year, Time = 3 years
+- Find: Simple Interest and the total Amount
 
----
+**💡 What I'll use:** SI = (P × R × T) / 100 and Amount = P + SI
 
-### Example 2 (Find Principal)
+**✏️ My Solution:**
 
-**Problem:** SI = ₹900, Rate = 6%, Time = 5 years. Find Principal.
+Step 1: Calculate SI
+SI = (5000 × 8 × 3) / 100 = 120000 / 100 = **₹1200**
 
-- P = (SI × 100) / (R × T) = (900 × 100) / (6 × 5) = **₹3000** ✅
+Step 2: Calculate Amount
+Amount = 5000 + 1200 = **₹6200**
 
----
-
-### Example 3 (Find Rate)
-
-**Problem:** P = ₹1500, SI = ₹225, T = 3 years. Find rate.
-
-- R = (225 × 100) / (1500 × 3) = **5%** ✅
+**✅ Answer: SI = ₹1200, Amount = ₹6200**
 
 ---
 
-### Example 4 (Find Time)
+### Example 2
 
-**Problem:** At what time will ₹3000 at 5% SI become ₹3750?
+**❓ Question:** SI = ₹900, Rate = 6%, Time = 5 years. Find Principal.
 
-- SI = 3750 − 3000 = 750
-- T = (SI × 100)/(P × R) = (750 × 100)/(3000 × 5) = **5 years** ✅
+**🤔 What I understood:**
+- Given: Simple Interest = ₹900, Rate = 6%, Time = 5 years
+- Find: The original principal amount
+
+**💡 What I'll use:** Derived formula P = (SI × 100) / (R × T)
+
+**✏️ My Solution:**
+
+Step 1: Plug values into the formula
+P = (900 × 100) / (6 × 5)
+P = 90000 / 30 = **₹3000**
+
+**✅ Answer: Principal = ₹3000**
 
 ---
 
-### Example 5 (Sum triples)
+### Example 3
 
-**Problem:** A sum triples at SI in 20 years. Find rate.
+**❓ Question:** P = ₹1500, SI = ₹225, T = 3 years. Find rate.
 
-- If sum triples, SI = 2P (amount = 3P, so SI = amount − P = 2P)
-- R = (2P × 100) / (P × 20) = **10%** ✅
+**🤔 What I understood:**
+- Given: Principal = ₹1500, Simple Interest = ₹225, Time = 3 years
+- Find: The rate of interest
+
+**💡 What I'll use:** Derived formula R = (SI × 100) / (P × T)
+
+**✏️ My Solution:**
+
+Step 1: Substitute known values
+R = (225 × 100) / (1500 × 3)
+R = 22500 / 4500 = **5%**
+
+**✅ Answer: Rate = 5%**
+
+---
+
+### Example 4
+
+**❓ Question:** At what time will ₹3000 at 5% SI become ₹3750?
+
+**🤔 What I understood:**
+- Given: Principal = ₹3000, Rate = 5%, Final Amount = ₹3750
+- Find: The time in years
+
+**💡 What I'll use:** First find SI from the amount, then use T = (SI × 100) / (P × R)
+
+**✏️ My Solution:**
+
+Step 1: Find SI from the given amount
+SI = 3750 − 3000 = ₹750
+
+Step 2: Find Time
+T = (750 × 100) / (3000 × 5) = 75000 / 15000 = **5 years**
+
+**✅ Answer: Time = 5 years**
+
+---
+
+### Example 5
+
+**❓ Question:** A sum triples at SI in 20 years. Find rate.
+
+**🤔 What I understood:**
+- Given: A principal triples (becomes 3× itself) in 20 years via SI
+- Find: The annual rate of interest
+
+**💡 What I'll use:** If amount = 3P, then SI = 2P; apply R = (SI × 100) / (P × T)
+
+**✏️ My Solution:**
+
+Step 1: Identify SI in terms of P
+Amount = 3P, so SI = Amount − P = 3P − P = 2P
+
+Step 2: Find Rate
+R = (2P × 100) / (P × 20) = 200P / 20P = **10%**
+
+**✅ Answer: Rate = 10%**
 
 ---
 

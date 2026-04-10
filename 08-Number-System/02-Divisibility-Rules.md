@@ -28,54 +28,142 @@
 
 ## ✅ Step-by-Step Examples
 
-### Example 1 (Divisibility by 3)
+### Example 1
 
-**Problem:** Is 456 divisible by 3?
+**❓ Question:** Is 456 divisible by 3?
 
-- Sum = 4+5+6 = 15. 15 ÷ 3 = 5. **Yes** ✅
+**🤔 What I understood:**
+- Given: The number 456
+- Find: Whether it's exactly divisible by 3
 
----
+**💡 What I'll use:** Divisibility rule for 3 — sum of digits must be divisible by 3
 
-### Example 2 (Divisibility by 8)
+**✏️ My Solution:**
 
-**Problem:** Is 728 divisible by 8?
+Step 1: Add the digits
+4 + 5 + 6 = 15
 
-- Last 3 digits = 728. 728 ÷ 8 = 91. **Yes** ✅
+Step 2: Check if the sum is divisible by 3
+15 ÷ 3 = 5 → divisible ✓
 
----
-
-### Example 3 (Divisibility by 11)
-
-**Problem:** Is 918082 divisible by 11?
-
-- Alternating sum: (9+8+8) − (1+0+2) = 25 − 3 = 22
-- 22 ÷ 11 = 2 → **Yes, divisible by 11** ✅
+**✅ Answer: Yes, 456 is divisible by 3**
 
 ---
 
-### Example 4 (Divisibility by 7)
+### Example 2
 
-**Problem:** Is 672 divisible by 7?
+**❓ Question:** Is 728 divisible by 8?
 
-- Double last digit: 2×2=4
-- Subtract: 67 − 4 = 63
-- 63 ÷ 7 = 9 → **Yes** ✅
+**🤔 What I understood:**
+- Given: The number 728
+- Find: Whether it's exactly divisible by 8
+
+**💡 What I'll use:** Divisibility rule for 8 — check if the last 3 digits are divisible by 8
+
+**✏️ My Solution:**
+
+Step 1: Take the last 3 digits
+Last 3 digits = 728
+
+Step 2: Divide by 8
+728 ÷ 8 = 91 → exactly divisible ✓
+
+**✅ Answer: Yes, 728 is divisible by 8**
 
 ---
 
-### Example 5 (Multiple Divisibility)
+### Example 3
 
-**Problem:** Find how many numbers between 1 and 100 are divisible by both 4 and 6.
+**❓ Question:** Is 918082 divisible by 11?
 
-- LCM(4,6) = 12. Multiples of 12 from 1-100: 12,24,36,48,60,72,84,96 → **8 numbers** ✅
+**🤔 What I understood:**
+- Given: The number 918082
+- Find: Whether it's exactly divisible by 11
+
+**💡 What I'll use:** Divisibility rule for 11 — alternating sum of digits must be divisible by 11
+
+**✏️ My Solution:**
+
+Step 1: Apply alternating sum (odd positions − even positions)
+Odd positions: 9, 8, 8 → sum = 25
+Even positions: 1, 0, 2 → sum = 3
+
+Step 2: Calculate difference
+25 − 3 = 22
+
+Step 3: Check divisibility
+22 ÷ 11 = 2 → divisible ✓
+
+**✅ Answer: Yes, 918082 is divisible by 11**
 
 ---
 
-### Example 6 (7-digit number)
+### Example 4
 
-**Problem:** Is 7548 divisible by 9?
+**❓ Question:** Is 672 divisible by 7?
 
-- Sum = 7+5+4+8 = 24. 24/9 is not integer. **No** ✅
+**🤔 What I understood:**
+- Given: The number 672
+- Find: Whether it's exactly divisible by 7
+
+**💡 What I'll use:** Divisibility rule for 7 — double the last digit, subtract from the rest, check if result is divisible by 7
+
+**✏️ My Solution:**
+
+Step 1: Double the last digit
+Last digit = 2 → double = 4
+
+Step 2: Subtract from remaining number
+67 − 4 = 63
+
+Step 3: Check if 63 is divisible by 7
+63 ÷ 7 = 9 → divisible ✓
+
+**✅ Answer: Yes, 672 is divisible by 7**
+
+---
+
+### Example 5
+
+**❓ Question:** How many numbers between 1 and 100 are divisible by both 4 and 6?
+
+**🤔 What I understood:**
+- Given: Range from 1 to 100
+- Find: Count of numbers divisible by both 4 and 6 simultaneously
+
+**💡 What I'll use:** A number divisible by both 4 and 6 must be divisible by their LCM
+
+**✏️ My Solution:**
+
+Step 1: Find LCM(4, 6)
+LCM = 12
+
+Step 2: List multiples of 12 up to 100
+12, 24, 36, 48, 60, 72, 84, 96 → **8 numbers**
+
+**✅ Answer: 8 numbers between 1 and 100 are divisible by both 4 and 6**
+
+---
+
+### Example 6
+
+**❓ Question:** Is 7548 divisible by 9?
+
+**🤔 What I understood:**
+- Given: The number 7548
+- Find: Whether it's exactly divisible by 9
+
+**💡 What I'll use:** Divisibility rule for 9 — sum of digits must be divisible by 9
+
+**✏️ My Solution:**
+
+Step 1: Add the digits
+7 + 5 + 4 + 8 = 24
+
+Step 2: Check if the sum is divisible by 9
+24 ÷ 9 = 2.67 → not divisible ✗
+
+**✅ Answer: No, 7548 is not divisible by 9**
 
 ---
 

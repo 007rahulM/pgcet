@@ -45,43 +45,105 @@
 
 ## ✅ Step-by-Step Examples
 
-### Example 1 (Check if Prime)
+### Example 1
 
-**Problem:** Is 97 a prime number?
+**❓ Question:** Is 97 a prime number?
 
-- √97 ≈ 9.8, check primes up to 9: 2, 3, 5, 7
-- 97 is odd (not ÷2), 9+7=16 (not ÷3), doesn't end in 0/5 (not ÷5), 97÷7=13.8 (not ÷7)
-- **97 is prime** ✅
+**🤔 What I understood:**
+- Given: The number 97
+- Find: Whether 97 is prime (divisible only by 1 and itself)
+
+**💡 What I'll use:** Test divisibility by all primes up to √97 ≈ 9.8 (i.e., check 2, 3, 5, 7)
+
+**✏️ My Solution:**
+
+Step 1: Check divisibility by 2
+97 is odd → not divisible by 2 ✗
+
+Step 2: Check divisibility by 3
+9 + 7 = 16 → not divisible by 3 ✗
+
+Step 3: Check divisibility by 5
+Doesn't end in 0 or 5 → not divisible by 5 ✗
+
+Step 4: Check divisibility by 7
+97 ÷ 7 ≈ 13.8 → not divisible by 7 ✗
+
+No prime up to √97 divides 97, so it is prime.
+
+**✅ Answer: Yes, 97 is a prime number**
 
 ---
 
-### Example 2 (Count of Factors)
+### Example 2
 
-**Problem:** How many factors does 36 have?
+**❓ Question:** How many factors does 36 have?
 
-- 36 = 2² × 3²
-- Number of factors = (2+1) × (2+1) = **9** ✅
-- They are: 1, 2, 3, 4, 6, 9, 12, 18, 36
+**🤔 What I understood:**
+- Given: The number 36
+- Find: Total number of factors (divisors) of 36
+
+**💡 What I'll use:** Express as prime factorization a^p × b^q, then count = (p+1)(q+1)
+
+**✏️ My Solution:**
+
+Step 1: Prime factorize 36
+36 = 2² × 3²
+
+Step 2: Apply the formula
+Number of factors = (2+1) × (2+1) = 3 × 3 = **9**
+
+Step 3: Verify by listing
+1, 2, 3, 4, 6, 9, 12, 18, 36 → 9 factors ✓
+
+**✅ Answer: 36 has 9 factors**
 
 ---
 
-### Example 3 (Consecutive Integers Sum)
+### Example 3
 
-**Problem:** Sum of all integers from 1 to 100.
+**❓ Question:** Find the sum of all integers from 1 to 100.
 
-- Sum = n(n+1)/2 = 100×101/2 = **5050** ✅
+**🤔 What I understood:**
+- Given: Consecutive integers starting from 1 to 100
+- Find: Their total sum
+
+**💡 What I'll use:** Sum of first n natural numbers = n(n+1)/2
+
+**✏️ My Solution:**
+
+Step 1: Apply the formula with n = 100
+Sum = 100 × 101 / 2 = 10100 / 2 = **5050**
+
+**✅ Answer: Sum = 5050**
 
 ---
 
-### Example 4 (Remainder)
+### Example 4
 
-**Problem:** What is the remainder when 2^10 is divided by 3?
+**❓ Question:** What is the remainder when 2¹⁰ is divided by 3?
 
-- 2^1 ÷ 3 = remainder 2
-- 2^2 ÷ 3 = 4 ÷ 3 = remainder 1
-- 2^3 ÷ 3 = 8 ÷ 3 = remainder 2
-- Pattern: 2, 1, 2, 1... (period 2)
-- 2^10: 10 is even → remainder = **1** ✅
+**🤔 What I understood:**
+- Given: Expression 2¹⁰ divided by 3
+- Find: The remainder
+
+**💡 What I'll use:** Find the remainder pattern (cyclicity) for powers of 2 mod 3
+
+**✏️ My Solution:**
+
+Step 1: Find remainders for small powers
+2¹ ÷ 3 → remainder 2
+2² ÷ 3 = 4 ÷ 3 → remainder 1
+2³ ÷ 3 = 8 ÷ 3 → remainder 2
+2⁴ ÷ 3 = 16 ÷ 3 → remainder 1
+
+Step 2: Identify pattern
+Pattern repeats: 2, 1, 2, 1, ... with period 2
+
+Step 3: Apply to 2¹⁰
+10 is even → remainder = **1**
+
+**✅ Answer: Remainder = 1**
 
 ---
 
