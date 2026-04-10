@@ -206,13 +206,4 @@ Time = Distance ÷ Speed
 
 ---
 
-## ✔️ Answers
-
-1. 120/6 = 20 m/s = 72 km/h
-2. 500m ÷ 20 m/s = 25 seconds
-3. Distance = 15 m/s × 20 = 300m. Platform = 300-150 = 150m
-4. Relative speed = 90 km/h = 25 m/s. Distance = 200m. Time = 8 sec
-5. Relative = 12 km/h = 10/3 m/s. Distance = 500m. Time = 150 sec
-6. Relative speed = 300/30 = 10 m/s. Train speed = 10 + 6×5/18 = 10 + 5/3 ≈ 11.67 m/s = 42 km/h
-7. 600m ÷ 20 m/s = 30 seconds
-8. Relative = 125 km/h × 5/18 = 625/18 m/s. Distance = 360m. Time ≈ 10.37 sec
+> 📖 **[See detailed step-by-step solutions →](./04-Trains-Answers.md)**

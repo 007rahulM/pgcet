@@ -150,13 +150,4 @@ Step 1: Same time for both segments → use simple average
 
 ---
 
-## ✔️ Answers
-
-1. 2×30×20/(30+20) = 1200/50 = **24 km/h**
-2. 2×60×40/(60+40) = 4800/100 = **48 km/h**
-3. 2×50×25/(50+25) = 2500/75 = **33.33 km/h**
-4. Total D = 180+180 = 360 km, Total T = 5 hrs → **72 km/h**
-5. D = 50×3 = 150 km each way. Return time = 150/30 = 5 hrs. Avg = 300/8 = **37.5 km/h**
-6. Total D = 100 km, Total T = 60/30 + 40/20 = 2+2 = 4 hrs → **25 km/h**
-7. Total D = 24+54 = 78 km, T = 5 hrs → **15.6 km/h**
-8. 2×3x×2x/(3x+2x) = 12x²/5x = **12x/5**
+> 📖 **[See detailed step-by-step solutions →](./02-Average-Speed-Answers.md)**

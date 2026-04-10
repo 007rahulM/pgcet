@@ -153,13 +153,4 @@ From Example 5: New time = 3 × (60/45) = 3 × 4/3 = 4 hours ✅
 
 ---
 
-## ✔️ Answers
-
-1. 20 km/h
-2. 200 km
-3. 10 m/s
-4. 90 km/h
-5. 18 km/h
-6. 90 + 80 = 170 km
-7. 75 km/h
-8. Distance: 10/60 hour difference. At 4 km/h, Time = D/4. At 5 km/h, Time = D/5. D/4 − D/5 = 10/60 → D/20 = 1/6 → **D = 20/6 ≈ 3.33 km**
+> 📖 **[See detailed step-by-step solutions →](./01-Basic-Concepts-Answers.md)**

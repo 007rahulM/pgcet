@@ -175,13 +175,4 @@ Just remember: **"D + U for Boat, D − U for Stream, divide both by 2"**
 
 ---
 
-## ✔️ Answers
-
-1. Downstream = 18 km/h, Upstream = 12 km/h
-2. D = 8, U = 4. Boat = 6 km/h, Stream = 2 km/h
-3. Upstream = 6 km/h. Time = 30/6 = 5 hours
-4. D = 8 km/h, U = 4 km/h. Stream = (8-4)/2 = 2 km/h
-5. U = x, D = 2x. 40/2x + 20/x = 8 → 20/x + 20/x = 8 → x = 5. U=5, D=10 km/h
-6. (18+10)/2 = 14 km/h
-7. Upstream = 32/8 = 4 km/h. Boat = 4+4 = 8 km/h
-8. D = 4 km/h, U = 2 km/h. Stream = (4-2)/2 = 1 km/h
+> 📖 **[See detailed step-by-step solutions →](./05-Boats-and-Streams-Answers.md)**
