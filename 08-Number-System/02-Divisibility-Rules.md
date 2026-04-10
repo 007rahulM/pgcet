@@ -191,10 +191,4 @@ Step 2: Check if the sum is divisible by 9
 
 ---
 
-## ✔️ Answers
-
-1. Last 2 digits = 48. 48÷4=12. **Yes**
-2. 6+4+3+5=18. 18÷9=2. **Yes**
-3. Sum=15 (÷3✓). Last digit=5 (÷5✓). **Yes to both**
-4. First=105, Last=994. Count=(994−105)/7+1=127+1=**128**
-5. Sum = 4+5+_+8 = 17+_. Need sum divisible by 9. 17+1=18. Blank=**1**
+> 📖 **[See detailed step-by-step solutions →](./02-Divisibility-Rules-Answers.md)**

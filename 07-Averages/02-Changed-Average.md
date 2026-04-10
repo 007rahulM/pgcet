@@ -176,9 +176,4 @@ New student's weight = 561 − 500 = **61 kg**
 
 ---
 
-## ✔️ Answers
-
-1. Old sum = 150. New sum = 150 − 50 = 100. n = 4. New avg = 100/4 = **25**
-2. Old sum = 128. New sum = 128 + 40 = 168. n = 9. New avg = 168/9 ≈ **18.67**
-3. Old sum = 1200. New sum = 59 × 20 = 1180. Removed 80, new person = 80 − (1200 − 1180) = 80 − 20 = **60 kg**
-4. Old sum = 440. New sum = 440 − 80 = 360. n = 10. New avg = 360/10 = **36**
+> 📖 **[See detailed step-by-step solutions →](./02-Changed-Average-Answers.md)**

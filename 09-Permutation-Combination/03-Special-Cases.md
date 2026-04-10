@@ -187,9 +187,4 @@ Step 2: Apply formula
 
 ---
 
-## ✔️ Answers
-
-1. 5! × 2! = 120 × 2 = **240**
-2. Treat 3 as 1 unit → 6 units. 6! × 3! = 720 × 6 = **4320**
-3. Total arrangements = 6! = 720. Vowels together = 5! × 2! = 240. Not together = 720−240 = **480**
-4. At least 2W: 2W+4M=4C2×5C4=6×5=30; 3W+3M=4C3×5C3=4×10=40; 4W+2M=4C4×5C2=1×10=10. Total=**80**
+> 📖 **[See detailed step-by-step solutions →](./03-Special-Cases-Answers.md)**

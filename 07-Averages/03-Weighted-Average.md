@@ -169,9 +169,4 @@ This gives the ratio of group sizes.
 
 ---
 
-## ✔️ Answers
-
-1. (40×50 + 60×70)/(40+60) = (2000+4200)/100 = **62**
-2. (5×30 + 10×15)/15 = (150+150)/15 = **20**
-3. Need total = 78×5 = 390. Current sum = 310. 5th subject score = 390−310 = **80**
-4. Sum of A+B = 90, C+D = 110. Combined = 200/4 = **50**
+> 📖 **[See detailed step-by-step solutions →](./03-Weighted-Average-Answers.md)**
