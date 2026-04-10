@@ -33,59 +33,87 @@ We calculate work done in Phase 1, then figure out how long Phase 2 takes.
 
 ## ✅ Step-by-Step Examples
 
-### Example 1 (Find total time)
+### Example 1
 
-**Problem:** A can finish in 12 days, B in 15 days. A starts alone. B joins after 3 days. Total time?
+**❓ Question:** A can finish in 12 days, B in 15 days. A starts alone. B joins after 3 days. What is the total time to finish?
 
-**Step 1:** LCM(12, 15) = 60 units
+**🤔 What I understood:**
+- Given: A takes 12 days alone, B takes 15 days alone; A works solo for the first 3 days, then B joins
+- Find: Total time from start to finish
 
-**Step 2:** A = 60 ÷ 12 = 5 units/day, B = 60 ÷ 15 = 4 units/day
+**💡 What I'll use:** 5-Step LCM Method — calculate A's solo work first, then find how long A+B take together for the rest
 
-**Step 3:** Work done by A alone in 3 days = 5 × 3 = 15 units
+**✏️ My Solution:**
 
-**Step 4:** Remaining = 60 − 15 = 45 units
+Step 1: Total Work = LCM(12, 15) = 60 units
 
-**Step 5:** A + B together = 5 + 4 = 9 units/day → 45 ÷ 9 = 5 days
+Step 2: Find efficiencies
+- A = 60 ÷ 12 = 5 units/day
+- B = 60 ÷ 15 = 4 units/day
 
-**Total time = 3 + 5 = 8 days** ✅
+Step 3: Work done by A alone in 3 days = 5 × 3 = 15 units
 
----
+Step 4: Remaining work = 60 − 15 = 45 units
 
-### Example 2 (Find B's time alone)
+Step 5: A + B together = 5 + 4 = 9 units/day → 45 ÷ 9 = 5 days
 
-**Problem:** A can finish in 10 days. A works alone for 2 days. Then B joins. Together they finish in 3 more days. How long would B take alone?
-
-**Step 1:** Assume total work = 60 units (any multiple of 10 works)
-
-**Step 2:** A = 60 ÷ 10 = 6 units/day
-
-**Step 3:** Work by A in 2 days = 6 × 2 = 12 units
-
-**Step 4:** Remaining = 60 − 12 = 48 units
-
-**Step 5:** A + B finish 48 units in 3 days → Combined = 48 ÷ 3 = 16 units/day
-
-**B's efficiency = 16 − 6 = 10 units/day**
-
-**B alone = 60 ÷ 10 = 6 days** ✅
+**✅ Answer: Total time = 3 + 5 = 8 days**
 
 ---
 
-### Example 3 (A starts, B joins — find when work is done)
+### Example 2
 
-**Problem:** A can do a job in 8 days, B in 12 days. A works alone for 2 days, then B joins. How long total?
+**❓ Question:** A can finish in 10 days. A works alone for 2 days. Then B joins and together they finish in 3 more days. How long would B take alone?
 
-**Step 1:** LCM(8, 12) = 24 units
+**🤔 What I understood:**
+- Given: A takes 10 days alone; A works solo for 2 days, then B joins and they finish together in 3 more days
+- Find: How many days B would take if working alone
 
-**Step 2:** A = 3 units/day, B = 2 units/day
+**💡 What I'll use:** Work backwards — find combined efficiency from remaining work, then subtract A's efficiency to get B's
 
-**Step 3:** A works 2 days = 3 × 2 = 6 units
+**✏️ My Solution:**
 
-**Step 4:** Remaining = 24 − 6 = 18 units
+Step 1: Total Work = 60 units (convenient multiple of 10)
 
-**Step 5:** Together = 3 + 2 = 5 units/day → 18 ÷ 5 = 3.6 days
+Step 2: A's efficiency = 60 ÷ 10 = 6 units/day
 
-**Total = 2 + 3.6 = 5.6 days** ✅
+Step 3: Work by A alone in 2 days = 6 × 2 = 12 units
+
+Step 4: Remaining work = 60 − 12 = 48 units
+
+Step 5: A + B together finish 48 units in 3 days → Combined = 48 ÷ 3 = 16 units/day
+
+Step 6: B's efficiency = 16 − 6 = 10 units/day → B alone = 60 ÷ 10 = 6 days
+
+**✅ Answer: B would take 6 days alone**
+
+---
+
+### Example 3
+
+**❓ Question:** A can do a job in 8 days, B in 12 days. A works alone for 2 days, then B joins. How long does it take in total?
+
+**🤔 What I understood:**
+- Given: A takes 8 days alone, B takes 12 days alone; A works by himself for 2 days, then B comes in
+- Find: Total time to finish the job
+
+**💡 What I'll use:** 5-Step LCM Method — find work A does solo, then calculate how long A+B take for the rest
+
+**✏️ My Solution:**
+
+Step 1: Total Work = LCM(8, 12) = 24 units
+
+Step 2: Find efficiencies
+- A = 24 ÷ 8 = 3 units/day
+- B = 24 ÷ 12 = 2 units/day
+
+Step 3: Work done by A alone in 2 days = 3 × 2 = 6 units
+
+Step 4: Remaining work = 24 − 6 = 18 units
+
+Step 5: A + B together = 3 + 2 = 5 units/day → 18 ÷ 5 = 3.6 days
+
+**✅ Answer: Total time = 2 + 3.6 = 5.6 days**
 
 ---
 

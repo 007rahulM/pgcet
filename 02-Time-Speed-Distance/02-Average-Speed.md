@@ -32,55 +32,90 @@ Where a and b are the two speeds.
 
 ## ✅ Step-by-Step Examples
 
-### Example 1 (Equal distances — use formula)
+### Example 1
 
-**Problem:** A person goes from A to B at 40 km/h and returns at 60 km/h. Average speed?
+**❓ Question:** A person goes from A to B at 40 km/h and returns at 60 km/h. What is the average speed for the whole journey?
 
-**Solution:**
+**🤔 What I understood:**
+- Given: Speed going = 40 km/h, speed returning = 60 km/h; same distance both ways
+- Find: Average speed for the entire trip
+
+**💡 What I'll use:** Equal-distance average speed formula: 2ab / (a + b)
+
+**✏️ My Solution:**
+
+Step 1: Apply the formula
 - Average = 2 × 40 × 60 / (40 + 60)
 - = 4800 / 100
-- = **48 km/h** ✅
+- = 48 km/h
+
+**✅ Answer: 48 km/h**
 
 ---
 
-### Example 2 (Three equal distances)
+### Example 2
 
-**Problem:** A travels 3 equal distances at 20, 30, 40 km/h. Average speed?
+**❓ Question:** A travels 3 equal distances at 20 km/h, 30 km/h, and 40 km/h respectively. What is the average speed?
 
-**Formula for 3 equal distances:**
-> Average = 3abc / (ab + bc + ca)
+**🤔 What I understood:**
+- Given: Three equal segments each covered at a different speed: 20, 30, 40 km/h
+- Find: Overall average speed
 
-- = 3 × 20 × 30 × 40 / (20×30 + 30×40 + 40×20)
-- = 72000 / (600 + 1200 + 800)
-- = 72000 / 2600
-- = **27.69 km/h** ✅
+**💡 What I'll use:** Three-equal-distance formula: 3abc / (ab + bc + ca)
+
+**✏️ My Solution:**
+
+Step 1: Apply the formula with a = 20, b = 30, c = 40
+- Numerator = 3 × 20 × 30 × 40 = 72000
+- Denominator = (20×30) + (30×40) + (40×20) = 600 + 1200 + 800 = 2600
+
+Step 2: Average = 72000 / 2600 ≈ 27.69 km/h
+
+**✅ Answer: ≈ 27.69 km/h**
 
 ---
 
-### Example 3 (Unequal distances — use Total D / Total T)
+### Example 3
 
-**Problem:** A goes 60 km at 30 km/h and 90 km at 45 km/h. Average speed for the whole journey?
+**❓ Question:** A goes 60 km at 30 km/h and 90 km at 45 km/h. What is the average speed for the whole journey?
 
-**Step 1 — Total Distance:**
-- 60 + 90 = 150 km
+**🤔 What I understood:**
+- Given: Two segments with different distances and speeds — 60 km at 30 km/h, then 90 km at 45 km/h
+- Find: Average speed for the full journey
 
-**Step 2 — Total Time:**
-- Time for 60 km = 60/30 = 2 hours
-- Time for 90 km = 90/45 = 2 hours
+**💡 What I'll use:** Total Distance ÷ Total Time (distances are unequal, so can't use the 2ab formula)
+
+**✏️ My Solution:**
+
+Step 1: Total Distance = 60 + 90 = 150 km
+
+Step 2: Total Time
+- Time for 60 km = 60 / 30 = 2 hours
+- Time for 90 km = 90 / 45 = 2 hours
 - Total = 4 hours
 
-**Step 3 — Average Speed:**
-- 150 ÷ 4 = **37.5 km/h** ✅
+Step 3: Average Speed = 150 ÷ 4 = 37.5 km/h
+
+**✅ Answer: 37.5 km/h**
 
 ---
 
-### Example 4 (Same time, different speeds)
+### Example 4
 
-**Problem:** A spends 2 hours at 30 km/h and 2 hours at 50 km/h. Average speed?
+**❓ Question:** A spends 2 hours travelling at 30 km/h and 2 hours at 50 km/h. What is the average speed?
 
-**Note:** Same time → use **simple average!**
-- Average = (30 + 50) / 2 = **40 km/h** ✅
+**🤔 What I understood:**
+- Given: Two segments with equal time (2 hours each) at 30 km/h and 50 km/h
+- Find: Average speed for the whole journey
 
+**💡 What I'll use:** When time is equal for each segment, simple average works: (a + b) / 2
+
+**✏️ My Solution:**
+
+Step 1: Same time for both segments → use simple average
+- Average = (30 + 50) / 2 = 40 km/h
+
+**✅ Answer: 40 km/h**
 *(Simple average only works when TIME is equal, not distance!)*
 
 ---

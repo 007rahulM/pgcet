@@ -34,51 +34,75 @@ Think of work as filling a bucket.
 
 ## ✅ Step-by-Step Examples
 
-### Example 1 (2 people — use formula directly)
+### Example 1
 
-**Problem:** A can do a job in 6 days. B can do it in 12 days. How long together?
+**❓ Question:** A can do a job in 6 days. B can do it in 12 days. How long will they take together?
 
-**Solution:**
-- Formula: (6 × 12) / (6 + 12) = 72 / 18 = **4 days** ✅
+**🤔 What I understood:**
+- Given: A finishes alone in 6 days, B finishes alone in 12 days
+- Find: Time when both work together
+
+**💡 What I'll use:** Together formula for 2 people: (X × Y) / (X + Y)
+
+**✏️ My Solution:**
+
+Step 1: Plug into formula directly
+- (6 × 12) / (6 + 12) = 72 / 18 = 4
+
+**✅ Answer: 4 days**
 
 ---
 
-### Example 2 (2 people — LCM method)
+### Example 2
 
-**Problem:** A can do a job in 8 days. B in 12 days. How long together?
+**❓ Question:** A can do a job in 8 days. B can do it in 12 days. How long will they take together?
 
-**Step 1 — Total Work (LCM of 8 and 12):**
-- LCM(8, 12) = 24 units
+**🤔 What I understood:**
+- Given: A takes 8 days alone, B takes 12 days alone
+- Find: Time when both work together
 
-**Step 2 — Efficiencies:**
+**💡 What I'll use:** LCM Method — assign total work as LCM, find each person's efficiency, then divide
+
+**✏️ My Solution:**
+
+Step 1: Total Work = LCM(8, 12) = 24 units
+
+Step 2: Find efficiencies
 - A = 24 ÷ 8 = 3 units/day
 - B = 24 ÷ 12 = 2 units/day
 
-**Step 3 — Combined Efficiency:**
-- A + B = 3 + 2 = 5 units/day
+Step 3: Combined efficiency = 3 + 2 = 5 units/day
 
-**Step 4 — Time:**
-- Time = 24 ÷ 5 = **4.8 days** ✅
+Step 4: Time = 24 ÷ 5 = 4.8 days
+
+**✅ Answer: 4.8 days**
 
 ---
 
-### Example 3 (3 people)
+### Example 3
 
-**Problem:** A finishes in 10 days, B in 15 days, C in 30 days. All work together. How long?
+**❓ Question:** A finishes in 10 days, B in 15 days, C in 30 days. All three work together. How long do they take?
 
-**Step 1 — Total Work:**
-- LCM(10, 15, 30) = 30 units
+**🤔 What I understood:**
+- Given: A takes 10 days, B takes 15 days, C takes 30 days — all working at the same time
+- Find: Time for all three together to finish
 
-**Step 2 — Efficiencies:**
+**💡 What I'll use:** LCM Method for 3 people — total work = LCM of all three days
+
+**✏️ My Solution:**
+
+Step 1: Total Work = LCM(10, 15, 30) = 30 units
+
+Step 2: Find each person's efficiency
 - A = 30 ÷ 10 = 3 units/day
 - B = 30 ÷ 15 = 2 units/day
 - C = 30 ÷ 30 = 1 unit/day
 
-**Step 3 — Combined:**
-- 3 + 2 + 1 = 6 units/day
+Step 3: Combined efficiency = 3 + 2 + 1 = 6 units/day
 
-**Step 4 — Time:**
-- 30 ÷ 6 = **5 days** ✅
+Step 4: Time = 30 ÷ 6 = 5 days
+
+**✅ Answer: 5 days**
 
 ---
 

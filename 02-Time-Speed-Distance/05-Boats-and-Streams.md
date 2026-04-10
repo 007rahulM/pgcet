@@ -32,61 +32,111 @@ Imagine a boat in a river:
 
 ## ✅ Step-by-Step Examples
 
-### Example 1 (Basic downstream/upstream)
+### Example 1
 
-**Problem:** A boat's speed in still water is 12 km/h. Stream speed is 4 km/h.
-- Downstream speed?
-- Upstream speed?
+**❓ Question:** A boat's speed in still water is 12 km/h. The stream speed is 4 km/h. Find the downstream and upstream speeds.
 
-**Solution:**
-- Downstream = 12 + 4 = **16 km/h**
-- Upstream = 12 − 4 = **8 km/h** ✅
+**🤔 What I understood:**
+- Given: Boat speed in still water = 12 km/h, stream speed = 4 km/h
+- Find: Speed going with the current (downstream) and against the current (upstream)
 
----
+**💡 What I'll use:** Downstream = Boat + Stream; Upstream = Boat − Stream
 
-### Example 2 (Find boat and stream speed)
+**✏️ My Solution:**
 
-**Problem:** A boat goes 30 km downstream in 2 hours and 20 km upstream in 4 hours. Find boat speed and stream speed.
+Step 1: Downstream speed = 12 + 4 = 16 km/h
 
-**Step 1:**
-- Downstream speed = 30/2 = 15 km/h
-- Upstream speed = 20/4 = 5 km/h
+Step 2: Upstream speed = 12 − 4 = 8 km/h
 
-**Step 2:**
-- Boat speed = (15 + 5) / 2 = **10 km/h**
-- Stream speed = (15 − 5) / 2 = **5 km/h** ✅
+**✅ Answer: Downstream = 16 km/h, Upstream = 8 km/h**
 
 ---
 
-### Example 3 (Time to travel same distance)
+### Example 2
 
-**Problem:** Boat speed = 10 km/h, Stream = 2 km/h. How long to travel 24 km upstream?
+**❓ Question:** A boat goes 30 km downstream in 2 hours and 20 km upstream in 4 hours. Find the boat's speed in still water and the stream speed.
 
-**Solution:**
-- Upstream speed = 10 − 2 = 8 km/h
-- Time = 24 ÷ 8 = **3 hours** ✅
+**🤔 What I understood:**
+- Given: 30 km downstream in 2 hrs, 20 km upstream in 4 hrs
+- Find: Boat speed and stream speed
+
+**💡 What I'll use:** First find downstream and upstream speeds from distance/time, then apply: Boat speed = (D + U) / 2; Stream speed = (D − U) / 2
+
+**✏️ My Solution:**
+
+Step 1: Find actual speeds
+- Downstream speed = 30 / 2 = 15 km/h
+- Upstream speed = 20 / 4 = 5 km/h
+
+Step 2: Boat speed = (15 + 5) / 2 = 10 km/h
+
+Step 3: Stream speed = (15 − 5) / 2 = 5 km/h
+
+**✅ Answer: Boat speed = 10 km/h, Stream speed = 5 km/h**
 
 ---
 
-### Example 4 (Round trip)
+### Example 3
 
-**Problem:** Boat travels 20 km downstream then returns upstream. Boat speed = 10 km/h, stream = 2 km/h. Total time?
+**❓ Question:** Boat speed = 10 km/h, stream speed = 2 km/h. How long does it take to travel 24 km upstream?
 
-**Step 1:**
-- Downstream = 10 + 2 = 12 km/h → Time = 20/12 = 5/3 hours
-- Upstream = 10 − 2 = 8 km/h → Time = 20/8 = 5/2 hours
+**🤔 What I understood:**
+- Given: Boat speed = 10 km/h, stream = 2 km/h, distance upstream = 24 km
+- Find: Time to travel upstream
 
-**Step 2:** Total = 5/3 + 5/2 = 10/6 + 15/6 = 25/6 ≈ **4.17 hours** ✅
+**💡 What I'll use:** Upstream speed = Boat − Stream; then Time = Distance ÷ Speed
+
+**✏️ My Solution:**
+
+Step 1: Upstream speed = 10 − 2 = 8 km/h
+
+Step 2: Time = 24 ÷ 8 = 3 hours
+
+**✅ Answer: 3 hours**
 
 ---
 
-### Example 5 (From KEA-style paper)
+### Example 4
 
-**Problem:** A man rows 9 km/h in still water. River flows at 3 km/h. How long to row 18 km and return?
+**❓ Question:** A boat travels 20 km downstream then returns 20 km upstream. Boat speed = 10 km/h, stream speed = 2 km/h. What is the total time?
 
-- Downstream = 12 km/h → 18/12 = 1.5 hrs
-- Upstream = 6 km/h → 18/6 = 3 hrs
-- Total = **4.5 hours** ✅
+**🤔 What I understood:**
+- Given: 20 km each way; boat speed = 10 km/h, stream = 2 km/h
+- Find: Total time for the round trip
+
+**💡 What I'll use:** Downstream and upstream speeds separately; add both times
+
+**✏️ My Solution:**
+
+Step 1: Downstream speed = 10 + 2 = 12 km/h → Time = 20 / 12 = 5/3 hours
+
+Step 2: Upstream speed = 10 − 2 = 8 km/h → Time = 20 / 8 = 5/2 hours
+
+Step 3: Total = 5/3 + 5/2 = 10/6 + 15/6 = 25/6 ≈ 4.17 hours
+
+**✅ Answer: 25/6 ≈ 4.17 hours**
+
+---
+
+### Example 5
+
+**❓ Question:** A man rows at 9 km/h in still water. The river flows at 3 km/h. How long does it take him to row 18 km and return?
+
+**🤔 What I understood:**
+- Given: Rowing speed = 9 km/h, river current = 3 km/h; distance one way = 18 km
+- Find: Total time for the 18 km trip and back
+
+**💡 What I'll use:** Downstream = 9 + 3; Upstream = 9 − 3; calculate time for each leg and add
+
+**✏️ My Solution:**
+
+Step 1: Downstream speed = 9 + 3 = 12 km/h → Time = 18 / 12 = 1.5 hours
+
+Step 2: Upstream speed = 9 − 3 = 6 km/h → Time = 18 / 6 = 3 hours
+
+Step 3: Total = 1.5 + 3 = 4.5 hours
+
+**✅ Answer: 4.5 hours**
 
 ---
 
