@@ -182,9 +182,4 @@ Milk : Water = 9 : 7 = **9:7**
 
 ---
 
-## ✔️ Answers
-
-1. 8000×6 : 6000×8 = 48000:48000 = **1:1**
-2. Ratio = 3:4:5. B = 4/12 × 3600 = **₹1200**
-3. Milk = 80% of 20 = 16L. Need 16L milk = 50% of new. New = 32L. Add 32−20 = **12 litres water**
-4. A: 12000×12=144000. B: 16000×8=128000. Ratio=9:8. B = 8/17 × 11000 = **₹5176.47 ≈ ₹5177**
+> 📖 **[See detailed step-by-step solutions →](./03-Partnership-and-Mixtures-Answers.md)**

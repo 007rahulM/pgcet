@@ -163,10 +163,4 @@ So 15 litres of 40% solution and (30 − 15) = 15 litres of 60% solution.
 
 ---
 
-## ✔️ Answers
-
-1. 4×14 = 8x → x = **7**
-2. √(9 × 16) = √144 = **12**
-3. 2:5 = 6:x → 2x = 30 → x = **15**
-4. Direct proportion: 120/8 × 15 = **₹225**
-5. Direct proportion: 3/180 × 300 = **5 hours**
+> 📖 **[See detailed step-by-step solutions →](./02-Proportion-Concepts-Answers.md)**

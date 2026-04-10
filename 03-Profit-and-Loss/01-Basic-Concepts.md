@@ -188,16 +188,4 @@ Shortcut check: Loss % = 20² / 100 = 400 / 100 = 4% ✓
 
 ---
 
-## ✔️ Answers
-
-1. Profit = 125. P% = 125/500 × 100 = **25%**
-2. 800 × 1.15 = **₹920**
-3. 990 × 100/110 = **₹900**
-4. 630 × 100/90 = **₹700**
-5. P = 30, L = 30. **Net = 0 (no profit no loss)**
-6. Let CP per 1000g = ₹100. He sells at 5% loss → SP for 1000g = ₹95.
-   But he gives only 800g. So he collects ₹95 for 800g.
-   CP of 800g = ₹80.
-   Profit = 95 − 80 = ₹15. Profit% = 15/80 × 100 = **18.75%**
-7. CP of 20 = SP of 25 → 25 items' SP = 20 items' CP. SP per item = 20/25 CP = 0.8 CP → **20% Loss**
-8. Let CP = x. 12% profit SP = 1.12x. 18% profit SP = 1.18x. 1.18x − 1.12x = 18 → 0.06x = 18 → x = **₹300**
+> 📖 **[See detailed step-by-step solutions →](./01-Basic-Concepts-Answers.md)**
