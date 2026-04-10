@@ -35,61 +35,149 @@
 
 ## ✅ Step-by-Step Examples
 
-### Example 1 (Find HCF — Prime Factorization)
+### Example 1
 
-**Problem:** HCF of 48 and 72.
+**❓ Question:** Find HCF of 48 and 72 using prime factorization.
 
-- 48 = 2⁴ × 3
-- 72 = 2³ × 3²
-- HCF = 2³ × 3 = **24** ✅
+**🤔 What I understood:**
+- Given: Two numbers — 48 and 72
+- Find: Their Highest Common Factor
 
----
+**💡 What I'll use:** Prime Factorization — HCF = product of common factors with lowest powers
 
-### Example 2 (Find HCF — Division Method)
+**✏️ My Solution:**
 
-**Problem:** HCF of 48 and 72.
+Step 1: Prime factorize each number
+48 = 2⁴ × 3
+72 = 2³ × 3²
 
-- 72 = 1×48 + 24
-- 48 = 2×24 + 0
-- HCF = **24** ✅
+Step 2: Pick common factors with lowest power
+Common: 2³ and 3¹
+HCF = 2³ × 3 = 8 × 3 = **24**
 
----
-
-### Example 3 (Find LCM)
-
-**Problem:** LCM of 12, 18, 24.
-
-- 12 = 2² × 3
-- 18 = 2 × 3²
-- 24 = 2³ × 3
-- LCM = 2³ × 3² = 8 × 9 = **72** ✅
+**✅ Answer: HCF(48, 72) = 24**
 
 ---
 
-### Example 4 (Use LCM × HCF = Product)
+### Example 2
 
-**Problem:** LCM of two numbers = 180, HCF = 12. One number = 36. Find other.
+**❓ Question:** Find HCF of 48 and 72 using the division method.
 
-- Product = LCM × HCF = 180 × 12 = 2160
-- Other = 2160 ÷ 36 = **60** ✅
+**🤔 What I understood:**
+- Given: Two numbers — 48 and 72
+- Find: HCF using the Euclidean division algorithm
+
+**💡 What I'll use:** Euclidean Algorithm — divide larger by smaller, replace with remainder, repeat until remainder = 0
+
+**✏️ My Solution:**
+
+Step 1: Divide 72 by 48
+72 = 1 × 48 + 24 → remainder = 24
+
+Step 2: Divide 48 by 24
+48 = 2 × 24 + 0 → remainder = 0
+
+Step 3: Last non-zero divisor is HCF
+HCF = **24**
+
+**✅ Answer: HCF(48, 72) = 24**
 
 ---
 
-### Example 5 (Largest number to divide all — HCF problem)
+### Example 3
 
-**Problem:** Find the largest number that divides 50, 75, 100 leaving remainder 5 each time.
+**❓ Question:** Find LCM of 12, 18, and 24.
 
-- Subtract remainder: 45, 70, 95
-- HCF(45, 70, 95) = **5** ✅
+**🤔 What I understood:**
+- Given: Three numbers — 12, 18, 24
+- Find: Their Least Common Multiple
+
+**💡 What I'll use:** Prime Factorization — LCM = product of all factors with highest powers
+
+**✏️ My Solution:**
+
+Step 1: Prime factorize each number
+12 = 2² × 3
+18 = 2 × 3²
+24 = 2³ × 3
+
+Step 2: Take highest power of each prime
+2³ and 3²
+
+Step 3: Multiply
+LCM = 2³ × 3² = 8 × 9 = **72**
+
+**✅ Answer: LCM(12, 18, 24) = 72**
 
 ---
 
-### Example 6 (Bells Ringing)
+### Example 4
 
-**Problem:** Three bells ring at intervals of 6, 8, 12 minutes. They ring together at 9 AM. When next together?
+**❓ Question:** LCM of two numbers = 180, HCF = 12. One number = 36. Find the other number.
 
-- LCM(6, 8, 12) = 24 minutes
-- Next together: **9:24 AM** ✅
+**🤔 What I understood:**
+- Given: LCM = 180, HCF = 12, one number = 36
+- Find: The second number
+
+**💡 What I'll use:** Product of two numbers = LCM × HCF
+
+**✏️ My Solution:**
+
+Step 1: Find the product of both numbers
+Product = LCM × HCF = 180 × 12 = 2160
+
+Step 2: Divide by the known number
+Other number = 2160 ÷ 36 = **60**
+
+**✅ Answer: The other number = 60**
+
+---
+
+### Example 5
+
+**❓ Question:** Find the largest number that divides 50, 75, and 100 leaving remainder 5 each time.
+
+**🤔 What I understood:**
+- Given: Numbers 50, 75, 100 — each leaves remainder 5 when divided by the answer
+- Find: The largest such divisor
+
+**💡 What I'll use:** Subtract the remainder from each, then find HCF of results
+
+**✏️ My Solution:**
+
+Step 1: Subtract remainder 5 from each
+50 − 5 = 45,  75 − 5 = 70,  100 − 5 = 95
+
+Step 2: Find HCF(45, 70, 95)
+45 = 3² × 5
+70 = 2 × 5 × 7
+95 = 5 × 19
+HCF = **5**
+
+**✅ Answer: Largest number = 5**
+
+---
+
+### Example 6
+
+**❓ Question:** Three bells ring at intervals of 6, 8, and 12 minutes. They ring together at 9 AM. When will they next ring together?
+
+**🤔 What I understood:**
+- Given: Bell intervals are 6, 8, and 12 minutes; they all ring together at 9:00 AM
+- Find: The next time they ring together
+
+**💡 What I'll use:** LCM of the intervals gives time until they next coincide
+
+**✏️ My Solution:**
+
+Step 1: Find LCM(6, 8, 12)
+6 = 2 × 3,  8 = 2³,  12 = 2² × 3
+LCM = 2³ × 3 = 24 minutes
+
+Step 2: Add to 9 AM
+Next together = 9:00 AM + 24 minutes = **9:24 AM**
+
+**✅ Answer: Next ring together at 9:24 AM**
 
 ---
 

@@ -19,50 +19,124 @@ Where w = weight (count/quantity), x = value
 
 ## ✅ Step-by-Step Examples
 
-### Example 1 (Two Groups Combined)
+### Example 1
 
-**Problem:** Group A (20 students, avg 45), Group B (30 students, avg 55). Combined average?
+**❓ Question:** Group A has 20 students with average marks 45. Group B has 30 students with average marks 55. What is the combined average?
 
-- Weighted avg = (20×45 + 30×55) / 50
-- = (900 + 1650)/50 = 2550/50 = **51** ✅
+**🤔 What I understood:**
+- Given: Group A — 20 students, avg 45; Group B — 30 students, avg 55
+- Find: Combined average of all 50 students
 
----
+**💡 What I'll use:** Weighted Average = (w₁x₁ + w₂x₂) / (w₁ + w₂)
 
-### Example 2 (Average Salary)
+**✏️ My Solution:**
 
-**Problem:** Average salary of 10 workers = ₹5000. Manager's salary = ₹15000. Average salary of all?
+Step 1: Find total marks for each group
+Group A total = 20 × 45 = 900
+Group B total = 30 × 55 = 1650
 
-- 10 workers sum = 50000
-- Total = 50000 + 15000 = 65000
-- n = 11
-- Avg = 65000/11 ≈ **₹5909** ✅
+Step 2: Combine and divide by total count
+Combined average = (900 + 1650) / (20 + 30) = 2550 / 50 = **51**
 
----
-
-### Example 3 (Finding a Value from Two Averages)
-
-**Problem:** Average of A, B = 30. Average of B, C = 25. Average of A, C = 35. Find A, B, C.
-
-- A+B=60, B+C=50, A+C=70
-- Adding: 2(A+B+C) = 180 → A+B+C = 90
-- A = 90−50 = **40**, B = 90−70 = **20**, C = 90−60 = **30** ✅
+**✅ Answer: Combined average = 51**
 
 ---
 
-### Example 4 (Mixture and Average)
+### Example 2
 
-**Problem:** A container has 30 litres of liquid with average concentration 40%. Another container has 20 litres at 60%. Combined concentration?
+**❓ Question:** Average salary of 10 workers = ₹5000. Manager's salary = ₹15000. What is the average salary of all 11?
 
-- Weighted avg = (30×40 + 20×60) / (30+20)
-- = (1200 + 1200)/50 = 2400/50 = **48%** ✅
+**🤔 What I understood:**
+- Given: 10 workers with average salary ₹5000; one manager earning ₹15000
+- Find: Average salary including the manager
+
+**💡 What I'll use:** Total sum / Total count
+
+**✏️ My Solution:**
+
+Step 1: Find total salary of workers
+Workers' sum = 10 × 5000 = ₹50000
+
+Step 2: Add manager's salary
+Total = 50000 + 15000 = ₹65000
+
+Step 3: Divide by 11
+Average = 65000 / 11 ≈ **₹5909**
+
+**✅ Answer: Average salary ≈ ₹5909**
 
 ---
 
-### Example 5 (Three Exam Averages)
+### Example 3
 
-**Problem:** Average of math = 70, science = 80, English = 65. Equal weightage. Combined average?
+**❓ Question:** Average of A and B = 30. Average of B and C = 25. Average of A and C = 35. Find A, B, and C individually.
 
-- = (70 + 80 + 65) / 3 = 215/3 ≈ **71.67** ✅
+**🤔 What I understood:**
+- Given: Three pair-averages that relate A, B, and C
+- Find: Individual values of A, B, and C
+
+**💡 What I'll use:** Convert averages to sums, then use simultaneous equations
+
+**✏️ My Solution:**
+
+Step 1: Write as sum equations
+A + B = 60,  B + C = 50,  A + C = 70
+
+Step 2: Add all three equations
+2(A + B + C) = 60 + 50 + 70 = 180
+A + B + C = 90
+
+Step 3: Find each individually
+A = 90 − (B + C) = 90 − 50 = **40**
+B = 90 − (A + C) = 90 − 70 = **20**
+C = 90 − (A + B) = 90 − 60 = **30**
+
+**✅ Answer: A = 40, B = 20, C = 30**
+
+---
+
+### Example 4
+
+**❓ Question:** A container has 30 litres of liquid at 40% concentration. Another has 20 litres at 60% concentration. What is the combined concentration?
+
+**🤔 What I understood:**
+- Given: 30 litres at 40% and 20 litres at 60%
+- Find: Combined concentration percentage
+
+**💡 What I'll use:** Weighted Average = (w₁x₁ + w₂x₂) / (w₁ + w₂)
+
+**✏️ My Solution:**
+
+Step 1: Calculate weighted contributions
+30 × 40 = 1200
+20 × 60 = 1200
+
+Step 2: Divide by total volume
+Combined concentration = (1200 + 1200) / (30 + 20) = 2400 / 50 = **48%**
+
+**✅ Answer: Combined concentration = 48%**
+
+---
+
+### Example 5
+
+**❓ Question:** Average marks: Math = 70, Science = 80, English = 65. All subjects carry equal weightage. What is the combined average?
+
+**🤔 What I understood:**
+- Given: Three subjects with equal weight — scores of 70, 80, 65
+- Find: The combined average
+
+**💡 What I'll use:** Simple average since all weights are equal — (sum of values) / (number of subjects)
+
+**✏️ My Solution:**
+
+Step 1: Add the scores
+70 + 80 + 65 = 215
+
+Step 2: Divide by number of subjects
+Average = 215 / 3 ≈ **71.67**
+
+**✅ Answer: Combined average ≈ 71.67**
 
 ---
 

@@ -20,57 +20,138 @@ Choosing a team, selecting items, handshakes, diagonals.
 
 ## ✅ Step-by-Step Examples
 
-### Example 1 (Basic Combination)
+### Example 1
 
-**Problem:** In how many ways can a team of 3 be chosen from 7 people?
+**❓ Question:** In how many ways can a team of 3 be chosen from 7 people?
 
-- 7C3 = 7!/(3! × 4!) = (7×6×5)/(3×2×1) = 210/6 = **35** ✅
+**🤔 What I understood:**
+- Given: 7 people, choosing 3 (team membership — order doesn't matter)
+- Find: Total number of ways to form the team
 
----
+**💡 What I'll use:** nCr = n! / [r! × (n−r)!]
 
-### Example 2 (Handshakes)
+**✏️ My Solution:**
 
-**Problem:** 10 people in a room. Each shakes hands with every other once. Total handshakes?
+Step 1: Apply combination formula with n=7, r=3
+7C3 = 7! / (3! × 4!) = (7 × 6 × 5) / (3 × 2 × 1) = 210 / 6 = **35**
 
-- nC2 = 10C2 = 10×9/2 = **45** ✅
-
----
-
-### Example 3 (Diagonals in Polygon)
-
-**Problem:** How many diagonals in a hexagon (6 sides)?
-
-- Diagonals = nC2 − n = 6C2 − 6 = 15 − 6 = **9** ✅
+**✅ Answer: 35 ways**
 
 ---
 
-### Example 4 (With Restrictions — At Least)
+### Example 2
 
-**Problem:** A committee of 4 from 6 men and 4 women must have at least 2 women. Ways?
+**❓ Question:** 10 people are in a room. Each person shakes hands with every other person exactly once. How many total handshakes?
 
-- Case 1: Exactly 2 women: 4C2 × 6C2 = 6 × 15 = 90
-- Case 2: Exactly 3 women: 4C3 × 6C1 = 4 × 6 = 24
-- Case 3: Exactly 4 women: 4C4 × 6C0 = 1 × 1 = 1
-- Total = 90 + 24 + 1 = **115** ✅
+**🤔 What I understood:**
+- Given: 10 people; each pair shakes hands once (order doesn't matter — A shaking B's hand = B shaking A's hand)
+- Find: Total handshakes
 
----
+**💡 What I'll use:** Handshakes between n people = nC2 = n(n−1)/2
 
-### Example 5 (Committee with Specific Roles)
+**✏️ My Solution:**
 
-**Problem:** From 5 boys and 6 girls, choose a committee of 5 with at least 3 girls.
+Step 1: Choose 2 people from 10 (each unique pair = one handshake)
+10C2 = 10 × 9 / 2 = **45**
 
-- Exactly 3 girls: 6C3 × 5C2 = 20×10 = 200
-- Exactly 4 girls: 6C4 × 5C1 = 15×5 = 75
-- Exactly 5 girls: 6C5 × 5C0 = 6×1 = 6
-- Total = **281** ✅
+**✅ Answer: 45 handshakes**
 
 ---
 
-### Example 6 (Straight Lines and Triangles)
+### Example 3
 
-**Problem:** How many triangles can be formed from 8 points (no 3 collinear)?
+**❓ Question:** How many diagonals does a hexagon (6 sides) have?
 
-- Choose any 3 points: 8C3 = 8×7×6/6 = **56** ✅
+**🤔 What I understood:**
+- Given: A hexagon with 6 vertices
+- Find: Number of diagonals (connections between non-adjacent vertices)
+
+**💡 What I'll use:** Diagonals = nC2 − n (total connections minus the n sides)
+
+**✏️ My Solution:**
+
+Step 1: Find total line segments between 6 points
+6C2 = 6 × 5 / 2 = 15
+
+Step 2: Subtract the 6 sides of the hexagon
+Diagonals = 15 − 6 = **9**
+
+**✅ Answer: 9 diagonals**
+
+---
+
+### Example 4
+
+**❓ Question:** A committee of 4 from 6 men and 4 women must have at least 2 women. How many ways?
+
+**🤔 What I understood:**
+- Given: Pool of 6 men and 4 women; need committee of 4 with at least 2 women
+- Find: Total valid combinations
+
+**💡 What I'll use:** Break into cases: exactly 2, 3, or 4 women; sum the cases
+
+**✏️ My Solution:**
+
+Step 1: Exactly 2 women
+4C2 × 6C2 = 6 × 15 = 90
+
+Step 2: Exactly 3 women
+4C3 × 6C1 = 4 × 6 = 24
+
+Step 3: Exactly 4 women
+4C4 × 6C0 = 1 × 1 = 1
+
+Step 4: Add all cases
+Total = 90 + 24 + 1 = **115**
+
+**✅ Answer: 115 ways**
+
+---
+
+### Example 5
+
+**❓ Question:** From 5 boys and 6 girls, choose a committee of 5 with at least 3 girls.
+
+**🤔 What I understood:**
+- Given: 5 boys and 6 girls; committee of 5 must have at least 3 girls
+- Find: Total number of valid committee selections
+
+**💡 What I'll use:** Break into cases: exactly 3, 4, or 5 girls; sum the counts
+
+**✏️ My Solution:**
+
+Step 1: Exactly 3 girls
+6C3 × 5C2 = 20 × 10 = 200
+
+Step 2: Exactly 4 girls
+6C4 × 5C1 = 15 × 5 = 75
+
+Step 3: Exactly 5 girls
+6C5 × 5C0 = 6 × 1 = 6
+
+Step 4: Total
+200 + 75 + 6 = **281**
+
+**✅ Answer: 281 ways**
+
+---
+
+### Example 6
+
+**❓ Question:** How many triangles can be formed from 8 points where no 3 points are collinear?
+
+**🤔 What I understood:**
+- Given: 8 points, no 3 are on the same line (so any 3 points form a triangle)
+- Find: Total number of triangles possible
+
+**💡 What I'll use:** Any 3 non-collinear points form a unique triangle → use nC3
+
+**✏️ My Solution:**
+
+Step 1: Choose any 3 points from 8
+8C3 = 8 × 7 × 6 / (3 × 2 × 1) = 336 / 6 = **56**
+
+**✅ Answer: 56 triangles**
 
 ---
 
