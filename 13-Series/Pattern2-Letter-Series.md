@@ -322,13 +322,4 @@ Step 3: Apply and convert back
 
 ## ✔️ Answers
 
-1. Skip 1 forward: **J**
-2. Skip 1 backward: T, (S), R → **R**
-3. First letter: A,B,C,D→E. Second letter: Z,Y,X,W→V. **EV**
-4. Letters skip 1 (+2): G,→I. Numbers +2: 8→10. **I10**
-5. Each group shifts +1: B→C→D→E; D→E→F→G; F→G→H→I: **EGI**
-6. Alternating: A(forward), Z(backward), B(forward), Y(backward)... next = **D** (going forward after C)
-7. Letters +1: D. Squares: E=5→25. **E25**
-8. C(3)+2=E, E+2=G, G+2=I, I+2=**K**
-9. Consecutive letter pairs: AB, CD, EF, GH → **IJ**
-10. Z(26)−3=W(23)−3=T(20)−3=Q(17)−3=**N(14)**
+> 📖 **[See detailed step-by-step solutions →](./Pattern2-Letter-Series-Answers.md)**

@@ -205,9 +205,4 @@ NE + 90° counterclockwise = North
 
 ## ✔️ Answers
 
-1. A is at (0, 5) relative to B. C is at (5, 0) relative to B. A relative to C: A=(0,5), C=(5,0). A from C: direction = (0−5, 5−0) = (−5, +5) = **Northwest** ✅
-2. Start (0,0). 4m North: (0,4). Turn left (now facing West), 3m: (−3,4). Distance = √(9+16) = √25 = **5m, Northwest direction** ✅
-3. West → 90° clockwise = North → 180° counterclockwise from North = **South** ✅
-4. Y at (0,0). X at (8,0). Z at (8,6). Distance YZ = √(8²+6²) = √100 = **10 km** ✅
-5. Start (0,0). 4km East: (4,0). 3km North: (4,3). Distance = √(16+9) = √25 = **5 km** ✅
-6. Northwest + 90° clockwise = **Northeast** ✅
+> 📖 **[See detailed step-by-step solutions →](./Pattern2-Advanced-Directions-Answers.md)**

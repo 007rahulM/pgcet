@@ -213,11 +213,4 @@ Facing East + turn left (counterclockwise 90°) = North
 
 ## ✔️ Answers
 
-1. √(3²+4²) = √25 = **5 km**
-2. Net: 6N → then East 4 → then 6S (cancels N). Ends 4 km East of home. Distance = **4 km**
-3. South → right (West) → walk. Right again from West = North → walk. Turn left from North = **West**
-4. 7W + 7E cancel. 3N remains. Distance = **3 km North** from start
-5. √(8²+6²) = √100 = **10 km**
-6. √(5²+12²) = √169 = **13 km**
-7. N → right(E) → right(S) → left 270° from S = S→W→N→E → **East**
-8. 10N+10E+10S+10W → all cancel. **Back at start (0 distance)**
+> 📖 **[See detailed step-by-step solutions →](./Pattern1-Basic-Directions-Answers.md)**

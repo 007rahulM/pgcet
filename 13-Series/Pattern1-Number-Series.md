@@ -323,13 +323,4 @@ Find the missing term or identify the wrong term:
 
 ## ✔️ Answers
 
-1. +5 each: **23**
-2. ×3 each: **162**
-3. Each = sum of previous two: **21**
-4. Perfect squares: 6² = **36**
-5. 57×4+4 = **232**
-6. Differences: 3, 6, 12 → ×2 each. Next diff = 24. **46**
-7. ×2 each: 40×2 = **80**
-8. Next prime after 13: **17**
-9. 1!, 2!, 3!, 4!, 5! → 6! = **720**
-10. Pattern: 2ⁿ−1. Expected 31, not 27. **27 is wrong (should be 31)**
+> 📖 **[See detailed step-by-step solutions →](./Pattern1-Number-Series-Answers.md)**
