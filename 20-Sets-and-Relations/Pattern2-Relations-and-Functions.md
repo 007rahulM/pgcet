@@ -144,13 +144,5 @@ A **function** f: A → B assigns **exactly one** element of B to each element o
 
 ---
 
-## ✔️ Answers
 
-1. **|A × B| = 2 × 3 = 6**
-2. **Symmetric**
-3. **No** — "6 is divisible by 2" but "2 is divisible by 6" is false → not symmetric
-4. **Yes** — reflexive (same age as yourself), symmetric (if A same age as B, then B same age as A), transitive ✓
-5. **Reflexive** ✓ (all pairs (a,a) present). **Symmetric** ✓ (only self-pairs, (a,a) → symmetric trivially). **Transitive** ✓ (trivially, no chain to violate). This is the **identity relation — an equivalence relation**.
-6. **No** — f(1) = f(4) = a, but 1 ≠ 4 → not one-to-one ✗
-7. **No** — d is not mapped to → not onto ✗
-8. Each of 2 elements in A can map to any of 3 elements in B → 3 × 3 = **9 functions**
+> 📖 **[See detailed step-by-step solutions →](./Pattern2-Relations-and-Functions-Answers.md)**

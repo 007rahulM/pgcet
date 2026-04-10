@@ -166,15 +166,5 @@ Both columns identical → **Yes, p → q ≡ ¬p ∨ q** ✅
 
 ---
 
-## ✔️ Answers
 
-1. **Tautology** (always TRUE — "p or not p" is always true)
-2. **Contradiction** (always FALSE — "p and not p" is always false)
-3. **¬p ∨ ¬q** (De Morgan's 1st: flip AND to OR, negate each)
-4. **¬A ∧ ¬B** (De Morgan's 2nd: flip OR to AND, negate each)
-5. **"If I do not pass, then I did not study"** (¬q → ¬p)
-6. **q → p** (swap p and q)
-7. **No** — p → q and q → p are NOT equivalent. Converse is NOT logically equivalent to original.
-8. **(a) ¬q → ¬p** is equivalent (contrapositive = logically equivalent to original)
-9. **p** (double negation)
-10. **Yes** — (p ∧ q) → p is always true. If p and q are both true, then p is definitely true.
+> 📖 **[See detailed step-by-step solutions →](./Pattern2-Equivalences-and-Contrapositive-Answers.md)**

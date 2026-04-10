@@ -207,20 +207,5 @@
 
 ---
 
-## ✔️ Answers
 
-1. Error: "is" should be "are" — "Neither he nor his friends" → when "nor" joins singular and plural, verb agrees with the NEAREST noun (friends = plural) → **"are coming"** ✅
-
-2. **(B)** — "doesn't" already has the third person singular; base form "know" follows auxiliary verb.
-
-3. Error: "I" should be "me" — after preposition "between", use object pronoun → "Between you and **me**" ✅
-
-4. **(B)** — "news" is uncountable noun, takes singular verb "is"
-
-5. **since** (2019 = specific year = point in time)
-
-6. **30 minutes of moderate exercise daily** ✅
-
-7. **Diabetes and heart disease** (also obesity) ✅
-
-8. **Busy schedules** ✅
+> 📖 **[See detailed step-by-step solutions →](./Pattern3-Reading-Comprehension-and-Errors-Answers.md)**

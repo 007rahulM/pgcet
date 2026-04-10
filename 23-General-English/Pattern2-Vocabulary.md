@@ -167,15 +167,5 @@
 
 ---
 
-## ✔️ Answers
 
-1. **(B) Articulate** — eloquent = articulate, fluent
-2. **(C) Extravagant** — frugal = thrifty; antonym = extravagant, wasteful
-3. **(C) Somnambulist** — somnus=sleep, ambulo=walk
-4. **(C) Tombstone** — epitaph = inscription on a grave/tombstone
-5. **(C) Hinder** — impede = hinder, obstruct; synonyms
-6. **(B) Concise** — verbose = wordy; antonym = concise, brief
-7. **(B) Coins** — numismatist = coin collector
-8. **(B) Determined** — tenacious = persistent, determined
-9. **(C) Autocracy** — auto = self, cracy = rule; rule by one person
-10. **(A) Pyrophobia** — pyro = fire, phobia = fear
+> 📖 **[See detailed step-by-step solutions →](./Pattern2-Vocabulary-Answers.md)**

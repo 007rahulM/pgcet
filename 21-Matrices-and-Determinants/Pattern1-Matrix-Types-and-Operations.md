@@ -193,27 +193,5 @@ Check if A = Aᵀ:
 
 ---
 
-## ✔️ Answers
 
-1. **┌6 8┐** (add element by element)
-   └10 12┘
-
-2. **┌6  3┐** (multiply each element by 3)
-   └0  12┘
-
-3. **┌3 4┐** (identity × A = A)
-   └5 6┘
-
-4. **┌1 4┐**
-   │2 5│
-   └3 6┘
-
-5. **Yes!** 2×3 times 3×4 → result is **2×4** (inner dimensions 3=3 match)
-
-6. **No!** 3×4 times 2×3 → inner dimensions 4≠2 → **cannot multiply**
-
-7. **Yes!** It is the 3×3 identity matrix.
-
-8. (1,1): 1×3+2×1=5. (1,2): 1×0+2×2=4. (2,1): 0×3+1×1=1. (2,2): 0×0+1×2=2.
-   **Result = ┌5 4┐**
-              └1 2┘
+> 📖 **[See detailed step-by-step solutions →](./Pattern1-Matrix-Types-and-Operations-Answers.md)**

@@ -197,22 +197,5 @@ A⁻¹ = (1/−2) × ┌4 −2┐ = ┌−2    1  ┐
 
 ---
 
-## ✔️ Answers
 
-1. **|A| = 4×1 − 3×2 = 4 − 6 = −2**
-
-2. **|A| = 2×5 − 0×0 = 10** (or: product of diagonal = 2×5 = 10)
-
-3. **|A| = 1×4 − 2×3 = −2**
-   A⁻¹ = (1/−2) × ┌4 −2┐ = ┌−2    1  ┐
-                   └−3  1┘   └ 3/2 −1/2┘
-
-4. Singular when |A| = 0: k×6 − 2×3 = 0 → 6k = 6 → **k = 1**
-
-5. **|I₃| = 1** (product of diagonal 1×1×1 = 1)
-
-6. **|AB| = |A| × |B| = 5 × 3 = 15**
-
-7. **|A| = 1×2 − 2×1 = 0** (rows are identical → singular)
-
-8. **|2A| = 2² × |A| = 4 × 4 = 16** (for n×n: |kA| = kⁿ × |A|, here n=2)
+> 📖 **[See detailed step-by-step solutions →](./Pattern2-Determinants-and-Inverse-Answers.md)**

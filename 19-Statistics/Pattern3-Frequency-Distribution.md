@@ -180,18 +180,5 @@ Cumulative: 4, 10, 18... 13th value is in the 30 class.
 
 ---
 
-## ✔️ Answers
 
-1. Total = 3+7+12+8+5 = **35**
-
-2. Σ(fx) = 3×5+7×10+12×15+8×20+5×25 = 15+70+180+160+125 = 550. Mean = 550/35 ≈ **15.71**
-
-3. **Mode = 15** (highest frequency = 12)
-
-4. n=35, median position = 18th value. Cumulative: 3, 10, 22... 18th is in class with score 15. **Median = 15**
-
-5. Cumulative up to 15 = 3+7+12 = **22**
-
-6. Midpoints: 10, 30, 50, 70, 90. Σf=40. Σ(fx) = 6×10+10×30+14×50+8×70+2×90 = 60+300+700+560+180 = 1800. Mean = 1800/40 = **45**
-
-7. n=40, n/2=20. Cumulative: 6, 16, 30... First cf ≥ 20 is 30, which is class **40-60** (median class) ✅
+> 📖 **[See detailed step-by-step solutions →](./Pattern3-Frequency-Distribution-Answers.md)**
