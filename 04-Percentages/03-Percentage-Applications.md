@@ -181,10 +181,4 @@ B is less than A by = (30 / (100 + 30)) × 100 = 30 / 130 × 100 ≈ **23.08%**
 
 ---
 
-## ✔️ Answers
-
-1. B less than A = (25/125) × 100 = **20%**
-2. A gets 40%, B gets 60%. Difference = 20%. 20% of total = 1200. Total = **6000 votes**
-3. 30% = 21 students. Total = 21/0.3 = **70 students**
-4. Savings = 25%. 25% = 5000. Salary = **₹20,000**
-5. 1.2/0.8 = 1.5 → **50% increase**
+> 📖 **[See detailed step-by-step solutions →](./03-Percentage-Applications-Answers.md)**

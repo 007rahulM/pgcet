@@ -160,10 +160,4 @@ Step 1: Use A's salary as the base this time
 
 ---
 
-## ✔️ Answers
-
-1. 40/100 × 250 = **100**
-2. (90/360) × 100 = **25%**
-3. (75/150) × 100 = **50%**
-4. 48/0.6 = **80**
-5. (600−500)/500 × 100 = **20%**
+> 📖 **[See detailed step-by-step solutions →](./01-Basic-Calculations-Answers.md)**

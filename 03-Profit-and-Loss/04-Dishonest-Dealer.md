@@ -161,13 +161,4 @@ Profit% = (True − False) / False × 100
 
 ---
 
-## ✔️ Answers
-
-1. (200/800)×100 = **25%**
-2. He gets 1000g at 950g cost. Effective gain from weight = 50/950 = 5.26%. Also sells at 10% profit on CP. Total Profit% = (1 + 10/100) × (1000/950) − 1 = 1.1 × 1.0526 − 1 = 1.158 − 1 = **15.8%**
-3. For 100 litres sold (80L milk + 20L water), costs of pure milk = 80 units. SP = 100 units. Profit = **25%**
-4. He sells 5% loss on CP, but gives only 800g. SP for 800g = 0.95 × CP of 1000g. Actual CP of 800g = 0.8 × CP of 1000g. Profit% = (0.95−0.8)/0.8 × 100 = **18.75%**
-5. (250/750)×100 = **33.33%**
-6. He weighs with heavy side for goods → gives less. If one pan is 10g more heavy (goods side), he gives 10g less per kg → (10/990) × 100 ≈ **1.01%**
-7. Buys 10 for 100, sells 9 for 100 → 10 items cost 100, 10 items sell for 100×10/9 = 111.1. Profit% = **11.1%**
-8. Profit% = 11.11% → (1000−x)/x = 1/9 → 9000−9x = x → x = 900g. Uses **900g**
+> 📖 **[See detailed step-by-step solutions →](./04-Dishonest-Dealer-Answers.md)**

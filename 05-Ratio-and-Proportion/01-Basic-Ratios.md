@@ -149,10 +149,4 @@ A = 3 × 5 = **15 years**, B = 5 × 5 = **25 years**
 
 ---
 
-## ✔️ Answers
-
-1. A = 4/9 × 900 = **₹400**, B = 5/9 × 900 = **₹500**
-2. B=4 in first, 5 in second. Multiply: A:B=15:20, B:C=20:24 → **15:20:24**
-3. A = 5/8 × 56 = **35**, B = 3/8 × 56 = **21**
-4. B = 5/10 × 5000 = **₹2500**
-5. A:B=2:3, B:C=6:7. B=3 and 6 → multiply first by 2: A:B=4:6. A:C = **4:7**
+> 📖 **[See detailed step-by-step solutions →](./01-Basic-Ratios-Answers.md)**
