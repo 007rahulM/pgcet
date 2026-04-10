@@ -23,86 +23,106 @@ Two conclusions form a complementary pair when:
 
 ## ✅ Step-by-Step Examples
 
-### Example 1 (Either-Or)
+### Example 1
 
-**Statements:**
-1. Some papers are books.
-2. No book is a pen.
+**❓ Question:** Statements: Some papers are books. No book is a pen. Conclusions: I. Some papers are pens. II. No paper is a pen.
 
-**Conclusions:**
-- I. Some papers are pens.
-- II. No paper is a pen.
+**🤔 What I understood:**
+- Given: Some papers are books; No book is a pen
+- Find: Which conclusion(s) follow — check for either-or case
 
-**Solution:**
-- From statements: some papers are books, and no book is a pen
-- The papers that are books are definitely NOT pens
-- But papers that are NOT books → we don't know
-- So we can't say "Some papers are pens" OR "No paper is a pen" with certainty
-- But one of them MUST be true (either some papers are pens, or none are)
-- I and II are complementary: "Some...are" vs "No...are"
+**💡 What I'll use:** Check each conclusion individually, then check if they form a complementary (either-or) pair
 
-**Either I or II follows.** ✅
+**✏️ My Solution:**
 
----
+Step 1: Check Conclusion I
+Papers that are books are definitely not pens; papers that are not books — unknown. Cannot say "Some papers are pens" with certainty ✗
 
-### Example 2 (Three statements)
+Step 2: Check Conclusion II
+Similarly, cannot say "No paper is a pen" with certainty ✗
 
-**Statements:**
-1. All A are B.
-2. All B are C.
-3. Some C are D.
+Step 3: Check for complementary pair
+Conclusion I says "Some papers ARE pens" and Conclusion II says "No paper IS a pen" — these are opposite assertions about the same subject. Together they cover all cases, so one must be true.
 
-**Conclusions:**
-- I. All A are C.
-- II. Some D are B.
-- III. Some C are A.
-
-**Solution:**
-- Rule 1: All A are B + All B are C → **All A are C** ✅ (I follows)
-- From statement 3: Some C are D → reverse: Some D are C. But we can't say "Some D are B" ✗ (II doesn't follow)
-- All A are C → reverse: Some C are A ✅ (III follows)
-
-**I and III follow.** ✅
+**✅ Answer: Either I or II follows.**
 
 ---
 
-### Example 3 (Typical exam format — 4 conclusions)
+### Example 2
 
-**Statements:**
-1. All cats are dogs.
-2. Some dogs are rats.
-3. No rat is a cow.
+**❓ Question:** Statements: All A are B. All B are C. Some C are D. Conclusions: I. All A are C. II. Some D are B. III. Some C are A.
 
-**Conclusions:**
-- I. Some cats are rats.
-- II. No dog is a cow.
-- III. Some dogs are not cows.
-- IV. Some cats are cows.
+**🤔 What I understood:**
+- Given: All A are B; All B are C; Some C are D (three statements)
+- Find: Which conclusions follow?
 
-**Solution:**
-- I: All cats → dogs. Some dogs → rats. But "All+Some" → No definite conclusion about cats and rats ✗
-- II: Some dogs are rats + No rat is a cow → Some dogs are not cows ✓ (Rule 4). But "No dog is a cow" is too strong ✗
-- III: Some dogs are rats + No rat is a cow → Some dogs are not cows ✅ (Rule 4)
-- IV: Can't conclude ✗
+**💡 What I'll use:** Apply syllogism rules (All+All=All) across pairs, then check valid conversions
 
-**Only III follows.** ✅
+**✏️ My Solution:**
+
+Step 1: Apply Rule 1 to Statements 1 and 2 (All + All = All)
+All A are B + All B are C → All A are C ✅ → Conclusion I follows
+
+Step 2: Check Conclusion II
+From Statement 3: Some C are D → reverse gives Some D are C. But we cannot conclude "Some D are B" ✗ → Conclusion II does not follow
+
+Step 3: Check Conclusion III using valid conversion
+All A are C → valid conversion: Some C are A ✅ → Conclusion III follows
+
+**✅ Answer: I and III follow.**
 
 ---
 
-### Example 4 (Identify complementary pair)
+### Example 3
 
-**Statements:**
-No table is a chair. Some chairs are desks.
+**❓ Question:** Statements: All cats are dogs. Some dogs are rats. No rat is a cow. Conclusions: I. Some cats are rats. II. No dog is a cow. III. Some dogs are not cows. IV. Some cats are cows.
 
-**Conclusions:**
-- I. No desk is a table.
-- II. Some desks are not tables.
+**🤔 What I understood:**
+- Given: All cats are dogs; Some dogs are rats; No rat is a cow (three statements, four conclusions)
+- Find: Which conclusions follow?
 
-**Solution:**
-- Some chairs are desks + No table is chair → Apply: reverse "No table is a chair" = "No chair is a table". Some chairs are desks + No chair is a table → Some desks are not tables ✓ (Rule 4: Some + No = Some Not)
-- "No desk is a table" — this is too strong. We only know SOME desks are not tables. ✗
+**💡 What I'll use:** Apply syllogism rules (All+Some, Some+No=Some Not) pair by pair
 
-**Only II follows.** ✅
+**✏️ My Solution:**
+
+Step 1: Check Conclusion I
+All cats are dogs + Some dogs are rats → All + Some = no definite conclusion ✗ → Conclusion I does not follow
+
+Step 2: Check Conclusion II
+Some dogs are rats + No rat is a cow → Some dogs are not cows (Rule 4). "No dog is a cow" is too strong ✗ → Conclusion II does not follow
+
+Step 3: Check Conclusion III
+Some dogs are rats + No rat is a cow → Rule 4 (Some + No = Some Not) → Some dogs are not cows ✅ → Conclusion III follows
+
+Step 4: Check Conclusion IV
+No basis to connect cats and cows ✗ → Conclusion IV does not follow
+
+**✅ Answer: Only III follows.**
+
+---
+
+### Example 4
+
+**❓ Question:** Statements: No table is a chair. Some chairs are desks. Conclusions: I. No desk is a table. II. Some desks are not tables.
+
+**🤔 What I understood:**
+- Given: No table is a chair; Some chairs are desks
+- Find: Which conclusions follow?
+
+**💡 What I'll use:** Apply syllogism rules (Some+No=Some Not) after converting the first statement
+
+**✏️ My Solution:**
+
+Step 1: Convert Statement 1
+"No table is a chair" → valid conversion: "No chair is a table"
+
+Step 2: Apply Rule 4 (Some + No = Some Not)
+Some chairs are desks + No chair is a table → Some desks are not tables ✅ → Conclusion II follows
+
+Step 3: Check Conclusion I
+"No desk is a table" is too strong — we only know SOME desks are not tables ✗ → Conclusion I does not follow
+
+**✅ Answer: Only II follows.**
 
 ---
 

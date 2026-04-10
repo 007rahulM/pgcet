@@ -58,64 +58,126 @@ When you end up at a position that forms a right angle triangle with the start:
 
 ## ✅ Step-by-Step Examples
 
-### Example 1 (Simple Pythagoras)
+### Example 1
 
-**Problem:** A walks 5 km North, then 3 km East. Shortest distance from start?
+**❓ Question:** A walks 5 km North, then 3 km East. What is the shortest distance from the starting point?
 
-```
-      End
-       |  \
-    5km|    \ ?
-       |     \
-     Start──3km
-```
+**🤔 What I understood:**
+- Given: Walk 5 km North, then 3 km East
+- Find: Shortest (straight-line) distance from start
 
-Distance = √(5² + 3²) = √(25+9) = √34 ≈ **5.83 km** ✅
+**💡 What I'll use:** Pythagorean theorem: Distance = √(vertical² + horizontal²)
 
----
+**✏️ My Solution:**
 
-### Example 2 (Multiple turns — coordinate method)
+Step 1: Draw the path
+The two movements form a right-angle triangle with legs of 5 km (vertical/North) and 3 km (horizontal/East)
 
-**Problem:** Starting facing North: Walk 10m, turn right, walk 5m, turn right, walk 10m. Where are you relative to start?
+Step 2: Apply the Pythagorean theorem
+Distance = √(5² + 3²) = √(25 + 9) = √34 ≈ 5.83 km
 
-**Step by step:**
-- Start at (0, 0), facing North
-- Walk 10m North → (0, 10)
-- Turn right (now facing East), walk 5m → (5, 10)
-- Turn right (now facing South), walk 10m → (5, 0)
-
-**Relative to start (0,0):** You are **5m to the East** ✅
+**✅ Answer: √34 ≈ 5.83 km**
 
 ---
 
-### Example 3 (Direction from starting point)
+### Example 2
 
-**Problem:** A starts facing East, turns left, walks 3 km, turns left again, walks 2 km. In which direction is A from starting point?
+**❓ Question:** Starting facing North: walk 10 m, turn right, walk 5 m, turn right, walk 10 m. Where are you relative to the start?
 
-- Start: facing East
-- Turn left (facing North), walk 3 km → 3 km North of start
-- Turn left again (facing West), walk 2 km → 2 km West, still 3 km North
+**🤔 What I understood:**
+- Given: Start facing North, sequence of walks and right turns
+- Find: Final position relative to start
 
-**A is to the Northwest (NW) of starting point** ✅
+**💡 What I'll use:** Draw a compass diagram and track each step using coordinates (+X = East, +Y = North)
+
+**✏️ My Solution:**
+
+Step 1: Start at (0, 0) facing North
+
+Step 2: Walk 10 m North → position (0, 10)
+
+Step 3: Turn right (now facing East), walk 5 m → position (5, 10)
+
+Step 4: Turn right (now facing South), walk 10 m → position (5, 0)
+
+Step 5: Compare final position (5, 0) to start (0, 0)
+→ 5 m to the East, same level as start
+
+**✅ Answer: 5 m to the East**
 
 ---
 
-### Example 4 (Cancelling movements)
+### Example 3
 
-**Problem:** A person walks 4 km South, then 3 km East, then 4 km North. Distance from start?
+**❓ Question:** A starts facing East, turns left, walks 3 km, turns left again, walks 2 km. In which direction is A from the starting point?
 
-- 4 km South + 4 km North = cancel out
-- Net displacement: **3 km East** ✅
+**🤔 What I understood:**
+- Given: Start facing East, two left turns with walks in between
+- Find: The direction of A's final position relative to the starting point
+
+**💡 What I'll use:** Draw a compass diagram and track each step
+
+**✏️ My Solution:**
+
+Step 1: Start at (0, 0) facing East
+
+Step 2: Turn left (now facing North), walk 3 km → position (0, 3)
+
+Step 3: Turn left again (now facing West), walk 2 km → position (−2, 3)
+
+Step 4: Determine direction from start
+Final position is 2 km West and 3 km North of start → A is in the Northwest direction
+
+**✅ Answer: Northwest (NW)**
 
 ---
 
-### Example 5 (Shadow direction)
+### Example 4
 
-**Problem:** At sunrise (sun in East), a man faces East. After turning left, which direction does he face?
+**❓ Question:** A person walks 4 km South, then 3 km East, then 4 km North. How far is the person from the starting point?
 
-- Facing East + turn left = **North** ✅
+**🤔 What I understood:**
+- Given: Walk 4 km South, then 3 km East, then 4 km North
+- Find: Total displacement from start
 
-*(Tip: At sunrise, shadows fall West. At sunset, shadows fall East.)*
+**💡 What I'll use:** Track coordinates and cancel opposing movements
+
+**✏️ My Solution:**
+
+Step 1: Track each movement as coordinates
+- 4 km South: (0, −4)
+- 3 km East: (3, −4)
+- 4 km North: (3, 0)
+
+Step 2: Check cancellations
+4 km South and 4 km North cancel out completely (net Y = 0)
+
+Step 3: Final displacement
+Only the 3 km East movement remains → the person is 3 km East of start
+
+**✅ Answer: 3 km East**
+
+---
+
+### Example 5
+
+**❓ Question:** At sunrise, a man faces East and then turns left. In which direction is he now facing?
+
+**🤔 What I understood:**
+- Given: Man faces East (sunrise direction), then turns left
+- Find: The direction he faces after turning left
+
+**💡 What I'll use:** Use the turn direction table (facing East + turn left = North)
+
+**✏️ My Solution:**
+
+Step 1: Identify starting direction
+Man faces East
+
+Step 2: Apply the left turn rule
+Facing East + turn left (counterclockwise 90°) = North
+
+**✅ Answer: North**
 
 ---
 
