@@ -21,99 +21,150 @@ K↔P  L↔O  M↔N
 
 ## ✅ Step-by-Step Examples
 
-### Example 1 (Opposite Letters)
+### Example 1
 
-**Problem:** TIGER is coded as GRTVI. How is LION coded?
+**❓ Question:** TIGER is coded as GRTVI. How is LION coded?
 
-**Check the pattern:**
-- T(20) ↔ G(7): 20+7=27 ✅
-- I(9) ↔ R(18): 9+18=27 ✅
-- G(7) ↔ T(20): 7+20=27 ✅
+**🤔 What I understood:**
+- Given: TIGER is coded as GRTVI
+- Find: The code for LION
 
+**💡 What I'll use:** Use the A+Z=27 opposite letter rule — check if position sum = 27
+
+**✏️ My Solution:**
+
+Step 1: Verify the pattern
+- T(20) + G(7) = 27 ✅
+- I(9) + R(18) = 27 ✅
+- G(7) + T(20) = 27 ✅
 Pattern confirmed: **opposite letter substitution**
 
-**Encode LION:**
-- L(12) ↔ O(15)
-- I(9) ↔ R(18)
-- O(15) ↔ L(12)
-- N(14) ↔ M(13)
+Step 2: Encode LION using opposite letters
+- L(12) ↔ O(15): 12+15=27 ✅
+- I(9) ↔ R(18): 9+18=27 ✅
+- O(15) ↔ L(12): 15+12=27 ✅
+- N(14) ↔ M(13): 14+13=27 ✅
 
-**LION = ORLM** ✅
+**✅ Answer: ORLM**
 
 ---
 
 ### Example 2
 
-**Problem:** If A=Z, B=Y, C=X... (opposite letter code). What is the code for HELP?
+**❓ Question:** In a code where A=Z, B=Y, C=X... (opposite letters), what is the code for HELP?
 
-- H(8) ↔ S(19)
-- E(5) ↔ V(22)
-- L(12) ↔ O(15)
-- P(16) ↔ K(11)
+**🤔 What I understood:**
+- Given: The coding rule is opposite letters (A↔Z, B↔Y, etc.)
+- Find: The code for HELP
 
-**HELP = SVOK** ✅
+**💡 What I'll use:** Use the A+Z=27 opposite letter rule
 
----
+**✏️ My Solution:**
 
-### Example 3 (Reverse Coding)
+Step 1: Find the opposite of each letter in HELP
+- H(8) ↔ S(19): 8+19=27 ✅
+- E(5) ↔ V(22): 5+22=27 ✅
+- L(12) ↔ O(15): 12+15=27 ✅
+- P(16) ↔ K(11): 16+11=27 ✅
 
-**Problem:** DESK is coded as KSED. How is BANK coded?
-
-- DESK reversed = KSED ✅
-- Pattern: **reverse the letters**
-
-- BANK reversed = **KNAB** ✅
+**✅ Answer: SVOK**
 
 ---
 
-### Example 4 (Reverse coding — verify)
+### Example 3
 
-**Problem:** If CAT = TAC and BIRD = DRIB, how is FISH coded?
+**❓ Question:** DESK is coded as KSED. How is BANK coded?
 
+**🤔 What I understood:**
+- Given: DESK is coded as KSED
+- Find: The code for BANK
+
+**💡 What I'll use:** Check if the first letter of the code = last letter of the word (reverse coding)
+
+**✏️ My Solution:**
+
+Step 1: Verify the pattern
+- DESK → KSED: K is the last letter of DESK, D is the first — it's the word reversed ✅
+
+Step 2: Reverse BANK
+- B-A-N-K reversed = K-N-A-B
+
+**✅ Answer: KNAB**
+
+---
+
+### Example 4
+
+**❓ Question:** If CAT = TAC and BIRD = DRIB, how is FISH coded?
+
+**🤔 What I understood:**
+- Given: CAT = TAC and BIRD = DRIB
+- Find: The code for FISH
+
+**💡 What I'll use:** Check if the first letter of the code = last letter of the word (reverse coding)
+
+**✏️ My Solution:**
+
+Step 1: Verify the pattern
 - CAT reversed = TAC ✅
 - BIRD reversed = DRIB ✅
+Pattern confirmed: **reverse the letters**
 
-- FISH reversed = **HSIF** ✅
+Step 2: Reverse FISH
+- F-I-S-H reversed = H-S-I-F
 
----
-
-### Example 5 (Coded word — opposite + reverse)
-
-**Problem:** WLLOW is a coded word using opposite letters. What is the original?
-
-**Decode using opposite:**
-- W(23) ↔ D(4)
-- L(12) ↔ O(15)
-- L(12) ↔ O(15)
-- O(15) ↔ L(12)
-- W(23) ↔ D(4)
-
-**Original = DOOLD**
-
-*(Note: If the result doesn't make sense, the code might use reverse + opposite or some other combination)*
+**✅ Answer: HSIF**
 
 ---
 
-### Example 6 (Mixed: Opposite of reversed word)
+### Example 5
 
-**Problem:** CODE is coded as VWWX. Find the pattern.
+**❓ Question:** WLLOW is a coded word using opposite letters. What is the original word?
 
-**Check reverse first:**
-- CODE reversed = EDOC
-- E(5) ↔ V(22): sum=27 ✅
-- D(4) ↔ W(23): sum=27 ✅
-- O(15) ↔ L(12): sum=27... but code shows W, not L ✗
+**🤔 What I understood:**
+- Given: The coded word is WLLOW, coded using opposite letters
+- Find: The original word
 
-**Try direct opposite:**
-- C(3) ↔ X(24)... but code shows V ✗
+**💡 What I'll use:** Use the A+Z=27 opposite letter rule to decode each letter
 
-**Try shift:**
-- C(3) → V(22): −7? Let me check: D(4) → W(23)=−7, O(15)−7=H(8)≠W ✗
-- Actually: C→V(22): that's the opposite of... no. C+V=3+22=25≠27.
-- Let me just check: C(3)→V(22)=+19? D(4)→W(23)=+19? O(15)→X(24)? 15+19=34→34−26=8=H≠W ✗
-- Hmm, the example above may not be perfectly consistent. In exams, always verify with 2-3 letters.
+**✏️ My Solution:**
 
-**Key lesson:** Always verify your pattern with at least 2–3 letters before applying!
+Step 1: Find the opposite of each letter in WLLOW
+- W(23) ↔ D(4): 23+4=27 ✅
+- L(12) ↔ O(15): 12+15=27 ✅
+- L(12) ↔ O(15): 12+15=27 ✅
+- O(15) ↔ L(12): 15+12=27 ✅
+- W(23) ↔ D(4): 23+4=27 ✅
+
+**✅ Answer: DOOLD**
+
+---
+
+### Example 6
+
+**❓ Question:** CODE is coded as VWWX. Identify the pattern used.
+
+**🤔 What I understood:**
+- Given: CODE is coded as VWWX
+- Find: What coding pattern was used (by checking systematically)
+
+**💡 What I'll use:** Verify with 2–3 letters — check opposite rule first, then shift, then reverse+opposite
+
+**✏️ My Solution:**
+
+Step 1: Check opposite letter rule (sum = 27?)
+- C(3) + V(22) = 25 ≠ 27 ✗ — not opposite letters
+
+Step 2: Check reverse coding
+- CODE reversed = EDOC. E(5)+V(22)=27 ✅, D(4)+W(23)=27 ✅ — looks like opposite of reverse!
+- But O(15) opposite = L(12), yet code shows W(23) ✗ — reverse + opposite doesn't hold consistently
+
+Step 3: Check shift
+- C(3) → V(22): difference = +19. D(4)+19=23=W ✅, O(15)+19=34−26=8=H ≠ W ✗ — shift doesn't hold either
+
+**Key lesson:** Always verify your pattern with at least 2–3 letters before applying it. If it breaks down, the example may mix patterns or contain an inconsistency. In exams, check all options before concluding.
+
+**✅ Answer: Always verify the pattern with 2–3 letters before applying it**
 
 ---
 
