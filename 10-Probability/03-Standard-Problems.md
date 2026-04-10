@@ -27,27 +27,51 @@
 
 ## ✅ Solved Problem Patterns
 
-### Pattern 1 — Bag with multiple colors
+### Example 1
 
-**Problem:** Bag: 4 red, 5 blue, 3 green. Draw 1. P(red or blue)?
+**❓ Question:** Bag: 4 red, 5 blue, 3 green. Draw 1. P(red or blue)?
 
-- Favorable = 4+5 = 9
-- Total = 12
-- P = 9/12 = **3/4** ✅
+**🤔 What I understood:**
+- Given: A bag with 4 red, 5 blue, and 3 green balls (12 total)
+- Find: Probability of drawing a red or blue ball
+
+**💡 What I'll use:** P(Event) = Favorable outcomes / Total outcomes
+
+**✏️ My Solution:**
+
+Step 1: Favorable outcomes = red + blue = 4 + 5 = 9
+
+Step 2: Total outcomes = 4 + 5 + 3 = 12
+
+Step 3: P(red or blue) = 9/12 = 3/4
+
+**✅ Answer: 3/4**
 
 ---
 
-### Pattern 2 — Without replacement (two draws)
+### Example 2
 
-**Problem:** Box: 3 defective, 7 good items. Two drawn without replacement. P(both defective)?
+**❓ Question:** Box: 3 defective, 7 good items. Two drawn without replacement. P(both defective)?
 
-- P(1st defective) = 3/10
-- P(2nd defective | 1st) = 2/9
-- P = 3/10 × 2/9 = 6/90 = **1/15** ✅
+**🤔 What I understood:**
+- Given: A box with 3 defective and 7 good items (10 total); 2 drawn one after another without replacement
+- Find: Probability that both drawn items are defective
+
+**💡 What I'll use:** Multiplication rule for dependent events — P(A and B) = P(A) × P(B|A)
+
+**✏️ My Solution:**
+
+Step 1: P(1st defective) = 3/10
+
+Step 2: After removing one defective, 2 defective remain out of 9 → P(2nd defective | 1st) = 2/9
+
+Step 3: P(both defective) = 3/10 × 2/9 = 6/90 = 1/15
+
+**✅ Answer: 1/15**
 
 ---
 
-### Pattern 3 — Dice sum problems
+### 🎲 Dice Sum Reference Table
 
 **Two dice sum frequency table:**
 
@@ -67,7 +91,7 @@
 
 ---
 
-### Pattern 4 — Multiple coins
+### 🪙 Multiple Coins Reference Table
 
 **n coins tossed, P(exactly r heads) = nCr / 2ⁿ**
 
@@ -80,12 +104,25 @@
 
 ---
 
-### Pattern 5 — Conditional Probability
+### Example 3
 
-**Problem:** A class has 20 boys and 30 girls. 10 boys and 15 girls wear glasses. A student is chosen at random from glasses-wearers. P(it's a boy)?
+**❓ Question:** A class has 20 boys and 30 girls. 10 boys and 15 girls wear glasses. A student is chosen at random from glasses-wearers. P(it's a boy)?
 
-- Total with glasses = 10+15 = 25
-- P(boy | glasses) = 10/25 = **2/5** ✅
+**🤔 What I understood:**
+- Given: 20 boys and 30 girls in a class; 10 boys and 15 girls wear glasses
+- Find: Given the student wears glasses, the probability that they are a boy
+
+**💡 What I'll use:** Conditional Probability — restrict the sample space to glasses-wearers only
+
+**✏️ My Solution:**
+
+Step 1: Restrict to glasses-wearers only → 10 boys + 15 girls = 25 total
+
+Step 2: Favorable outcomes (boys with glasses) = 10
+
+Step 3: P(boy | glasses) = 10/25 = 2/5
+
+**✅ Answer: 2/5**
 
 ---
 
