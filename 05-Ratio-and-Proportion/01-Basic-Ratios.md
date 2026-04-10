@@ -24,44 +24,106 @@ If a:b and b:c are given, find a:b:c → make **b common**
 
 ## ✅ Step-by-Step Examples
 
-### Example 1 (Dividing in Ratio)
+### Example 1
 
-**Problem:** Divide ₹600 in ratio 3:2.
+**❓ Question:** Divide ₹600 in the ratio 3:2.
 
-- Total parts = 5
-- First part = 3/5 × 600 = **₹360**
-- Second part = 2/5 × 600 = **₹240** ✅
+**🤔 What I understood:**
+- Given: Total amount = ₹600, ratio = 3:2
+- Find: How much each person gets
 
----
+**💡 What I'll use:** Share = (Part / Total parts) × Whole
 
-### Example 2 (Combined Ratio)
+**✏️ My Solution:**
 
-**Problem:** A:B = 2:3, B:C = 4:5. Find A:B:C.
+Step 1: Find total parts
+Total parts = 3 + 2 = 5
 
-- Make B common: B is 3 in first, 4 in second
-- Multiply first ratio by 4, second by 3:
-  - A:B = 8:12, B:C = 12:15
-- A:B:C = **8:12:15** ✅
+Step 2: Calculate each share
+First share = (3/5) × 600 = **₹360**
+Second share = (2/5) × 600 = **₹240**
 
----
-
-### Example 3 (Three-part Ratio)
-
-**Problem:** A, B, C invest ₹2000, ₹3000, ₹4000. Profit is ₹1800. What does B get?
-
-- Ratio = 2:3:4
-- B's share = 3/9 × 1800 = **₹600** ✅
+**✅ Answer: ₹360 and ₹240**
 
 ---
 
-### Example 4 (Ages in Ratio)
+### Example 2
 
-**Problem:** Ratio of ages of A and B is 3:5. After 5 years it becomes 2:3. Find current ages.
+**❓ Question:** A:B = 2:3 and B:C = 4:5. Find A:B:C.
 
-- Now: A = 3x, B = 5x
-- After 5 years: (3x+5)/(5x+5) = 2/3
-- 9x+15 = 10x+10 → x = 5
-- A = **15 years**, B = **25 years** ✅
+**🤔 What I understood:**
+- Given: Two separate ratios linking A to B and B to C
+- Find: A combined three-way ratio A:B:C
+
+**💡 What I'll use:** Make B's value the same in both ratios, then combine
+
+**✏️ My Solution:**
+
+Step 1: B is 3 in the first ratio and 4 in the second — find LCM
+LCM of 3 and 4 = 12
+
+Step 2: Scale up both ratios
+A:B = 2:3 → multiply by 4 → 8:12
+B:C = 4:5 → multiply by 3 → 12:15
+
+Step 3: Combine
+A:B:C = **8:12:15**
+
+**✅ Answer: 8:12:15**
+
+---
+
+### Example 3
+
+**❓ Question:** A, B, and C invest ₹2000, ₹3000, and ₹4000 respectively. Total profit is ₹1800. How much does B get?
+
+**🤔 What I understood:**
+- Given: Investments are ₹2000, ₹3000, ₹4000; total profit = ₹1800
+- Find: B's share of the profit
+
+**💡 What I'll use:** Profit is shared in the ratio of investments
+
+**✏️ My Solution:**
+
+Step 1: Write the ratio of investments
+Ratio = 2000 : 3000 : 4000 = 2:3:4
+
+Step 2: Total parts = 2 + 3 + 4 = 9
+
+Step 3: B's share
+B's share = (3/9) × 1800 = **₹600**
+
+**✅ Answer: ₹600**
+
+---
+
+### Example 4
+
+**❓ Question:** The ratio of ages of A and B is 3:5. After 5 years the ratio becomes 2:3. Find their current ages.
+
+**🤔 What I understood:**
+- Given: Present age ratio = 3:5, ratio after 5 years = 2:3
+- Find: Current ages of A and B
+
+**💡 What I'll use:** Let ages = 3x and 5x, set up equation using future ratio, solve for x
+
+**✏️ My Solution:**
+
+Step 1: Express current ages using ratio
+A = 3x, B = 5x
+
+Step 2: Write the equation for ages after 5 years
+(3x + 5) / (5x + 5) = 2/3
+
+Step 3: Cross-multiply and solve
+3(3x + 5) = 2(5x + 5)
+9x + 15 = 10x + 10
+x = 5
+
+Step 4: Find actual ages
+A = 3 × 5 = **15 years**, B = 5 × 5 = **25 years**
+
+**✅ Answer: A is 15 years old, B is 25 years old**
 
 ---
 

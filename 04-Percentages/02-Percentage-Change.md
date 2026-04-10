@@ -22,56 +22,124 @@
 
 ## ✅ Step-by-Step Examples
 
-### Example 1 (% Increase)
+### Example 1
 
-**Problem:** A salary of ₹8000 is increased by 15%. New salary?
+**❓ Question:** A salary of ₹8000 is increased by 15%. What is the new salary?
 
-- = 8000 × 115/100 = **₹9200** ✅
+**🤔 What I understood:**
+- Given: Original salary = ₹8000, increase = 15%
+- Find: New salary after the increase
 
----
+**💡 What I'll use:** New value = Original × (100 + increase%) / 100
 
-### Example 2 (% Decrease)
+**✏️ My Solution:**
 
-**Problem:** Price of ₹500 is reduced by 20%. New price?
+Step 1: Apply the increase multiplier
+New salary = 8000 × 115 / 100 = **₹9200**
 
-- = 500 × 80/100 = **₹400** ✅
-
----
-
-### Example 3 (Successive Change)
-
-**Problem:** Price increased by 20% then decreased by 10%. Net change?
-
-- Net = 20 + (−10) + (20×(−10))/100
-- = 20 − 10 − 2 = **+8% (net increase)** ✅
-
-**Using multiplier:** 100 × 1.20 × 0.90 = 108 → **8% increase** ✅
+**✅ Answer: ₹9200**
 
 ---
 
-### Example 4 (Population Growth)
+### Example 2
 
-**Problem:** Population = 50,000. Increases 10% in year 1, 20% in year 2. Final population?
+**❓ Question:** The price of ₹500 is reduced by 20%. What is the new price?
 
-- After Y1: 50000 × 1.1 = 55000
-- After Y2: 55000 × 1.2 = **66,000** ✅
+**🤔 What I understood:**
+- Given: Original price = ₹500, decrease = 20%
+- Find: New price after reduction
+
+**💡 What I'll use:** New value = Original × (100 − decrease%) / 100
+
+**✏️ My Solution:**
+
+Step 1: Apply the decrease multiplier
+New price = 500 × 80 / 100 = **₹400**
+
+**✅ Answer: ₹400**
 
 ---
 
-### Example 5 (Finding Original Value)
+### Example 3
 
-**Problem:** After a 20% increase, value is 84. What was the original?
+**❓ Question:** A price is first increased by 20%, then decreased by 10%. What is the net % change?
 
-- 84 = Original × 120/100
-- Original = 84 × 100/120 = **70** ✅
+**🤔 What I understood:**
+- Given: First change = +20%, second change = −10%
+- Find: Overall net percentage change
+
+**💡 What I'll use:** Net % = a + b + (a × b) / 100, using − for decrease
+
+**✏️ My Solution:**
+
+Step 1: Apply the successive change formula
+Net = 20 + (−10) + (20 × (−10)) / 100 = 20 − 10 − 2 = **+8%**
+
+Step 2: Verify with multipliers
+100 × 1.20 × 0.90 = 108 → 8% increase ✓
+
+**✅ Answer: 8% net increase**
 
 ---
 
-### Example 6 (Two Successive Increases)
+### Example 4
 
-**Problem:** A number is increased by 25%, then by 20%. Net increase %?
+**❓ Question:** A population of 50,000 increases by 10% in year 1 and by 20% in year 2. What is the final population?
 
-- Net = 25 + 20 + (25×20)/100 = 45 + 5 = **50%** ✅
+**🤔 What I understood:**
+- Given: Initial population = 50,000, year 1 increase = 10%, year 2 increase = 20%
+- Find: Population after 2 years
+
+**💡 What I'll use:** Multiply by the factor for each year's change sequentially
+
+**✏️ My Solution:**
+
+Step 1: Population after year 1
+50000 × 1.1 = 55,000
+
+Step 2: Population after year 2
+55000 × 1.2 = **66,000**
+
+**✅ Answer: 66,000**
+
+---
+
+### Example 5
+
+**❓ Question:** After a 20% increase, the value becomes 84. What was the original value?
+
+**🤔 What I understood:**
+- Given: Final value = 84, it was reached after a 20% increase
+- Find: Original value before the increase
+
+**💡 What I'll use:** Original = New value ÷ (1 + rate/100)
+
+**✏️ My Solution:**
+
+Step 1: Work backwards using the multiplier
+84 = Original × 120 / 100
+Original = 84 × 100 / 120 = **70**
+
+**✅ Answer: 70**
+
+---
+
+### Example 6
+
+**❓ Question:** A number is increased by 25%, then by 20%. What is the net % increase?
+
+**🤔 What I understood:**
+- Given: Two successive increases: 25% then 20%
+- Find: Net % increase overall
+
+**💡 What I'll use:** Net % = a + b + (a × b) / 100
+
+**✏️ My Solution:**
+
+Step 1: Apply the formula
+Net = 25 + 20 + (25 × 20) / 100 = 45 + 5 = **50%**
+
+**✅ Answer: 50% net increase**
 
 ---
 
