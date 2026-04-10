@@ -167,7 +167,4 @@ All engineers are graduates. Some graduates are rich. No rich person is poor.
 
 ## ✔️ Answers
 
-1. **Only II follows.** (Some books are pens + No pen is a cap → Some books are not caps ✓. "No book is a cap" is too strong ✗.)
-2. **Only I follows.** (All+All=All birds are living ✓. II: Some moving are animals — cannot conclude from Some living are moving ✗. III: All+Some → no definite conclusion ✗.)
-3. **Neither follows — but Either I or II follows.** (Some+Some=no conclusion. But I and II are complementary: "Some" vs "No" for same subject → **Either I or II follows.**)
-4. **Only II follows.** (I: All engineers are graduates + Some graduates are rich → All+Some = no definite conclusion ✗. II: Some graduates are rich + No rich is poor → Some graduates are not poor ✓. III: Cannot chain from I's failure ✗.)
+> 📖 **[See detailed step-by-step solutions →](./Pattern2-Either-Or-and-Three-Statements-Answers.md)**

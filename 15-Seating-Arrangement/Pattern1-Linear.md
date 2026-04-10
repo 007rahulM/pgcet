@@ -208,14 +208,4 @@ What is the order from left to right?
 
 ## ✔️ Answers
 
-**Problem 1:** A at left, B is 2nd: A B _ _ C. D between B and E. So D, E in positions 3, 4.
-**Arrangement: A B D E C** ✅
-
-**Problem 2:** P at left, Q between P and R, S at 4th, T at right, U between S and T.
-P Q R S U T. 3rd from right = **R** ✅ (positions: P=1, Q=2, R=3, S=4, U=5, T=6)
-
-**Problem 3:** Y < W < X (W right of Y, X right of W) and Y < Z < X (Z left of X, Z right of Y). 
-So Y is leftmost, W and Z are in middle (Z left of X, W position vs Z?). W right of Y, Z right of Y, X right of both Z and W.
-Try: Y Z W X or Y W Z X. Z left of X ✓ in both. W right of Y ✓ in both. 
-No constraint between W and Z directly, so either works.
-**One valid order: Y Z W X** or **Y W Z X** (exam will have one clear answer based on all constraints) ✅
+> 📖 **[See detailed step-by-step solutions →](./Pattern1-Linear-Answers.md)**

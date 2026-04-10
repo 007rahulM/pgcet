@@ -194,8 +194,4 @@ Some trains are buses. Some buses are taxis.
 
 ## ✔️ Answers
 
-1. **Only I follows.** (All+All=All. II cannot be concluded — reversal of "All" gives "Some", not "All".)
-2. **Only I follows.** (Some+All=Some roses are beautiful ✓. Not ALL roses are flowers, so II fails.)
-3. **Both I and II follow.** (All+All=All doctors are scientists ✓. Reversal: Some scientists are doctors ✓.)
-4. **Only I follows.** (All+No=No: No mango is vegetable ✓. II is false — cannot conclude.)
-5. **Neither follows.** (Some+Some = no definite conclusion.)
+> 📖 **[See detailed step-by-step solutions →](./Pattern1-Two-Statement-Answers.md)**

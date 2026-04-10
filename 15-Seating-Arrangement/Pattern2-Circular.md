@@ -185,12 +185,4 @@ Find T's position relative to P.
 
 ## ✔️ Answers
 
-**Problem 1:** Draw circle. E left of A, A, then B between A and C, then D right of C.
-Clockwise: E - A - B - C - D (and back to E)
-Right of E (clockwise from E) = **A** ✅
-
-**Problem 2:** Fix P at 1, Q at 4. R is 2nd left of P = position 7 (counting left/counterclockwise: P→6→7). U right of P = position 2. S between Q(4) and T. Remaining positions: 3, 5, 6 for S, T, and one more.
-S between Q(4) and T → S and T adjacent on Q's side. Try T=5, S=4.5→ no. S=3, T=5 with Q=4 between them.
-**T is 4th to the left of P** (or 2nd to the right) ✅
-
-**Problem 3:** A=1, E=5 (opposite in 8-person circle). B=2nd right of A=3. C left of E → C=4. D between B(3) and E(5)=4, but C=4. So D must be on other side: check positions 6,7,8. Actually "between B and E" going the other way: B=3, going clockwise: 3→4→5=E. D=4, but C=4 conflict. Try counterclockwise: B(3)→2→1→8→7→6→5(E). D=6 or 7 or 8. More context needed for exact answer. **Opposite B(3) is position 7** ✅
+> 📖 **[See detailed step-by-step solutions →](./Pattern2-Circular-Answers.md)**
