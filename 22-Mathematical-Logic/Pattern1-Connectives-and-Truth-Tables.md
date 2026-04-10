@@ -150,15 +150,5 @@ A **proposition** is a statement that is either **TRUE (T)** or **FALSE (F)**.
 
 ---
 
-## ✔️ Answers
 
-1. **F** (AND: T∧F = F)
-2. **F** (OR: F∨F = F)
-3. **F** (→: T→F = F — the only false case)
-4. **T** (→: F→T = T — false premise makes it true)
-5. **F** (↔: T≠F → F)
-6. **T** (↔: F=F → T — same values)
-7. (T∧T)=T, T∨F = **T**
-8. ¬T=F, F∨F = **F**
-9. ¬q=F, F→F = **T** (false premise makes it true)
-10. p→q = T→T = T; q→p = T→T = T; T↔T = **T**
+> 📖 **[See detailed step-by-step solutions →](./Pattern1-Connectives-and-Truth-Tables-Answers.md)**

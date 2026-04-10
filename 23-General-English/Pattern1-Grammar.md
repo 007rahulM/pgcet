@@ -138,15 +138,5 @@
 
 ---
 
-## ✔️ Answers
 
-1. **(B) goes** — She is 3rd person singular, simple present → "goes"
-2. **(B) an** — "engineer" starts with vowel sound 'e'
-3. **(A) since** — Monday = specific point in time
-4. **(B) an** — "umbrella" starts with vowel sound 'u'
-5. **(A) is** — collective noun "team" takes singular verb
-6. Error: "angry **on**" → correct: "angry **with** him"
-7. **(B) an** — "honest" starts with silent 'h', vowel sound 'o' → "an honest man"
-8. **(B) will have read** — Future Perfect for action completed before another future time
-9. Error: double negative ("don't" + "nothing") → "I don't know **anything**" OR "I know **nothing**"
-10. **(B) for** — 3 years = duration
+> 📖 **[See detailed step-by-step solutions →](./Pattern1-Grammar-Answers.md)**

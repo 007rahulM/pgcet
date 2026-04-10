@@ -138,13 +138,5 @@ For skewed data (approximate):
 
 ---
 
-## ✔️ Answers
 
-1. Mean = 175/5 = **35** (also middle value of this AP)
-2. Sorted: 2, 3, 6, 7, 8, 9, 11. n=7, 4th value = **7**
-3. 4 appears 4 times → Mode = **4**
-4. 5×10=50, 6×11=66, new number = **16**
-5. Total=800, first 10=350, last 10=450. Mean = **45**
-6. Sorted: 3, 5, 7, 9, 12, 15, 19, 21. n=8, positions 4 and 5: (9+12)/2 = **10.5**
-7. Combined sum = 30×70 + 20×80 = 2100+1600 = 3700. Total students = 50. Mean = 3700/50 = **74**
-8. 3 appears 4 times → Mode = **3**
+> 📖 **[See detailed step-by-step solutions →](./Pattern1-Mean-Median-Mode-Answers.md)**

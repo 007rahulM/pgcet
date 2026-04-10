@@ -159,21 +159,5 @@ This is faster than computing each deviation!
 
 ---
 
-## ✔️ Answers with Full Explanation
 
-1. Max=19, Min=3. Range = 19−3 = **16**
-
-2. Mean=3. Deviations²: 4,1,0,1,4. Variance = 10/5 = **2**
-
-3. Mean=6. Variance = (16+4+0+4+16)/5 = 8. SD = √8 = 2√2 ≈ **2.83**
-
-4. **SD remains the same (unchanged)** — adding a constant doesn't change spread.
-
-5. New SD = 4 × 3 = **12**
-
-6. **SD = 0** — all values equal means zero deviation from mean.
-
-7. Mean=3. All deviations = 0. Variance = **0**, SD = **0**
-
-8. Mean = (10×5+16)/6 = 66/6 = 11. Deviations²: (10−11)²=1 (×5) + (16−11)²=25. 
-   Variance = (1+1+1+1+1+25)/6 = 30/6 = 5. SD = √5 ≈ **2.24**
+> 📖 **[See detailed step-by-step solutions →](./Pattern2-Variance-and-SD-Answers.md)**

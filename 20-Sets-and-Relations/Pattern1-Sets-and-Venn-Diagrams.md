@@ -172,13 +172,5 @@ n(M∪S∪E) = 120 + 90 + 70 − 40 − 30 − 20 + 10 = **200** ✅
 
 ---
 
-## ✔️ Answers
 
-1. **n(A∪B) = 15 + 20 − 5 = 30**
-2. **n = 40 + 30 − 15 = 55 students**
-3. **2⁴ = 16 subsets**
-4. **A∩B = {2, 4, 6}** (elements in both sets)
-5. **n(A') = 100 − 60 = 40**
-6. **n(A∩B) = 28 + 30 − 45 = 13**
-7. Only A = 70 − 20 = **50**
-8. n(C∪T) = 60+50−20 = 90. Neither = 100 − 90 = **10**
+> 📖 **[See detailed step-by-step solutions →](./Pattern1-Sets-and-Venn-Diagrams-Answers.md)**
