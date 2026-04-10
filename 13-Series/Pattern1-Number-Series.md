@@ -20,99 +20,266 @@
 
 ## ✅ Step-by-Step Examples
 
-### Example 1 (Arithmetic — constant difference)
+### Example 1
 
-**Series:** 5, 9, 13, 17, **?**
+**❓ Question:** What is the next number in the series: 5, 9, 13, 17, ?
 
-- Differences: 4, 4, 4 → constant +4
-- Next = 17 + 4 = **21** ✅
+**🤔 What I understood:**
+- Given: The series 5, 9, 13, 17
+- Find: The next term
 
----
+**💡 What I'll use:** Check differences between consecutive terms
 
-### Example 2 (Geometric — constant ratio)
+**✏️ My Solution:**
 
-**Series:** 3, 6, 12, 24, **?**
+Step 1: Find differences between consecutive terms
+- 9 − 5 = 4
+- 13 − 9 = 4
+- 17 − 13 = 4
+Difference is constant: +4 (arithmetic series)
 
-- Ratios: 2, 2, 2 → multiply by 2
-- Next = 24 × 2 = **48** ✅
+Step 2: Apply the pattern
+- 17 + 4 = 21
 
----
-
-### Example 3 (Perfect Squares)
-
-**Series:** 1, 4, 9, 16, 25, **?**
-
-- 1², 2², 3², 4², 5² → next = 6² = **36** ✅
-
----
-
-### Example 4 (Perfect Cubes)
-
-**Series:** 1, 8, 27, 64, **?**
-
-- 1³, 2³, 3³, 4³ → next = 5³ = **125** ✅
+**✅ Answer: 21**
 
 ---
 
-### Example 5 (Two-step / increasing differences)
+### Example 2
 
-**Series:** 2, 5, 10, 17, 26, **?**
+**❓ Question:** What is the next number in the series: 3, 6, 12, 24, ?
 
-- Differences: 3, 5, 7, 9 → odd numbers, increasing by 2
-- Next difference = 11 → Next term = 26 + 11 = **37** ✅
+**🤔 What I understood:**
+- Given: The series 3, 6, 12, 24
+- Find: The next term
 
-*(Pattern: n² + 1 → 2, 5, 10, 17, 26, 37...)*
+**💡 What I'll use:** Check the ratio between consecutive terms
+
+**✏️ My Solution:**
+
+Step 1: Find the ratio between consecutive terms
+- 6 ÷ 3 = 2
+- 12 ÷ 6 = 2
+- 24 ÷ 12 = 2
+Ratio is constant: ×2 (geometric series)
+
+Step 2: Apply the pattern
+- 24 × 2 = 48
+
+**✅ Answer: 48**
 
 ---
 
-### Example 6 (Missing middle)
+### Example 3
 
-**Series:** 6, 12, **?**, 48, 96
+**❓ Question:** What is the next number in the series: 1, 4, 9, 16, 25, ?
 
-- Ratio = 2 each time (geometric)
-- Missing = 12 × 2 = **24** ✅
+**🤔 What I understood:**
+- Given: The series 1, 4, 9, 16, 25
+- Find: The next term
+
+**💡 What I'll use:** Check if terms are perfect squares (n²)
+
+**✏️ My Solution:**
+
+Step 1: Identify the pattern
+- 1 = 1², 4 = 2², 9 = 3², 16 = 4², 25 = 5²
+Pattern: consecutive perfect squares
+
+Step 2: Apply the pattern
+- Next = 6² = 36
+
+**✅ Answer: 36**
 
 ---
 
-### Example 7 (Second differences)
+### Example 4
 
-**Series:** 2, 6, 14, 28, **?**
+**❓ Question:** What is the next number in the series: 1, 8, 27, 64, ?
 
-- First differences: 4, 8, 14
-- Second differences: 4, 6 (increasing by 2)
+**🤔 What I understood:**
+- Given: The series 1, 8, 27, 64
+- Find: The next term
+
+**💡 What I'll use:** Check if terms are perfect cubes (n³)
+
+**✏️ My Solution:**
+
+Step 1: Identify the pattern
+- 1 = 1³, 8 = 2³, 27 = 3³, 64 = 4³
+Pattern: consecutive perfect cubes
+
+Step 2: Apply the pattern
+- Next = 5³ = 125
+
+**✅ Answer: 125**
+
+---
+
+### Example 5
+
+**❓ Question:** What is the next number in the series: 2, 5, 10, 17, 26, ?
+
+**🤔 What I understood:**
+- Given: The series 2, 5, 10, 17, 26
+- Find: The next term
+
+**💡 What I'll use:** Check differences between consecutive terms, then check if those differences follow a pattern
+
+**✏️ My Solution:**
+
+Step 1: Find differences between consecutive terms
+- 5 − 2 = 3
+- 10 − 5 = 5
+- 17 − 10 = 7
+- 26 − 17 = 9
+Differences: 3, 5, 7, 9 — odd numbers increasing by 2
+
+Step 2: Find the next difference and apply
+- Next difference = 11
+- 26 + 11 = 37
+
+**✅ Answer: 37**
+
+---
+
+### Example 6
+
+**❓ Question:** Find the missing term in the series: 6, 12, ?, 48, 96
+
+**🤔 What I understood:**
+- Given: The series 6, 12, ?, 48, 96 with a middle term missing
+- Find: The missing term
+
+**💡 What I'll use:** Check the ratio between consecutive terms
+
+**✏️ My Solution:**
+
+Step 1: Check the ratio using known terms
+- 12 ÷ 6 = 2
+- 96 ÷ 48 = 2
+Ratio is constant: ×2
+
+Step 2: Find the missing term
+- 12 × 2 = 24
+- Verify: 24 × 2 = 48 ✅
+
+**✅ Answer: 24**
+
+---
+
+### Example 7
+
+**❓ Question:** What is the next number in the series: 2, 6, 14, 28, ?
+
+**🤔 What I understood:**
+- Given: The series 2, 6, 14, 28
+- Find: The next term
+
+**💡 What I'll use:** Check differences between consecutive terms, then check the second differences
+
+**✏️ My Solution:**
+
+Step 1: Find first differences
+- 6 − 2 = 4
+- 14 − 6 = 8
+- 28 − 14 = 14
+
+Step 2: Find second differences
+- 8 − 4 = 4
+- 14 − 8 = 6
+Second differences: 4, 6 — increasing by 2
+
+Step 3: Apply the pattern
 - Next second difference = 8
 - Next first difference = 14 + 8 = 22
-- Next term = 28 + 22 = **50** ✅
+- Next term = 28 + 22 = 50
+
+**✅ Answer: 50**
 
 ---
 
-### Example 8 (Find the wrong term)
+### Example 8
 
-**Series:** 3, 7, 15, 27, 63, 127
+**❓ Question:** In the series 3, 7, 15, 27, 63, 127 — find the wrong term.
 
-- 2²−1=3, 2³−1=7, 2⁴−1=15, 2⁵−1=31, 2⁶−1=63, 2⁷−1=127
-- Expected: 3, 7, 15, **31**, 63, 127
-- **27 is wrong, should be 31** ✅
+**🤔 What I understood:**
+- Given: The series 3, 7, 15, 27, 63, 127, one of which is wrong
+- Find: Which term is incorrect and what it should be
+
+**💡 What I'll use:** Check if terms follow a formula — try 2ⁿ − 1
+
+**✏️ My Solution:**
+
+Step 1: Test the formula 2ⁿ − 1
+- 2² − 1 = 3 ✅
+- 2³ − 1 = 7 ✅
+- 2⁴ − 1 = 15 ✅
+- 2⁵ − 1 = 31 ✗ (series shows 27)
+- 2⁶ − 1 = 63 ✅
+- 2⁷ − 1 = 127 ✅
+
+Step 2: Identify the wrong term
+- The 4th term should be 31, not 27
+
+**✅ Answer: 27 is wrong — it should be 31**
 
 ---
 
-### Example 9 (Multiply + add pattern)
+### Example 9
 
-**Series:** 7, 8, 18, 57, **?**
+**❓ Question:** What is the next number in the series: 7, 8, 18, 57, ?
 
-- 7×1+1 = 8 ✅
-- 8×2+2 = 18 ✅
-- 18×3+3 = 57 ✅
-- 57×4+4 = **232** ✅
+**🤔 What I understood:**
+- Given: The series 7, 8, 18, 57
+- Find: The next term
+
+**💡 What I'll use:** Check multiply + add pattern (×n + n)
+
+**✏️ My Solution:**
+
+Step 1: Find the operation pattern
+- 7 × 1 + 1 = 8 ✅
+- 8 × 2 + 2 = 18 ✅
+- 18 × 3 + 3 = 57 ✅
+Pattern: multiply by n, then add n (where n increases by 1 each step)
+
+Step 2: Apply for n = 4
+- 57 × 4 + 4 = 228 + 4 = 232
+
+**✅ Answer: 232**
 
 ---
 
-### Example 10 (Prime number series)
+### Example 10
 
-**Series:** 11, 13, 17, 19, 23, **?**
+**❓ Question:** What is the next number in the series: 11, 13, 17, 19, 23, ?
 
-- All prime numbers in sequence
-- Next prime after 23 = **29** ✅
+**🤔 What I understood:**
+- Given: The series 11, 13, 17, 19, 23
+- Find: The next term
+
+**💡 What I'll use:** Check if all terms are prime numbers
+
+**✏️ My Solution:**
+
+Step 1: Identify the pattern
+- 11 — prime ✅
+- 13 — prime ✅
+- 17 — prime ✅
+- 19 — prime ✅
+- 23 — prime ✅
+Pattern: consecutive prime numbers
+
+Step 2: Find the next prime after 23
+- 24 = not prime (divisible by 2)
+- 25 = not prime (5²)
+- 26 = not prime (divisible by 2)
+- 27 = not prime (divisible by 3)
+- 28 = not prime
+- 29 = prime ✅
+
+**✅ Answer: 29**
 
 ---
 
