@@ -162,13 +162,4 @@ Step 2: How long does A take to do 1/2 the work?
 
 ---
 
-## ✔️ Answers
-
-1. 8 days
-2. 36 days
-3. 10 days
-4. 18/5 = 3.6 days
-5. 18 days
-6. 20 days
-7. 25 days
-8. 6 days
+> 📖 **[See detailed step-by-step solutions →](./Pattern4-Efficiency-Ratios-Answers.md)**

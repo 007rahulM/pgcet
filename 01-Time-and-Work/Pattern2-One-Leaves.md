@@ -159,13 +159,4 @@ Remaining ÷ (person who stays) = extra days
 
 ---
 
-## ✔️ Answers
-
-1. 20/3 ≈ 6.67 days
-2. 2.5 days
-3. 3 + 7 = 10 days total
-4. 10/3 ≈ 3.33 days
-5. 8 days
-6. 12 days
-7. 4.5 days
-8. 14/3 ≈ 4.67 days
+> 📖 **[See detailed step-by-step solutions →](./Pattern2-One-Leaves-Answers.md)**
