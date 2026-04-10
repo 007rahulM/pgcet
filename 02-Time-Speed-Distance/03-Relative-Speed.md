@@ -143,13 +143,4 @@ Step 2: A needs to gain 400 m on B → Time = 400 ÷ 2 = 200 seconds
 
 ---
 
-## ✔️ Answers
-
-1. 450/150 = **3 hours**
-2. 20 ÷ (12−8) = 20/4 = **5 seconds**
-3. Total = (5+3)×4 = **32 km**
-4. 10 ÷ (6−4) = **5 hours**
-5. Length = Relative speed × time = (40+60)×5/18 × 9 = 100×5/18×9 = 250 m
-6. A's head start = 2 hrs × 40 = 80 km. Relative speed = 60−40 = 20 km/h. Time = 80/20 = 4 hrs after 8 AM = **12 PM**
-7. Time = 120/12 = 10 hrs. A covers 5×10 = **50 km** from P
-8. Head start = 10/60 × 60 = 10 km. Relative speed = 15 km/h. Time = 10/15 = 2/3 hr = **40 minutes after police start**
+> 📖 **[See detailed step-by-step solutions →](./03-Relative-Speed-Answers.md)**
