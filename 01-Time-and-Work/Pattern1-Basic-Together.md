@@ -150,15 +150,4 @@ Try to solve each in under 60 seconds:
 
 ---
 
-## ✔️ Answers
-
-1. 10/3 ≈ 3.33 days
-2. 12 days
-3. 7.2 days (36/5)
-4. 2 days
-5. 3 days
-6. 6 days
-7. 18 days
-8. 12 minutes
-9. 24/7 ≈ 3.43 days
-10. 24 days
+> 📖 **[See detailed step-by-step solutions →](./Pattern1-Basic-Together-Answers.md)**

@@ -165,13 +165,4 @@ Example: For A=10, B=6, you can use 30, 60, or even 120 as total work. The final
 
 ---
 
-## ✔️ Answers
-
-1. 5.6 days
-2. 44/7 ≈ 6.3 days
-3. 3 days total (1 + 2)
-4. 20 days
-5. 6 days total
-6. 7.2 days total
-7. 7.5 days total  (B alone 2 days + 5.5 together)
-8. 9 days total
+> 📖 **[See detailed step-by-step solutions →](./Pattern3-Joining-Answers.md)**

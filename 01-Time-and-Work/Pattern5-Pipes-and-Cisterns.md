@@ -192,13 +192,4 @@ Time = LCM ÷ Net
 
 ---
 
-## ✔️ Answers
-
-1. 7.2 hours
-2. 15 minutes
-3. Net rate = 4+3−6 = 1 unit. Yes it fills. Time = 60 min
-4. 40 hours
-5. 8/3 ≈ 2.67 hours
-6. 40/3 ≈ 13.3 hours
-7. 12 hours
-8. 6 + 36 = ... Let me solve: In 6 min, A fills 6/20=3/10, B fills 6/30=1/5 → total = 3/10+2/10=1/2 filled. Remaining=1/2. B fills 1/2 at rate 1/30 → 15 more min. **Total = 21 min**
+> 📖 **[See detailed step-by-step solutions →](./Pattern5-Pipes-and-Cisterns-Answers.md)**
