@@ -31,66 +31,68 @@
 
 ## ✅ Step-by-Step Examples
 
-### Example 1 (Table — % change)
+### Example 1
 
-| Year | Sales (₹ lakhs) |
-|------|----------------|
-| 2020 | 150 |
-| 2021 | 180 |
-| 2022 | 162 |
-| 2023 | 198 |
+**❓ Question:** A table shows yearly sales: 2020=₹150L, 2021=₹180L, 2022=₹162L, 2023=₹198L. What is the % change in sales from 2021 to 2022? In which year was the % increase highest?
 
-**Q1: What is the % change in sales from 2021 to 2022?**
+**🤔 What I understood:**
+- Given: Sales figures (₹ lakhs) for 4 years
+- Find: % change from 2021 to 2022; year with highest % increase
 
-- Change = 162 − 180 = −18 (decrease)
-- % change = (18/180) × 100 = **10% decrease** ✅
+**💡 What I'll use:** % change formula = (New − Old)/Old × 100
 
-**Q2: In which year was the % increase highest?**
+**✏️ My Solution:**
 
+Step 1: Change from 2021→2022 = 162 − 180 = −18 (a decrease)
+Step 2: % change = (18/180) × 100 = **10% decrease**
+Step 3: Check years where sales went up to find highest % increase:
 - 2020→2021: (180−150)/150 × 100 = 30/150 × 100 = **20%**
-- 2021→2022: decrease, so skip
 - 2022→2023: (198−162)/162 × 100 = 36/162 × 100 ≈ **22.2%**
-- Highest % increase: **2022 to 2023** ✅
+Step 4: 22.2% > 20%, so highest increase was in 2022→2023
+
+**✅ Answer: 10% decrease (2021→2022); Highest % increase was 2022 to 2023 (≈22.2%)**
 
 ---
 
-### Example 2 (Table — multiple products)
+### Example 2
 
-| Product | Q1 Sales | Q2 Sales | Q3 Sales | Q4 Sales |
-|---------|----------|----------|----------|----------|
-| A | 200 | 250 | 220 | 280 |
-| B | 150 | 180 | 160 | 200 |
-| C | 300 | 280 | 320 | 350 |
+**❓ Question:** A table shows quarterly sales (units): Product A: Q1=200, Q2=250, Q3=220, Q4=280. Product B: Q1=150, Q2=180, Q3=160, Q4=200. Product C: Q1=300, Q2=280, Q3=320, Q4=350. Find: (1) Total A sales, (2) Quarter with highest C sales, (3) B's % share of total Q1 sales, (4) Average quarterly sales of A.
 
-**Q1: Total sales of Product A in all 4 quarters?**
-- 200+250+220+280 = **950 units** ✅
+**🤔 What I understood:**
+- Given: Sales of 3 products across 4 quarters
+- Find: Total for A, max quarter for C, B's % in Q1, average for A
 
-**Q2: In which quarter was Product C's sales highest?**
-- Q4 (350) → **Q4** ✅
+**💡 What I'll use:** Sum formula; % of total = (Part/Total) × 100; Average = Sum/Count
 
-**Q3: What % of total Q1 sales is Product B's Q1 sales?**
-- Total Q1 = 200+150+300 = 650
-- B's share = (150/650) × 100 ≈ **23.08%** ✅
+**✏️ My Solution:**
 
-**Q4: Average quarterly sales of Product A?**
-- 950/4 = **237.5 units** ✅
+Step 1: Total A = 200+250+220+280 = **950 units**
+Step 2: C's quarterly values: Q1=300, Q2=280, Q3=320, Q4=350 → highest is **Q4**
+Step 3: Total Q1 = 200+150+300 = 650. B's share = (150/650) × 100 ≈ **23.08%**
+Step 4: Average A = 950/4 = **237.5 units**
+
+**✅ Answer: 950 units; Q4; ≈23.08%; 237.5 units**
 
 ---
 
-### Example 3 (Bar Graph reading)
+### Example 3
 
-**Given:** A bar graph shows monthly expenses of a family:
-- Jan: ₹8000, Feb: ₹7500, Mar: ₹9000, Apr: ₹8500
+**❓ Question:** A bar graph shows monthly family expenses: Jan=₹8000, Feb=₹7500, Mar=₹9000, Apr=₹8500. Find the average monthly expense, the month with lowest expense, and the % increase from Jan to Mar.
 
-**Q1: Average monthly expense for these 4 months?**
-- Sum = 8000+7500+9000+8500 = 33000
-- Average = 33000/4 = **₹8250** ✅
+**🤔 What I understood:**
+- Given: Monthly expense values for 4 months
+- Find: Average, minimum month, % increase Jan→Mar
 
-**Q2: In which month was the expense lowest?**
-- Feb (₹7500) → **February** ✅
+**💡 What I'll use:** Average = Sum/Count; % change = (New − Old)/Old × 100
 
-**Q3: What was the % increase from Jan to Mar?**
-- (9000−8000)/8000 × 100 = 1000/8000 × 100 = **12.5%** ✅
+**✏️ My Solution:**
+
+Step 1: Sum = 8000+7500+9000+8500 = 33000
+Step 2: Average = 33000/4 = **₹8250**
+Step 3: Scan values for minimum: Feb=₹7500 is the lowest → **February**
+Step 4: % increase Jan→Mar = (9000−8000)/8000 × 100 = 1000/8000 × 100 = **12.5%**
+
+**✅ Answer: ₹8250 average; February was lowest; 12.5% increase Jan to Mar**
 
 ---
 
