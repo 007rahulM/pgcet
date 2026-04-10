@@ -39,45 +39,100 @@
 
 ## ✅ Step-by-Step Examples
 
-### Example 1 (Find Part)
+### Example 1
 
-**Problem:** What is 30% of 450?
+**❓ Question:** What is 30% of 450?
 
-- = 30/100 × 450 = **135** ✅
+**🤔 What I understood:**
+- Given: Percentage = 30%, Whole = 450
+- Find: The part (value of 30% of 450)
 
----
+**💡 What I'll use:** Part = (Percentage × Whole) / 100
 
-### Example 2 (Find Percentage)
+**✏️ My Solution:**
 
-**Problem:** 75 is what % of 300?
+Step 1: Apply the formula
+= (30 / 100) × 450 = **135**
 
-- = (75/300) × 100 = **25%** ✅
-
----
-
-### Example 3 (Find the Whole)
-
-**Problem:** 40% of a number is 80. Find the number.
-
-- Number = (80 × 100) / 40 = **200** ✅
+**✅ Answer: 135**
 
 ---
 
-### Example 4 (% more/less comparison)
+### Example 2
 
-**Problem:** A earns ₹500, B earns ₹400. By what % is A's salary more than B's?
+**❓ Question:** 75 is what percentage of 300?
 
-- % more = (500−400)/400 × 100 = 100/400 × 100 = **25%** ✅
+**🤔 What I understood:**
+- Given: Part = 75, Whole = 300
+- Find: What % is 75 of 300
+
+**💡 What I'll use:** Percentage = (Part / Whole) × 100
+
+**✏️ My Solution:**
+
+Step 1: Plug into the formula
+= (75 / 300) × 100 = **25%**
+
+**✅ Answer: 25%**
 
 ---
 
-### Example 5 (% less)
+### Example 3
 
-**Problem:** B's salary is what % less than A's?
+**❓ Question:** 40% of a number is 80. Find the number.
 
-- % less = (500−400)/500 × 100 = 100/500 × 100 = **20%** ✅
+**🤔 What I understood:**
+- Given: 40% of some number = 80
+- Find: The original number (the whole)
 
-> **Important:** "X more than Y" uses Y as base. "Y less than X" uses X as base!
+**💡 What I'll use:** Whole = (Part × 100) / Percentage
+
+**✏️ My Solution:**
+
+Step 1: Rearrange and solve
+Number = (80 × 100) / 40 = **200**
+
+**✅ Answer: 200**
+
+---
+
+### Example 4
+
+**❓ Question:** A earns ₹500 and B earns ₹400. By what percentage is A's salary more than B's?
+
+**🤔 What I understood:**
+- Given: A's salary = ₹500, B's salary = ₹400
+- Find: How much % more is A's salary compared to B's
+
+**💡 What I'll use:** % more = (Difference / Base) × 100, where base = B's salary (we're comparing A relative to B)
+
+**✏️ My Solution:**
+
+Step 1: Find the difference and apply formula
+% more = (500 − 400) / 400 × 100 = 100 / 400 × 100 = **25%**
+
+**✅ Answer: A earns 25% more than B**
+
+---
+
+### Example 5
+
+**❓ Question:** B's salary is what percentage less than A's?
+
+**🤔 What I understood:**
+- Given: A's salary = ₹500, B's salary = ₹400 (continuing from above)
+- Find: How much % less is B's salary compared to A's
+
+**💡 What I'll use:** % less = (Difference / Larger value) × 100, where base = A's salary (we're comparing B relative to A)
+
+**✏️ My Solution:**
+
+Step 1: Use A's salary as the base this time
+% less = (500 − 400) / 500 × 100 = 100 / 500 × 100 = **20%**
+
+> **Key insight:** "X more than Y" → Y is the base. "Y less than X" → X is the base. That's why 25% ≠ 20%.
+
+**✅ Answer: B earns 20% less than A**
 
 ---
 

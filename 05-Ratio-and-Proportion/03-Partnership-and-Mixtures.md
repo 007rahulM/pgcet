@@ -35,54 +35,130 @@ Cheaper price (c)          Dearer price (d)
 
 ## ✅ Step-by-Step Examples
 
-### Example 1 (Basic Partnership)
+### Example 1
 
-**Problem:** A, B invest ₹5000 and ₹3000. Total profit = ₹4800. Find A's share.
+**❓ Question:** A and B invest ₹5000 and ₹3000 respectively. Total profit = ₹4800. Find A's share.
 
-- Ratio = 5000 : 3000 = 5:3
-- A's share = 5/8 × 4800 = **₹3000** ✅
+**🤔 What I understood:**
+- Given: A's investment = ₹5000, B's investment = ₹3000, total profit = ₹4800
+- Find: A's share of the profit
 
----
+**💡 What I'll use:** Profit is shared in the ratio of investments (same time period)
 
-### Example 2 (Time-based Partnership)
+**✏️ My Solution:**
 
-**Problem:** A invests ₹5000 for 12 months, B invests ₹6000 for 8 months. Profit ratio?
+Step 1: Find the investment ratio
+5000 : 3000 = 5:3
 
-- A's contribution = 5000 × 12 = 60000
-- B's contribution = 6000 × 8 = 48000
-- Ratio = 60000 : 48000 = **5:4** ✅
+Step 2: Total parts = 5 + 3 = 8
 
----
+Step 3: A's share
+A's share = (5/8) × 4800 = **₹3000**
 
-### Example 3 (Joining Later)
-
-**Problem:** A starts a business with ₹8000. After 3 months B joins with ₹10000. After 12 months, total profit = ₹6300. Find B's share.
-
-- A's contribution = 8000 × 12 = 96000
-- B's contribution = 10000 × 9 = 90000 (B only for 9 months)
-- Ratio = 96000 : 90000 = 16:15
-- B's share = 15/31 × 6300 = **₹3048.39 ≈ ₹3045** ✅
+**✅ Answer: ₹3000**
 
 ---
 
-### Example 4 (Mixture Problem)
+### Example 2
 
-**Problem:** In what ratio should rice at ₹12/kg be mixed with rice at ₹18/kg to get a mixture costing ₹14/kg?
+**❓ Question:** A invests ₹5000 for 12 months and B invests ₹6000 for 8 months. What is the profit-sharing ratio?
 
-- Using alligation:
-  - Dearer (18) − Mean (14) = 4
-  - Mean (14) − Cheaper (12) = 2
-- Ratio = 4:2 = **2:1** (rice at ₹12 : rice at ₹18) ✅
+**🤔 What I understood:**
+- Given: A's capital = ₹5000 for 12 months, B's capital = ₹6000 for 8 months
+- Find: Ratio in which they share the profit
+
+**💡 What I'll use:** Profit ratio = Capital × Time for each partner
+
+**✏️ My Solution:**
+
+Step 1: Calculate each partner's contribution
+A's contribution = 5000 × 12 = 60,000
+B's contribution = 6000 × 8 = 48,000
+
+Step 2: Simplify the ratio
+60,000 : 48,000 = **5:4**
+
+**✅ Answer: 5:4**
 
 ---
 
-### Example 5 (Milk and Water)
+### Example 3
 
-**Problem:** Mixture has milk and water in 3:1 ratio. Add 4 litres of water to 12 litres mixture. New ratio?
+**❓ Question:** A starts a business with ₹8000. After 3 months, B joins with ₹10,000. After 12 months total, the profit is ₹6300. Find B's share.
 
-- Current: milk = 9 litres, water = 3 litres (from 12 litres in 3:1)
-- After adding 4 litres water: milk = 9, water = 7
-- New ratio = **9:7** ✅
+**🤔 What I understood:**
+- Given: A invests ₹8000 for all 12 months; B joins after 3 months, so invests for only 9 months; total profit = ₹6300
+- Find: B's share of the profit
+
+**💡 What I'll use:** Profit ratio = Capital × Time; B was in for 12 − 3 = 9 months
+
+**✏️ My Solution:**
+
+Step 1: Calculate each partner's contribution
+A's contribution = 8000 × 12 = 96,000
+B's contribution = 10000 × 9 = 90,000
+
+Step 2: Simplify the ratio
+96,000 : 90,000 = 16:15
+
+Step 3: Total parts = 16 + 15 = 31
+
+Step 4: B's share
+B's share = (15/31) × 6300 = **₹3048.39 ≈ ₹3048**
+
+**✅ Answer: ₹3048**
+
+---
+
+### Example 4
+
+**❓ Question:** In what ratio should rice at ₹12/kg be mixed with rice at ₹18/kg to get a mixture costing ₹14/kg?
+
+**🤔 What I understood:**
+- Given: Cheaper rice = ₹12/kg, dearer rice = ₹18/kg, desired mean price = ₹14/kg
+- Find: Mixing ratio (cheaper : dearer)
+
+**💡 What I'll use:** Alligation rule — cross difference method
+
+**✏️ My Solution:**
+
+Step 1: Draw the alligation grid
+- Dearer (18) − Mean (14) = 4 → this is the quantity of cheaper rice
+- Mean (14) − Cheaper (12) = 2 → this is the quantity of dearer rice
+
+Step 2: Ratio of cheaper to dearer
+= 4 : 2 = **2:1**
+
+(So mix 2 parts of ₹12 rice with 1 part of ₹18 rice)
+
+**✅ Answer: 2:1 (cheaper : dearer)**
+
+---
+
+### Example 5
+
+**❓ Question:** A mixture of milk and water is in a 3:1 ratio. If 4 litres of water are added to 12 litres of this mixture, what is the new ratio?
+
+**🤔 What I understood:**
+- Given: 12 litres of mixture in 3:1 (milk:water); 4 more litres of water added
+- Find: New milk-to-water ratio
+
+**💡 What I'll use:** Extract current quantities from the ratio, then add water and form new ratio
+
+**✏️ My Solution:**
+
+Step 1: Find current quantities from 12 litres in 3:1 ratio
+Milk = (3/4) × 12 = 9 litres
+Water = (1/4) × 12 = 3 litres
+
+Step 2: Add 4 litres of water
+New water = 3 + 4 = 7 litres
+Milk stays at 9 litres
+
+Step 3: New ratio
+Milk : Water = 9 : 7 = **9:7**
+
+**✅ Answer: 9:7**
 
 ---
 

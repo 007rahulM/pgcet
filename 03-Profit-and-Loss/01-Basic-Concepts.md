@@ -29,57 +29,129 @@ You buy something at a price (CP) and sell it at another price (SP).
 
 ### Example 1
 
-**Problem:** A shopkeeper buys a shirt for ₹400 and sells it for ₹500. Profit %?
+**❓ Question:** A shopkeeper buys a shirt for ₹400 and sells it for ₹500. What is the profit percentage?
 
-- Profit = 500 − 400 = ₹100
-- Profit % = (100/400) × 100 = **25%** ✅
+**🤔 What I understood:**
+- Given: Cost Price = ₹400, Selling Price = ₹500
+- Find: Profit %
+
+**💡 What I'll use:** Profit % = (Profit / CP) × 100
+
+**✏️ My Solution:**
+
+Step 1: Find the profit
+Profit = SP − CP = 500 − 400 = ₹100
+
+Step 2: Calculate profit %
+Profit % = (100 / 400) × 100 = **25%**
+
+**✅ Answer: 25%**
 
 ---
 
 ### Example 2
 
-**Problem:** An article bought for ₹600 is sold at 20% profit. Find SP.
+**❓ Question:** An article bought for ₹600 is sold at 20% profit. Find the selling price.
 
-- SP = 600 × (100+20)/100 = 600 × 120/100 = **₹720** ✅
+**🤔 What I understood:**
+- Given: CP = ₹600, Profit % = 20%
+- Find: SP
+
+**💡 What I'll use:** SP = CP × (100 + P%) / 100
+
+**✏️ My Solution:**
+
+Step 1: Apply the formula directly
+SP = 600 × (100 + 20) / 100 = 600 × 120 / 100 = **₹720**
+
+**✅ Answer: ₹720**
 
 ---
 
 ### Example 3
 
-**Problem:** A book sold for ₹540 at 10% loss. Find CP.
+**❓ Question:** A book is sold for ₹540 at a 10% loss. Find the cost price.
 
-- CP = 540 × 100 / (100−10) = 540 × 100/90 = **₹600** ✅
+**🤔 What I understood:**
+- Given: SP = ₹540, Loss % = 10%
+- Find: CP
+
+**💡 What I'll use:** CP = SP × 100 / (100 − L%)
+
+**✏️ My Solution:**
+
+Step 1: Plug values into the formula
+CP = 540 × 100 / (100 − 10) = 540 × 100 / 90 = **₹600**
+
+**✅ Answer: ₹600**
 
 ---
 
 ### Example 4
 
-**Problem:** An article sold for ₹850 at 25% profit. Find CP.
+**❓ Question:** An article is sold for ₹850 at 25% profit. Find the cost price.
 
-- CP = 850 × 100 / (100+25) = 850 × 100/125 = **₹680** ✅
+**🤔 What I understood:**
+- Given: SP = ₹850, Profit % = 25%
+- Find: CP
+
+**💡 What I'll use:** CP = SP × 100 / (100 + P%)
+
+**✏️ My Solution:**
+
+Step 1: Apply the reverse formula
+CP = 850 × 100 / (100 + 25) = 850 × 100 / 125 = **₹680**
+
+**✅ Answer: ₹680**
 
 ---
 
-### Example 5 (Selling price to get desired profit)
+### Example 5
 
-**Problem:** CP = ₹750. What should be the SP for 16% profit?
+**❓ Question:** CP = ₹750. What should be the selling price to earn a 16% profit?
 
-- SP = 750 × 116/100 = **₹870** ✅
+**🤔 What I understood:**
+- Given: CP = ₹750, desired Profit % = 16%
+- Find: SP
+
+**💡 What I'll use:** SP = CP × (100 + P%) / 100
+
+**✏️ My Solution:**
+
+Step 1: Calculate SP using the multiplier
+SP = 750 × 116 / 100 = **₹870**
+
+**✅ Answer: ₹870**
 
 ---
 
-### Example 6 (Two items — one profit, one loss)
+### Example 6
 
-**Problem:** Two watches sold for ₹1200 each. One at 20% profit, other at 20% loss. Overall profit or loss?
+**❓ Question:** Two watches are each sold for ₹1200 — one at 20% profit and the other at 20% loss. Is there an overall profit or loss, and what is the percentage?
 
-> **Trick:** When same selling price, same % profit & loss → always a LOSS
-> Loss % = (Common %)² / 100 = 20²/100 = 4%
+**🤔 What I understood:**
+- Given: Both watches sold at ₹1200 each, one with 20% profit, other with 20% loss
+- Find: Overall profit or loss %
 
-**Verification:**
-- Profit item: CP = 1200 × 100/120 = ₹1000
-- Loss item: CP = 1200 × 100/80 = ₹1500
-- Total CP = 2500, Total SP = 2400
-- Loss = ₹100 → Loss% = 100/2500 × 100 = **4%** ✅
+**💡 What I'll use:** When SP is the same and profit % = loss %, there is always a net loss. Loss % = (Common %)² / 100
+
+**✏️ My Solution:**
+
+Step 1: Find CP of each watch
+- Profit watch CP = 1200 × 100 / 120 = ₹1000
+- Loss watch CP = 1200 × 100 / 80 = ₹1500
+
+Step 2: Calculate totals
+- Total CP = 1000 + 1500 = ₹2500
+- Total SP = 1200 + 1200 = ₹2400
+
+Step 3: Find loss %
+Loss = 2500 − 2400 = ₹100
+Loss % = (100 / 2500) × 100 = **4%**
+
+Shortcut check: Loss % = 20² / 100 = 400 / 100 = 4% ✓
+
+**✅ Answer: 4% overall loss**
 
 ---
 

@@ -21,59 +21,137 @@
 
 ## ✅ Step-by-Step Examples
 
-### Example 1 (% Comparison — Exam Favourite)
+### Example 1
 
-**Problem:** If A's weight is 20% more than B's, by what % is B's weight less than A's?
+**❓ Question:** If A's weight is 20% more than B's, by what % is B's weight less than A's?
 
-- Let B = 100. Then A = 120.
-- B is less than A by: (120−100)/120 × 100 = 20/120 × 100 = **16.67%** ✅
+**🤔 What I understood:**
+- Given: A is 20% heavier than B
+- Find: How much % lighter B is compared to A (note: different base!)
 
-**Quick formula:** If A is x% more than B → B is (x/(100+x)) × 100 % less than A
+**💡 What I'll use:** Assume B = 100, then find A, then compare B back to A as the base
 
----
+**✏️ My Solution:**
 
-### Example 2 (Election)
+Step 1: Let B = 100. Since A is 20% more than B:
+A = 100 + 20 = 120
 
-**Problem:** A gets 55% votes, B gets 45%. Total votes = 80,000. By how many votes does A win?
+Step 2: Find how much % less B is than A (A is now the base)
+% less = (120 − 100) / 120 × 100 = 20 / 120 × 100 = **16.67%**
 
-- A's votes = 55% × 80000 = 44000
-- B's votes = 45% × 80000 = 36000
-- Winning margin = 44000 − 36000 = **8000 votes** ✅
+Quick formula: B is (x / (100 + x)) × 100 % less than A = (20/120) × 100 = 16.67%
 
----
-
-### Example 3 (Percentage of Percentage)
-
-**Problem:** A school has 800 students. 60% are boys. 40% of boys play football. How many boys play football?
-
-- Boys = 60% × 800 = 480
-- Football players = 40% × 480 = **192** ✅
+**✅ Answer: B is 16.67% less than A**
 
 ---
 
-### Example 4 (Income and Expenditure)
+### Example 2
 
-**Problem:** Income = ₹25,000. Savings = 20% of income. What is expenditure?
+**❓ Question:** In an election, candidate A gets 55% of the votes and candidate B gets 45%. Total votes = 80,000. By how many votes does A win?
 
-- Savings = 20% × 25000 = 5000
-- Expenditure = 25000 − 5000 = **₹20,000** ✅
+**🤔 What I understood:**
+- Given: A gets 55%, B gets 45%, total votes = 80,000
+- Find: Winning margin (difference in actual votes)
+
+**💡 What I'll use:** Calculate each candidate's votes, then subtract
+
+**✏️ My Solution:**
+
+Step 1: Find A's votes
+A = 55% × 80000 = 44,000
+
+Step 2: Find B's votes
+B = 45% × 80000 = 36,000
+
+Step 3: Find the margin
+44,000 − 36,000 = **8,000 votes**
+
+**✅ Answer: A wins by 8,000 votes**
 
 ---
 
-### Example 5 (% Change to reach target)
+### Example 3
 
-**Problem:** A scored 45 in exam. Pass mark is 60. By what % did he fall short?
+**❓ Question:** A school has 800 students. 60% are boys. 40% of boys play football. How many boys play football?
 
-- Short = 60 − 45 = 15
-- % short = (15/60) × 100 = **25%** ✅
+**🤔 What I understood:**
+- Given: Total students = 800, 60% are boys, 40% of those boys play football
+- Find: Number of boys who play football
+
+**💡 What I'll use:** First find total boys, then take 40% of that
+
+**✏️ My Solution:**
+
+Step 1: Find total number of boys
+Boys = 60% × 800 = 480
+
+Step 2: Find boys who play football
+Football players = 40% × 480 = **192**
+
+**✅ Answer: 192 boys play football**
 
 ---
 
-### Example 6 (Two-variable problem)
+### Example 4
 
-**Problem:** A is 30% more than B. What % is B less than A?
+**❓ Question:** Income = ₹25,000. Savings = 20% of income. What is the expenditure?
 
-- B less than A = (30/(100+30)) × 100 = 30/130 × 100 ≈ **23.08%** ✅
+**🤔 What I understood:**
+- Given: Income = ₹25,000, savings rate = 20%
+- Find: Amount spent (expenditure = income − savings)
+
+**💡 What I'll use:** Savings = 20% × Income; Expenditure = Income − Savings
+
+**✏️ My Solution:**
+
+Step 1: Calculate savings
+Savings = 20% × 25000 = ₹5,000
+
+Step 2: Find expenditure
+Expenditure = 25,000 − 5,000 = **₹20,000**
+
+**✅ Answer: ₹20,000**
+
+---
+
+### Example 5
+
+**❓ Question:** A student scored 45 marks but the pass mark is 60. By what percentage did he fall short?
+
+**🤔 What I understood:**
+- Given: Student's score = 45, pass mark = 60
+- Find: By what % did the student fall short (relative to pass mark)
+
+**💡 What I'll use:** % short = (Shortfall / Pass mark) × 100
+
+**✏️ My Solution:**
+
+Step 1: Find the shortfall
+Shortfall = 60 − 45 = 15 marks
+
+Step 2: Express as % of the pass mark
+% short = (15 / 60) × 100 = **25%**
+
+**✅ Answer: He fell short by 25%**
+
+---
+
+### Example 6
+
+**❓ Question:** A is 30% more than B. What percentage is B less than A?
+
+**🤔 What I understood:**
+- Given: A = B + 30% of B
+- Find: How much % less B is than A
+
+**💡 What I'll use:** B less than A = (x / (100 + x)) × 100, where x = 30
+
+**✏️ My Solution:**
+
+Step 1: Apply the formula
+B is less than A by = (30 / (100 + 30)) × 100 = 30 / 130 × 100 ≈ **23.08%**
+
+**✅ Answer: B is approximately 23.08% less than A**
 
 ---
 
