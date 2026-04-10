@@ -159,10 +159,4 @@ New average = 490 / 11 = **44.5**
 
 ---
 
-## ✔️ Answers
-
-1. 150/5 = **30**
-2. Sum of 30 = 750. First 16 sum = 368. Last 15 sum = 405. 16th = 368+405−750 = **23**
-3. (50+1)/2 = **25.5**
-4. Old sum = 100. New sum (4 numbers) = 72. Removed = 100−72 = **28**
-5. New sum = 25×60 + 70+80+90 = 1500+240=1740. n=28. Avg = 1740/28 ≈ **62.14**
+> 📖 **[See detailed step-by-step solutions →](./01-Basic-Average-Answers.md)**

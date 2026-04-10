@@ -170,10 +170,4 @@ Step 3: Apply to 2¹⁰
 
 ---
 
-## ✔️ Answers
-
-1. **41, 43, 47, 53, 59**
-2. 72 = 2³ × 3². Factors = (3+1)(2+1) = **12**
-3. Sum = 2+4+...+50 = 2(1+2+...+25) = 2×325 = **650**
-4. √169 = **13** (yes, perfect square)
-5. 20×21/2 = **210**
+> 📖 **[See detailed step-by-step solutions →](./03-Number-Types-Answers.md)**

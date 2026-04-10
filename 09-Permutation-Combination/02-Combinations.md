@@ -181,10 +181,4 @@ Step 1: Choose any 3 points from 8
 
 ---
 
-## ✔️ Answers
-
-1. 8C5 = **56**
-2. 12C2 = 12×11/2 = **66**
-3. 8C2 − 8 = 28 − 8 = **20**
-4. 5C3 = **10**
-5. 3C1 × 5C3 = 3 × 10 = **30**
+> 📖 **[See detailed step-by-step solutions →](./02-Combinations-Answers.md)**

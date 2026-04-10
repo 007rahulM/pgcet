@@ -203,10 +203,4 @@ Next together = 9:00 AM + 24 minutes = **9:24 AM**
 
 ---
 
-## ✔️ Answers
-
-1. HCF=6, LCM=36
-2. Product = 8×96 = 768. Other = 768/24 = **32**
-3. HCF(36,48,60) = **12**
-4. LCM(15,20,25) = 300 min = 5 hours. Next = **3 PM**
-5. LCM(8,12,15) = 120. First 4-digit = 1000. 1000/120 = 8.33 → 9×120 = **1080**
+> 📖 **[See detailed step-by-step solutions →](./01-HCF-and-LCM-Answers.md)**
