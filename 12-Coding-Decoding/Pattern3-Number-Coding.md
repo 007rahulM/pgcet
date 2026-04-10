@@ -201,13 +201,4 @@ Step 1: Convert each number to its letter
 
 ---
 
-## ✔️ Answers
-
-1. M=13, O=15, O=15, N=14 → **13-15-15-14**
-2. N=14, I=9, G=7, H=8, T=20 → **14-9-7-8-20**
-3. D(4)+O(15)+G(7) = **26**
-4. B(2)+O(15)+O(15)+K(11) = 43 ✓. E(5)+X(24)+A(1)+M(13) = **43**
-5. J=10, A=1, V=22, A=1 → **10-1-22-1**
-6. M=13, A=1, T=20, H=8 → **MATH**
-7. ELEPHANT has 8 letters → **8**
-8. Reverse: A=26, B=25, C=24... so A=26, C=24, T=7 → CAT = **24-26-7** *(reverse: A→26, B→25, ..., Z→1; C=26−3+1=24, A=26, T=26−20+1=7)*
+> 📖 **[See detailed step-by-step solutions →](./Pattern3-Number-Coding-Answers.md)**

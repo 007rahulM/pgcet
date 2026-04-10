@@ -161,13 +161,4 @@ Step 2: Apply −3 to each letter of NICE
 
 ---
 
-## ✔️ Answers
-
-1. COLD+1 each = DPME. WARM: W→X, A→B, R→S, M→N = **XBSN**
-2. +1 each. GAME: G→H, A→B, M→N, E→F = **HBNF**
-3. D→G(+3), E→H(+3), S→V(+3), K→N(+3). BOOK: B→E, O→R, O→R, K→N = **ERRN**
-4. +3 each. DOG: D→G, O→R, G→J = **GRJ**
-5. S→U(+2), T→V(+2), A→C(+2), R→T(+2). MOON: M→O, O→Q, O→Q, N→P = **OQQP**
-6. S→Q(−2), U→S(−2), N→L(−2). RAIN: R→P, A→Y, I→G, N→L = **PYGL**
-7. W→Y(+2). FIRE: F→H, I→K, R→T, E→G = **HKTG**
-8. P→S(+3). JAVA: J→M, A→D, V→Y, A→D = **MDYD**
+> 📖 **[See detailed step-by-step solutions →](./Pattern1-Letter-Shifting-Answers.md)**

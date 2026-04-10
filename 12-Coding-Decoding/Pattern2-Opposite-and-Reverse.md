@@ -202,13 +202,4 @@ A-Z  B-Y  C-X  D-W  E-V  F-U  G-T  H-S  I-R  J-Q  K-P  L-O  M-N
 
 ---
 
-## ✔️ Answers
-
-1. E↔V, X↔C, A↔Z, M↔N → **EXAM = VCZN**
-2. W↔D, L↔O, L↔O, O↔L, W↔D → **DOOLD**
-3. CHAIR reversed = **RIAHC**
-4. M(13)+N(14)=27✓, A(1)+Z(26)=27✓, N(14)+M(13)=27✓, G(7)+T(20)=27✓, O(15)+L(12)=27✓ → MANGO=NZMTL ✓. APPLE: A↔Z, P↔K, P↔K, L↔O, E↔V → **ZKKLOV** (wait: A→Z, P→K, P→K, L→O, E→V) = **ZKKOV**
-5. DOG → GOD = reversed. CAT reversed = **TAC**
-6. S↔H, V↔E, O↔L, K↔P → **HELP**
-7. PENCIL reversed = **LICNEP**
-8. Reverse coding (palindromes code to themselves — the word reads same forward and backward, so reversing gives the same result)
+> 📖 **[See detailed step-by-step solutions →](./Pattern2-Opposite-and-Reverse-Answers.md)**

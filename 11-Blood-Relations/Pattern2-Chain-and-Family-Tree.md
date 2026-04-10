@@ -230,13 +230,4 @@ T ═══ S
 
 ---
 
-## ✔️ Answers
-
-1. E is A's **great-grandmother** (A → C → D → E going up)
-2. A is C's **great-grandchild** (A's father = B's son → A is B's grandson; B's father = C → A is C's great-grandchild)
-3. X is Z's **cousin** (X's mother = Y's sister → X and Z have mothers who are sisters → they are cousins)
-4. A is D's **husband** (A is B's father; B is C's brother → A is C's father; D is C's mother → A and D are married)
-5. P is T's **son-in-law** (P is Q's father; S is Q's and R's mother → P is S's husband; T is S's father → T is P's father-in-law; P is T's son-in-law)
-6. M is P's **daughter** (M is N's mother; P is O's grandmother → P is N's grandmother (since O is N's sister) → P is M's mother → M is P's daughter)
-7. D is B's **cousin** (A is B's grandfather; C is A's daughter = B's aunt; D is C's son = B's cousin)
-8. G is E's **maternal grandfather** (E's mother = F's sister; G is F's father → G is also E's mother's father = E's maternal grandfather)
+> 📖 **[See detailed step-by-step solutions →](./Pattern2-Chain-and-Family-Tree-Answers.md)**
