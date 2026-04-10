@@ -32,45 +32,95 @@ Think of it as a triangle:
 
 ### Example 1
 
-**Problem:** A car travels 240 km in 4 hours. Find its speed.
+**❓ Question:** A car travels 240 km in 4 hours. Find its speed.
 
-**Solution:** Speed = 240 ÷ 4 = **60 km/h** ✅
+**🤔 What I understood:**
+- Given: Distance = 240 km, Time = 4 hours
+- Find: Speed of the car
+
+**💡 What I'll use:** Speed = Distance ÷ Time
+
+**✏️ My Solution:**
+
+Step 1: Speed = 240 ÷ 4 = 60 km/h
+
+**✅ Answer: 60 km/h**
 
 ---
 
 ### Example 2
 
-**Problem:** A train moves at 90 km/h. How long to cover 270 km?
+**❓ Question:** A train moves at 90 km/h. How long does it take to cover 270 km?
 
-**Solution:** Time = 270 ÷ 90 = **3 hours** ✅
+**🤔 What I understood:**
+- Given: Speed = 90 km/h, Distance = 270 km
+- Find: Time taken
+
+**💡 What I'll use:** Time = Distance ÷ Speed
+
+**✏️ My Solution:**
+
+Step 1: Time = 270 ÷ 90 = 3 hours
+
+**✅ Answer: 3 hours**
 
 ---
 
 ### Example 3
 
-**Problem:** A person walks at 5 km/h for 2.5 hours. Distance covered?
+**❓ Question:** A person walks at 5 km/h for 2.5 hours. What is the distance covered?
 
-**Solution:** Distance = 5 × 2.5 = **12.5 km** ✅
+**🤔 What I understood:**
+- Given: Speed = 5 km/h, Time = 2.5 hours
+- Find: Distance covered
+
+**💡 What I'll use:** Distance = Speed × Time
+
+**✏️ My Solution:**
+
+Step 1: Distance = 5 × 2.5 = 12.5 km
+
+**✅ Answer: 12.5 km**
 
 ---
 
-### Example 4 (Unit conversion)
+### Example 4
 
-**Problem:** A train moves at 54 km/h. Convert to m/s. How far does it travel in 10 seconds?
+**❓ Question:** A train moves at 54 km/h. Convert its speed to m/s. How far does it travel in 10 seconds?
 
-**Step 1:** 54 km/h = 54 × 5/18 = **15 m/s**
+**🤔 What I understood:**
+- Given: Speed = 54 km/h, Time = 10 seconds
+- Find: Speed in m/s, then distance covered in 10 seconds
 
-**Step 2:** Distance = 15 × 10 = **150 metres** ✅
+**💡 What I'll use:** Unit conversion: km/h → m/s by multiplying by 5/18, then Distance = Speed × Time
+
+**✏️ My Solution:**
+
+Step 1: Convert speed — 54 × 5/18 = 15 m/s
+
+Step 2: Distance in 10 seconds = 15 × 10 = 150 metres
+
+**✅ Answer: 15 m/s; distance = 150 metres**
 
 ---
 
-### Example 5 (Finding missing value)
+### Example 5
 
-**Problem:** A car covers a distance in 3 hours at 60 km/h. How long will it take at 45 km/h?
+**❓ Question:** A car covers a distance in 3 hours at 60 km/h. How long will it take to cover the same distance at 45 km/h?
 
-**Step 1:** Distance = 60 × 3 = 180 km
+**🤔 What I understood:**
+- Given: Original speed = 60 km/h, Time = 3 hours; new speed = 45 km/h; same distance
+- Find: New time at the lower speed
 
-**Step 2:** Time at 45 km/h = 180 ÷ 45 = **4 hours** ✅
+**💡 What I'll use:** First find the distance using Distance = Speed × Time, then apply Time = Distance ÷ Speed
+
+**✏️ My Solution:**
+
+Step 1: Distance = 60 × 3 = 180 km
+
+Step 2: Time at 45 km/h = 180 ÷ 45 = 4 hours
+
+**✅ Answer: 4 hours**
 
 ---
 

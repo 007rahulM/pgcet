@@ -34,73 +34,91 @@ We just need to:
 
 ### Example 1
 
-**Problem:** A can do a job in 12 days, B in 16 days. They work together for 4 days, then A leaves. How many more days does B need to finish?
+**❓ Question:** A can do a job in 12 days, B in 16 days. They work together for 4 days, then A leaves. How many more days does B need to finish?
 
-**Step 1 — Total Work:**
-- LCM(12, 16) = 48 units
+**🤔 What I understood:**
+- Given: A takes 12 days alone, B takes 16 days alone; they work together for 4 days, then A stops
+- Find: Extra days B needs to finish the remaining work alone
 
-**Step 2 — Efficiencies:**
+**💡 What I'll use:** 6-Step LCM Method — find work done together, subtract from total, divide remaining by B's efficiency
+
+**✏️ My Solution:**
+
+Step 1: Total Work = LCM(12, 16) = 48 units
+
+Step 2: Find efficiencies
 - A = 48 ÷ 12 = 4 units/day
 - B = 48 ÷ 16 = 3 units/day
 
-**Step 3 — Combined:**
-- 4 + 3 = 7 units/day
+Step 3: Combined efficiency = 4 + 3 = 7 units/day
 
-**Step 4 — Work done in 4 days together:**
-- 7 × 4 = 28 units
+Step 4: Work done together in 4 days = 7 × 4 = 28 units
 
-**Step 5 — Remaining:**
-- 48 − 28 = 20 units
+Step 5: Remaining work = 48 − 28 = 20 units
 
-**Step 6 — B alone:**
-- 20 ÷ 3 = **6.67 days (= 20/3 days)** ✅
+Step 6: B alone finishes remaining = 20 ÷ 3 = 20/3 days ≈ 6.67 days
+
+**✅ Answer: 20/3 days (≈ 6.67 days)**
 
 ---
 
 ### Example 2
 
-**Problem:** A can finish in 10 days, B in 15 days. They work together for 3 days, then B leaves. How long does A take to finish?
+**❓ Question:** A can finish in 10 days, B in 15 days. They work together for 3 days, then B leaves. How long does A take to finish the remaining work?
 
-**Step 1 — Total Work:**
-- LCM(10, 15) = 30 units
+**🤔 What I understood:**
+- Given: A takes 10 days alone, B takes 15 days alone; they work together for 3 days, then B leaves
+- Find: How many more days A needs to finish alone (and the total time)
 
-**Step 2 — Efficiencies:**
+**💡 What I'll use:** 6-Step LCM Method — work together first, find what's left, then A finishes solo
+
+**✏️ My Solution:**
+
+Step 1: Total Work = LCM(10, 15) = 30 units
+
+Step 2: Find efficiencies
 - A = 30 ÷ 10 = 3 units/day
 - B = 30 ÷ 15 = 2 units/day
 
-**Step 3 — Combined:**
-- 3 + 2 = 5 units/day
+Step 3: Combined efficiency = 3 + 2 = 5 units/day
 
-**Step 4 — Work done in 3 days:**
-- 5 × 3 = 15 units
+Step 4: Work done together in 3 days = 5 × 3 = 15 units
 
-**Step 5 — Remaining:**
-- 30 − 15 = 15 units
+Step 5: Remaining work = 30 − 15 = 15 units
 
-**Step 6 — A alone:**
-- 15 ÷ 3 = **5 more days** ✅
+Step 6: A alone finishes remaining = 15 ÷ 3 = 5 more days
 
-*Total time = 3 + 5 = 8 days*
+**✅ Answer: 5 more days (Total time = 3 + 5 = 8 days)**
 
 ---
 
-### Example 3 (Finding total time)
+### Example 3
 
-**Problem:** A finishes in 20 days, B in 30 days. They work together for 6 days, then A leaves. Find the **total** time to complete the work.
+**❓ Question:** A finishes in 20 days, B in 30 days. They work together for 6 days, then A leaves. Find the total time to complete the work.
 
-**Step 1:** LCM(20, 30) = 60 units
+**🤔 What I understood:**
+- Given: A takes 20 days alone, B takes 30 days alone; they work together for the first 6 days, then A stops and B continues
+- Find: Total time from start to finish
 
-**Step 2:** A = 3 units/day, B = 2 units/day
+**💡 What I'll use:** 6-Step LCM Method — work out what's left after 6 days, then see how long B needs alone
 
-**Step 3:** Combined = 5 units/day
+**✏️ My Solution:**
 
-**Step 4:** Work in 6 days = 5 × 6 = 30 units
+Step 1: Total Work = LCM(20, 30) = 60 units
 
-**Step 5:** Remaining = 60 − 30 = 30 units
+Step 2: Find efficiencies
+- A = 60 ÷ 20 = 3 units/day
+- B = 60 ÷ 30 = 2 units/day
 
-**Step 6:** B finishes remaining = 30 ÷ 2 = 15 more days
+Step 3: Combined efficiency = 3 + 2 = 5 units/day
 
-**Total time = 6 + 15 = 21 days** ✅
+Step 4: Work done together in 6 days = 5 × 6 = 30 units
+
+Step 5: Remaining work = 60 − 30 = 30 units
+
+Step 6: B alone finishes remaining = 30 ÷ 2 = 15 more days
+
+**✅ Answer: Total time = 6 + 15 = 21 days**
 
 ---
 
