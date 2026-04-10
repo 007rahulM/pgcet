@@ -31,58 +31,131 @@
 
 ## ✅ Step-by-Step Examples
 
-### Example 1 (Addition Rule)
+### Example 1
 
-**Problem:** P(A) = 0.4, P(B) = 0.5, P(A∩B) = 0.2. Find P(A∪B).
+**❓ Question:** P(A) = 0.4, P(B) = 0.5, P(A∩B) = 0.2. Find P(A∪B).
 
-- P(A∪B) = 0.4 + 0.5 − 0.2 = **0.7** ✅
+**🤔 What I understood:**
+- Given: Probability of A = 0.4, probability of B = 0.5, probability of both A and B = 0.2
+- Find: Probability of A or B occurring (union)
 
----
+**💡 What I'll use:** Addition Rule — P(A∪B) = P(A) + P(B) − P(A∩B)
 
-### Example 2 (Multiplication — Independent)
+**✏️ My Solution:**
 
-**Problem:** P(A) = 1/3, P(B) = 1/4. A and B independent. P(A and B)?
+Step 1: Substitute into the formula → P(A∪B) = 0.4 + 0.5 − 0.2 = 0.7
 
-- P = 1/3 × 1/4 = **1/12** ✅
-
----
-
-### Example 3 (At Least One)
-
-**Problem:** P(A) = 2/3, P(B) = 3/4 (independent). P(at least one occurs)?
-
-- P(none) = P(not A) × P(not B) = 1/3 × 1/4 = 1/12
-- P(at least one) = 1 − 1/12 = **11/12** ✅
+**✅ Answer: 0.7**
 
 ---
 
-### Example 4 (Two Dice — Sum)
+### Example 2
 
-**Problem:** Roll 2 dice. P(sum = 7)?
+**❓ Question:** P(A) = 1/3, P(B) = 1/4. A and B independent. P(A and B)?
 
-- Favorable: (1,6),(2,5),(3,4),(4,3),(5,2),(6,1) = 6
-- Total = 36
-- P = 6/36 = **1/6** ✅
+**🤔 What I understood:**
+- Given: P(A) = 1/3, P(B) = 1/4, and A and B are independent events
+- Find: Probability that both A and B occur
+
+**💡 What I'll use:** Multiplication Rule for independent events — P(A and B) = P(A) × P(B)
+
+**✏️ My Solution:**
+
+Step 1: Since A and B are independent, multiply their probabilities
+
+Step 2: P(A and B) = 1/3 × 1/4 = 1/12
+
+**✅ Answer: 1/12**
 
 ---
 
-### Example 5 (Without Replacement — Dependent)
+### Example 3
 
-**Problem:** Bag: 4 red, 6 blue. Draw 2 (without replacement). P(both red)?
+**❓ Question:** P(A) = 2/3, P(B) = 3/4 (independent). P(at least one occurs)?
 
-- P(1st red) = 4/10
-- P(2nd red | 1st red) = 3/9
-- P(both) = 4/10 × 3/9 = 12/90 = **2/15** ✅
+**🤔 What I understood:**
+- Given: P(A) = 2/3, P(B) = 3/4, the events are independent
+- Find: Probability that at least one of A or B happens
+
+**💡 What I'll use:** Complement rule — P(at least one) = 1 − P(none)
+
+**✏️ My Solution:**
+
+Step 1: P(not A) = 1 − 2/3 = 1/3;  P(not B) = 1 − 3/4 = 1/4
+
+Step 2: P(neither A nor B) = P(not A) × P(not B) = 1/3 × 1/4 = 1/12
+
+Step 3: P(at least one) = 1 − 1/12 = 11/12
+
+**✅ Answer: 11/12**
 
 ---
 
-### Example 6 (Three Coins)
+### Example 4
 
-**Problem:** Three coins tossed. P(at least 2 heads)?
+**❓ Question:** Roll 2 dice. P(sum = 7)?
 
-- P(no heads) = (1/2)³ = 1/8
-- P(exactly 1 head) = 3×(1/2)³ = 3/8
-- P(at least 2H) = 1 − 1/8 − 3/8 = 4/8 = **1/2** ✅
+**🤔 What I understood:**
+- Given: Two fair dice are rolled
+- Find: Probability that the sum of the two dice equals 7
+
+**💡 What I'll use:** P(Event) = Favorable outcomes / Total outcomes; list all pairs that sum to 7
+
+**✏️ My Solution:**
+
+Step 1: Total outcomes when rolling 2 dice = 6 × 6 = 36
+
+Step 2: Pairs that sum to 7 → (1,6), (2,5), (3,4), (4,3), (5,2), (6,1) = 6 pairs
+
+Step 3: P(sum = 7) = 6/36 = 1/6
+
+**✅ Answer: 1/6**
+
+---
+
+### Example 5
+
+**❓ Question:** Bag: 4 red, 6 blue. Draw 2 (without replacement). P(both red)?
+
+**🤔 What I understood:**
+- Given: A bag with 4 red and 6 blue balls (10 total); 2 drawn one after another without replacing the first
+- Find: Probability that both draws are red
+
+**💡 What I'll use:** Multiplication rule for dependent events — P(A and B) = P(A) × P(B|A)
+
+**✏️ My Solution:**
+
+Step 1: P(1st draw is red) = 4/10
+
+Step 2: After removing one red, 3 red remain out of 9 total → P(2nd red | 1st red) = 3/9
+
+Step 3: P(both red) = 4/10 × 3/9 = 12/90 = 2/15
+
+**✅ Answer: 2/15**
+
+---
+
+### Example 6
+
+**❓ Question:** Three coins tossed. P(at least 2 heads)?
+
+**🤔 What I understood:**
+- Given: Three fair coins are tossed simultaneously
+- Find: Probability of getting 2 or more heads
+
+**💡 What I'll use:** Complement rule — P(at least 2H) = 1 − P(0H) − P(exactly 1H)
+
+**✏️ My Solution:**
+
+Step 1: Total outcomes = 2³ = 8
+
+Step 2: P(0 heads) = 1/8 (only TTT)
+
+Step 3: P(exactly 1 head) = 3/8 (HTT, THT, TTH — 3 ways)
+
+Step 4: P(at least 2 heads) = 1 − 1/8 − 3/8 = 4/8 = 1/2
+
+**✅ Answer: 1/2**
 
 ---
 

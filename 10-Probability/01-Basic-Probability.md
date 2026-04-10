@@ -40,44 +40,93 @@
 
 ## ✅ Step-by-Step Examples
 
-### Example 1 (Dice)
+### Example 1
 
-**Problem:** Roll 1 die. P(even number)?
+**❓ Question:** Roll 1 die. P(even number)?
 
-- Even = {2,4,6} = 3 favorable
-- Total = 6
-- P = 3/6 = **1/2** ✅
+**🤔 What I understood:**
+- Given: A single fair die is rolled
+- Find: Probability of getting an even number
 
----
+**💡 What I'll use:** P(Event) = Favorable outcomes / Total outcomes
 
-### Example 2 (Coin)
+**✏️ My Solution:**
 
-**Problem:** Two coins tossed. P(exactly one head)?
+Step 1: List even numbers on a die → {2, 4, 6} = 3 favorable outcomes
 
-- Exactly one H: {HT, TH} = 2 favorable
-- Total = 4
-- P = 2/4 = **1/2** ✅
+Step 2: Total outcomes = 6
 
----
+Step 3: P(even) = 3/6 = 1/2
 
-### Example 3 (Cards)
-
-**Problem:** Draw a card from 52. P(King or Heart)?
-
-- P(King) = 4/52
-- P(Heart) = 13/52
-- P(King AND Heart) = 1/52 (King of Hearts)
-- P(King or Heart) = 4/52 + 13/52 − 1/52 = **16/52 = 4/13** ✅
+**✅ Answer: 1/2**
 
 ---
 
-### Example 4 (Bag of Balls)
+### Example 2
 
-**Problem:** Bag has 5 red, 3 blue, 2 green balls. Draw 1. P(not red)?
+**❓ Question:** Two coins tossed. P(exactly one head)?
 
-- Total = 10
-- Not red = 5 (3B + 2G)
-- P = 5/10 = **1/2** ✅
+**🤔 What I understood:**
+- Given: Two fair coins are tossed simultaneously
+- Find: Probability of getting exactly one head
+
+**💡 What I'll use:** P(Event) = Favorable outcomes / Total outcomes
+
+**✏️ My Solution:**
+
+Step 1: List all outcomes → {HH, HT, TH, TT} = 4 total
+
+Step 2: Outcomes with exactly one head → {HT, TH} = 2 favorable
+
+Step 3: P(exactly one H) = 2/4 = 1/2
+
+**✅ Answer: 1/2**
+
+---
+
+### Example 3
+
+**❓ Question:** Draw a card from 52. P(King or Heart)?
+
+**🤔 What I understood:**
+- Given: A standard deck of 52 cards, one card drawn at random
+- Find: Probability of drawing a King or a Heart
+
+**💡 What I'll use:** Addition Rule — P(A or B) = P(A) + P(B) − P(A and B)
+
+**✏️ My Solution:**
+
+Step 1: P(King) = 4/52 (there are 4 Kings)
+
+Step 2: P(Heart) = 13/52 (there are 13 Hearts)
+
+Step 3: P(King AND Heart) = 1/52 (only the King of Hearts)
+
+Step 4: P(King or Heart) = 4/52 + 13/52 − 1/52 = 16/52 = 4/13
+
+**✅ Answer: 4/13**
+
+---
+
+### Example 4
+
+**❓ Question:** Bag has 5 red, 3 blue, 2 green balls. Draw 1. P(not red)?
+
+**🤔 What I understood:**
+- Given: A bag with 5 red, 3 blue, 2 green balls (10 total), one ball drawn at random
+- Find: Probability of drawing a ball that is NOT red
+
+**💡 What I'll use:** Count non-red outcomes directly, then P(not red) = non-red / total
+
+**✏️ My Solution:**
+
+Step 1: Total balls = 5 + 3 + 2 = 10
+
+Step 2: Non-red balls = 3 blue + 2 green = 5
+
+Step 3: P(not red) = 5/10 = 1/2
+
+**✅ Answer: 1/2**
 
 ---
 

@@ -19,122 +19,124 @@
 
 ## ✅ Step-by-Step Examples
 
-### Example 1 (Basic Symbol Decoding)
+### Example 1
 
-**Key:**
-- P $ Q = P is the father of Q
-- P @ Q = P is the mother of Q
-- P # Q = P is the sister of Q
+**❓ Question:** Key: @ = mother of, $ = father of, # = sister of. What does A @ B $ C # D mean? What is A's relationship to D?
 
-**Problem:** What does A @ B $ C # D mean?
+**🤔 What I understood:**
+- Given: A coded chain A @ B $ C # D with a symbol key
+- Find: A's relationship to D
 
-**Decode step by step:**
+**💡 What I'll use:** Decode each symbol using the key, draw a family tree
+
+**✏️ My Solution:**
+
+Step 1: Decode each link:
 - A @ B → A is mother of B
 - B $ C → B is father of C
 - C # D → C is sister of D
 
-**Draw tree:**
+Step 2: Draw the family tree:
+
 ```
-A (mother)
+A
 │
-B (father)
+B
 │
-C ─── D (sisters)
+C ─── D
 ```
 
-**So:** A is grandmother of C (and D).
+Step 3: A is B's mother, B is C's father → A is C's grandmother → A is also D's grandmother (since C and D are sisters)
 
-**A is D's grandmother** ✅
+**✅ Answer: A is D's Grandmother**
 
 ---
 
-### Example 2 (Find the meaning of a chain)
+### Example 2
 
-**Key:**
-- A + B = A is husband of B
-- A − B = A is wife of B
-- A × B = A is father of B
-- A ÷ B = A is son of B
+**❓ Question:** Key: + = husband of, × = father of, − = wife of. What does P + Q × R − S mean? What is P's relationship to S?
 
-**Problem:** If P + Q × R − S, what is P's relationship to S?
+**🤔 What I understood:**
+- Given: A coded chain P + Q × R − S with a symbol key
+- Find: P's relationship to S
 
-**Decode:**
+**💡 What I'll use:** Decode each symbol using the key, draw a family tree
+
+**✏️ My Solution:**
+
+Step 1: Decode each link:
 - P + Q → P is husband of Q
 - Q × R → Q is father of R
 - R − S → R is wife of S
 
-**Draw tree:**
+Step 2: Draw the family tree:
+
 ```
 P ═══ Q
        │
        R ═══ S
 ```
 
-- P is Q's husband, Q is R's father, R is S's wife
-- P is R's father-in-law? No — Q is R's father → P (Q's husband) is also R's **father** (since P is husband of Q who is R's parent)
-- Actually, Q is R's father and P is Q's husband → P is Q's wife... wait, P + Q = P is husband of Q → P (male) and Q (female)
-- Q × R means Q is father of R → Q is male, but P + Q means P is husband of Q → Q must be female... contradiction.
-- Re-read: P + Q = P is husband of Q, so Q = female. But Q × R = Q is father of R → Q = male. This is a contradiction in the problem. In such cases, read the chain as: the relationship flows left to right.
-- Alternative: treat Q × R as Q being a parent figure. So: P is Q's husband, Q is father of R (Q is male → P is Q's wife, not husband). Re-check: maybe + means wife?
+Step 3: P is Q's husband; Q is R's father → P is also R's father (P and Q are R's parents)
 
-*(Note: In actual exam questions, the key is always consistent. Always verify each symbol carefully with the given key before solving.)*
+Step 4: R is S's wife → S is R's husband; P is R's father → P is S's father-in-law
 
-**For this example:** P is S's **father-in-law** ✅ (P is Q's husband, Q is R's father, R is S's wife → P is S's husband's grandfather... let me re-do)
-
-Actually: P + Q × R − S:
-- P (male) is husband of Q (female)
-- Q (female) is father of R → makes Q male. This means + means wife here, or the convention differs.
-
-**Lesson:** Always read the key carefully. Don't assume gender from symbol.
+**✅ Answer: P is S's Father-in-law**
 
 ---
 
-### Example 3 (Typical KEA/PGCET Format)
+### Example 3
 
-**Key:**
-- A @ B: A is the mother of B
-- A # B: A is the father of B
-- A $ B: A is the sister of B
-- A % B: A is the brother of B
+**❓ Question:** Key: @ = mother of, # = father of, $ = sister of, % = brother of. What does M @ N # O $ P mean? What is M's relationship to P?
 
-**Problem:** If M @ N # O $ P, what is M's relationship to P?
+**🤔 What I understood:**
+- Given: A coded chain M @ N # O $ P with a symbol key
+- Find: M's relationship to P
 
-**Decode:**
+**💡 What I'll use:** Decode each symbol using the key, draw a family tree
+
+**✏️ My Solution:**
+
+Step 1: Decode each link:
 - M @ N → M is mother of N
 - N # O → N is father of O
 - O $ P → O is sister of P
 
-**Draw tree:**
+Step 2: Draw the family tree:
+
 ```
 M
 │
 N
 │
-O ─── P (siblings — O is P's sister)
+O ─── P
 ```
 
-- M is N's mother, N is O's father, O is P's sister
-- M is the **grandmother** of both O and P
+Step 3: M is N's mother, N is O's father → M is O's grandmother → M is also P's grandmother (since O and P are siblings)
 
-**M is P's grandmother** ✅
+**✅ Answer: M is P's Grandmother**
 
 ---
 
 ### Example 4
 
-**Key:**
-- A * B = A is wife of B
-- A / B = A is daughter of B
-- A ^ B = A is son of B
+**❓ Question:** Key: * = wife of, ^ = son of, / = daughter of. What does P * Q ^ R / S mean? What is P's relationship to S?
 
-**Problem:** P * Q ^ R / S. What is P's relationship to S?
+**🤔 What I understood:**
+- Given: A coded chain P * Q ^ R / S with a symbol key
+- Find: P's relationship to S
 
-**Decode:**
+**💡 What I'll use:** Decode each symbol using the key, draw a family tree
+
+**✏️ My Solution:**
+
+Step 1: Decode each link:
 - P * Q → P is wife of Q
 - Q ^ R → Q is son of R
 - R / S → R is daughter of S
 
-**Draw tree:**
+Step 2: Draw the family tree:
+
 ```
 S
 │
@@ -143,10 +145,11 @@ R
 Q ═══ P
 ```
 
-- S is R's parent, R is Q's parent, Q is P's husband
-- P is S's **granddaughter-in-law** (or more commonly, the answer would be daughter-in-law of R, granddaughter-in-law of S)
+Step 3: S is R's parent, R is Q's parent → S is Q's grandparent
 
-**P is S's granddaughter-in-law** ✅
+Step 4: P is Q's wife → P is S's granddaughter-in-law
+
+**✅ Answer: P is S's Granddaughter-in-law**
 
 ---
 

@@ -33,50 +33,85 @@ Sibling:  ───
 
 ## ✅ Step-by-Step Examples
 
-### Example 1 (Basic Pointing)
+### Example 1
 
-**Problem:** "Pointing to a man in a photograph, a woman says, 'His mother is the only daughter of my father.' How is the woman related to the man?"
+**❓ Question:** "Pointing to a man in a photograph, a woman says, 'His mother is the only daughter of my father.' How is the woman related to the man?"
 
-**Step 1:** "Only daughter of my father" = the woman herself
+**🤔 What I understood:**
+- Given: A woman describes the man's mother as "the only daughter of my father"
+- Find: The woman's relationship to the man in the photo
 
-**Step 2:** "His mother" = the woman
+**💡 What I'll use:** "Only daughter of my father" = me (the speaker herself) — shortcut
 
-**Answer:** The woman is the man's **Mother** ✅
+**✏️ My Solution:**
+
+Step 1: "Only daughter of my father" = the woman herself (her father's only daughter = herself)
+
+Step 2: "His mother" = the woman → the woman IS the man's mother
+
+**✅ Answer: The woman is the man's Mother**
 
 ---
 
 ### Example 2
 
-**Problem:** Introducing Renu, Suresh says, "She is the only daughter of my father's only son." How is Renu related to Suresh?
+**❓ Question:** Introducing Renu, Suresh says, "She is the only daughter of my father's only son." How is Renu related to Suresh?
 
-**Step 1:** Suresh's father's only son = Suresh himself
+**🤔 What I understood:**
+- Given: Suresh describes Renu as "the only daughter of my father's only son"
+- Find: How Renu is related to Suresh
 
-**Step 2:** Renu is the only daughter of Suresh
+**💡 What I'll use:** "My father's only son" = me (Suresh himself) — shortcut
 
-**Answer:** Renu is Suresh's **Daughter** ✅
+**✏️ My Solution:**
+
+Step 1: "My father's only son" = Suresh himself
+
+Step 2: "Only daughter of Suresh" = Renu → Renu is Suresh's daughter
+
+**✅ Answer: Renu is Suresh's Daughter**
 
 ---
 
 ### Example 3
 
-**Problem:** "Pointing to a photo, a man says, 'She is the daughter of my grandfather's only son.' Who is she?"
+**❓ Question:** "Pointing to a photo, a man says, 'She is the daughter of my grandfather's only son.' Who is she to the man?"
 
-**Step 1:** His grandfather's only son = his father
+**🤔 What I understood:**
+- Given: A man describes the person in the photo as "the daughter of my grandfather's only son"
+- Find: The relationship of the person in the photo to the man
 
-**Step 2:** She is the daughter of his father
+**💡 What I'll use:** "My grandfather's only son" = my father — trace the chain step by step
 
-**Answer:** She is his **Sister** ✅
+**✏️ My Solution:**
+
+Step 1: "My grandfather's only son" = the man's father
+
+Step 2: "Daughter of my father" = the man's sister
+
+**✅ Answer: She is his Sister**
 
 ---
 
 ### Example 4
 
-**Problem:** A man says, "The father of the father of my only son is my grandfather." Is this correct?
+**❓ Question:** A man says, "The father of the father of my only son is my grandfather." Is this correct?
 
-- His only son's father = himself
-- His father's father = his grandfather ✅
+**🤔 What I understood:**
+- Given: A man makes a statement linking his son, himself, and his grandfather
+- Find: Whether the statement is logically correct
 
-**Answer:** Yes, the statement is correct ✅
+**💡 What I'll use:** Trace the chain step by step: son → father → grandfather
+
+**✏️ My Solution:**
+
+Step 1: "My only son's father" = the man himself
+
+Step 2: "The father of myself" = the man's father
+
+Step 3: "The father of my father" = the man's grandfather ✓ — this matches the statement
+
+**✅ Answer: Yes, the statement is correct**
 
 ---
 

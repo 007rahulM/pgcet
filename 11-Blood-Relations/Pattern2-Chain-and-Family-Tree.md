@@ -45,87 +45,152 @@ Sibling:  ───
 
 ## ✅ Step-by-Step Examples
 
-### Example 1 (Basic Chain)
+### Example 1
 
-**Problem:** A is B's father. C is A's sister. D is C's mother. How is D related to B?
+**❓ Question:** A is B's father. C is A's sister. D is C's mother. How is D related to B?
 
-**Draw tree:**
+**🤔 What I understood:**
+- Given: A chain of 4 people — A is B's father, C is A's sister, D is C's mother
+- Find: How D is related to B
+
+**💡 What I'll use:** Draw a family tree and trace each link step by step
+
+**✏️ My Solution:**
+
+Step 1: A is B's father → A is one generation above B
+
+Step 2: C is A's sister → C and A are siblings (same generation as A)
+
+Step 3: D is C's mother → D is one generation above C (and A)
+
+Step 4: D is A's mother, A is B's father → D is B's grandmother
+
 ```
     D (female)
     │
-    ├── A (male)──── C (female, A's sister)
+    ├── A (male) ─── C (female)
     │
-    B (A's child)
+    B
 ```
 
-- D is A's mother, A is B's father
-- D is **B's Grandmother** ✅
+**✅ Answer: D is B's Grandmother**
 
 ---
 
-### Example 2 (Longer chain)
+### Example 2
 
-**Problem:** A is B's mother. C is A's father. D is C's wife. How is D related to B?
+**❓ Question:** A is B's mother. C is A's father. D is C's wife. How is D related to B?
 
-**Draw tree:**
+**🤔 What I understood:**
+- Given: A is B's mother, C is A's father, D is C's wife
+- Find: How D is related to B
+
+**💡 What I'll use:** Draw a family tree and trace each link step by step
+
+**✏️ My Solution:**
+
+Step 1: A is B's mother → A is one generation above B
+
+Step 2: C is A's father → C is one generation above A (two above B)
+
+Step 3: D is C's wife → D and C are married; D is A's mother
+
+Step 4: D is A's mother, A is B's mother → D is B's grandmother
+
 ```
-D ═══ C (grandfather)
+D ═══ C
        │
-       A (B's mother)
+       A
        │
        B
 ```
 
-- D is C's wife → D is A's mother → D is B's **Grandmother** ✅
+**✅ Answer: D is B's Grandmother**
 
 ---
 
-### Example 3 (In-law relationships)
+### Example 3
 
-**Problem:** A said to B: "Your mother's husband's sister is my aunt." How is A related to B?
+**❓ Question:** A said to B: "Your mother's husband's sister is my aunt." How is A related to B?
 
-- B's mother's husband = B's father
-- B's father's sister = B's aunt
-- That aunt is also A's aunt
-- So A and B share the same aunt → A is **B's sibling (brother or sister)** ✅
+**🤔 What I understood:**
+- Given: A describes a person as "B's mother's husband's sister" and says she is A's aunt
+- Find: How A is related to B
+
+**💡 What I'll use:** Simplify each phrase step by step, then compare positions in the family
+
+**✏️ My Solution:**
+
+Step 1: "B's mother's husband" = B's father
+
+Step 2: "B's father's sister" = B's aunt (paternal)
+
+Step 3: That same person is also A's aunt → A and B share the same paternal aunt
+
+Step 4: Sharing the same father's sister means they share the same father → A and B are siblings
+
+**✅ Answer: A is B's Sibling (brother or sister)**
 
 ---
 
 ### Example 4
 
-**Problem:** A is B's brother. B is C's brother. D is C's mother. How is A related to D?
+**❓ Question:** A is B's brother. B is C's brother. D is C's mother. How is A related to D?
 
-**Draw tree:**
+**🤔 What I understood:**
+- Given: A, B, and C are connected through sibling relationships; D is C's mother
+- Find: How A is related to D
+
+**💡 What I'll use:** Draw a family tree and trace each link step by step
+
+**✏️ My Solution:**
+
+Step 1: A is B's brother and B is C's brother → A, B, and C are all siblings
+
+Step 2: D is C's mother → D is the mother of all three (A, B, and C)
+
 ```
 D (mother)
 │
-├── A (male)
-├── B (male)
+├── A
+├── B
 └── C
 ```
-- A is B's and C's sibling
-- D is their mother → D is A's **Mother** ✅
+
+**✅ Answer: D is A's Mother**
 
 ---
 
 ### Example 5
 
-**Problem:** P is Q's sister. R is Q's mother. S is R's father. T is S's wife. How is P related to T?
+**❓ Question:** P is Q's sister. R is Q's mother. S is R's father. T is S's wife. How is P related to T?
 
-**Draw tree:**
+**🤔 What I understood:**
+- Given: A chain of 5 people — P is Q's sister, R is Q's mother, S is R's father, T is S's wife
+- Find: How P is related to T
+
+**💡 What I'll use:** Draw a family tree and trace each link step by step
+
+**✏️ My Solution:**
+
+Step 1: P is Q's sister → P and Q are siblings (same generation)
+
+Step 2: R is Q's mother → R is also P's mother
+
+Step 3: S is R's father → S is P's grandfather
+
+Step 4: T is S's wife → T is P's grandmother
+
 ```
-T ═══ S (great-grandfather)
+T ═══ S
        │
-       R (Q and P's mother)
+       R
        │
     ┌──┴──┐
     Q     P
 ```
 
-- P is Q's sister
-- R is their mother
-- S is R's father → S is P's grandfather
-- T is S's wife → T is P's **Grandmother** ✅
+**✅ Answer: T is P's Grandmother**
 
 ---
 
