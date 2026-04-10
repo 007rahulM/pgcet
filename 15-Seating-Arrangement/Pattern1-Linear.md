@@ -31,105 +31,137 @@ Position:  1    2    3    4    5
 
 ## ✅ Step-by-Step Examples
 
-### Example 1 (5 people — step by step)
+### Example 1
 
-**Problem:** Five people A, B, C, D, E sit in a row.
-- A is to the left of B
-- C is at the extreme right
-- D is between A and C
-- E is to the right of B
+**❓ Question:** Five people A, B, C, D, E sit in a row. A is to the left of B. C is at the extreme right. D is between A and C. E is to the right of B. Find the arrangement.
 
-**Solve step by step:**
+**🤔 What I understood:**
+- Given: 5 people, C at extreme right, A left of B, E right of B, D between A and C
+- Find: The final left-to-right seating order
 
-**Step 1:** C is at extreme right → position 5
+**💡 What I'll use:** Draw the row and fill positions one by one starting from the fixed anchor (C at extreme right)
+
+**✏️ My Solution:**
+
+Step 1: Place the fixed person first
+C is at extreme right → Position 5
 ```
 _  _  _  _  C
 ```
 
-**Step 2:** D is between A and C. E is to the right of B. A is to the left of B.
-- From A left of B, E right of B: order is A...B...E
-- D is between A and C (position 5), so D is in positions 2, 3, or 4
+Step 2: Build the chain from the "left/right" clues
+A is left of B, E is right of B → order: A … B … E
 
-**Step 3:** Try A B E D C:
-- A left of B ✓, E right of B ✓, D between A and C ✓, C at right ✓
+Step 3: Place D between A and C
+D occupies one of positions 2–4, between A and C (position 5)
 
-**Final: A B E D C** ✅
+Step 4: Fit everything into A B E D C
+A left of B ✓, E right of B ✓, D between A and C ✓, C at extreme right ✓
+
+**✅ Answer: A B E D C**
 
 ---
 
-### Example 2 (6 people)
+### Example 2
 
-**Problem:** P, Q, R, S, T, U sit in a row.
-- Q is between P and R
-- T is at the rightmost position
-- U is between S and T
-- P is at leftmost position
+**❓ Question:** P, Q, R, S, T, U sit in a row. Q is between P and R. T is at the rightmost position. U is between S and T. P is at the leftmost position. Find the arrangement.
 
-**Solve:**
+**🤔 What I understood:**
+- Given: 6 people, P at leftmost, T at rightmost, Q between P and R, U between S and T
+- Find: The final seating order
 
-**Step 1:** P at leftmost → position 1; T at rightmost → position 6
+**💡 What I'll use:** Draw the row and fill positions one by one starting from the two fixed anchors
+
+**✏️ My Solution:**
+
+Step 1: Place the two fixed anchors
+P at position 1 (leftmost); T at position 6 (rightmost)
 ```
 P  _  _  _  _  T
 ```
 
-**Step 2:** Q between P and R → P, Q, R (in this order)
+Step 2: Place Q between P and R → sequence P, Q, R
 ```
 P  Q  R  _  _  T
 ```
 
-**Step 3:** U between S and T → S, U, T (in this order)
+Step 3: Place U between S and T → sequence S, U, T
 ```
 P  Q  R  S  U  T
 ```
 
-**Final: P Q R S U T** ✅
+Step 4: Verify all conditions
+Q between P and R ✓, T at rightmost ✓, U between S and T ✓, P at leftmost ✓
+
+**✅ Answer: P Q R S U T**
 
 ---
 
-### Example 3 (Finding specific positions)
+### Example 3
 
-**Problem:** A, B, C, D, E sit in a row.
-- D is to the right of B
-- A is at one end
-- C is between A and B
-- D is to the left of E
+**❓ Question:** A, B, C, D, E sit in a row. D is to the right of B. A is at one end. C is between A and B. D is to the left of E. Find the arrangement.
 
-**Solve:**
+**🤔 What I understood:**
+- Given: 5 people, A at one end, C between A and B, D right of B, D left of E
+- Find: The final seating order
 
-**Step 1:** A at one end → try A at left (position 1)
+**💡 What I'll use:** Draw the row and fill positions one by one, trying A at the left end first
 
-**Step 2:** C between A and B → A, C, B in sequence
+**✏️ My Solution:**
 
-**Step 3:** D right of B, D left of E → B, D, E in sequence
+Step 1: Try A at the left end (position 1)
 
-**Combined:** A C B D E
+Step 2: C is between A and B → sequence: A, C, B
+```
+A  C  B  _  _
+```
 
-**Verify:** A at end ✓, C between A and B ✓, D right of B ✓, D left of E ✓
+Step 3: D is right of B, D is left of E → sequence: B, D, E
+```
+A  C  B  D  E
+```
 
-**Final: A C B D E** ✅
+Step 4: Verify all conditions
+A at end ✓, C between A and B ✓, D right of B ✓, D left of E ✓
+
+**✅ Answer: A C B D E**
 
 ---
 
-### Example 4 (Finding who sits where)
+### Example 4
 
-**Problem:** 7 people A–G sit in a row.
-- B sits 3rd from the left
-- D sits between B and G
-- A sits to the extreme right
-- F sits between A and G
-- C and E are neighbors
-- C is immediate left of E
+**❓ Question:** 7 people A–G sit in a row. B sits 3rd from the left. D sits between B and G. A sits at the extreme right. F sits between A and G. C and E are neighbors with C immediately left of E. Find the arrangement.
 
-**Solve:**
+**🤔 What I understood:**
+- Given: 7 people, B at position 3, A at position 7, D between B and G, F between G and A, C immediately left of E
+- Find: The full 7-seat arrangement
 
-1. B at position 3; A at position 7
-2. D between B and G; F between G and A
-3. Try: ... B ... D ... G ... F ... A = positions 3, ?, ?, ?, 7
+**💡 What I'll use:** Draw the row and fill positions one by one using fixed positions as anchors
 
-If B=3, A=7: D and G must be in 4-6, F between G and A.
-Try: B(3), D(4), G(5), F(6), A(7). C and E in positions 1 and 2. C is immediate left of E → C at 1, E at 2.
+**✏️ My Solution:**
 
-**Final: C E B D G F A** ✅
+Step 1: Place the two fixed anchors
+B at position 3; A at position 7
+```
+_  _  B  _  _  _  A
+```
+
+Step 2: Place D between B and G, then F between G and A
+Try D at 4, G at 5, F at 6:
+```
+_  _  B  D  G  F  A
+```
+
+Step 3: Place C and E in the remaining positions (1 and 2) with C immediately left of E
+C at position 1, E at position 2:
+```
+C  E  B  D  G  F  A
+```
+
+Step 4: Verify all conditions
+B at 3rd from left ✓, D between B and G ✓, A at extreme right ✓, F between G and A ✓, C immediately left of E ✓
+
+**✅ Answer: C E B D G F A**
 
 ---
 

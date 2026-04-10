@@ -34,82 +34,114 @@
 
 ## ✅ Step-by-Step Examples
 
-### Example 1 (6 people — basic)
+### Example 1
 
-**Problem:** 6 people A, B, C, D, E, F sit in a circle.
-- A is opposite D
-- B is to the right of A
-- C is to the left of D
-- E is between A and F
-- F is to the right of D
+**❓ Question:** 6 people A, B, C, D, E, F sit in a circle. A is opposite D. B is to the right of A. C is to the left of D. E is between A and F. F is to the right of D. Find the clockwise arrangement.
 
-**Solve:**
-1. Fix A at top (12 o'clock). D is opposite → D at bottom (6 o'clock)
-2. B is right of A → B at A's right (clockwise): position 2 (2 o'clock)
-3. F is right of D → F at D's right: position 8 (going clockwise from D)
-4. C is left of D → C at D's left: position 10 (going counterclockwise from D)
-5. E is between A and F → E fills the remaining spot between A and F
+**🤔 What I understood:**
+- Given: 6 people, A opposite D, B right of A, F right of D, C left of D, E between A and F
+- Find: The clockwise seating order
 
-Drawing circle (clockwise positions):
-A(12) → B(2) → E(4) → F(8) → D(6) → C(10) → back to A
+**💡 What I'll use:** Fix one person's position, place "opposite" clue first, then fill remaining positions clockwise
 
-**Arrangement (clockwise): A, B, E, F, D, C** ✅
+**✏️ My Solution:**
 
----
+Step 1: Fix A at the top (12 o'clock); D is opposite → D at bottom (6 o'clock)
 
-### Example 2 (8 people — typical exam format)
+Step 2: Place B to the right of A (clockwise from A) → B at 2 o'clock position
 
-**Problem:** 8 people sit around a circular table facing the center.
-- A sits 3rd to the left of B
-- C is between A and D
-- E is 2nd to the right of A
+Step 3: Place F to the right of D (clockwise from D) → F at 8 o'clock position
 
-**Solve:**
-1. Number positions 1–8 clockwise. Fix B at position 1.
-2. "3rd to the left of B" = 3 positions counterclockwise from B = position 1−3+8 = position 6. So A is at position 6.
-3. E is 2nd to the right of A = 2 positions clockwise from A (6) = position 8.
-4. C is between A(6) and D. Place C and D in remaining spots.
+Step 4: Place C to the left of D (counterclockwise from D) → C at 10 o'clock position
 
-*(In exam, draw circle with numbers 1-8 and fill in)*
+Step 5: E is between A and F → E fills the remaining spot between A (12 o'clock) and F (8 o'clock), so E at 4 o'clock
+
+Clockwise order: A(12) → B(2) → E(4) → F(8) → D(6) → C(10)
+
+**✅ Answer: Clockwise arrangement: A, B, E, F, D, C**
 
 ---
 
-### Example 3 (Finding neighbors)
+### Example 2
 
-**Problem:** 5 people A, B, C, D, E sit in a circle.
-- A is between B and E
-- D is to the right of C
-- B is to the right of D
+**❓ Question:** 8 people sit around a circular table facing the center. A sits 3rd to the left of B. C is between A and D. E is 2nd to the right of A. Find the positions of A, B, and E.
 
-**Solve:**
-1. B right of D, D right of C → clockwise order: C, D, B
-2. A between B and E → E is next after A, and B is before A (or vice versa)
-3. With 5 people: C - D - B - A - E (clockwise, wraps around)
+**🤔 What I understood:**
+- Given: 8 people facing center, A is 3rd to the left of B, E is 2nd to the right of A
+- Find: Positions of key people (numbered 1–8 clockwise)
 
-Verify: A is between B and E ✓, D right of C ✓, B right of D ✓
+**💡 What I'll use:** Fix one person at position 1, then use "nth to left/right" to calculate positions (facing center: right = clockwise)
 
-**Who is to the right of E?** Moving clockwise from E: **C** ✅
+**✏️ My Solution:**
+
+Step 1: Fix B at position 1
+
+Step 2: Find A's position
+"3rd to the left of B" = 3 positions counterclockwise from B
+Position = 1 − 3 + 8 = 6 → A is at position 6
+
+Step 3: Find E's position
+"2nd to the right of A" = 2 positions clockwise from A (position 6)
+Position = 6 + 2 = 8 → E is at position 8
+
+Step 4: Place C between A(6) and D in the remaining spots
+
+**✅ Answer: B = position 1, A = position 6, E = position 8**
 
 ---
 
-### Example 4 (8 people — opposite + neighbor clues)
+### Example 3
 
-**Problem:** 8 people sit around a circular table.
-- A sits directly opposite B
-- C is 2nd to the right of A
-- D is between B and C
-- E is opposite to D
+**❓ Question:** 5 people A, B, C, D, E sit in a circle. A is between B and E. D is to the right of C. B is to the right of D. Who is to the right of E?
 
-**Solve:**
-1. Fix A at position 1, B at position 5 (opposite = 4 seats away in 8-person circle)
-2. C is 2nd right of A → position 3
-3. D between B(5) and C(3) → position 4
-4. E opposite D(4) → position 8
+**🤔 What I understood:**
+- Given: 5 people, B right of D, D right of C, A between B and E
+- Find: Who sits to the right of E
 
-**Result:** A=1, C=3, D=4, B=5, E=8 (positions 2, 6, 7 are for remaining people)
+**💡 What I'll use:** Fix one person and build the clockwise chain step by step
 
-E is at position 8. A is at position 1. Going clockwise from A: 1→2→3...→8. 
-**E is 3rd to the left of A** (or 5th to the right) ✅
+**✏️ My Solution:**
+
+Step 1: Build the chain from "right of" clues
+B is right of D, D is right of C → clockwise chain: C → D → B
+
+Step 2: Place A between B and E
+A is between B and E, and we have 5 people total → continuing clockwise: C → D → B → A → E
+
+Step 3: Verify conditions
+A between B and E ✓, D right of C ✓, B right of D ✓
+
+Step 4: Find who is to the right of E
+Moving clockwise from E, the next person is C
+
+**✅ Answer: C is to the right of E**
+
+---
+
+### Example 4
+
+**❓ Question:** 8 people sit around a circular table. A sits directly opposite B. C is 2nd to the right of A. D is between B and C. E is opposite D. What is E's position relative to A?
+
+**🤔 What I understood:**
+- Given: 8 people, A opposite B, C is 2nd right of A, D between B and C, E opposite D
+- Find: E's position relative to A
+
+**💡 What I'll use:** Fix A at position 1, use "opposite = 4 seats away" rule for 8-person circle, place others step by step
+
+**✏️ My Solution:**
+
+Step 1: Fix A at position 1; B is opposite → B at position 5
+
+Step 2: C is 2nd to the right of A (clockwise) → C at position 3
+
+Step 3: D is between B(5) and C(3) → D at position 4
+
+Step 4: E is opposite D(4) → opposite in 8-person circle = 4 seats away → E at position 8
+
+Step 5: Find E's position relative to A
+A is at position 1, E is at position 8. Going counterclockwise (left) from A: position 8 is the 1st step left. Counting left from A: 1→8(1st)→7(2nd)→... E is 3rd to the left of A ✓
+
+**✅ Answer: E is 3rd to the left of A**
 
 ---
 

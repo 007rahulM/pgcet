@@ -54,77 +54,94 @@
 
 ## ✅ Step-by-Step Examples
 
-### Example 1 (All + All)
+### Example 1
 
-**Statements:**
-1. All cats are animals.
-2. All animals are mammals.
+**❓ Question:** Statements: All cats are animals. All animals are mammals. Conclusions: I. All cats are mammals. II. Some mammals are cats.
 
-**Conclusions:**
-- I. All cats are mammals.
-- II. Some mammals are cats.
+**🤔 What I understood:**
+- Given: All cats are animals; All animals are mammals
+- Find: Which conclusions follow?
 
-**Solution:**
-- Rule 1: All + All = All → All cats are mammals ✅ (I follows)
-- Since all cats are mammals → some mammals are cats ✅ (valid conversion of "All")
+**💡 What I'll use:** Apply syllogism rules (All+All=All), then check valid conversion
 
-**Both I and II follow.** ✅
+**✏️ My Solution:**
 
----
+Step 1: Apply Rule 1 (All + All = All)
+All cats are animals + All animals are mammals → All cats are mammals ✅ → Conclusion I follows
 
-### Example 2 (All + No)
+Step 2: Check Conclusion II using valid conversion
+"All cats are mammals" converts to "Some mammals are cats" ✅ → Conclusion II follows
 
-**Statements:**
-1. All pens are books.
-2. No book is a pencil.
-
-**Conclusions:**
-- I. No pen is a pencil.
-- II. Some books are pens.
-
-**Solution:**
-- Rule 2: All + No = No → No pen is a pencil ✅ (I follows)
-- Statement 1 converted: Some books are pens ✅ (II follows)
-
-**Both follow.** ✅
+**✅ Answer: Both I and II follow.**
 
 ---
 
-### Example 3 (Some + All)
+### Example 2
 
-**Statements:**
-1. Some dogs are cats.
-2. All cats are birds.
+**❓ Question:** Statements: All pens are books. No book is a pencil. Conclusions: I. No pen is a pencil. II. Some books are pens.
 
-**Conclusions:**
-- I. Some dogs are birds.
-- II. All birds are dogs.
+**🤔 What I understood:**
+- Given: All pens are books; No book is a pencil
+- Find: Which conclusions follow?
 
-**Solution:**
-- Rule 3: Some + All = Some → Some dogs are birds ✅ (I follows)
-- "All birds are dogs" cannot be concluded ✗ (II doesn't follow)
+**💡 What I'll use:** Apply syllogism rules (All+No=No), then check valid conversion
 
-**Only I follows.** ✅
+**✏️ My Solution:**
+
+Step 1: Apply Rule 2 (All + No = No)
+All pens are books + No book is a pencil → No pen is a pencil ✅ → Conclusion I follows
+
+Step 2: Check Conclusion II using valid conversion
+"All pens are books" converts to "Some books are pens" ✅ → Conclusion II follows
+
+**✅ Answer: Both follow.**
 
 ---
 
-### Example 4 (Reversed order — link the middle term)
+### Example 3
 
-**Statements:**
-1. All flowers are trees.
-2. Some flowers are plants.
+**❓ Question:** Statements: Some dogs are cats. All cats are birds. Conclusions: I. Some dogs are birds. II. All birds are dogs.
 
-**Conclusions:**
-- I. Some trees are plants.
-- II. All plants are flowers.
+**🤔 What I understood:**
+- Given: Some dogs are cats; All cats are birds
+- Find: Which conclusions follow?
 
-**Solution:**
-- Statement 1: All flowers → trees (flowers are a subset of trees)
-- Statement 2: Some flowers are plants
-- Since some flowers are trees AND some flowers are plants → some trees are plants ✅ (I follows)
-- "All plants are flowers" — we only know SOME flowers are plants, so ALL plants being flowers is too strong ✗ (II doesn't follow)
+**💡 What I'll use:** Apply syllogism rules (Some+All=Some)
 
-**Only I follows.** ✅
+**✏️ My Solution:**
+
+Step 1: Apply Rule 3 (Some + All = Some)
+Some dogs are cats + All cats are birds → Some dogs are birds ✅ → Conclusion I follows
+
+Step 2: Check Conclusion II
+"All birds are dogs" cannot be concluded from the given statements — it is too strong ✗ → Conclusion II does not follow
+
+**✅ Answer: Only I follows.**
+
+---
+
+### Example 4
+
+**❓ Question:** Statements: All flowers are trees. Some flowers are plants. Conclusions: I. Some trees are plants. II. All plants are flowers.
+
+**🤔 What I understood:**
+- Given: All flowers are trees; Some flowers are plants
+- Find: Which conclusions follow?
+
+**💡 What I'll use:** Link the middle term (flowers) across both statements
+
+**✏️ My Solution:**
+
+Step 1: Use Statement 1 — flowers are a subset of trees
+All flowers are trees, so every flower is also a tree
+
+Step 2: Link with Statement 2
+Some flowers are plants → since those same flowers are also trees → Some trees are plants ✅ → Conclusion I follows
+
+Step 3: Check Conclusion II
+We only know SOME flowers are plants, not ALL plants are flowers — that claim is too strong ✗ → Conclusion II does not follow
+
+**✅ Answer: Only I follows.**
 
 ---
 
