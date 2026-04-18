@@ -168,3 +168,7 @@ Where:
 8. 10000×1.1³ − 10000 = 13310−10000 = **₹3310**
 9. 2000×1.2² − 2000 = 2880−2000 = **₹880**
 10. SI = 400. T = (400×100)/(800×10) = **5 years**
+
+## Formula Sheet
+
+- [Formula-Sheet.md](./Formula-Sheet.md) — Use this first to pick the right formula/rule and jump to examples.

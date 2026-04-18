@@ -26,6 +26,10 @@ Matrices and Determinants are core math topics for MCA PGCET. Expect **3–5 que
 - Any matrix × Identity = same matrix
 - If |A| = 0 → matrix is singular (no inverse)
 
+## Formula Sheet
+
+- [Formula-Sheet.md](./Formula-Sheet.md) — Use this first to pick the right formula/rule and jump to examples.
+
 ## Study Order
 
 Pattern 1 (Types and Operations) → Pattern 2 (Determinants and Inverse). Know operations before determinants.

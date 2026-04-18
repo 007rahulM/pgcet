@@ -18,3 +18,7 @@ This is **30% of the MCA PGCET exam**. Do NOT skip this section!
 ## Quick Tip
 
 Computer Awareness has **factual questions** — they don't require solving. Just remember the concept/fact. Study these topics for **guaranteed marks**.
+
+## Formula Sheet
+
+- [Formula-Sheet.md](./Formula-Sheet.md) — Use this first to pick the right formula/rule and jump to examples.

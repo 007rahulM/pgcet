@@ -28,6 +28,10 @@ Statistics covers data analysis including averages, spread, and frequency distri
 - Multiplying by k: Mean ×k, SD ×|k|, Variance ×k²
 - All values equal: SD = 0
 
+## Formula Sheet
+
+- [Formula-Sheet.md](./Formula-Sheet.md) — Use this first to pick the right formula/rule and jump to examples.
+
 ## Study Order
 
 Pattern 1 → Pattern 2 → Pattern 3. Learn individual measures before grouped data formulas.

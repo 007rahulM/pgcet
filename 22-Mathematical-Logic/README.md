@@ -25,6 +25,10 @@ Mathematical Logic tests propositional logic, truth tables, and logical equivale
 - **Contrapositive:** p → q ≡ ¬q → ¬p
 - **Implication as OR:** p → q ≡ ¬p ∨ q
 
+## Formula Sheet
+
+- [Formula-Sheet.md](./Formula-Sheet.md) — Use this first to pick the right formula/rule and jump to examples.
+
 ## Study Order
 
 Pattern 1 (Truth Tables) → Pattern 2 (Equivalences). You must know truth tables before studying equivalences.

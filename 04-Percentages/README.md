@@ -178,3 +178,7 @@ One of the **most frequently asked topics** in MCA PGCET. Expect **2–4 questio
 8. 1000 × 0.9 × 0.9 = **810**
 9. A = 1.3B → B = A/1.3. Diff = 0.3/1.3 × 100 = **23.08%**
 10. 48/0.6 = **80**
+
+## Formula Sheet
+
+- [Formula-Sheet.md](./Formula-Sheet.md) — Use this first to pick the right formula/rule and jump to examples.

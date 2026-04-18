@@ -14,6 +14,10 @@ This is one of the **most scoring topics** in MCA PGCET reasoning section. Expec
 
 > **ALWAYS draw a family tree! Never try to solve in your head.**
 
+## Formula Sheet
+
+- [Formula-Sheet.md](./Formula-Sheet.md) — Use this first to pick the right formula/rule and jump to examples.
+
 ## Study Order
 
 Go through Pattern 1 → 2 → 3 in order. Each pattern builds on the previous.

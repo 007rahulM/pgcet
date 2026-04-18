@@ -17,6 +17,10 @@ General English tests grammar, vocabulary, and reading comprehension. Expect **1
 - **Tenses:** "just/already/since/for" → Present Perfect; "yesterday/ago" → Simple Past
 - **Subject-Verb:** Collective nouns (team, family) = singular verb
 
+## Formula Sheet
+
+- [Formula-Sheet.md](./Formula-Sheet.md) — Use this first to pick the right formula/rule and jump to examples.
+
 ## Study Order
 
 Pattern 1 (Grammar) → Pattern 2 (Vocabulary) → Pattern 3 (Comprehension/Errors).

@@ -180,3 +180,7 @@ Expect **3–5 questions** in MCA PGCET. These are high-scoring, formula-driven 
 8. (1/2)³ = **1/8**
 9. 12/52 = **3/13**
 10. P(at least one) = 1 − P(none) = 1 − (1/3 × 1/4) = 1 − 1/12 = **11/12**
+
+## Formula Sheet
+
+- [Formula-Sheet.md](./Formula-Sheet.md) — Use this first to pick the right formula/rule and jump to examples.

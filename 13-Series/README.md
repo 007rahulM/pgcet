@@ -18,6 +18,10 @@ This topic tests pattern recognition. Expect **3–5 questions** in MCA PGCET.
 4. Do differences themselves form a pattern? → Second differences
 5. Letters → convert to numbers (A=1...Z=26), find the pattern
 
+## Formula Sheet
+
+- [Formula-Sheet.md](./Formula-Sheet.md) — Use this first to pick the right formula/rule and jump to examples.
+
 ## Study Order
 
 Go through Pattern 1 first (numbers), then Pattern 2 (letters). Both use the same core approach.

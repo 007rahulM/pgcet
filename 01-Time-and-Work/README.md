@@ -18,6 +18,10 @@ This is one of the **most frequently asked topics** in MCA PGCET. Expect **2–4
 
 This one trick lets you avoid fractions and solve problems fast!
 
+## Formula Sheet
+
+- [Formula-Sheet.md](./Formula-Sheet.md) — Use this first to pick the right formula/rule and jump to examples.
+
 ## Study Order
 
 Go through Pattern 1 → 2 → 3 → 4 → 5 in order. Each pattern builds on the previous.

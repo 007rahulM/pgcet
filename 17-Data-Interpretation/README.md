@@ -26,6 +26,10 @@ Data Interpretation (DI) tests your ability to read and analyze presented data. 
 3. Use approximation for MCQs
 4. For caselets: extract all numbers before solving
 
+## Formula Sheet
+
+- [Formula-Sheet.md](./Formula-Sheet.md) — Use this first to pick the right formula/rule and jump to examples.
+
 ## Study Order
 
 Pattern 1 → Pattern 2 → Pattern 3. Tables are simplest, caselets are trickiest.

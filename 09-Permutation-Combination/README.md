@@ -178,3 +178,7 @@ One of the most important topics. Expect **3–5 questions** in MCA PGCET.
 8. 8C2 − 8 = 28 − 8 = **20**
 9. 5C3 = **10**
 10. 10C2 = **45**
+
+## Formula Sheet
+
+- [Formula-Sheet.md](./Formula-Sheet.md) — Use this first to pick the right formula/rule and jump to examples.

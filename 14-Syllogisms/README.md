@@ -27,6 +27,10 @@ Syllogisms test **logical reasoning** using given statements to draw valid concl
 - "Some A are B" → "Some B are A" ✅
 - "Some A are not B" → No valid reversal ✗
 
+## Formula Sheet
+
+- [Formula-Sheet.md](./Formula-Sheet.md) — Use this first to pick the right formula/rule and jump to examples.
+
 ## Study Order
 
 Pattern 1 → Pattern 2. Master the basic rules first, then tackle either-or and three-statement problems.

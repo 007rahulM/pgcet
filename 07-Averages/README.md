@@ -150,3 +150,7 @@ Appears in almost every competitive exam. Expect **2–3 questions** in MCA PGCE
 6. 10 workers sum = 50000. Total = 50000+15000 = 65000. n=11. Avg = 65000/11 ≈ **₹5909**
 7. Sum of 30 = 750. First 16 sum = 368. Last 15 sum = 405. 16th = 750−368−405+16th... (First 16 + last 15 = 31 = 30+16th counted twice). 16th = 368+405−750 = **23**
 8. New sum = 25×60 + 70+80+90 = 1500+240=1740. n=28. Avg = 1740/28 ≈ **62.14**
+
+## Formula Sheet
+
+- [Formula-Sheet.md](./Formula-Sheet.md) — Use this first to pick the right formula/rule and jump to examples.

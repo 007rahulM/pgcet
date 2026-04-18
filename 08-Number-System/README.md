@@ -186,3 +186,7 @@ Foundational topic that appears in many forms. Expect **2–4 questions** in MCA
 6. LCM(15,20,25) = 300 min = 5 hours. Next = **3 PM**
 7. First = 105, Last = 994. Count = (994−105)/7 + 1 = 889/7 + 1 = 127+1 = **128**
 8. LCM(4,6) = 12. Multiples of 12 from 1-100: 12,24,36,48,60,72,84,96 → **8 numbers**
+
+## Formula Sheet
+
+- [Formula-Sheet.md](./Formula-Sheet.md) — Use this first to pick the right formula/rule and jump to examples.

@@ -154,3 +154,7 @@ If a:b and b:c are given, find a:b:c → make **b common**
 6. A = 5/8 × 56 = 35, B = 3/8 × 56 = **A=35, B=21**
 7. Mixture 12L: milk=9, water=3. Add 4L water → milk=9, water=7. Ratio = **9:7**
 8. Ratio = 2:3:4. B's share = 3/9 × 1800 = **₹600**
+
+## Formula Sheet
+
+- [Formula-Sheet.md](./Formula-Sheet.md) — Use this first to pick the right formula/rule and jump to examples.

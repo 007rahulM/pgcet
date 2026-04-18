@@ -25,6 +25,10 @@ Seating arrangement tests your spatial reasoning. Expect **2–4 questions** in 
 - "Opposite" = n/2 seats away in n-person circle
 - Facing center: Right = clockwise, Left = counterclockwise
 
+## Formula Sheet
+
+- [Formula-Sheet.md](./Formula-Sheet.md) — Use this first to pick the right formula/rule and jump to examples.
+
 ## Study Order
 
 Pattern 1 (Linear) → Pattern 2 (Circular). Linear is simpler — master it first.

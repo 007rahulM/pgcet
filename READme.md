@@ -6,6 +6,7 @@ Every topic includes:
 - ✅ Simple concept explanation (the "why" and "how")
 - ✅ Key formulas (no overcomplication)
 - ✅ Step-by-step solved examples with detailed explanations
+- ✅ Topic-wise `Formula-Sheet.md` to quickly choose the right formula/rule and jump to examples
 - ✅ 60-second shortcuts
 - ✅ Practice problems with full answers
 - ✅ Previous year question patterns (2019–2023)

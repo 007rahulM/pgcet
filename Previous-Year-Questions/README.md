@@ -47,3 +47,7 @@ These represent the **exact types and patterns** of questions that appear. Some 
 8. Direction Sense — **90% frequency**
 9. Probability basics — **80% frequency**
 10. Seating arrangement — **80% frequency**
+
+## Formula Sheet
+
+- [Formula-Sheet.md](./Formula-Sheet.md) — Use this first to pick the right formula/rule and jump to examples.

@@ -25,3 +25,7 @@ This topic appears in almost every competitive exam. Expect **3–5 questions** 
 Always remember to **convert units** before solving:
 - km/h → m/s: multiply by 5/18
 - m/s → km/h: multiply by 18/5
+
+## Formula Sheet
+
+- [Formula-Sheet.md](./Formula-Sheet.md) — Use this first to pick the right formula/rule and jump to examples.

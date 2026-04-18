@@ -27,6 +27,10 @@ Set theory and relations are fundamental math topics. Expect **2–4 questions**
 - **Transitive:** (a,b) and (b,c) ∈ R → (a,c) ∈ R
 - **Equivalence:** All three above
 
+## Formula Sheet
+
+- [Formula-Sheet.md](./Formula-Sheet.md) — Use this first to pick the right formula/rule and jump to examples.
+
 ## Study Order
 
 Pattern 1 (Sets/Venn diagrams — word problems) → Pattern 2 (Relations/Functions — theory).

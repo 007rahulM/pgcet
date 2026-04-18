@@ -18,3 +18,7 @@ Expect **2–4 questions** in MCA PGCET. Mostly straightforward formula applicat
 - **MP** = Marked Price (listed/labelled price)
 - **Profit** = SP > CP
 - **Loss** = SP < CP
+
+## Formula Sheet
+
+- [Formula-Sheet.md](./Formula-Sheet.md) — Use this first to pick the right formula/rule and jump to examples.

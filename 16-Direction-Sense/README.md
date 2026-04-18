@@ -27,6 +27,10 @@ Direction sense tests spatial reasoning with maps and compass directions. Expect
 | South | West | East |
 | West | North | South |
 
+## Formula Sheet
+
+- [Formula-Sheet.md](./Formula-Sheet.md) — Use this first to pick the right formula/rule and jump to examples.
+
 ## Study Order
 
 Pattern 1 (Basic path problems) → Pattern 2 (Advanced multi-person problems).
