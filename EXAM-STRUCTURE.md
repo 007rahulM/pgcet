@@ -63,6 +63,7 @@
 | Computer Networks & Internet | 2–3 | Medium |
 | Algorithms & Complexity | 2–3 | Hard |
 | Software Engineering basics | 1–2 | Easy |
+| Logic Gates & Boolean Algebra | 1–2 | Easy |
 
 ### 3. Analytical & Logical Reasoning (~20–25 questions)
 

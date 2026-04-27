@@ -14,6 +14,7 @@ This is **30% of the MCA PGCET exam**. Do NOT skip this section!
 | [06-DBMS-and-SQL.md](./06-DBMS-and-SQL.md) | Database concepts, SQL queries | 2–3 |
 | [07-Computer-Networks.md](./07-Computer-Networks.md) | OSI model, TCP/IP, Internet basics | 2–3 |
 | [08-Programming-in-C.md](./08-Programming-in-C.md) | Data types, loops, functions, pointers | 3–4 |
+| [09-Software-Engineering.md](./09-Software-Engineering.md) | SDLC, Testing, OOP, UML | 1–2 |
 
 ## Quick Tip
 

@@ -56,6 +56,7 @@ Every topic includes:
 | 18f | DBMS & SQL | [18-Computer-Awareness/06-DBMS-and-SQL.md](./18-Computer-Awareness/06-DBMS-and-SQL.md) | 2–3 Qs |
 | 18g | Computer Networks | [18-Computer-Awareness/07-Computer-Networks.md](./18-Computer-Awareness/07-Computer-Networks.md) | 2–3 Qs |
 | 18h | Programming in C | [18-Computer-Awareness/08-Programming-in-C.md](./18-Computer-Awareness/08-Programming-in-C.md) | 3–4 Qs |
+| 18i | Software Engineering | [18-Computer-Awareness/09-Software-Engineering.md](./18-Computer-Awareness/09-Software-Engineering.md) | 1–2 Qs |
 
 ### 🧠 Analytical & Logical Reasoning
 
@@ -68,6 +69,7 @@ Every topic includes:
 | 15 | Seating Arrangement | [15-Seating-Arrangement](./15-Seating-Arrangement/) | 3–4 Qs |
 | 16 | Direction Sense | [16-Direction-Sense](./16-Direction-Sense/) | 2–3 Qs |
 | 17 | Data Interpretation | [17-Data-Interpretation](./17-Data-Interpretation/) | 3–4 Qs |
+| 24 | Analogy & Classification | [24-Analogy-and-Classification](./24-Analogy-and-Classification/) | 2–3 Qs |
 
 ### 📝 General English
 
@@ -84,6 +86,14 @@ Every topic includes:
 | [Master-Revision-Sheet.md](./Revision-Sheets/Master-Revision-Sheet.md) | ALL formulas in one place |
 | [Computer-Awareness-Revision.md](./Revision-Sheets/Computer-Awareness-Revision.md) | All CS quick facts |
 | [Math-and-Reasoning-Revision.md](./Revision-Sheets/Math-and-Reasoning-Revision.md) | All Math + Reasoning formulas |
+
+---
+
+## 🔮 Predicted 2026 Paper
+
+| Document | Contents |
+|----------|---------|
+| **[Predicted-2026-Paper/PGCET-MCA-2026-Predicted-Paper.md](./Predicted-2026-Paper/PGCET-MCA-2026-Predicted-Paper.md)** | Full 100-question predicted paper with answers and solutions |
 
 ---
 
