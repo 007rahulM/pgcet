@@ -206,3 +206,87 @@ What does this query do?
 
 **2019 (Pattern):** 2, 3, 5, 8, 13, ?
 **Answer:** 21 (Fibonacci: each = sum of previous two)
+
+---
+
+## 📐 TOPIC 14: Regression & Correlation (PYQs) ⭐ NEW 2025
+
+**2025-Q17:** Lines of regression: 4x−5y+33=0 (y on x) and 20x−9y=107 (x on y). Correlation coefficient?
+**Answer:** 0.6 → byx=4/5=0.8, bxy=9/20=0.45, r=√(0.8×0.45)=√0.36=0.6
+
+---
+
+## 📐 TOPIC 15: Skewness (PYQs) ⭐ NEW 2025
+
+**2025-Q18:** Frequency distribution with mean 45, skewed. What type?
+**Key Rule:** If Mean > Median > Mode → Positively skewed. If Mean < Median < Mode → Negatively skewed.
+
+---
+
+## 📐 TOPIC 16: Binomial Theorem (PYQs) ⭐ NEW 2025
+
+**2025-Q4:** Coefficients of three consecutive terms in (1+a)ⁿ are in AP. Find n.
+**Answer:** 55 → Standard result: if C(n,r-1), C(n,r), C(n,r+1) are in AP, then n=55
+
+**2025-Q5 (P&C):** Word DAUGHTER — arrangements so all vowels DON'T occur together.
+**Answer:** 8!−6!×3! = 40320−4320 = 36000
+
+---
+
+## 📐 TOPIC 17: Data Sufficiency (PYQs) ⭐ NEW 2025
+
+**2025-Q31:** How is X related to Y? A: X is Y's sister. B: Z is father of X and Y.
+**Answer:** Both together not sufficient (gender of Y still unknown from A; B only tells they're siblings)
+
+**2025-Q32:** In code '297'=clear blue sky. Which number means 'sky'?
+A: '926'=clear blue colour. B: '175'=dark cloudy sky.
+**Answer:** B alone sufficient → 175=dark cloudy sky; 297=clear blue sky; common=7=sky
+
+---
+
+## 📐 TOPIC 18: 2's Complement & BCD (PYQs) ⭐ NEW 2025
+
+**2025-Q25:** Range of 8-bit 2's complement: **−128 to +127**
+
+**2025-Q24:** BCD of 85₁₀ = **1000 0101** (8→1000, 5→0101)
+
+**2025-Q26:** −53 in 2's complement (8-bit): +53=00110101 → Flip=11001010 → +1=**11001011**
+
+---
+
+## 📐 TOPIC 19: General Awareness — Business & Finance (PYQs) ⭐ NEW 2024/2025
+
+**2024-Q34:** Porter's Five Forces — all four options (threat of new entrants, supplier power, buyer power, competitive rivalry) are correct.
+
+**2024-Q33:** Gantt chart primarily displays: **Project schedule**
+
+**2024-Q37:** NOT in Tuckman's Model: **Stabilizing** (correct stages: Forming→Storming→Norming→Performing→Adjourning)
+
+**2024-Q36:** Primary functions of Central Bank: regulating money supply, supervising commercial banks, setting interest rates (NOT government revenue collection).
+
+**2025-Q46:** Cabotage = Transportation of goods/passengers **within a country** by domestic carriers.
+
+**2025-Q51:** ADAS uses **LIDAR** (Light Detection and Ranging) to detect obstacles.
+
+**2025-Q50:** PMSBY accidental death coverage = **Rs. Two Lakhs**
+
+---
+
+## 📐 TOPIC 20: Cause & Effect / Dice / Odd Reasoning (PYQs) ⭐ NEW 2025
+
+**2025-Dice Q:** Two positions of dice shown. Find digit on face opposite to 4. **Answer: 5**
+
+**2025-Cause&Effect:** A huge truck overturned on road last night. Police cordoned off area next morning.
+**Answer:** Statement A is the cause and Statement B is its effect.
+
+---
+
+## 📐 TOPIC 21: General Awareness — Healthcare & India (PYQs) ⭐ NEW 2024/2025
+
+**2025-Q48:** Xiaomi-Foxconn plant established in: **Tamil Nadu**
+
+**2025-Q49:** Vitamin deficiencies: Vitamin D → weak bones ✓; Vitamin C deficiency → scurvy (NOT Vitamin B)
+
+**2024-Q43:** Initiative to reduce child mortality: **Millennium Development Goals (MDGs)**
+
+**2024-Q35:** Historical events: 1971=Indo-Soviet Treaty, 1974=Nuclear Test, 1975=Emergency, 1984=Indira Gandhi assassination

@@ -16,10 +16,12 @@ These represent the **exact types and patterns** of questions that appear. Some 
 
 | File | Contents |
 |------|----------|
+| [2025-Questions.md](./2025-Questions.md) | KEA PGCET MCA 2025 — Full paper extracted via OCR (64 Qs documented) |
+| [2024-Questions.md](./2024-Questions.md) | KEA PGCET MCA 2024 — Key questions extracted via OCR |
 | [2023-Questions.md](./2023-Questions.md) | KEA PGCET MCA 2023 — ~50 representative questions |
 | [2022-Questions.md](./2022-Questions.md) | KEA PGCET MCA 2022 — ~50 representative questions |
 | [2021-Questions.md](./2021-Questions.md) | KEA PGCET MCA 2021 — ~50 representative questions |
-| [Topic-wise-PYQ.md](./Topic-wise-PYQ.md) | All PYQs organized by topic |
+| [Topic-wise-PYQ.md](./Topic-wise-PYQ.md) | All PYQs organized by topic (updated with 2024–2025) |
 
 ---
 

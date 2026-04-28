@@ -175,6 +175,69 @@ Answer: 00111111₂
 2. Flip: 1010
 3. Add 1: **1011** ✅
 
+**Example:** 2's complement of −53 (8-bit):
+1. +53 = 00110101
+2. Flip: 11001010
+3. Add 1: **11001011** ✅
+
+### Range of n-bit 2's Complement:
+> For **n bits** in 2's complement: range = **−2^(n-1)** to **2^(n-1) − 1**
+
+| Bits | Min | Max |
+|------|-----|-----|
+| 8-bit | −128 | +127 |
+| 16-bit | −32768 | +32767 |
+| 32-bit | −2,147,483,648 | +2,147,483,647 |
+
+> ⚠️ **PGCET 2025 asked:** Range in 8 bits = **−128 to +127** (NOT −127 to +127!)
+
+---
+
+## 🔢 BCD — Binary Coded Decimal
+
+**BCD** encodes each **decimal digit separately** using 4 bits (a nibble).
+
+| Decimal Digit | BCD Code |
+|--------------|----------|
+| 0 | 0000 |
+| 1 | 0001 |
+| 2 | 0010 |
+| 3 | 0011 |
+| 4 | 0100 |
+| 5 | 0101 |
+| 6 | 0110 |
+| 7 | 0111 |
+| 8 | 1000 |
+| 9 | 1001 |
+
+**Example:** BCD of 85₁₀:
+- 8 → 1000
+- 5 → 0101
+- BCD(85) = **1000 0101** ✅
+
+> ⚠️ **Key difference:** BCD is NOT the same as binary!
+> - Binary of 85 = 1010101
+> - BCD of 85 = 1000 0101
+
+**Example:** BCD of 39₁₀ = 0011 1001
+
+---
+
+## 🔢 ASCII Representation
+
+**ASCII** (American Standard Code for Information Interchange) encodes characters:
+
+| Character | ASCII Code (Decimal) | Binary |
+|-----------|---------------------|--------|
+| A | 65 | 1000001 |
+| Z | 90 | 1011010 |
+| a | 97 | 1100001 |
+| 0 | 48 | 0110000 |
+| Space | 32 | 0100000 |
+
+> **Key fact from syllabus:** ASCII uses 7 bits (128 characters). Extended ASCII uses 8 bits (256 characters).
+> **UTF-8** is the default character encoding in HTML5.
+
 ---
 
 ## ⚡ 60-Second Shortcut
