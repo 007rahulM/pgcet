@@ -9,7 +9,6 @@
 **Difficulty:** Medium  
 **Success Rate:** 70% if formulas are memorized
 
-This is your BIGGEST gap right now. 2025 paper had 8 questions from this topic alone!
 
 ---
 
