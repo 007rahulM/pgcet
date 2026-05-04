@@ -39,7 +39,7 @@ Every topic includes:
 | 8 | Number System (HCF, LCM) | [08-Number-System](./08-Number-System/) | 2–3 Qs |
 | 9 | Permutation & Combination | [09-Permutation-Combination](./09-Permutation-Combination/) | 2–3 Qs |
 | 10 | Probability | [10-Probability](./10-Probability/) | 2–3 Qs |
-| 11 | Quadratic Equations | [QUADRATIC EQUATIONS.md](./QUADRATIC%20EQUATIONS.md) | 1–2 Qs |
+| 11 | Quadratic Equations | [QUADRATIC-EQUATIONS.md](./QUADRATIC-EQUATIONS.md) | 2–4 Qs |
 | 12 | Coordinate Geometry | [COORDINATE GEOMETRY.md](./COORDINATE%20GEOMETRY.md) | 3–4 Qs |
 | 13 | Trigonometry | [TRIGONOMETRY.md](./TRIGONOMETRY.md) | 2–3 Qs |
 | 19 | Statistics (Mean, SD, Variance) | [19-Statistics](./19-Statistics/) | 2–3 Qs |
