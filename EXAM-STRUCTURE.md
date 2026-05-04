@@ -24,8 +24,9 @@
 |---|---------|------------------|-------|----------|
 | 1 | **Mathematical Aptitude** | 35–40 | 35–40 | 🔴 HIGHEST |
 | 2 | **Computer Awareness** | 25–30 | 25–30 | 🔴 HIGHEST |
-| 3 | **Analytical & Logical Reasoning** | 20–25 | 20–25 | 🟡 HIGH |
-| 4 | **General English** | 10–15 | 10–15 | 🟢 MEDIUM |
+| 3 | **Analytical & Logical Reasoning** | 18–22 | 18–22 | 🟡 HIGH |
+| 4 | **General Awareness** | 10–15 | 10–15 | 🟡 HIGH |
+| 5 | **General English** | 10–12 | 10–12 | 🟢 MEDIUM |
 
 ---
 
@@ -78,7 +79,17 @@
 | Data Interpretation | 3–4 | Medium |
 | Analogy & Classification | 2–3 | Easy |
 
-### 4. General English (~10–15 questions)
+### 4. General Awareness (~10–15 questions)
+
+| Topic | Expected Questions | Difficulty |
+|-------|--------------------|-----------|
+| Business & Finance (markets, P/E ratio, central bank) | 3–4 | Medium |
+| Entrepreneurship & Business Models | 2–3 | Medium |
+| Governance & Healthcare Schemes | 2–3 | Easy |
+| Transportation & Industry terms (Cabotage, Intermodal) | 1–2 | Easy |
+| Scientific inventions & tech trends | 1–2 | Easy |
+
+### 5. General English (~10–12 questions)
 
 | Topic | Expected Questions | Difficulty |
 |-------|--------------------|-----------|
@@ -132,8 +143,9 @@
 - [ ] Computer Networks & Internet
 - [ ] Programming in C
 
-### Week 6 — Reasoning + English + Revision
+### Week 6 — Reasoning + General Awareness + English + Revision
 - [ ] Logical Reasoning (all patterns)
+- [ ] General Awareness (Business, Finance, Governance)
 - [ ] General English
 - [ ] Solve previous year question papers
 - [ ] Practice revision sheets
@@ -184,15 +196,16 @@ pgcet/
 ## 🔑 Key Insights from Previous Year Papers
 
 1. **Computer Awareness has grown** — from ~20% to ~30% of the paper
-2. **Binary/Hexadecimal conversions** appear every year (2–3 Qs)
-3. **Time & Work** and **Profit & Loss** are consistent (2–3 Qs each)
-4. **Data Structures** (especially Stack, Queue, Tree) asked frequently
-5. **SQL queries** (SELECT, WHERE, ORDER BY) appear in DBMS section
-6. **Series questions** have increased in recent years
-7. **Reading comprehension** passage is always 1 paragraph with 3–4 questions
-8. **Probability** and **P&C** together account for 4–6 questions
-9. **Mathematical Logic** (truth tables, tautology) is a scoring topic
-10. **Direction Sense** and **Blood Relations** are always present
+2. **General Awareness section added** — 10–15 questions in 2024–2025 papers
+3. **Binary/Hexadecimal conversions** appear every year (2–3 Qs)
+4. **Time & Work** and **Profit & Loss** are consistent (2–3 Qs each)
+5. **Data Structures** (especially Stack, Queue, Tree) asked frequently
+6. **SQL queries** (SELECT, WHERE, ORDER BY) appear in DBMS section
+7. **Series questions** have increased in recent years
+8. **Reading comprehension** passage is always 1 paragraph with 3–4 questions
+9. **Probability** and **P&C** together account for 4–6 questions
+10. **Mathematical Logic** (truth tables, tautology) is a scoring topic
+11. **Direction Sense** and **Blood Relations** are always present
 
 ---
 

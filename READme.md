@@ -8,7 +8,7 @@ Every topic includes:
 - ✅ Step-by-step solved examples with detailed explanations
 - ✅ 60-second shortcuts
 - ✅ Practice problems with full answers
-- ✅ Previous year question patterns (2019–2023)
+- ✅ Previous year question patterns (2019–2025)
 - ✅ Quick revision sheets for last-minute prep
 
 ---
@@ -19,7 +19,7 @@ Every topic includes:
 |----------|-----------|
 | **[EXAM-STRUCTURE.md](./EXAM-STRUCTURE.md)** | Exam pattern, weightage, 6-week study plan |
 | **[Revision-Sheets/Master-Revision-Sheet.md](./Revision-Sheets/Master-Revision-Sheet.md)** | All formulas on ONE page |
-| **[Previous-Year-Questions/](./Previous-Year-Questions/)** | PYQs from 2021–2023 |
+| **[Previous-Year-Questions/](./Previous-Year-Questions/)** | PYQs from 2021–2025 |
 
 ---
 
@@ -71,6 +71,12 @@ Every topic includes:
 | 17 | Data Interpretation | [17-Data-Interpretation](./17-Data-Interpretation/) | 3–4 Qs |
 | 24 | Analogy & Classification | [24-Analogy-and-Classification](./24-Analogy-and-Classification/) | 2–3 Qs |
 
+### 🌍 General Awareness (NEW — 10–15 Questions!)
+
+| # | Topic | Folder | Exam Weight |
+|---|-------|--------|------------|
+| 27 | Business, Finance, Governance, Healthcare, Entrepreneurship | [27-General-Awareness](./27-General-Awareness/) | 10–15 Qs |
+
 ### 📝 General English
 
 | # | Topic | File | Exam Weight |
@@ -106,7 +112,7 @@ Every topic includes:
 | Week 3 | P&C, Probability, Statistics, Matrices, Logic |
 | Week 4 | Computer Awareness Part 1 (Binary, Hardware, DS, Algorithms) |
 | Week 5 | Computer Awareness Part 2 (OS, DBMS, Networks, C) |
-| Week 6 | Reasoning + English + Previous Year Papers + Revision Sheets |
+| Week 6 | Reasoning + General Awareness + English + PYQs + Revision Sheets |
 
 ---
 

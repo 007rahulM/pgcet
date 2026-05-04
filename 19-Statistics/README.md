@@ -9,6 +9,8 @@ Statistics covers data analysis including averages, spread, and frequency distri
 | [Pattern1-Mean-Median-Mode.md](./Pattern1-Mean-Median-Mode.md) | Central tendency | "Find average/median/most frequent value" |
 | [Pattern2-Variance-and-SD.md](./Pattern2-Variance-and-SD.md) | Measures of spread | "Find standard deviation / variance / range" |
 | [Pattern3-Frequency-Distribution.md](./Pattern3-Frequency-Distribution.md) | Grouped data / frequency tables | Class intervals 0-10, 10-20... or frequency tables |
+| [Pattern4-Regression-and-Correlation.md](./Pattern4-Regression-and-Correlation.md) | Correlation & regression | Regression lines, correlation coefficient |
+| [Pattern5-Skewness-and-Kurtosis.md](./Pattern5-Skewness-and-Kurtosis.md) | Skewness & kurtosis | Mean/Median/Mode order, peakedness |
 
 ## Quick Reference
 

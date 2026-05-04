@@ -240,6 +240,26 @@ Answer: 00111111₂
 
 ---
 
+## 🧠 Floating-Point Representation (Basics)
+
+Floating-point is used to represent **real numbers** (decimals) in binary form.
+
+### General Form (Binary):
+```
+± 1.mantissa × 2^exponent
+```
+
+### Example:
+Convert 13.25₁₀ to binary:
+- 13 = 1101₂ and 0.25 = 0.01₂ → 13.25 = **1101.01₂**
+- Normalized form: **1.10101 × 2³**
+
+**Key idea:** We store a **sign bit**, **exponent**, and **mantissa (fraction)**.
+
+> ⚠️ **PGCET focus:** identify normalized form and basic conversion steps.
+
+---
+
 ## ⚡ 60-Second Shortcut
 
 ### Powers of 2 (memorize!):

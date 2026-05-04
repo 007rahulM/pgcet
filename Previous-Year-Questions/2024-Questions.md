@@ -1,7 +1,8 @@
 # KEA MCA PGCET 2024 — Previous Year Questions
 
 > **Source:** Extracted via OCR from the PGCET MCA 2024 Question Paper.
-> Note: 2024 paper had lower scan quality; key questions extracted and reconstructed.
+> Note: 2024 paper had lower scan quality; key questions extracted and reconstructed.  
+> **OCR note:** Some option labels are blurred — such questions are marked accordingly.
 
 ---
 
@@ -64,23 +65,27 @@ Passage about astrologers who have an excuse for wrong predictions — emergence
 ## SECTION B: MATHEMATICAL APTITUDE
 
 **Q13 (Train Problem).** A man standing on a railway bridge 180m long. A train crosses the bridge in 20 seconds and him in 8 seconds. Length of train:
-- (1) 120m  (2) 160m  **(3) 120m**  (4) 100m
+- (1) 120m  (2) 160m  (3) 90m  (4) 100m
 
 **Solution:** Let train length = L. Speed = L/8. Bridge crossing: (L+180)/speed = 20. → (L+180)/L × 8 = 20 → L+180 = 2.5L → 1.5L = 180 → **L = 120m**
 
 ---
 
 **Q14 (Ratio — Partnership).** Four milkmen rented a pasture. A grazed 24 cows for 3 months, B 10 cows for 5 months, C 35 cows for 4 months, D 21 cows for 3 months. If A's share = ₹720, total rent:
-- **(1) ₹3000**  (2) ₹2250  (3) ₹4000  (4) ₹3250
+- (1) ₹3000  (2) ₹2250  (3) ₹4000  (4) ₹3250
 
-**Solution:** Proportional amounts: A=24×3=72, B=10×5=50, C=35×4=140, D=21×3=63. Total = 325. A's fraction = 72/325. 72/325 × Total = 720 → Total = 720×325/72 = **₹3250**
+**Answer (calculated): ₹3250**  
+**Solution:** Proportional amounts: A=24×3=72, B=10×5=50, C=35×4=140, D=21×3=63. Total = 325. A's fraction = 72/325. 72/325 × Total = 720 → Total = 720×325/72 = **₹3250**.  
+**OCR note:** Option labels may be blurred — verify from PDF.
 
 ---
 
 **Q15 (Profit).** CP = ₹632, SP = ₹765, total profit earned = ₹1596. Number of articles sold:
-- (1) 12  (2) 14  **(3) 12**  (4) 10
+- (1) 12  (2) 14  (3) 12  (4) 10
 
-**Solution:** Profit per article = 765−632 = ₹133. Number = 1596/133 = **12 articles**
+**Answer (calculated): 12 articles**  
+**Solution:** Profit per article = 765−632 = ₹133. Number = 1596/133 = **12 articles**.  
+**OCR note:** Option labels may be blurred — verify from PDF.
 
 ---
 
@@ -92,26 +97,27 @@ Passage about astrologers who have an excuse for wrong predictions — emergence
 ---
 
 **Q17 (Logarithm).** If log₅2, log₅(2⁵) and log₅(2−5) are in AP, then x is:
-- (1) 4, 2  (2) 2, 4  (3) log₂4  **(4) None of the above**
+- (1) 4, 2  (2) 2, 4  (3) log₂4  (4) None of the above
+**OCR note:** Question text is incomplete in the scan — verify from PDF.
 
 ---
 
 **Q18 (Quadratic — Roots).** If sum of roots of ax² + bx + c = 0 equals sum of their reciprocals, then c/a, a/b, b/c are in:
-- **(1) AP**  (2) GP  (3) HP  (4) None of the above
-
-**Solution:** Sum of roots = −b/a. Sum of reciprocals = (sum of roots)/(product of roots) = (−b/a)/(c/a) = −b/c. So −b/a = −b/c → a = c (only if b≠0). Then the three quantities c/a, a/b, b/c = 1, a/b, b/a are in AP if 2(a/b) = 1 + b/a → 2a²= ab + b² which simplifies properly.
+- (1) AP  (2) GP  (3) HP  (4) None of the above
+**Key idea:** Sum of roots = −b/a and sum of reciprocals = −b/c, so a = c when b ≠ 0.  
+**OCR note:** Option labels are unclear — verify from PDF.
 
 ---
 
 **Q19 (Inverse Trig).** If cot⁻¹(n/π) > π/4, n ∈ N, maximum value of n:
-- (1) 1  (2) 5  (3) 9  **(4) 8**
-
-**Solution:** cot⁻¹(n/π) > π/4 → n/π < cot(π/4) = 1 → n < π ≈ 3.14. Maximum natural number n < 3.14 is... Wait: should be n can be 1, 2, 3. Max = 3? Source says answer = (4) but let's check: If question asks max n such that cot⁻¹(n/π) > π/6, then n/π < cot(π/6) = √3 → n < π√3 ≈ 5.44 → max n = 5. Answer depends on original question.
+- (1) 1  (2) 5  (3) 9  (4) 8
+**OCR note:** Option labels are unclear — verify from PDF.
 
 ---
 
 **Q20.** The probability that A passes test = 2/3, B passes same test = 5/9. Probability that only one passes:
-- **(2) 4/9**
+**Key idea (if independent):** P(only one) = P(A) + P(B) − 2P(A∩B) = 2/3 + 5/9 − 2×(10/27) = 13/27.  
+**OCR note:** Option labels are unclear — verify from PDF.
 
 ---
 
@@ -120,9 +126,8 @@ Passage about astrologers who have an excuse for wrong predictions — emergence
 ---
 
 **Q22 (Bayes Theorem).** Chance house collapses if design is faulty = 95%, if not faulty = 45%. House collapsed. Probability due to faulty design:
-- **(1) 0.91**
-
-**Solution:** Bayes theorem: P(faulty|collapsed) = P(collapsed|faulty)×P(faulty) / P(collapsed). If P(faulty)=0.5: = 0.95×0.5/(0.95×0.5 + 0.45×0.5) = 0.475/0.7 ≈ **0.679**. Without prior probability, assuming both equally likely.
+**Key idea:** Use Bayes' theorem; prior probability of faulty design is not visible in the scan.  
+**OCR note:** Verify the missing prior and options in the PDF.
 
 ---
 
@@ -184,8 +189,9 @@ Passage about astrologers who have an excuse for wrong predictions — emergence
 ---
 
 **Q32 (Road/Logic).** 6 roads: X, Y, Z, 1, 2, 3. Storm blocks Y. Flood blocks X, 1, 2. Road 1 blocked also blocks Z. During both flood AND storm, roads available:
-- (1) Only Y  **(2) Only Z**  Wait: flood blocks X, 1, 2; 1 blocked also blocks Z; storm blocks Y. During flood+storm: X blocked (flood), Y blocked (storm), 1 blocked (flood), 2 blocked (flood), Z blocked (1 is blocked). Only 3 is available.
-- Answer: **(3) Only 3**
+- (1) Only Y  (2) Only Z  (3) Only 3  (4) Z and 2
+**Answer (calculated): Only 3**  
+**Solution:** Flood blocks X, 1, 2; road 1 blocked also blocks Z. Storm blocks Y. Only road **3** remains open.
 
 ---
 
