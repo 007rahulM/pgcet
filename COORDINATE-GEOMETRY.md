@@ -77,11 +77,11 @@ ax² + 2hxy + by² + 2gx + 2fy + c = 0
 ```
 This can represent **two straight lines**.
 
-**Angle between the pair:**
+**Angle between the pair (for a ≠ b):**
 ```
 tan θ = 2h / (a - b)
 ```
-**Note:** If **a = b**, tanθ is undefined:
+**If a = b**, tanθ is undefined:
 - **a = b and h ≠ 0** → lines are perpendicular (θ = 90°)
 - **a = b and h = 0** → lines are parallel/coincident
 
@@ -473,7 +473,7 @@ In exam:
 ## 🚀 FINAL TIPS
 
 1. **First 5 minutes of exam:** Jot down all formulas on rough paper
-2. **Coordinate geometry comes first in Math section** - do it fresh
+2. **Coordinate geometry often comes early in the Math section** - do it fresh
 3. **Don't panic with negative signs** - they're just directions
 4. **Verify foci fall on correct axis** - saves silly mistakes
 5. **Use elimination in MCQs** - especially for circle radius (must be positive!)
