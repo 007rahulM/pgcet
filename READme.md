@@ -41,7 +41,7 @@ Every topic includes:
 | 10 | Probability | [10-Probability](./10-Probability/) | 2–3 Qs |
 | 11 | Algebra Basics (identities, equations, logs, progressions) | [ALGEBRA-BASICS.md](./ALGEBRA-BASICS.md) | 3–5 Qs |
 | 12 | Quadratic Equations | [QUADRATIC-EQUATIONS.md](./QUADRATIC-EQUATIONS.md) | 2–4 Qs |
-| 13 | Coordinate Geometry | [COORDINATE GEOMETRY.md](./COORDINATE%20GEOMETRY.md) | 3–4 Qs |
+| 13 | Coordinate Geometry | [COORDINATE-GEOMETRY.md](./COORDINATE-GEOMETRY.md) | 3–4 Qs |
 | 14 | Trigonometry | [TRIGONOMETRY.md](./TRIGONOMETRY.md) | 2–3 Qs |
 | 15 | Boolean Algebra | [BOOLEAN-ALGEBRA.md](./BOOLEAN-ALGEBRA.md) | 1–3 Qs |
 | 19 | Statistics (Mean, SD, Variance) | [19-Statistics](./19-Statistics/) | 2–3 Qs |
