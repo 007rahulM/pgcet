@@ -180,7 +180,7 @@ tan⁻¹(x) + cot⁻¹(x) = π/2
 
 ---
 
-### 6. SPECIAL ANGLE CONVERSIONS
+### 8. SPECIAL ANGLE CONVERSIONS
 
 **Negative Angles:**
 ```

@@ -66,4 +66,4 @@ y − ȳ = 1.6 (x − x̄)
 **Answers:**  
 1) No linear correlation  
 2) Strong negative  
-3) r = ±√(b_yx b_xy) = ±1. Here both regression coefficients are positive, so r = +1
+3) r = ±√(b_yx b_xy) = ±1. Here b_yx and b_xy are both positive, so r = +1
