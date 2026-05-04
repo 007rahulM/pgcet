@@ -70,6 +70,41 @@ m = (y₂ - y₁)/(x₂ - x₁)
 
 ---
 
+### 3A. PAIR OF STRAIGHT LINES
+**General second-degree form:**
+```
+ax² + 2hxy + by² + 2gx + 2fy + c = 0
+```
+This can represent **two straight lines**.
+
+**Angle between the pair:**
+```
+tan θ = 2h / (a - b)
+```
+
+**If it passes through origin:** c = 0  
+
+---
+
+### 3B. SIMPLE TRANSFORMATIONS
+**Translation:**  
+```
+(x, y) → (x + h, y + k)
+```
+
+**Rotation by θ:**  
+```
+x' = x cosθ - y sinθ
+y' = x sinθ + y cosθ
+```
+
+**Scaling:**  
+```
+(x, y) → (kx, ky)
+```
+
+---
+
 ### 4. CIRCLE
 
 **General Form:**

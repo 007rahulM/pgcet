@@ -9,6 +9,7 @@ Expect **3–5 questions** in MCA PGCET. These are high-scoring, formula-driven 
 | [01-Basic-Probability.md](./01-Basic-Probability.md) | Sample spaces, coins, dice, cards, basic P formula |
 | [02-Compound-Events.md](./02-Compound-Events.md) | AND/OR rules, independent events, "at least one" |
 | [03-Standard-Problems.md](./03-Standard-Problems.md) | Card, ball, dice problem patterns, conditional probability |
+| [04-Random-Variables.md](./04-Random-Variables.md) | Random variables, expectation, variance |
 
 ## Quick Reference
 

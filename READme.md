@@ -39,9 +39,11 @@ Every topic includes:
 | 8 | Number System (HCF, LCM) | [08-Number-System](./08-Number-System/) | 2–3 Qs |
 | 9 | Permutation & Combination | [09-Permutation-Combination](./09-Permutation-Combination/) | 2–3 Qs |
 | 10 | Probability | [10-Probability](./10-Probability/) | 2–3 Qs |
-| 11 | Quadratic Equations | [QUADRATIC-EQUATIONS.md](./QUADRATIC-EQUATIONS.md) | 2–4 Qs |
-| 12 | Coordinate Geometry | [COORDINATE GEOMETRY.md](./COORDINATE%20GEOMETRY.md) | 3–4 Qs |
-| 13 | Trigonometry | [TRIGONOMETRY.md](./TRIGONOMETRY.md) | 2–3 Qs |
+| 11 | Algebra Basics (identities, equations, logs, progressions) | [ALGEBRA-BASICS.md](./ALGEBRA-BASICS.md) | 3–5 Qs |
+| 12 | Quadratic Equations | [QUADRATIC-EQUATIONS.md](./QUADRATIC-EQUATIONS.md) | 2–4 Qs |
+| 13 | Coordinate Geometry | [COORDINATE GEOMETRY.md](./COORDINATE%20GEOMETRY.md) | 3–4 Qs |
+| 14 | Trigonometry | [TRIGONOMETRY.md](./TRIGONOMETRY.md) | 2–3 Qs |
+| 15 | Boolean Algebra | [BOOLEAN-ALGEBRA.md](./BOOLEAN-ALGEBRA.md) | 1–3 Qs |
 | 19 | Statistics (Mean, SD, Variance) | [19-Statistics](./19-Statistics/) | 2–3 Qs |
 | 20 | Sets & Relations | [20-Sets-and-Relations](./20-Sets-and-Relations/) | 2–3 Qs |
 | 21 | Matrices & Determinants | [21-Matrices-and-Determinants](./21-Matrices-and-Determinants/) | 2–3 Qs |
@@ -52,6 +54,7 @@ Every topic includes:
 | # | Topic | File | Exam Weight |
 |---|-------|------|------------|
 | 18a | Number Systems (Binary/Hex) | [18-Computer-Awareness/01-Number-Systems.md](./18-Computer-Awareness/01-Number-Systems.md) | 3–4 Qs |
+| 18i | Data Representation & Binary Arithmetic | [18-Computer-Awareness/09-Data-Representation-and-Binary-Arithmetic.md](./18-Computer-Awareness/09-Data-Representation-and-Binary-Arithmetic.md) | 2–3 Qs |
 | 18b | Computer Fundamentals | [18-Computer-Awareness/02-Computer-Fundamentals.md](./18-Computer-Awareness/02-Computer-Fundamentals.md) | 3–4 Qs |
 | 18c | Data Structures | [18-Computer-Awareness/03-Data-Structures.md](./18-Computer-Awareness/03-Data-Structures.md) | 3–4 Qs |
 | 18d | Algorithms & Complexity | [18-Computer-Awareness/04-Algorithms.md](./18-Computer-Awareness/04-Algorithms.md) | 2–3 Qs |
@@ -71,6 +74,12 @@ Every topic includes:
 | 15 | Seating Arrangement | [15-Seating-Arrangement](./15-Seating-Arrangement/) | 3–4 Qs |
 | 16 | Direction Sense | [16-Direction-Sense](./16-Direction-Sense/) | 2–3 Qs |
 | 17 | Data Interpretation | [17-Data-Interpretation](./17-Data-Interpretation/) | 3–4 Qs |
+
+### 🌍 General Awareness
+
+| # | Topic | File | Exam Weight |
+|---|-------|------|------------|
+| 24 | Business, Finance, Industry, Governance, Healthcare, Culture | [GENERAL-AWARENESS.md](./GENERAL-AWARENESS.md) | Varies |
 
 ### 📝 General English
 

@@ -105,7 +105,51 @@ tan 2A = 2tan A/(1 - tan²A)
 
 ---
 
-### 5. INVERSE TRIGONOMETRIC FUNCTIONS
+### 5. TRIGONOMETRIC EQUATIONS (BASIC SOLUTIONS)
+
+```
+sin x = 0  →  x = nπ
+cos x = 0  →  x = (2n+1)π/2
+tan x = 0  →  x = nπ
+```
+
+**If sin x = a:**  
+```
+x = sin⁻¹(a) or (π - sin⁻¹(a))
+```
+
+**If cos x = a:**  
+```
+x = ± cos⁻¹(a)
+```
+
+**If tan x = a:**  
+```
+x = tan⁻¹(a) + nπ
+```
+
+---
+
+### 6. PROPERTIES OF TRIANGLES
+
+**Sine Rule:**
+```
+a/sin A = b/sin B = c/sin C
+```
+
+**Cosine Rule:**
+```
+c² = a² + b² - 2ab cos C
+```
+
+**Area of triangle:**
+```
+Area = (1/2)ab sin C
+```
+
+---
+
+### 7. INVERSE TRIGONOMETRIC FUNCTIONS
 
 **Principal Value Ranges (CRITICAL!):**
 
