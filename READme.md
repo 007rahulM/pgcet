@@ -79,7 +79,7 @@ Every topic includes:
 
 | # | Topic | File | Exam Weight |
 |---|-------|------|------------|
-| 24 | Business, Finance, Industry, Governance, Healthcare, Culture | [GENERAL-AWARENESS.md](./GENERAL-AWARENESS.md) | Varies |
+| 18 | Business, Finance, Industry, Governance, Healthcare, Culture | [GENERAL-AWARENESS.md](./GENERAL-AWARENESS.md) | Varies |
 
 ### 📝 General English
 

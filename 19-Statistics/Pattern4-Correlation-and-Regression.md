@@ -66,5 +66,4 @@ y − ȳ = 1.6 (x − x̄)
 **Answers:**  
 1) No linear correlation  
 2) Strong negative  
-3) r = √(b_yx b_xy) = √(1) = 1 (positive)
-
+3) r = ±√(b_yx b_xy) = ±1. Since both b's are positive → r = +1

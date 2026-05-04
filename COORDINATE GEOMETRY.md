@@ -81,6 +81,7 @@ This can represent **two straight lines**.
 ```
 tan θ = 2h / (a - b)
 ```
+**Note:** Use when **a ≠ b** (otherwise denominator is zero).
 
 **If it passes through origin:** c = 0  
 
