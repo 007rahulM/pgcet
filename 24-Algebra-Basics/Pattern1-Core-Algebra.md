@@ -12,7 +12,7 @@
 This file covers the **missing Algebra topics** from the syllabus:
 Expansion, Factorization, Linear/Simultaneous equations, Indices & Logarithms, Progressions, and Binomial Theorem.
 
-> **Quadratic equations** are covered separately in [QUADRATIC-EQUATIONS.md](./QUADRATIC-EQUATIONS.md).
+> **Quadratic equations** are covered separately in [25-Quadratic-Equations](../25-Quadratic-Equations/).
 
 ---
 
@@ -203,4 +203,3 @@ Term with x²: C(4,2) x² 2^2 = 6 × 4 = 24
 4. For AP/GP, write the formula first, then plug values.
 
 **Master these = guaranteed Algebra marks.**
-

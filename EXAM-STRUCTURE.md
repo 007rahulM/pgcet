@@ -174,6 +174,13 @@ pgcet/
 ├── 21-Matrices-and-Determinants/
 ├── 22-Mathematical-Logic/      ← Propositions, Truth tables
 ├── 23-General-English/         ← Grammar, Vocabulary, Comprehension
+├── 24-Algebra-Basics/
+├── 25-Quadratic-Equations/
+├── 26-Coordinate-Geometry/
+├── 27-Trigonometry/
+├── 28-Boolean-Algebra/
+├── 29-General-Awareness/
+├── 30-Counting-Figures/
 ├── Previous-Year-Questions/    ← PYQ 2019–2023 organized by year
 └── Revision-Sheets/            ← Quick-reference cheat sheets
 ```

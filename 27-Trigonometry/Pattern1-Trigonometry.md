@@ -147,6 +147,15 @@ c² = a² + b² - 2ab cos C
 Area = (1/2)ab sin C
 ```
 
+**Triangle diagram (angle C between sides a and b):**
+```
+      /\\
+     /  \\
+  b / C  \\ a
+   /______\\
+       c
+```
+
 ---
 
 ### 7. INVERSE TRIGONOMETRIC FUNCTIONS

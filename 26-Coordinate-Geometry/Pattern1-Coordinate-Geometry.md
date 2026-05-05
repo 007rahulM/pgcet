@@ -24,6 +24,18 @@ d = √[(x₂ - x₁)² + (y₂ - y₁)²]
 
 **60-Second Trick:** Just Pythagoras! Horizontal difference squared + Vertical difference squared, then square root.
 
+**Quick Diagram (two points on a plane):**
+```
+      y
+      ^
+      |
+  B * | (x₂, y₂)
+      |
+  A * | (x₁, y₁)
+      |
+------+----------------> x
+```
+
 ---
 
 ### 2. MIDPOINT FORMULA

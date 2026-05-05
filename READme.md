@@ -39,11 +39,11 @@ Every topic includes:
 | 8 | Number System (HCF, LCM) | [08-Number-System](./08-Number-System/) | 2–3 Qs |
 | 9 | Permutation & Combination | [09-Permutation-Combination](./09-Permutation-Combination/) | 2–3 Qs |
 | 10 | Probability | [10-Probability](./10-Probability/) | 2–3 Qs |
-| 11 | Algebra Basics (identities, equations, logs, progressions) | [ALGEBRA-BASICS.md](./ALGEBRA-BASICS.md) | 3–5 Qs |
-| 12 | Quadratic Equations | [QUADRATIC-EQUATIONS.md](./QUADRATIC-EQUATIONS.md) | 2–4 Qs |
-| 13 | Coordinate Geometry | [COORDINATE-GEOMETRY.md](./COORDINATE-GEOMETRY.md) | 3–4 Qs |
-| 14 | Trigonometry | [TRIGONOMETRY.md](./TRIGONOMETRY.md) | 2–3 Qs |
-| 15 | Boolean Algebra | [BOOLEAN-ALGEBRA.md](./BOOLEAN-ALGEBRA.md) | 1–3 Qs |
+| 11 | Algebra Basics (identities, equations, logs, progressions) | [24-Algebra-Basics](./24-Algebra-Basics/) | 3–5 Qs |
+| 12 | Quadratic Equations | [25-Quadratic-Equations](./25-Quadratic-Equations/) | 2–4 Qs |
+| 13 | Coordinate Geometry | [26-Coordinate-Geometry](./26-Coordinate-Geometry/) | 3–4 Qs |
+| 14 | Trigonometry | [27-Trigonometry](./27-Trigonometry/) | 2–3 Qs |
+| 15 | Boolean Algebra | [28-Boolean-Algebra](./28-Boolean-Algebra/) | 1–3 Qs |
 | 19 | Statistics (Mean, SD, Variance) | [19-Statistics](./19-Statistics/) | 2–3 Qs |
 | 20 | Sets & Relations | [20-Sets-and-Relations](./20-Sets-and-Relations/) | 2–3 Qs |
 | 21 | Matrices & Determinants | [21-Matrices-and-Determinants](./21-Matrices-and-Determinants/) | 2–3 Qs |
@@ -74,12 +74,13 @@ Every topic includes:
 | 15 | Seating Arrangement | [15-Seating-Arrangement](./15-Seating-Arrangement/) | 3–4 Qs |
 | 16 | Direction Sense | [16-Direction-Sense](./16-Direction-Sense/) | 2–3 Qs |
 | 17 | Data Interpretation | [17-Data-Interpretation](./17-Data-Interpretation/) | 3–4 Qs |
+| 17a | Counting Figures (Triangles/Squares) | [30-Counting-Figures](./30-Counting-Figures/) | 1–2 Qs |
 
 ### 🌍 General Awareness
 
-| # | Topic | File | Exam Weight |
-|---|-------|------|------------|
-| 18 | Business, Finance, Industry, Governance, Healthcare, Culture | [GENERAL-AWARENESS.md](./GENERAL-AWARENESS.md) | Varies |
+| # | Topic | Folder | Exam Weight |
+|---|-------|--------|------------|
+| 18 | Business, Finance, Industry, Governance, Healthcare, Culture | [29-General-Awareness](./29-General-Awareness/) | Varies |
 
 ### 📝 General English
 
