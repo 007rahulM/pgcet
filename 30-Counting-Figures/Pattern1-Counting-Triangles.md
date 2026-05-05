@@ -50,6 +50,27 @@ Step 3: Total = 4 + 4 = 8
 
 ---
 
+## 🔥 Example 2 (Single Diagonal)
+
+```
+A------B
+|\\     |
+| \\    |
+|  \\   |
+|   \\  |
+|    \\ |
+|     \\|
+D------C
+```
+
+**Count:**
+- Small triangles: 2
+- Large triangle (whole square): 0 (not a triangle)
+
+**✅ Total triangles = 2**
+
+---
+
 ## 📝 Practice Problems
 
 1. Count triangles in a triangle divided into 4 equal smaller triangles.

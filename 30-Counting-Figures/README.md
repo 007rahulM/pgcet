@@ -9,7 +9,9 @@ Counting triangles, squares, rectangles, and cubes falls under visual/spatial re
 | [Pattern1-Counting-Triangles.md](./Pattern1-Counting-Triangles.md) | Triangles in a diagram | "How many triangles" |
 | [Pattern2-Counting-Squares-and-Rectangles.md](./Pattern2-Counting-Squares-and-Rectangles.md) | Squares/rectangles in grids | "How many squares/rectangles" |
 | [Pattern3-Counting-Cubes.md](./Pattern3-Counting-Cubes.md) | Cubes in 3D blocks | "How many cubes" |
+| [Pattern4-Counting-Triangles-in-Grids.md](./Pattern4-Counting-Triangles-in-Grids.md) | Triangles in triangular grids | "How many triangles in a triangle" |
+| [Pattern5-Counting-Stacked-Cubes.md](./Pattern5-Counting-Stacked-Cubes.md) | Cubes in layered stacks | "How many cubes in pyramid" |
 
 ## Study Order
 
-Start with triangles, then squares/rectangles, then cubes.
+Start with triangles, then grids, then squares/rectangles, and finish with cubes.

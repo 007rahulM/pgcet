@@ -63,16 +63,55 @@
 - n(A∪B∪C) = n(A)+n(B)+n(C) − n(A∩B) − n(B∩C) − n(A∩C) + n(A∩B∩C)
 - Subsets of n-element set = **2ⁿ**
 
+### Algebra (Core)
+- Identities: (a+b)², (a−b)², a²−b² = (a−b)(a+b)
+- Linear equation: **ax + b = 0 → x = −b/a**
+- Simultaneous: **x = (c1b2 − c2b1)/(a1b2 − a2b1)**
+- Indices: a^m × a^n = a^(m+n); (a^m)^n = a^(mn)
+- Logs: log(xy) = log x + log y; log(x^n) = n log x
+- AP: a_n = a + (n−1)d; **S_n = n/2[2a+(n−1)d]**
+- GP: a_n = ar^(n−1); **S_n = a(r^n−1)/(r−1)**
+- Binomial: (a+b)^n = Σ C(n,k)a^(n−k)b^k
+
+### Trigonometry
+- sin²θ + cos²θ = 1; 1 + tan²θ = sec²θ
+- sin(A±B)=sinA cosB ± cosA sinB
+- cos(A±B)=cosA cosB ∓ sinA sinB
+- sin2A=2sinA cosA; cos2A=cos²A−sin²A
+- Sine rule: a/sinA = b/sinB = c/sinC
+- Cosine rule: c² = a² + b² − 2ab cosC
+
+### Coordinate Geometry
+- Distance: √[(x₂−x₁)² + (y₂−y₁)²]
+- Midpoint: ((x₁+x₂)/2, (y₁+y₂)/2)
+- Slope: m=(y₂−y₁)/(x₂−x₁)
+- Line: y−y₁ = m(x−x₁)
+- Circle: (x−h)² + (y−k)² = r²
+
 ### Statistics
 - Mean = Σx/n
 - Median = middle value (sorted); even n = average of two middles
 - Mode = most frequent
 - Variance = **Σ(x−x̄)²/n**
 - SD = **√Variance**
+- Correlation: r = cov(x,y)/(σx σy)
+- Regression: y − ȳ = b_yx (x − x̄); b_yx = r(σy/σx)
 
 ### Matrices
 - 2×2 determinant: **ad − bc**
 - Inverse: **(1/|A|) × Adj(A)**; only if |A| ≠ 0
+- Cramer's rule (2×2): x = |D_x|/|D|, y = |D_y|/|D|
+
+### Boolean Algebra
+- A + 0 = A; A · 1 = A
+- A + A' = 1; A · A' = 0
+- De Morgan: (A+B)' = A'·B'; (A·B)' = A' + B'
+
+### Counting Figures
+- Squares in n×n grid: 1²+2²+...+n²
+- Rectangles in m×n grid: [m(m+1)/2]×[n(n+1)/2]
+- Cubes in n×n×n: 1³+2³+...+n³
+
 
 ### Mathematical Logic
 - AND (∧): T only if BOTH T

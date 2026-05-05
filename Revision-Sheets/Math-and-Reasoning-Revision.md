@@ -61,6 +61,42 @@ Make middle term equal when combining ratios
 Partnership: Profit ∝ Capital × Time
 ```
 
+## 📘 Algebra Basics
+```
+(a+b)^2 = a^2 + 2ab + b^2
+(a-b)^2 = a^2 - 2ab + b^2
+a^2 - b^2 = (a-b)(a+b)
+```
+```
+ax + b = 0 → x = -b/a
+x = (c1b2 - c2b1) / (a1b2 - a2b1)
+```
+```
+log(xy)=logx+logy; log(x^n)=n log x
+```
+
+## 📐 Coordinate Geometry
+```
+Distance = √[(x2-x1)^2 + (y2-y1)^2]
+Midpoint = ((x1+x2)/2, (y1+y2)/2)
+Slope m = (y2-y1)/(x2-x1)
+Line: y - y1 = m(x - x1)
+Circle: (x-h)^2 + (y-k)^2 = r^2
+```
+
+## 📏 Trigonometry
+```
+sin^2θ + cos^2θ = 1
+sin(A±B) = sinA cosB ± cosA sinB
+cos(A±B) = cosA cosB ∓ sinA sinB
+sin2A = 2 sinA cosA
+cos2A = cos^2A - sin^2A
+```
+```
+Sine rule: a/sinA = b/sinB = c/sinC
+Cosine rule: c^2 = a^2 + b^2 - 2ab cosC
+```
+
 ## 🔤 Permutation & Combination
 ```
 nPr = n!/(n−r)!           [ORDER matters]
@@ -100,12 +136,35 @@ SD = √Variance
 ```
 **Key property:** Adding constant to all → mean changes, SD unchanged
 
+### Correlation & Regression
+```
+r = cov(x,y)/(σx σy)
+cov(x,y) = Σ[(x-x̄)(y-ȳ)]/n
+y - ȳ = b_yx (x - x̄)
+b_yx = r(σy/σx)
+```
+
 ## 🔲 Matrices
 ```
 2×2 det = ad−bc
 A⁻¹ = (1/det) × adj(A)   [only if det≠0]
 A×I = A (identity property)
 |AB| = |A|×|B|
+```
+
+## 🔢 Boolean Algebra
+```
+A + 0 = A; A·1 = A
+A + A' = 1; A·A' = 0
+(A+B)' = A'·B'
+(A·B)' = A' + B'
+```
+
+## 🧩 Counting Figures
+```
+Squares in n×n = 1^2 + 2^2 + ... + n^2
+Rectangles in m×n = [m(m+1)/2]×[n(n+1)/2]
+Cubes in n×n×n = 1^3 + 2^3 + ... + n^3
 ```
 
 ## 🔮 Logic

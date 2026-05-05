@@ -7,6 +7,9 @@ Covers the core algebra topics in the syllabus: expansion, factorization, linear
 | File | Pattern | Recognition Clue |
 |------|---------|-----------------|
 | [Pattern1-Core-Algebra.md](./Pattern1-Core-Algebra.md) | Identities, equations, logs, progressions | "Expand", "Factorize", "Solve linear", "Find term" |
+| [Pattern2-Linear-Equations.md](./Pattern2-Linear-Equations.md) | Linear & simultaneous equations | "Solve the system", "sum and difference" |
+| [Pattern3-Indices-and-Logarithms.md](./Pattern3-Indices-and-Logarithms.md) | Exponents and log laws | "Simplify powers", "log rules" |
+| [Pattern4-Progressions-and-Binomial.md](./Pattern4-Progressions-and-Binomial.md) | AP/GP/HP + binomial | "Find nth term", "Coefficient" |
 
 ## Related Topics
 
@@ -14,4 +17,4 @@ Covers the core algebra topics in the syllabus: expansion, factorization, linear
 
 ## Study Order
 
-Start with Pattern 1 and revise the formula sheet before practice problems.
+Start with Pattern 1, then follow patterns 2 → 3 → 4 in order.

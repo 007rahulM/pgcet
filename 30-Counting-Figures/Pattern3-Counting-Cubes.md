@@ -16,6 +16,11 @@ Total unit cubes = n³
 1³ + 2³ + 3³ + ... + n³ = [n(n+1)/2]²
 ```
 
+**Unit cubes in an m×n×p block:**
+```
+Total unit cubes = m × n × p
+```
+
 ## 📌 Example (3×3×3 Cube)
 
 - Unit cubes = 3³ = 27
@@ -38,6 +43,18 @@ Step 3: 3³ = 27
 Step 4: Total = 1 + 8 + 27 = 36
 
 **✅ Answer: 36**
+
+---
+
+## 🔥 Example 2 (Rectangular Block)
+
+**❓ Question:** How many unit cubes in a 4×3×2 block?
+
+**✏️ My Solution:**
+```
+4 × 3 × 2 = 24
+```
+**✅ Answer: 24**
 
 ---
 

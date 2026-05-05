@@ -11,6 +11,11 @@ Use formulas for grid counting instead of manual counting.
 1² + 2² + 3² + ... + n² = n(n+1)(2n+1)/6
 ```
 
+**Squares in an m×n grid (m ≤ n):**
+```
+1^2 + 2^2 + ... + m^2
+```
+
 **Rectangles in an m×n grid:**
 ```
 [m(m+1)/2] × [n(n+1)/2]
@@ -43,6 +48,19 @@ Step 3: 2×3/2 = 3
 Step 4: Total rectangles = 6 × 3 = 18
 
 **✅ Answer: 18**
+
+---
+
+## 🔥 Example 2 (Squares in 4×4 Grid)
+
+**❓ Question:** How many squares in a 4×4 grid?
+
+**✏️ My Solution:**
+```
+1^2 + 2^2 + 3^2 + 4^2 = 1 + 4 + 9 + 16 = 30
+```
+
+**✅ Answer: 30**
 
 ---
 
