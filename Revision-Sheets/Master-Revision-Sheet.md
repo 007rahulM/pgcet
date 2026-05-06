@@ -99,7 +99,7 @@
 ### Matrices
 - **When to use:** determinant or inverse
 - **Formula:** 2×2 det = ad − bc
-- **Micro‑example:** [[1,2],[3,4]] → det = −2
+- **Micro‑example:** [[1,2],[3,4]] → det = (1×4 − 2×3) = −2
 - **Pattern:** [Pattern2-Determinants-and-Inverse](../21-Matrices-and-Determinants/Pattern2-Determinants-and-Inverse.md)
 
 ### Boolean Algebra
