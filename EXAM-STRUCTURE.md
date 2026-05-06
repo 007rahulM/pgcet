@@ -88,6 +88,89 @@
 
 ---
 
+## 📄 Syllabus Extract (KEA PGCET 2025–26 PDF)
+
+### Mathematics
+- **Algebra:** Fundamental operations, expansion, factorization, simultaneous linear/quadratic equations, indices, logarithms, AP/GP/HP, binomial theorem, permutations & combinations, determinants, matrices, sets.
+- **Coordinate Geometry:** Cartesian coordinates, line equations, midpoint, intersections, circles, pair of straight lines, parabola, ellipse, hyperbola, translation/rotation/scaling.
+- **Boolean Algebra:** Basic operations, evaluation of expressions, postulates.
+- **Trigonometry:** Identities, trig equations, properties of triangles, inverse functions.
+- **Probability & Statistics:** Probability basics, dependent/independent events, frequency distributions, dispersion, skewness, kurtosis, correlation/regression, random variables.
+
+### Computer Awareness
+- Computer basics, CPU, I/O, memory, programming languages, software types, internet/web/database basics.
+- Data representation (binary/ASCII/hex), binary arithmetic, 2’s complement, floating‑point (normalized).
+- Operating systems: evolution, types, functions, modern OS.
+
+### Analytical & Logical Reasoning
+- Logical reasoning, quantitative reasoning, visuospatial reasoning.
+
+### General Awareness
+- Business, finance, industry, transportation, scientific inventions, governance, healthcare, cultural dimensions, entrepreneurship, business communication.
+
+### General English
+- Grammar, vocabulary, comprehension, synonyms/antonyms, sentence correction, jumbled paragraphs.
+
+---
+
+## 🗂️ PYQ Topic Signals (OCR from 2021–2023 PDFs)
+
+OCR text extraction from the official PDFs shows repeated question signals around:
+- **Algebra & sequences:** equations, binomial coefficients, progressions
+- **Trigonometry:** sin/cos/tan evaluations and identities
+- **Coordinate geometry:** circles, conics, slope/distance
+- **Statistics:** mean/variance, correlation/regression
+- **Computer awareness:** OS concepts, DBMS/SQL, data representation
+- **Reasoning:** coding‑decoding, series, syllogisms, direction sense
+- **General awareness:** country/minister/bank/important days
+
+These signals are cross‑linked in the coverage matrix below.
+
+---
+
+## 🧭 Syllabus‑to‑Folder Coverage Matrix
+
+| Syllabus Topic | Folder(s) | Coverage Status | Notes |
+|---|---|---|---|
+| Algebra operations, equations, indices/logs, AP/GP/HP, binomial | [24-Algebra-Basics](./24-Algebra-Basics/) | ✅ Expanded | Added factorization pattern to close sub‑area gap |
+| Quadratic equations | [25-Quadratic-Equations](./25-Quadratic-Equations/) | ✅ Expanded | Single‑pattern gap resolved (discriminant + roots) |
+| Permutations & combinations | [09-Permutation-Combination](./09-Permutation-Combination/) | ✅ Covered | Separate permutation/combination patterns already present |
+| Determinants & matrices | [21-Matrices-and-Determinants](./21-Matrices-and-Determinants/) | ✅ Covered | Determinant + inverse patterns |
+| Sets & relations | [20-Sets-and-Relations](./20-Sets-and-Relations/) | ✅ Covered | Venn + relations patterns |
+| Coordinate geometry (lines, circles, conics, transformations) | [26-Coordinate-Geometry](./26-Coordinate-Geometry/) | ✅ Expanded | Single‑pattern gap resolved (lines/circles/conics) |
+| Boolean algebra (laws, evaluation) | [28-Boolean-Algebra](./28-Boolean-Algebra/) | ✅ Expanded | Single‑pattern gap resolved (truth tables + laws) |
+| Trigonometry (identities, equations, triangle properties) | [27-Trigonometry](./27-Trigonometry/) | ✅ Expanded | Added heights & distances pattern |
+| Probability + random variables | [10-Probability](./10-Probability/) | ✅ Covered | Random variables file already present |
+| Statistics (dispersion, skewness/kurtosis, correlation/regression) | [19-Statistics](./19-Statistics/) | ✅ Expanded | Added regression prediction pattern |
+| Computer basics + I/O + memory | [18-Computer-Awareness](./18-Computer-Awareness/) | ✅ Covered | Files cover CPU, memory, hardware |
+| Data representation + binary arithmetic | [18-Computer-Awareness](./18-Computer-Awareness/) | ✅ Covered | Floating point & 2’s complement included |
+| Operating systems | [18-Computer-Awareness](./18-Computer-Awareness/) | ✅ Covered | OS file present |
+| Logical/quantitative/visuospatial reasoning | [11–17](./11-Blood-Relations/) + [30-Counting-Figures](./30-Counting-Figures/) | ✅ Expanded | Added composite grid counting variant |
+| General awareness (business/governance/science/culture) | [29-General-Awareness](./29-General-Awareness/) | ✅ Expanded | Single‑pattern gap resolved (4 syllabus lanes) |
+| General English (grammar/vocab/comprehension) | [23-General-English](./23-General-English/) | ✅ Covered | Grammar, vocab, comprehension patterns |
+
+---
+
+## 🧩 Standard Pattern Template
+
+Every topic folder should follow this structure:
+1. **README** with a pattern table + recognition clues  
+2. **Numbered pattern files** with:  
+   - **When this comes up** (cue words)  
+   - **Core idea + key formulas**  
+   - **Worked example**  
+   - **Practice questions**  
+
+Use this template for new/underfilled folders and keep the naming consistent with existing pattern numbers.
+
+---
+
+## 📁 Revision Sheets (New Structure)
+
+- **Formula Sheet (usage cues + micro examples):** [Master-Revision-Sheet.md](./Revision-Sheets/Master-Revision-Sheet.md)  
+- **Full Prep Revision (syllabus ordered):** [Full-Prep-Revision.md](./Revision-Sheets/Full-Prep-Revision.md)  
+- Topic‑wise quick sheets: [Math-and-Reasoning](./Revision-Sheets/Math-and-Reasoning-Revision.md), [Computer-Awareness](./Revision-Sheets/Computer-Awareness-Revision.md)
+
 ## 🏆 Score Targets
 
 | Score | What It Means |
@@ -205,12 +288,12 @@ pgcet/
 ## 🚨 Do NOT Skip These Topics
 
 These topics appear in **EVERY year's paper** without exception:
-- Binary number conversions
-- Time & Work (LCM method)
-- Profit & Loss percentage
-- Set theory (n(A∪B) formula)
-- Coding-Decoding
-- Data Structures (Stack/Queue)
-- SQL SELECT basics
-- Direction Sense
-- Series completion
+- [Binary number conversions](./18-Computer-Awareness/01-Number-Systems.md)
+- [Time & Work (LCM method)](./01-Time-and-Work/Pattern1-Basic-Together.md)
+- [Profit & Loss percentage](./03-Profit-and-Loss/01-Basic-Concepts.md)
+- [Set theory (n(A∪B) formula)](./20-Sets-and-Relations/Pattern1-Sets-and-Venn-Diagrams.md)
+- [Coding-Decoding](./12-Coding-Decoding/Pattern1-Letter-Shifting.md)
+- [Data Structures (Stack/Queue)](./18-Computer-Awareness/03-Data-Structures.md)
+- [SQL SELECT basics](./18-Computer-Awareness/06-DBMS-and-SQL.md)
+- [Direction Sense](./16-Direction-Sense/Pattern1-Basic-Directions.md)
+- [Series completion](./13-Series/Pattern1-Number-Series.md)

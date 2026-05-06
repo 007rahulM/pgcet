@@ -11,6 +11,7 @@ Counting triangles, squares, rectangles, and cubes falls under visual/spatial re
 | [Pattern3-Counting-Cubes.md](./Pattern3-Counting-Cubes.md) | Cubes in 3D blocks | "How many cubes" |
 | [Pattern4-Counting-Triangles-in-Grids.md](./Pattern4-Counting-Triangles-in-Grids.md) | Triangles in triangular grids | "How many triangles in a triangle" |
 | [Pattern5-Counting-Stacked-Cubes.md](./Pattern5-Counting-Stacked-Cubes.md) | Cubes in layered stacks | "How many cubes in pyramid" |
+| [Pattern6-Composite-Rectangles-and-Squares.md](./Pattern6-Composite-Rectangles-and-Squares.md) | Composite grids | "Rectangles in a mixed grid" |
 
 ## Study Order
 

@@ -10,6 +10,7 @@ Covers the core algebra topics in the syllabus: expansion, factorization, linear
 | [Pattern2-Linear-Equations.md](./Pattern2-Linear-Equations.md) | Linear & simultaneous equations | "Solve the system", "sum and difference" |
 | [Pattern3-Indices-and-Logarithms.md](./Pattern3-Indices-and-Logarithms.md) | Exponents and log laws | "Simplify powers", "log rules" |
 | [Pattern4-Progressions-and-Binomial.md](./Pattern4-Progressions-and-Binomial.md) | AP/GP/HP + binomial | "Find nth term", "Coefficient" |
+| [Pattern5-Factorization-and-Expressions.md](./Pattern5-Factorization-and-Expressions.md) | Factorization & algebraic expressions | "Factorize", "simplify expression" |
 
 ## Related Topics
 

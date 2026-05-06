@@ -11,6 +11,7 @@ Statistics covers data analysis including averages, spread, and frequency distri
 | [Pattern3-Frequency-Distribution.md](./Pattern3-Frequency-Distribution.md) | Grouped data / frequency tables | Class intervals 0-10, 10-20... or frequency tables |
 | [Pattern4-Correlation-and-Regression.md](./Pattern4-Correlation-and-Regression.md) | Relationship between variables | "Correlation / regression line" |
 | [Pattern5-Skewness-and-Kurtosis.md](./Pattern5-Skewness-and-Kurtosis.md) | Shape of distribution | "Skewness / Kurtosis" |
+| [Pattern6-Regression-and-Prediction.md](./Pattern6-Regression-and-Prediction.md) | Regression estimates | "Predict y from x", "best-fit line" |
 
 ## Quick Reference
 

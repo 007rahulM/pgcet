@@ -18,7 +18,8 @@ Every topic includes:
 | Document | What it is |
 |----------|-----------|
 | **[EXAM-STRUCTURE.md](./EXAM-STRUCTURE.md)** | Exam pattern, weightage, 6-week study plan |
-| **[Revision-Sheets/Master-Revision-Sheet.md](./Revision-Sheets/Master-Revision-Sheet.md)** | All formulas on ONE page |
+| **[Revision-Sheets/Master-Revision-Sheet.md](./Revision-Sheets/Master-Revision-Sheet.md)** | Clean formula sheet with usage cues |
+| **[Revision-Sheets/Full-Prep-Revision.md](./Revision-Sheets/Full-Prep-Revision.md)** | Syllabus-ordered full prep revision |
 | **[Previous-Year-Questions/](./Previous-Year-Questions/)** | PYQs from 2021–2023 |
 
 ---
@@ -94,7 +95,8 @@ Every topic includes:
 
 | Sheet | Contents |
 |-------|----------|
-| [Master-Revision-Sheet.md](./Revision-Sheets/Master-Revision-Sheet.md) | ALL formulas in one place |
+| [Master-Revision-Sheet.md](./Revision-Sheets/Master-Revision-Sheet.md) | Clean formula sheet with usage cues + micro-examples |
+| [Full-Prep-Revision.md](./Revision-Sheets/Full-Prep-Revision.md) | Syllabus-ordered revision checklist |
 | [Computer-Awareness-Revision.md](./Revision-Sheets/Computer-Awareness-Revision.md) | All CS quick facts |
 | [Math-and-Reasoning-Revision.md](./Revision-Sheets/Math-and-Reasoning-Revision.md) | All Math + Reasoning formulas |
 
