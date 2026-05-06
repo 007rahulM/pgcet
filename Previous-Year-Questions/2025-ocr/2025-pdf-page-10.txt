@@ -1,0 +1,35 @@
+nof
+Conclusions:
+A.Some actors are dancers
+B.No singer is an actor
+(2)only B follows
+(l)only A follows
+(4） neither A nor B follows
+(3）eitherAor Bfollows
+(1) Statement A is the cause and statement B is its effect
+(2)Statement B is the cause and statement Ais its effect
+(3) Both Statements Aand B are independent causes
+(4) Both statements A and B are effects of some common cause
+g
+en 61.Two positionsof dice areshown below:
+Which digit will appear on the face opposite to the face with number 4?
+2 6
+5
+(1）3 (2)5
+(3)6 (4）2
+The total of the ages of Amar,Akbar and Anthony is 80 years.What was the total of their ages 62.
+5years ago?
+(1)60years (2)65years
+(4)55years (3)50years
+63.In the series53,53,40,40,27,27 What number should come next?
+(1）12 (2）14
+(3）27 (4）53
+64.In the series42.40,38,35,33,31,28the next2 terms are
+(2)26,23 （1）25,22
+（4)25,23 (3)26,24
+65. What number should fill the blank in the series?
+F2,,D8,C16,B32
+(2)G4 (1)A16
+(3）E4 (4）E3
+CMM22625
+13

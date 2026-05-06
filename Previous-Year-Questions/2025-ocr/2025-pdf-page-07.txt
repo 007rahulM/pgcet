@@ -1,0 +1,45 @@
+44. is the most common security method with respect to using computers.
+(1)Lock and key
+(2)Key card systems
+(3)Passwords
+(4)Surveillance system
+45.Given the following statements with respect to Operating System:
+S1:Kernel is the heart of Operating System
+S2:Operating System acts as an interface between user and computer
+S3:Operating System is a hardware
+Which of the following is correct?
+（1) S1,S2 and S3 are correct
+(2) S1 and S2 are correct and S3 is not correct
+(3)S1,S2 and S3 are incorrect
+(4) S1 is correct and S2&S3 are incorrect
+46.
+(1) Safe mode
+(2)Normal mode
+(3)VGA mode (4)Network support mode
+47.Match the following:
+List1
+List2
+(i)Does not interact with the computer directly (a) Open source Operating System
+(i) Processes data and events that have critically (b) Multiprocessing Operating System
+defined time constraints
+(c)Real time Operating System (ii) Source code is open to all
+(iv)Used to boost the performance of multiple CPUs (d) Batch processing Operating System
+in a single computer system
+Codes:
+(1)a-i,b-ii,c-i,d-iv
+(2)a-i,b-iv,c-ii,d-ifi
+(3)a-ili,b-iv,c-ii,d-i
+(4）a-iv,b-ili,c-ii,d-i
+Given the following information with respect to a multitasking Operating System:
+48.
+S1:Enables a computer to execute multiple tasks or processes simultaneously.
+S2:Inereases the productivity of the machine if the tasks tobe done are organised and carried out
+correetly.
+S3:Supports only single user.
+Which of the following is correct?
+(1) Only S1 and S2 are correct and S3is incorrect
+(2) Only S1 and S3 are correct and S2 is incorrect
+(3) Only S2 and S3 are correct and S1 is incorrect
+(4) Only SIis correct and S2and S3are incorrect
+10
+CMM22625

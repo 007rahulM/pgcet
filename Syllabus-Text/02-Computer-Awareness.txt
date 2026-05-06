@@ -1,0 +1,28 @@
+PGCET MCA 2025–26 — Syllabus Extract
+Section: Computer Awareness
+
+Computer Basics:
+- Organization of a computer
+- CPU
+- Input/Output devices
+- Computer memory
+- Programming languages
+- Types of software
+- General awareness about Internet
+- Web applications, database applications, information systems
+
+Data Representation:
+- Representation of characters, integers, fractions
+- Binary, ASCII, hexadecimal representations
+
+Binary Arithmetic:
+- Addition, subtraction, multiplication, division
+- Two’s complement arithmetic
+- Floating‑point representation of numbers
+- Normalized floating‑point representation
+
+Operating Systems:
+- Evolution of operating systems
+- Types of operating systems
+- Functions of an operating system
+- Modern operating systems

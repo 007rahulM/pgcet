@@ -1,0 +1,35 @@
+(1)positively skewed distribution
+(3)mesokurtic distribution
+26.Viruses:
+hard disk or pendrive
+(b) does not spread
+Which of the following is/are correct?
+(2)only a is correct
+(1) both a and b are correct (4）neither a nor biscorrect
+(3）only b is correct
+Given the following statements:
+27.
+SI:NAND and NOR are universal gates
+S2:AND,OR,NOTarebasicgates
+Which of the following is the correct answer?
+(2) S1:false and S2:false
+(1) S1:true and S2:true
+(4)S1:true and S2:false
+(3) S1:false and S2:true
+(2）BitByte,Nibble,KB,GB,MB
+（1）KB,MB,GB,Bit,Byte,Nibble
+（4)MB,KB,GB,Nibble,Bit,Byte
+（3）GB,MB,KB,Byte,Nibble,Bit
+29.Given the following lists:
+List1 List2
+(a)Input devices ()Floppy disks,Hard drives
+(b)Memory devices （i)Keyboard,Microphone
+(c)System software (ii) Windows,Linux
+(iv) Compiler,Assembler (d） Operating system
+Identifythecorrectmatchfrom thefollowing:
+(1)a-iv,b-ii,c-ii,d-i (2)a-i,b-iv,c-ii,d-i
+(4）a-ii,b-ii,c-iv,d-i (3）a-i,b-i,c-iv,d-i
+The correct order ofwords in the above statement is
+(1)（a) Main,(b)Increase,(c) Cache,(d) CPU Registers
+(3)(a) Cache,(b） Decrease,(c) Main,(d） CPU Register
+CMM22625

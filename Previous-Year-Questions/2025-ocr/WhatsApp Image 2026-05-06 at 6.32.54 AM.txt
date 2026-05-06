@@ -1,0 +1,21 @@
+12.WithrespeetoBinaryOetalandHexadecimalumbersystm: 13.
+14. 16. 17.
+Ifegativememberare storedin2’scomplementformthenrange ofnumbersthat canbe stored Which of the following is correet? (3) S1 is true and S2 is false (1）Both S1 and S2 are true 53 in 2's complement form is (1)-127to+127 in 8bits is Decimal equivalent of the763.4is (3）-128to+127 (1）1001011
+If the randomvariablexhas a probabilty distribution P（x）of thefollowing form wherekis a scalar Themagnitudeofthebinarynumber101l1011in1'scomplementand2'scomplementrepresentation (3）0110101 ①# (3)49.95 (1)499.5 then the value of P(x<2）is P(x)= (3)-59,-58 （1）100111,101000 (1)-69,-68 areand (③）101000,100111
+1
+2k
+otherwise,
+respectively.
+x=2 X=0 X=1
+(2）Both SIand S2are false (4) S2 is true and SI is false (2)-68,-69 (4）459.9 (2)-127to+128 (2)011000,011001 (2）499 (4）001011 (4）-128to+128 （4）011001,011000 （4)-58,-59 (2)001010
+26
+and
+CMM22625
+CMM22625 20. 23. 21. 19.
+Given thefollowing information with respect to amultitasking Operating System: Sl:Kernel is the heart of Operating System Given thefolowing statements withrespeet to OperatingSystem: S1:Enables a computer to executemultiple tasks or processes simultaneously. (d)Batch processing Operating System Match the following: Whichmode loads the minimal set of drivers when starting windows operating system? （4）S1 iscorreet and S2&S3are incorreet S2:Operating System acts asan interface between user and computer (1）Lock and key S2:Inereasestheproduetivity of themachineif the taskstobedoneareorganised and carried out (3）a-i,b-iv,c-i,d-i (b）Multiprocessing Operating System (2）S1 and S2are correct and S3isnot correct S3:Operating System is a hardware (4)Only S1 is correet and S2and S3 are incorrect (3）OnlyS2and S3arecorreet and S1isineorrect (1）OnlySand S2arecorreet andS3isncorrect （1）a-ib-ic-id-iv (e)Real time Operating System (1) Safemode (3）S1,S2and S3 are incorreet (1)S1,S2 and S3are correct (3）Passwords (2）Only S1and S3arecorreet and S2isincorreet Which of the following is correet? S3:Supports only single user. (a)Open source Operating System (3)VGAmode Which of the following is correct? Codes:
+correctly.
+is themost common securitymethod withrespeet to usingcomputers.
+List1
+(2)Normalmode (4)Network support mode (2)Key card systems (iv）Used to boost the performance ofmultiple CPUs (4）a-iv,b-ie-id-i （ii Source code is open to all (i)Processes data and events that have critically (i）Does not interact with the computer directly (2）a-i,b-iv,c-ii.d-i (4) Surveillance system
+defined time constraints in a single computer system
+List2

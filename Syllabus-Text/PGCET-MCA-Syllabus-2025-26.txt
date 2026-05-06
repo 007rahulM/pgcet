@@ -1,0 +1,54 @@
+Page 1 of 1 
+   
+ PÀ£ÁðlPÀ ¥ÀjÃPÁë ¥Áæ¢üPÁgÀ  
+Karnataka Examinations Authority  
+  
+PGCET: 202 5 – 26 
+Number of MCQ questions for PGCET is 100. Each question carry one mark.  
+Examination mode: Online (computer Based Test)  
+Syllabus for PGCET in Master of Computer Applications (MCA)  
+ 
+(1) Mathematics.  
+(i)Algebra: Fundamental  operations  in Algebra,  Expansion,  Factorization,  Simultaneous 
+Linear/ Quadratic  equations, Indices,  Logarithms, Arithmetic,  Geometric and Harmonic  
+progressions, Binomial Theorem,  Permutations  and Combinations,  Determinants,  Matrices, 
+Sets and application  to solution of  simultaneous  linear equations.  
+(ii)Co-Ordinate Geometry:  Rectangular Cartesian co -ordinates, Equations of Line, Midpoint,  
+Intersections , etc., Equations  of a  Circle, Distance  formulae, Pair of straight lines, Parabola,  
+Ellipse and Hyperbola,  Simple  Geometric  transformations  such as Translation,  Rotation,  
+Scaling.  
+(iii)Boolean algebra : Basic operations, Evaluation of Boolean expressions, Basic postulates  
+of Boolean  algebra . 
+(iv)Trigonometry:  Simple identities, Trigonometric equations, Prope rties of Triangles, 
+Inverse function.  
+(v)Probability and statistics: Basic concept of probability theory,  averages, dependent and 
+independent events, Frequency  distri butions and measures of dispersions,  skewness and 
+Kurtosis, correlation and Regression,  Random  variables.  
+ 
+(2)Computer Awareness  
+(i)computer  Basics: organization of a computer,  central Processing  Unit (CPU), Input 
+/output devices,  Computer Memory, Programming Languages,  Types  of Software's,  
+General awareness about Internet.  Web Applications, Database Applications and Information 
+systems.  
+(ii)Data Representation:  Representation of Characters, Integers and Fractions, Binary, AS CII 
+and Hexadecimal representation s. 
+(iii)Binary Arithmetic:  Addition, subtraction, Multiplication, Division, Two’s complement 
+arithmetic,  Floating -point representation of numbers, normalized  Floating -point 
+representation.  
+(iv)Operating systems:  Evolution of operating syste ms, types of operating systems, functions 
+of an  operating system, modern operating systems . 
+ 
+(3) Analytical Ability and logical Reasoning  
+Logical Reasoning, quantitative reasoning and visuospatial  reasoning .  
+ 
+(4)General Awareness  
+Awareness about Business,  Finance, Industry,  Transportation, Scientific inventions, 
+Governance, Healthcare and  Cultural dimensions . Entrepreneur and Entrepren eurship, 
+Business Communication . 
+ 
+(5) General English  
+Basic English grammar, vocabulary, comprehension,  synonyms, antonyms, sentence 
+correction, word and phrases, jumbled  paragraph.  
+ 
+ 
+ 

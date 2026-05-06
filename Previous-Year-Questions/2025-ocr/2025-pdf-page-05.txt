@@ -1,0 +1,42 @@
+31.Identify the correct answer from the given options:
+37 (a)Mouse is a device which can be connected externally to a computer
+(b)Left and Right buttons of the mouse have the same functionality
+(c)The moving speed of the pointer on the screen is fixed
+Codes:
+(2）（a) is true,(b) and (c) are false (1)(a).(b)and (c)are true
+(4）(a) and (c) are true,(b) is false (3） (a) and (b) are true,(c) is false
+38
+Consider the following statements with respect to internet: 32.
+SI:A computer requires a correct IP address to access internet
+that communicate with each other using an established set of protocols
+S3: One of the biggest advantage of internet is a safe cyber space.
+3
+Which of the following is correct?
+（1)S1:True,S2:True;S3:True (2)SI:True,S2:True;S3:False
+(3)S1:False,S2:True:S3:True (4)SI:False,S2:False;S3:False
+Which of the following statements is true with respect to a database? 33.
+(l) Collection of data or information without any organization
+(2) Organized collection of data or information that can be accessed and updated
+(3) Organized collection of data that cannot beupdated
+(4) Collection of data or information with proper organization
+is a method used to encode information into a format that can be used and understood by
+34.
+computer system.
+(2) Data definition (1) Data structure
+(4)Data crunching
+(3) Data representation
+35.Match the following:
+List2
+List1
+()1gigabyte (a)1024bytes
+(ii) 1megabyte (b)1024KB
+(ii) 1 terabyte (）1024MB
+(iv) 1 kilobyte (d）1024GB
+Codes:
+（1）a-iv,b-ii,c-iid-i (2）a-iv,b-ii,c-i,d-ii
+(3)a-ii,b-ii,c-iv,d-i (4）a-iv,b-iic-i,d-ii
+36.Which among the following is correct about 85
+(1)01110110 (2)10000101
+(3)10000011 (4）00100101
+8
+CMM22625

@@ -1,0 +1,14 @@
+respectively.The co-efficient of correlation between x andyis
+(1)0.6
+(2)0.8
+(3)0.45
+(4)0.95
+100.A frequency distribution of variable xwithmean42andmedian50 is
+(1)positively skeweddistribution
+(2)negatively skeweddistribution
+(3)mesokurtic distribution
+(4)platykurtic distribution
+176
+170
+80
+2 CMM22625

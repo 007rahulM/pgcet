@@ -1,0 +1,14 @@
+(4）（a）Cache（b）Deerease,（）Main,（d）Secondarymmory (3）(a）Cache,（b）eerease,（eMain,（d）CPURegistr ! (2）（a)Seendary（b）Inrease,(CPU Registers,（d）Mainmmory The(@)memory is used to (b） the performancemismatch betwee thememory and the(d) （）（a）Main,(b）Inerease,(）Cache,（d）CPU Registers The correctorderofwords in the above statement is (3）a-i,b-i,c-iv，d-i (1）a-iv,b-ie-i,d-i Identify the corret matehfrom the following:
+(d)Operating system (c)System software (b)Memory devices Given the following lists: (a)Input devices （3）GB,MB,KB,BytNibleBit （1）KBMBGB,BitBy Select the correct arrangement in the deereasing orderof size (3）S1:false and S2:true
+Which of the following is thecorrect answer? S1:NAND and NORare universal gates Given the following statements: (）S1: true and S2:true S2:AND,ORNOTarebasiegat (3）only b is correct (1）both a and b are correct Which of the following is/are correct? (b）does not spread
+hard disk or pendrive List1
+(4）a-i,b-i,c-iv,d-i (2）a-,b-iy,c-i,d-i （iv)Compiler,Assembler （ii) Windows,Linux (i）Keyboard,Mierophone (）Floppydsksardi （4）MB,KB,GB,Nible,BitBy 2）BitByteNibble,KB,GB,MB
+(4)S1:true and S2:false (2)S1:false and S2:false （4）neither a norb iscorrect (2）only a is correet
+List2
+CMM22625
+CMM22625 10. 6 9
+(3）10000011 (1）01110110 (3）a-ii,b-i,e-iy,d-i (1）a-iv，b-i,e-id-i Match the following: computer system. Which of the following statements is true with respect to a database? Codes: （d）1024GB (3)Data representation (1）Data structure (4)Collction of data orinformation with proper organization (2)Organized colleetion of data or information that can be accessed and updated S1:Acomputer requires acorrectIPaddress to acessinternet (c）1024MB (a)1024bytes (3) Organized collection of data that cannot be updated (1)Collection of data or information without any organization S3:One of thebiggest advantage of internet is a safe cyber space. (3）S1:False,S2:True;S3:True （1）S1:True,S2:True:S3:True Which of the following is correct? S2:Internet is a worldwide system ofinterconnected computer networks and eleetronic devices (b)1024KB Consider thefollowing statements withrespect to internet: （）Themoving speed of the pointer on the sereen is fixed （a）Mouse isa device which can be connected externally toa computer Identify the correet answer from the given options: (3）（a） and (b） are true,(c） is false （1）（a）,(b）and (e）are true Codes: (b）Leftand Right buttons of themouse have the same funetionality
+List1 that communicate with each other using an established set of protocols
+is amethod used to encode information into a format that can be used and understood by
+(4)S1:False,S2:False:S3:False (2)S1:True,S2:True:S3:False (4）（a）and (c）are true,(b）is false (4）a-iv,b-ilc-id-i (2)（a） is true.(b）and (e） are false (4)Data crunching (i)1megabyte (2）a-iv,b-ic-id-i (iv)1 kilobyte (ii)1 terabyte (2)Data definition (4）00100101 (2）10000101 (i)1gigabyte
+List2

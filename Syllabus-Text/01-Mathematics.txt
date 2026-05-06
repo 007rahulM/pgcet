@@ -1,0 +1,42 @@
+PGCET MCA 2025–26 — Syllabus Extract
+Section: Mathematics
+
+Algebra:
+- Fundamental operations in algebra
+- Expansion and factorization
+- Simultaneous linear and quadratic equations
+- Indices and logarithms
+- Arithmetic/Geometric/Harmonic progressions
+- Binomial theorem
+- Permutations and combinations
+- Determinants and matrices
+- Sets and applications to solving simultaneous linear equations
+
+Coordinate Geometry:
+- Rectangular Cartesian coordinates
+- Equations of a line, midpoint, intersections
+- Equations of a circle
+- Distance formulae
+- Pair of straight lines
+- Parabola, ellipse, hyperbola
+- Geometric transformations: translation, rotation, scaling
+
+Boolean Algebra:
+- Basic operations
+- Evaluation of Boolean expressions
+- Basic postulates of Boolean algebra
+
+Trigonometry:
+- Simple identities
+- Trigonometric equations
+- Properties of triangles
+- Inverse functions
+
+Probability & Statistics:
+- Basic probability theory
+- Averages
+- Dependent and independent events
+- Frequency distributions and measures of dispersion
+- Skewness and kurtosis
+- Correlation and regression
+- Random variables

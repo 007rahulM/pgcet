@@ -1,0 +1,41 @@
+Which of the following is correct? (2）Both SI and S2 are false
+(1) Both SI and S2 are true
+(4) S2 is true and SI is false
+3） S1 is true and S2 is false
+in S bitsis
+(2)-127to+128
+(1)-127to+127
+(4)-128to+128
+(3)-128to+127
+39.53in2'scomplement form is
+(2)001010 (1）1001011
+(③)0110101 (4)001011
+40.Decimalequivalent of the 763.4is
+(8)
+(1)499.5 (2)499
+(3)49.95 (4)459.9
+41.
+and respectively. are
+(2)-68,-69
+(1)-69,-68
+(4)-58,-59
+(3）-59,-58
+42.1's and 2'scomplement of-24in binary are
+and
+(2)011000,011001 (1)100111,101000
+（4）011001,011000 （3）101000,100111
+X=0 if
+k
+if X=1 2k
+P(x)=
+X=2 3k if
+otherwise, 0
+then the valueof P(x<2) is
+1
+(16
+(2)
+16
+13
+(3)
+6
+CMM22625

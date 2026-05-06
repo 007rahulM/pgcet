@@ -1,0 +1,156 @@
+=== WhatsApp Image 2026-05-06 at 6.32.34 AM.jpeg ===
+(4）（a）Cache（b）Deerease,（）Main,（d）Secondarymmory (3）(a）Cache,（b）eerease,（eMain,（d）CPURegistr ! (2）（a)Seendary（b）Inrease,(CPU Registers,（d）Mainmmory The(@)memory is used to (b） the performancemismatch betwee thememory and the(d) （）（a）Main,(b）Inerease,(）Cache,（d）CPU Registers The correctorderofwords in the above statement is (3）a-i,b-i,c-iv，d-i (1）a-iv,b-ie-i,d-i Identify the corret matehfrom the following:
+(d)Operating system (c)System software (b)Memory devices Given the following lists: (a)Input devices （3）GB,MB,KB,BytNibleBit （1）KBMBGB,BitBy Select the correct arrangement in the deereasing orderof size (3）S1:false and S2:true
+Which of the following is thecorrect answer? S1:NAND and NORare universal gates Given the following statements: (）S1: true and S2:true S2:AND,ORNOTarebasiegat (3）only b is correct (1）both a and b are correct Which of the following is/are correct? (b）does not spread
+hard disk or pendrive List1
+(4）a-i,b-i,c-iv,d-i (2）a-,b-iy,c-i,d-i （iv)Compiler,Assembler （ii) Windows,Linux (i）Keyboard,Mierophone (）Floppydsksardi （4）MB,KB,GB,Nible,BitBy 2）BitByteNibble,KB,GB,MB
+(4)S1:true and S2:false (2)S1:false and S2:false （4）neither a norb iscorrect (2）only a is correet
+List2
+CMM22625
+CMM22625 10. 6 9
+(3）10000011 (1）01110110 (3）a-ii,b-i,e-iy,d-i (1）a-iv，b-i,e-id-i Match the following: computer system. Which of the following statements is true with respect to a database? Codes: （d）1024GB (3)Data representation (1）Data structure (4)Collction of data orinformation with proper organization (2)Organized colleetion of data or information that can be accessed and updated S1:Acomputer requires acorrectIPaddress to acessinternet (c）1024MB (a)1024bytes (3) Organized collection of data that cannot be updated (1)Collection of data or information without any organization S3:One of thebiggest advantage of internet is a safe cyber space. (3）S1:False,S2:True;S3:True （1）S1:True,S2:True:S3:True Which of the following is correct? S2:Internet is a worldwide system ofinterconnected computer networks and eleetronic devices (b)1024KB Consider thefollowing statements withrespect to internet: （）Themoving speed of the pointer on the sereen is fixed （a）Mouse isa device which can be connected externally toa computer Identify the correet answer from the given options: (3）（a） and (b） are true,(c） is false （1）（a）,(b）and (e）are true Codes: (b）Leftand Right buttons of themouse have the same funetionality
+List1 that communicate with each other using an established set of protocols
+is amethod used to encode information into a format that can be used and understood by
+(4)S1:False,S2:False:S3:False (2)S1:True,S2:True:S3:False (4）（a）and (c）are true,(b）is false (4）a-iv,b-ilc-id-i (2)（a） is true.(b）and (e） are false (4)Data crunching (i)1megabyte (2）a-iv,b-ic-id-i (iv)1 kilobyte (ii)1 terabyte (2)Data definition (4）00100101 (2）10000101 (i)1gigabyte
+List2
+
+=== WhatsApp Image 2026-05-06 at 6.32.54 AM.jpeg ===
+12.WithrespeetoBinaryOetalandHexadecimalumbersystm: 13.
+14. 16. 17.
+Ifegativememberare storedin2’scomplementformthenrange ofnumbersthat canbe stored Which of the following is correet? (3) S1 is true and S2 is false (1）Both S1 and S2 are true 53 in 2's complement form is (1)-127to+127 in 8bits is Decimal equivalent of the763.4is (3）-128to+127 (1）1001011
+If the randomvariablexhas a probabilty distribution P（x）of thefollowing form wherekis a scalar Themagnitudeofthebinarynumber101l1011in1'scomplementand2'scomplementrepresentation (3）0110101 ①# (3)49.95 (1)499.5 then the value of P(x<2）is P(x)= (3)-59,-58 （1）100111,101000 (1)-69,-68 areand (③）101000,100111
+1
+2k
+otherwise,
+respectively.
+x=2 X=0 X=1
+(2）Both SIand S2are false (4) S2 is true and SI is false (2)-68,-69 (4）459.9 (2)-127to+128 (2)011000,011001 (2）499 (4）001011 (4）-128to+128 （4）011001,011000 （4)-58,-59 (2)001010
+26
+and
+CMM22625
+CMM22625 20. 23. 21. 19.
+Given thefollowing information with respect to amultitasking Operating System: Sl:Kernel is the heart of Operating System Given thefolowing statements withrespeet to OperatingSystem: S1:Enables a computer to executemultiple tasks or processes simultaneously. (d)Batch processing Operating System Match the following: Whichmode loads the minimal set of drivers when starting windows operating system? （4）S1 iscorreet and S2&S3are incorreet S2:Operating System acts asan interface between user and computer (1）Lock and key S2:Inereasestheproduetivity of themachineif the taskstobedoneareorganised and carried out (3）a-i,b-iv,c-i,d-i (b）Multiprocessing Operating System (2）S1 and S2are correct and S3isnot correct S3:Operating System is a hardware (4)Only S1 is correet and S2and S3 are incorrect (3）OnlyS2and S3arecorreet and S1isineorrect (1）OnlySand S2arecorreet andS3isncorrect （1）a-ib-ic-id-iv (e)Real time Operating System (1) Safemode (3）S1,S2and S3 are incorreet (1)S1,S2 and S3are correct (3）Passwords (2）Only S1and S3arecorreet and S2isincorreet Which of the following is correet? S3:Supports only single user. (a)Open source Operating System (3)VGAmode Which of the following is correct? Codes:
+correctly.
+is themost common securitymethod withrespeet to usingcomputers.
+List1
+(2)Normalmode (4)Network support mode (2)Key card systems (iv）Used to boost the performance ofmultiple CPUs (4）a-iv,b-ie-id-i （ii Source code is open to all (i)Processes data and events that have critically (i）Does not interact with the computer directly (2）a-i,b-iv,c-ii.d-i (4) Surveillance system
+defined time constraints in a single computer system
+List2
+
+=== WhatsApp Image 2026-05-06 at 6.33.05 AM.jpeg ===
+24.How isXrelated to Y? 25.In a certain code297meansclear blue skyWhich number means'sky”？ 27. 26.
+(1)Statement A alone is sufficient to answer thequestion B:Zis the father of X andY. A:X isY's sister (2）Statement Baloneissufficient to answerthequestion (2）50km/hr (4）The data giveninboth thestatements together arenot sufficient to answer thequestion (3）The data eithernAorBare sufficientto answerthequestion （4）Thedatagivennboththestatementstogetherarnotsffcenttonswerthequestion B:In that language175means dark cloudy sky (2)StatementBalone is suffeient to answer thequestion (1)StatementA alone is sufficient to answer thequestion A:In that language'926means‘clear blue colour' ABandCdk30nd0dayriveaya (3）7.8m (3)54km/hr (1)45km/hr (3）The data either in A or B are sufficient to answer the question (3）16 days (1）12days The angleoflevationofa ladderleaning against a wallis60andthefootof theladder is4.6m (4）55km/hr A train125m long passes aman running at 5km/hrin the same direction in which the trainis (1）2.3m thework if he is assisted by B and Con every 3 day? away from thewall.The length of the ladder is going in10 seeonds.The speed of the trainis
+(4）18days (2)15 days (4）9.2m (2)4.6m
+CMM22625
+32. 31. 30. 29. CMM22625 33.
+If sellingprceisouledtrofitriplind teroftinret The difference between simple and compound interests compounded annually ona certain sum of money for2years at4%per annum isRs 1.The sum inis At3:40,the hour hand and theminutehand ofa clock form an angle of (1）66 (1）120° (3）105 Thefollowingpie-chartshowsthepercentagedistributionoftheexpenditureincurredinpublishing (3）130° (3）640 (1）625 (3）Rs.22,950 (1）Rs.19.450 abookfforartaiquantitybooksplishastpays3000asrinngcosttn (3）34.18lakh rupees (1）32.43lakh rupees what will be the amountof royaltytobe paid for these books? Study the following table and answer thequestion:What is theaverage amount of interest per
+year which the company had to pay during this period?
+Rosaty
+2002 2001 1998 2000 1999 Year
+taperCl
+(in Lakh rupee) Intereston loans
+32.5 23.4 49.4 41.6 36.4
+(2）125 (4）120 (2）100 (4）1350 (4）650 (2）630 (4)Rs.26,150 (2）Rs.21,200 (4)36.66lakhrupees (2）33.72 lakh rupees
+
+=== WhatsApp Image 2026-05-06 at 6.33.20 AM.jpeg ===
+37.ThttlfthgefmkbrndnysyarWtasthttlftir 38.In the eries 53,53,4040.27.27What number should comeext? 39.In the series42,4038.35,33,31.28thenext2trms re 40.What number should fill the blank in the series? 36.
+Statementsomeatorsare singersll the singersaredaner. (3）50years B:ThePolicehadcordoned offtheentireareain thelocalitythismorningforhalfof theday. F2.D8,C16,B32 (1）12 (1)60years 5years ago? (3）6 (1）3 (3）Both Statements Aand Bare independent causes (1) StatementA is the cause and statement Bis its effeet A:A huge truck overturned on themiddle of theroad last night. (3）either Aor B follows (1)only A follows B.No singer is an actor Conclusions: (3）E4 (1)A16 (1)25.22 Whichdigit willappearonthefaceopposite to the face withumber4？ Two positions of diee are shown below: A.Some actors are daneers (3)27 (4）Both statements A andBare effeets of some common cause (2）Statement Bis the cause and statementAisits effect (3）26.24
+(4）25,23 (2）26,23 (4）E3 (2)G4 (2）14 (4）55years (4）53 (2)65years (2)5 (4）2 (4）neither A nor B follows (2）only B follows
+CMM22625
+41.AandBvestabsiesiteratio3.f5%ofthttalprofitoestcharityandAshe 43.Whchfthfolowingreiielfctorsforachieinsustanablecompetitiveadvantageia 42.In options trading,what does the termStrike Price”refer to？ CMM22625 44.
+Consider the following pairs: (1)Thecurrentmarket pric of the underlyingasset (3）Thepriceof theoptioncontract itsef (2）Theprictwhichtheunderlyingassetcanbeboughtor old (3） Rs.1537.50 (1）Rs.1425 is Rs.855,the total profit is (4）The commission fee for executing the trade (ivDevoinqlrd （4）,i,and iv Seleet the correct answer using the options given below: (ililFrequent changesinbusinesstrategy (i）Maintaining high levels of customer satisfaction and loyalty. business? (2）iii and iv only (i）Exploiting economies of scale. Which of the above pairs are correetly matched? (3） i, ii and iv only (1）)i,ii and iv only (4)Only 1,iv andv （1）Only ii,i d i (3）i,1,,ivand (2)Only ii,i, iv andy
+(iv) (v)
+Cottage Industries Co-operative Industries Private Sector Industries Joint Sector Industries Public Seetor Industries
+Sectors
+Hindustan Aeronauties Ltd TataIron and Steel Industries Basket weaving Maruti Udyog Ltd Anand MilkUnion Ltd (4）Rs.1576 (2）Rs.1500
+Companies
+
+=== WhatsApp Image 2026-05-06 at 6.33.29 AM.jpeg ===
+49. 48. 46.
+(3） a,c and d Whichof the following statements about thevitamins arecorrect? Select thecorreet answerusingthecodesgivenbelow (1)a,b and d (d)Deficieney of Vitamin B causes scurvy. ()Vitamin Cwas invented byAlbert Szent-Gyorgyi （b）Deficiency of Vitamin D eauses weak bones. （a)VitaminAandVitamin Bwere discovered byElmerMeCollum. Xiomi tied up with Foxconn to establish its plant in which of the following states of India? (3)Telangana Whichof thefollowing is/areotthefunctionsofNCTE? (1)Andhra Pradesh (3)b and d only Choose thecorrect answer from theoptionsgiven below: （d)Creatingjobopportunitieforthestdentswhohavecomleted techereducationprogrammes (1)a and d only ()Laying downnormsfor any speeified eategory of courses or trainings in teacher education. (b）Recruitingqualified staffin the teacheredueationnstitutions. (a)Understanding surveysand studiesrelatingtovariousaspects of teachereducation and publish What does the termCabotage”refert in the transportationindustry?
+（4）Theleasingofforeigntransportvesselfordomesticuse (3）Thetransportationofgoodsinternationallybyadomesticoperator (）Thetrsportatonfgoodrpangerrosntionalors (2）The transportationofgoods orpassengers within acountry Selet theanswerusing thecodesgivenbelow: (3）a.b and c (1）a,b and d (d）Proactivelymonitoringmarketrendsand competitoractivites. (b）Implementingcost-cutingmeasuresandreduing operating expenses. (a）Diversifyingrevenue streamsand expanding intnewmarkets. market disruptions? in the NCTErecognized institutions. the result thereof.
+(2）b,c and d (4）a,band c (4）Tamil Nadu (2）Maharashtra (4）donly (2）cand d only
+(4）b,cand d (2）a,b,c and d
+CMM22625
+51.Consider the following statements regarding theHealthBellef Model(HBM) 52.Which term refers to the ability to turn ideas into action through creativity,innovation and CMM22625 53. 54.
+(a）The Health BeliefModel (HBM） is a framework for understanding how patients beles (b） HBM doesnot consider perceived barriers to takinghealth-related actions. Selethe correet answer from the codesgiven below: Which aspeetof theLEARNmodelis focused on collaboratively deciding on treatment? Which of the statements given above is/are correet? (2）Rs.Two Lakhs (b）Equal employment opportunity policies Whichof thefollowinginitiativescontributetodevelopinganinclusiveworkplace culture (2)Strategie planning (1)Managerial skill (1）a only (4) Rs.Four Lakhs (3）Rs.Three Lakhs (2）b,e ande (d）Flexible working hours (1)Rs.One Lakh (4）a,c,d ande (3）a,b,dand e (1）a,b and d (e）Inclusive leadership praetices diversity and equity. An inclusive workplace culture enhances employee satisfaction and retention by promoting (3）Recommend (1）Listen (3)Entrepreneurship risk-taking? (3)Both a and b (a)Diversity training programmes (4)Operational efficieney (c)Performance-based incentives
+influence their health behaviors.
+(4）Neither a nor b (2）bonly (4)Negotiate (2） Explain
+
+=== WhatsApp Image 2026-05-06 at 6.33.46 AM.jpeg ===
+二 57. 56.
+(4)a-iy,b-i,e-i,d-i (3）a-ib-i,e-i,d-iv (1）a-ib-iv,c-i,d-i Choose the correct answer from the options given below: (2）a-ib-i,c-ii.d-iv Match the following: What role does cultural humility play in healthcare interaetions? Seleet thecorrect answer from thecodesgivenbelow: (a)Risk aversion (3） b,e and e only (1)b and eonly (d Efficient patient scheduling. (a)Mastery ofmedieal procedures. ()Hierarchical deeision-making (b）Innovation and creativity d. (e) Adherence to clinieal guidelines. (e) Compliance with hospital regulations. (b)Understanding personal biases. (d)Long-term stability Seleet the correet answer from thecodesgiven below:
+(3）b,d ande (1)bande (e)Adaptability to market changes b.
+Large company List I(Types of ventures) Social Enterprises Small Business Scalable Startup
+iv.Established firms expanding through innovation
+Highgrowth potentialoften technology-driven Localbusinesseswith limitedgrowthpotential Aimed at addressing social issues andcommunity List II(Characteristies)
+needs
+(2）a,c and d only (2）a,eand d (4）a,b ande (4）a,b and d only
+CMM22625
+58.Which factors contribute to fostering anentrepreneurialecosystem？ 60.Which technology isoftenusedinAdvanced Driver-Assistance Systems(ADAS）todetectobstacles 59.Which of the following factors can direetly affeet the value of a bond? 61. Choose the word which is CLOSEST in meaning to the word REFRAIN: CMM22625 62.
+Seleet the correet answerfromthecodesgiven below: (a)Access to venture capital Choose the word which is OPPOSITE in meaning to the word TRANQUILITY: （1）a,cande (e)Technologieal advancements (d)Competitive market conditions (c）Supportivementorship programs (b)Government regulations (2）a,cand d Select the correet answer from the codesgiven below: (4）b,d ande (3)a,b and d (2）b,c and d (3)a and d (1）a,b and d (e)Company's stock price （b） Credit rating of the issuer (a）Interest rates (1）Exult (4）b,cand d (d)Inflation rate (3）Torture (1）Radio Frequeney Identification (RFID) and enhance vehicle safety? (3）Cease (4) Ultrasonic sensors (2)Light Detection and Ranging (LiDAR) (1)Lull (3）Infrared sensors
+(2)Abstain (4）Forswear (4) Sympathy (2)Chaos
+
+=== WhatsApp Image 2026-05-06 at 6.33.58 AM.jpeg ===
+68.DrtonRead t  tndwttrianyrrithrorifanyil 67. 63. 65. 64.
+Direetion:Choose the correct word andfll in the blank. (3）C Chsethgangtedeed pras (1)A I have come to/know that/his father has died/three days ago. DirectionsSelect themostappropriate formof theword andfilin the blankn the following Please seleetthebestalternativefortheunderlinedexpressiontoimprovethe sentenceimeaning. (3)Classical (1)Classie Who did you invite to the party? Please keep an eye onhim as he looks suspicious. He likes (3）Which did you IV.Itstender kinasfragileaswetpaermustbeproteted frmthe dryingutbyapping Il.Theanimalmustekeptwet and coolritwil diender itsowweght. sentence. (1）Whom didyou (1）I-V-II-IV V.Onee thedolphin isremoved from the water,itsbodyweightbecomes itsenemy. (1)Watch somebodyunintentionally IIl.Its fins get crushed under its own weight. L.Awounded dolphinstranded onlandmustbehandledwith greatare. whichwouldbethemost logieal sequence of the sentences in the passage. first sentenceof thepassage.Youarerequiredtochooseoneof thefouralternativesgivenbelow (3）Watch somebody carelessly (3）V-III-I-IV (1)Whole There was a
+(3）Hole ordinary cooking oil.
+inone partof the sentenceThe alphabetumberof that partistheanswer.
+music.
+_in my bag.
+(4）D (2）B (4) Classically (2)Classies (2）IV-1-V-1I (2)Wateh somebody carefully (4)1I-III-IV-V (2）What did you (4）Whirl (4）No improvement (2）Whorl (4） to look at somebody for pleasure
+CMM22625
+71. CMM22625 This problem (3)was solved (1)solves (1）Iam too weak that I can't walk (3）Iam so weak that I can't walk (2）I am so weak because I can't walk Read the passage given below and answer thequestions71-74by seleeting thebest option. (4) 1have been too weak that I can't walk
+whentheyhitetalhenthedevibepsThisltstheersonwiththedevicekowthatmetals Metal detectorsmake magneticwaves.These wavesgo through the ground.The waves change usedalotofpowerndworstfallthydidntworkwellPeolekepttryingomakethmeer. Thefirstmtl dettorsweremeanttoheiner.TheyweebigThycostlotfoneyThy Metal deteetorsgotsmallerNow theyareligt and cheap.TheyaisoworkbetterThatiswhy close. They heptokeepgunsoutofsome places.Theyareinairports.Theyarencourthousesome in the sand.Metal deteetors also proteet people. peoplebringthembacktotheeachTheycanlookforringsinthewaterTheycanlookforphones Thesedeviesalomakelotessfet undfyuit'stuMosttsaremadebi schools use them.They helpguards look forweapons. in the clothes.Theywould poke people tryingthemon.They don'tthough.That'sbeeause our Whichwas one of theproblems with thefirst metal deteetors? clothesareseaned formetalIsntthatni?Lt'shearit from themetaldetetorTheymake the factoriehltsfdtheladleeakrmttht world a safer place. (1)They were too handy
+(2)They were lessexpensive (4）They used lot of power (3）They worked well
+by your brother yesterday.
+Questions(71-74) Metal Detectors
+Passage (2）is solved (4）will be solved
+
+=== WhatsApp Image 2026-05-06 at 6.34.12 AM.jpeg ===
+77.Which of the following is not a quadratie equation? 76.Which of the following is correct? 75.Readth eneandhoosethewordwithtecrretpllingfrmthepioniven. 74.Why do people bring metal deteetors to the beach? 73.How do metal deteetors make clothing safer?
+（4）（x+2)²=x²-4 (3）x（2x+3）=x²+1 （1）（x-2）²+1=2x+3 (2）x（x+1）+8=（x+2）（x-2) （b）m-256=（m+4i）（m-4i）（m+4）（m-4) (3）both a and b (1)a only (（a）m-256=（m²+16）（m²-16) （4）Metal deteetorshelpin finding bombs The hotel can (3）Metal deteetors help guards keep weapons away from the beach 1Metaldeteetorshlp peoplefindvaluableitems
+(3)acomodate (1)acommodate (2）Metaldeteetorshelp peoplekeep the sand cleanand safe (2) It explainshowmetal detetorswork (1）It desribesthesoundsofametaldettr (4）Metal deteetorshlp peoplerecoverlostclothingatthebeah 2）Metlttormakeuworkednrineaponstfri (1）Metal detetorsmake sure factorymachinesare working theright way (4）It explains how magnetiewavesmove (3）It warns about the effetsofmetal detectors (3）Metal deteetorsmake sure that broken needles don'tget into clothing
+up to 500guests.
+(2）bonly (4）neither a nor b (2)accomodate (4)accommodate
+CMM22625
+81.The area of a triangle whose vertiees are(3,8)(-4.2）and (5.1） is 82.LetA,BandCaretequarematrieof theordern.Thenwhichofthefolwingisnt 83.LetA={1.2,{3,4,5}，then whichofthe folowing scorreet 84.Thnebteen tntroughtpints47）234）nd ththoth pints
+(）1512 (3）1023 then the value of n is CMM22625 (1）55 (3）45 DAUGHTERso that allvowels do not occur togetheris (1)36000 (3）64800
+(3）40.5 (1)30.5 correct? (1）A+B=B+A (3）AB=BA （1）{3.4}CA
+（-1,-2,1）.（1.2,5）s (1）π/3 (3）π/6
+(2）4086 (4）2046 (4）60 (2）50 (2）43200
+(4）53600 (4）81 (2）61 (2）(A+B)+C=A+(B+C) (4)(AB)C=A(BC) (2）13.4}CA
+（4）3.4A (2）π/2 (4）0
+®
+
+=== WhatsApp Image 2026-05-06 at 6.34.24 AM.jpeg ===
+1 92.Which of the following is/are true? 91. 89. 90. 87.
+88.
+(3） both a and b Theqnoftho12ndtnthftlati3 heqtnftllitmaorxislngtaxisadpasingtogtpnts (1)a only （a）cos2x=cosx+sin²x (xVZ)A(zVA）A(Vx）=xAZVZAAVAx(q) (n)xvyAx'Ay'=(x'Ay）v(xAy) Which of thefollowing statement'statements is/are true? Codes: (b)cos2x= (3）both a and b (1)a only Codes: (3）y InBoolean algebrasimplfed formof（xy）vxyis In Boolean algebra,which of the following is correet? (l)xAy=x'vy' （3）3y²-x²=108 (1）x²-y²=108 (3）（x-0.7）²+(y+1.3）²=12.58 (1)1 (3）xA(xvy）=x (1）（x-0.7）²+(y-1.3）²=12.58 on the line x+y=2is (3）(4,10.18) （3）7x²-15y²=247 （1）(2,5.9) （1）15x²+7y²=247
+and（-1.4）is
+1+tan'x 1-tan²x
+(2）（1.1.1) (4）x²+y²=5 (2）（x+0.7）²+（y+1.3）²=12.58 (2)xvy=x'y （4）7x²+15y²=247 (4）(2.2.2) (2）0 （4）x²+3y²=108 (2）x²-3y²=108 (2）15x²-7y²=247 (4）xv1=x (4）neither a nor b (2）b only (4）neither a nor b (4）x (2）bonly
+CMM22625
+96.Abagcontinswhiteand6redbalheprobabilityof drawingtwbafthesamecolou (a）If sinx=siny then x=nπ+（-1)y wheren ∈z 97.TwostudentsAnandAshmaappearedforanexanatonhe probabiltythatAnil willqualfy x (1）aonly Codes:
+(3）both a and b 98.The standard deviatonof81012141618204s (3）5/13 CMM22625 (1)2/5 (3)3π
+the examinaton is 0.05 and that Ashima wil qualify the examinationis 0.10.The probability that both willqualify the examination is.02.The probability that bothwill notqualfy the examination is (1）0.13 (3)0.98 (1）33 (3）15
+where xandy both lie in seeond quadrant,the value of Sin（x+y）is
+(2)bonly (4）neither a nor b （4）56/65 (2)3/5 (4）/5
+(2）91
+(2)0.87 (4)0.15 15 (2）5.74 (4）3.98
+
+=== WhatsApp Image 2026-05-06 at 6.34.35 AM.jpeg ===
+respectively.The co-efficient of correlation between x andyis
+(1)0.6
+(2)0.8
+(3)0.45
+(4)0.95
+100.A frequency distribution of variable xwithmean42andmedian50 is
+(1)positively skeweddistribution
+(2)negatively skeweddistribution
+(3)mesokurtic distribution
+(4)platykurtic distribution
+176
+170
+80
+2 CMM22625

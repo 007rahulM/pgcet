@@ -1,0 +1,48 @@
+Which of the following is correct?
+(a）m-256=（m²+16）（m²-16)
+（b）m-256=（m+4i）（m-4i（m+4）（m-4)
+(l)aonly
+(2)bonly
+(3)both a and b (4)neither a nor b
+Which of the following is not a quadratic equation?
+2
+(2）x（x+1）+8=（x+2）（x-2)
+（1)（x-2）²+1=2x+3
+（4)（x+2）²=x²-4 (3）x(2x+3）=x²+1
+3.
+ancestors during the ten generations precedinghis own is
+32
+Cu (2)4086 (1)1512
+(4)2046
+(3）1023
+then the value ofn is
+(2)50
+(1）55
+(4)60 (3）45
+The number of different 8-letter arrangement that can be made from the letters of the word
+5.
+DAUGHTERso that all vowelsdonot occur together is
+(2)43200
+(1)36000
+(4)53600 (3)64800
+The area of a triangle whose vertices are(3,8)(-4,2)and (5,1） is
+6.
+(2)61 (1)30.5
+(4）81
+(3)40.5
+7.
+correct?
+(1)A+B=B+A (2)(A+B)+C=A+(B+C)
+(3）AB=BA (4)(AB)C=A(BC)
+LetA={1,2,{3,4},5},then which of the following is correct?
+8.
+（1）{3,4}CA (2）{{3,4}CA
+(3{3,4}∈A
+（4）{3,4}EA
+9.
+（-1,-2,1）,（1,2,5）is
+(1）π/3
+(2）π/2
+(3）π/6
+(4)0
+CMM22625
