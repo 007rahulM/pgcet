@@ -96,7 +96,9 @@ Every topic includes:
 | Sheet | Contents |
 |-------|----------|
 | [Master-Revision-Sheet.md](./Revision-Sheets/Master-Revision-Sheet.md) | Clean formula sheet with usage cues + micro-examples |
+| [Complete-Formula-and-Concept-Sheet.md](./Revision-Sheets/Complete-Formula-and-Concept-Sheet.md) | Full one-place formulas + concepts across all taught topics |
 | [Full-Prep-Revision.md](./Revision-Sheets/Full-Prep-Revision.md) | Syllabus-ordered revision checklist |
+| [2026-Topic-Priority-From-Syllabus-and-2025-Paper.md](./Revision-Sheets/2026-Topic-Priority-From-Syllabus-and-2025-Paper.md) | Priority order based on syllabus and 2025 trend |
 | [Computer-Awareness-Revision.md](./Revision-Sheets/Computer-Awareness-Revision.md) | All CS quick facts |
 | [Math-and-Reasoning-Revision.md](./Revision-Sheets/Math-and-Reasoning-Revision.md) | All Math + Reasoning formulas |
 

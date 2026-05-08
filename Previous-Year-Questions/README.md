@@ -16,6 +16,9 @@ These represent the **exact types and patterns** of questions that appear. Some 
 
 | File | Contents |
 |------|----------|
+| [2025-Questions-Solved-Topic-Mapped.md](./2025-Questions-Solved-Topic-Mapped.md) | Reconstructed 2025 solved key + topic links (from OCR/images) |
+| [2026-Predicted-Paper-100-Marks.md](./2026-Predicted-Paper-100-Marks.md) | Predicted 100-mark MCQ paper |
+| [2026-Predicted-Paper-100-Marks-Answers.md](./2026-Predicted-Paper-100-Marks-Answers.md) | Linked answer key for predicted paper |
 | [2023-Questions.md](./2023-Questions.md) | KEA PGCET MCA 2023 — ~50 representative questions |
 | [2022-Questions.md](./2022-Questions.md) | KEA PGCET MCA 2022 — ~50 representative questions |
 | [2021-Questions.md](./2021-Questions.md) | KEA PGCET MCA 2021 — ~50 representative questions |
