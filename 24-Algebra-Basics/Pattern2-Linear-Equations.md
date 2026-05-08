@@ -1,92 +1,136 @@
-# Linear & Simultaneous Equations — Pattern 2
+# Pattern 2: Linear & Simultaneous Equations
 
-## 🧠 Core Idea
+## 🔍 How to Recognize This Pattern
 
-Convert the word statement into **two equations**, then use **elimination** or **substitution** to solve quickly.
+- "Solve: 3x + 2 = 14"
+- "Find x and y"
+- "The sum of two numbers is... and their difference is..."
+- "One quantity is twice another"
 
 ---
 
-## ✅ Quick Methods
+## 🧠 The Golden Rule
 
-### 1) Single Variable
+> **Convert words into equations first. Then solve using the easiest method: substitution, elimination, or direct formula.**
+
+### Core Forms
+
+**One variable**
 ```
 ax + b = 0  →  x = -b/a
 ```
 
-### 2) Two Variables (Elimination)
+**Two variables**
 ```
 a1x + b1y = c1
-
 a2x + b2y = c2
 ```
-- Multiply one equation to make coefficients equal
-- Subtract/add to eliminate a variable
 
-### 3) Shortcut Formula (Direct Solve)
+**Direct formula**
 ```
 x = (c1b2 - c2b1) / (a1b2 - a2b1)
-
 y = (a1c2 - a2c1) / (a1b2 - a2b1)
 ```
 
 ---
 
-## 🔥 Example 1 (Elimination)
+## ✅ Step-by-Step Examples
 
-**❓ Question:** Solve: 3x + 2y = 18 and 2x + 5y = 25
+### Example 1
+**❓ Question:** Solve 4x - 7 = 13.
+
+**🤔 What I understood:** One linear equation in one variable.
 
 **✏️ My Solution:**
 
-Step 1: Multiply first eqn by 5 and second by 2
+Step 1: Add 7 to both sides
 ```
-15x + 10y = 90
-4x + 10y = 50
+4x = 20
 ```
-Step 2: Subtract → 11x = 40 → x = 40/11
-Step 3: Substitute in 3x + 2y = 18
+Step 2: Divide by 4
 ```
-2y = 18 - 120/11 = (198 - 120)/11 = 78/11
-```
-```
-y = 39/11
+x = 5
 ```
 
-**✅ Answer:** x = 40/11, y = 39/11
+**✅ Answer: x = 5**
 
 ---
 
-## 🔥 Example 2 (Word Problem)
+### Example 2
+**❓ Question:** Solve 2x + 3y = 17 and x - y = 1.
 
-**❓ Question:** Two numbers have sum 30 and difference 8. Find the numbers.
+**🤔 What I understood:** Two simultaneous equations.
+
+**💡 What I'll use:** Substitution, because one equation is already easy to rearrange.
+
+**✏️ My Solution:**
+
+Step 1: From x - y = 1
+```
+x = y + 1
+```
+Step 2: Put into first equation
+```
+2(y + 1) + 3y = 17
+2y + 2 + 3y = 17
+5y = 15
+```
+Step 3: Find y, then x
+```
+y = 3
+x = 4
+```
+
+**✅ Answer: x = 4, y = 3**
+
+---
+
+### Example 3
+**❓ Question:** Two numbers have sum 36 and difference 8. Find the numbers.
+
+**🤔 What I understood:** Form two equations.
 
 **✏️ My Solution:**
 
 Let numbers be x and y.
 ```
-x + y = 30
+x + y = 36
 x - y = 8
 ```
-Add equations:
+Add both equations:
 ```
-2x = 38 → x = 19
+2x = 44
+x = 22
 ```
+Then:
 ```
-y = 30 - 19 = 11
+y = 36 - 22 = 14
 ```
 
-**✅ Answer:** 19 and 11
+**✅ Answer: 22 and 14**
 
 ---
 
-## ⚡ Shortcuts
+## ⚡ 60-Second Strategy
 
-- If equations are in **ratio form**, make one coefficient equal and eliminate.
-- Check for **simple substitution** when one variable already isolated.
+1. Translate the statement into equations.
+2. If one variable is already isolated, use substitution.
+3. If coefficients match easily, use elimination.
+4. Recheck both values in both equations.
 
 ---
 
 ## 📝 Practice Problems
 
-1. Solve: 4x + 3y = 29, 3x - y = 7
-2. Solve: x - 2y = 1, 3x + y = 17
-3. Sum of two numbers is 42 and difference is 10. Find the numbers.
+1. Solve: 5x + 9 = 24
+2. Solve: 3x + 2y = 16 and x + y = 6
+3. Solve: 4x - y = 11 and 2x + y = 7
+4. Sum of two numbers is 50 and difference is 6. Find them.
+5. A number increased by 12 becomes 29. Find the number.
+6. Solve: 7x - 3 = 4x + 12
+
+---
+
+## ✔️ Answers
+
+> 📖 **[See detailed step-by-step solutions →](./Pattern2-Linear-Equations-Answers.md)**

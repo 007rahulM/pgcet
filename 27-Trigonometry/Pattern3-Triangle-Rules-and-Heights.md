@@ -1,68 +1,85 @@
-# Triangles, Heights & Area — Pattern 3
+# Pattern 3: Triangle Rules & Area
 
-## 🧠 Core Idea
+## 🔍 How to Recognize This Pattern
 
-Use **sine rule**, **cosine rule**, and **area formula** to solve triangle questions fast.
-
----
-
-## ✅ Sine Rule
-```
-a/sin A = b/sin B = c/sin C
-```
-
-## ✅ Cosine Rule
-```
-c² = a² + b² - 2ab cos C
-```
-
-## ✅ Area Formula
-```
-Area = (1/2)ab sin C
-```
+- "Find side of triangle"
+- "Find area using two sides and included angle"
+- "Use sine rule / cosine rule"
 
 ---
 
-## 📌 Triangle Diagram
+## 🧠 The Golden Rule
+
+> **Choose the rule by looking at the given data.**
+>
+> - One side-angle pair known? → Sine rule
+> - Two sides and included angle known? → Cosine rule
+> - Need area? → 1/2 ab sinC
+
+## 📐 Core Formulas
+
 ```
-       B
-      / \
-     /   \
-   c/  A  \ b
-   /       \
-  /_________\
- A     a     C
+a/sinA = b/sinB = c/sinC
+c^2 = a^2 + b^2 - 2ab cosC
+Area = (1/2)ab sinC
 ```
 
 ---
 
-## 🔥 Example 1 (Sine Rule)
+## ✅ Step-by-Step Examples
 
+### Example 1
 **❓ Question:** In △ABC, a = 6, A = 30°, B = 45°. Find b.
 
 **✏️ My Solution:**
+Using sine rule:
 ```
 a/sinA = b/sinB
-6/sin30 = b/sin45
 6/(1/2) = b/(1/√2)
 12 = b√2
-b = 12/√2 = 6√2
+b = 6√2
 ```
+
 **✅ Answer: 6√2**
 
 ---
 
-## 🔥 Example 2 (Cosine Rule)
+### Example 2
+**❓ Question:** In a triangle, a = 5, b = 7, C = 60°. Find c.
 
-**❓ Question:** a = 5, b = 7, C = 60°. Find c.
+**✏️ My Solution:**
+Using cosine rule:
+```
+c^2 = 5^2 + 7^2 - 2(5)(7)(1/2)
+    = 25 + 49 - 35
+    = 39
+c = √39
+```
+
+**✅ Answer: √39**
+
+---
+
+### Example 3
+**❓ Question:** Find the area of a triangle with sides 10 and 7 including angle 30°.
 
 **✏️ My Solution:**
 ```
-c² = 5² + 7² - 2(5)(7)cos60
-   = 25 + 49 - 70(1/2)
-   = 74 - 35 = 39
+Area = (1/2)(10)(7)sin30
+     = 35 × 1/2
+     = 35/2
 ```
-**✅ Answer: c = √39**
+
+**✅ Answer: 35/2 square units**
+
+---
+
+## ⚡ 60-Second Strategy
+
+1. Identify which three pieces of information are given.
+2. Match them to sine rule, cosine rule, or area formula.
+3. Plug values carefully.
+4. Simplify only at the end.
 
 ---
 
@@ -70,4 +87,12 @@ c² = 5² + 7² - 2(5)(7)cos60
 
 1. Use sine rule to find c if a = 8, A = 30°, C = 45°
 2. Use cosine rule to find b if a = 6, c = 9, B = 60°
-3. Find area if a = 10, b = 7, C = 30°
+3. Find area if a = 12, b = 9, C = 30°
+4. In a triangle, a = 4, A = 30°, B = 60°. Find b
+5. Find area if a = 8, b = 5, C = 90°
+
+---
+
+## ✔️ Answers
+
+> 📖 **[See detailed step-by-step solutions →](./Pattern3-Triangle-Rules-and-Heights-Answers.md)**

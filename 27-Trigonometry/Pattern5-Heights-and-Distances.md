@@ -1,47 +1,93 @@
-# Heights & Distances — Pattern 5
+# Pattern 5: Heights & Distances
 
-## 🔍 When This Comes Up
-- "Angle of elevation/depression" problems
-- Finding height of tower/building or width of river
-- Right triangle with known angle and side
+## 🔍 How to Recognize This Pattern
 
----
-
-## 🧠 Core Idea
-Translate the situation into a **right triangle**, then apply basic trig ratios.
+- "Angle of elevation"
+- "Angle of depression"
+- "Height of tower / tree / building"
+- "Shadow length / distance from object"
 
 ---
 
-## 📐 Key Ratios
+## 🧠 The Golden Rule
+
+> **Draw the right triangle first. Then decide whether tan, sin, or cos is the quickest ratio.**
+
+## 📐 Most-Used Ratios
+
 ```
 sin θ = opposite / hypotenuse
 cos θ = adjacent / hypotenuse
 tan θ = opposite / adjacent
 ```
-Useful rearrangements:
+
+Most common shortcuts:
 ```
-Height = distance × tan θ
-Distance = height / tan θ
+Height = distance × tanθ
+Distance = height / tanθ
 ```
 
 ---
 
-## ✅ Worked Example
+## ✅ Step-by-Step Examples
 
-**❓ Question:** From a point 40 m away, angle of elevation to top of a tower is 45°. Find height.
+### Example 1
+**❓ Question:** From a point 40 m away, angle of elevation to the top of a tower is 45°. Find height.
 
 **✏️ My Solution:**
 ```
-Height = distance × tan 45° = 40 × 1 = 40 m
+Height = 40 × tan45 = 40 × 1 = 40 m
 ```
-**✅ Answer:** 40 m
+
+**✅ Answer: 40 m**
 
 ---
 
-## 📝 Practice
-1. A tower casts a shadow of 30 m when the angle of elevation is 30°. Find height.
-2. A tree of height 12 m is seen at 60° elevation. Find distance from the tree.
+### Example 2
+**❓ Question:** A tower casts a shadow 30 m long. If the angle of elevation of the sun is 30°, find the height.
 
-**Answers:**
-1) 30 × tan 30° = 30/√3 ≈ 17.32 m
-2) Distance = 12 / tan 60° = 12/√3 ≈ 6.93 m
+**✏️ My Solution:**
+```
+Height = 30 × tan30 = 30/√3 = 10√3 m
+```
+
+**✅ Answer: 10√3 m**
+
+---
+
+### Example 3
+**❓ Question:** A tree is 12 m tall. Its top is seen at an elevation of 60°. Find the distance from the tree.
+
+**✏️ My Solution:**
+```
+tan60 = 12 / distance
+√3 = 12 / distance
+distance = 12/√3 = 4√3 m
+```
+
+**✅ Answer: 4√3 m**
+
+---
+
+## ⚡ 60-Second Strategy
+
+1. Draw the triangle and mark the angle.
+2. Decide which side is known and which side is required.
+3. Use tan most often in tower-shadow questions.
+4. Keep the final unit in meters.
+
+---
+
+## 📝 Practice Problems
+
+1. A building 20 m high is seen at 45°. Find distance from the building.
+2. A tower casts a 10 m shadow when sun elevation is 60°. Find height.
+3. From a point 15 m away, top of a pole is seen at 30°. Find pole height.
+4. A tree is 8 m high. Find distance if angle of elevation is 45°.
+5. From the top of a building, angle of depression to a point is 30°. If horizontal distance is 18 m, find building height.
+
+---
+
+## ✔️ Answers
+
+> 📖 **[See detailed step-by-step solutions →](./Pattern5-Heights-and-Distances-Answers.md)**

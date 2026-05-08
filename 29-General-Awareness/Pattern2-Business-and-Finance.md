@@ -1,35 +1,67 @@
-# Business & Finance — Pattern 2
+# Pattern 2: Business & Finance
 
-## 🔍 When This Comes Up
-- RBI, inflation, GDP, budget terms
-- Banking acronyms (CRR, SLR, Repo)
-- Market regulators and financial institutions
+## 🔍 How to Recognize This Pattern
 
----
-
-## 🧠 Core Idea
-Most questions are **definitions + roles** of institutions.
+- "What is GDP?"
+- "Who controls repo rate?"
+- "Who regulates stock market?"
+- Banking full forms and digital payment questions
 
 ---
 
-## 📌 Quick Facts
-- **RBI** controls repo rate, CRR, SLR
-- **SEBI** regulates securities market
-- **GDP** = total value of goods/services produced
-- **Inflation** = rise in general price level
+## 🧠 The Golden Rule
+
+> **For finance questions, remember: term → full form → meaning → controlling institution.**
+
+## 📌 Core Notes
+
+- **RBI** controls repo rate, CRR, SLR and monetary policy.
+- **SEBI** regulates the securities / stock market.
+- **GDP** = total value of goods and services produced in a country in a year.
+- **Inflation** = rise in general price level.
+- **UPI** = instant digital payments system.
+- **NEFT / RTGS** = electronic fund transfer systems.
 
 ---
 
-## ✅ Micro Example
+## ✅ Step-by-Step Mini Examples
+
+### Example 1
 **Q:** Who regulates the stock market in India?
-**A:** SEBI
+
+**Thinking:** Stock market → securities market → SEBI.
+
+**Answer:** SEBI
 
 ---
 
-## 📝 Practice
+### Example 2
+**Q:** What does GDP measure?
+
+**Thinking:** It measures national production/value over a year.
+
+**Answer:** Total value of goods and services produced in a year
+
+---
+
+## ⚡ 60-Second Strategy
+
+1. Spot whether the term is banking, market, or economy.
+2. Recall the controlling body.
+3. Give the simplest exact definition.
+
+---
+
+## 📝 Practice Problems
+
 1. Full form of CRR
 2. Who controls repo rate?
+3. What does inflation mean?
+4. Who regulates the securities market?
+5. UPI is used for what?
 
-**Answers:**
-1) Cash Reserve Ratio
-2) RBI
+---
+
+## ✔️ Answers
+
+> 📖 **[See detailed step-by-step solutions →](./Pattern2-Business-and-Finance-Answers.md)**

@@ -1,58 +1,92 @@
-# Factorization & Algebraic Expressions — Pattern 5
+# Pattern 5: Factorization & Algebraic Expressions
 
-## 🔍 When This Comes Up
-- "Factorize" or "simplify the expression" questions
-- Expansions like (x + a)(x + b) or (x − a)^2
-- Splitting middle term or taking common factors
+## 🔍 How to Recognize This Pattern
 
----
-
-## 🧠 Core Idea
-Reduce expressions using **standard identities** and **factorization patterns** to make equations easier to solve.
+- "Factorize"
+- "Split the middle term"
+- "Simplify expression"
+- "Use algebraic identity"
 
 ---
 
-## 📐 Key Identities
+## 🧠 The Golden Rule
+
+> **Before expanding, check whether the expression already matches a known identity or common factor.**
+
+## 📐 Common Patterns
+
 ```
 (a + b)^2 = a^2 + 2ab + b^2
 (a - b)^2 = a^2 - 2ab + b^2
-(a + b)(a - b) = a^2 - b^2
-x^2 + (a + b)x + ab = (x + a)(x + b)
+a^2 - b^2 = (a - b)(a + b)
+x^2 + (p+q)x + pq = (x+p)(x+q)
+ax + ay = a(x+y)
 ```
 
 ---
 
-## ✅ Worked Example 1 (Split the Middle Term)
+## ✅ Step-by-Step Examples
 
+### Example 1
 **❓ Question:** Factorize x^2 + 7x + 12.
 
 **✏️ My Solution:**
+Need two numbers whose sum is 7 and product is 12.
+Those numbers are 3 and 4.
 ```
-Need two numbers with sum 7 and product 12 → 3 and 4
 x^2 + 7x + 12 = (x + 3)(x + 4)
 ```
-**✅ Answer:** (x + 3)(x + 4)
+
+**✅ Answer: (x + 3)(x + 4)**
 
 ---
 
-## ✅ Worked Example 2 (Difference of Squares)
-
-**❓ Question:** Simplify (x + 5)(x - 5).
+### Example 2
+**❓ Question:** Simplify (2x + 5)(2x - 5).
 
 **✏️ My Solution:**
+Use a^2 - b^2.
 ```
-(x + 5)(x - 5) = x^2 - 25
+(2x + 5)(2x - 5) = (2x)^2 - 5^2 = 4x^2 - 25
 ```
-**✅ Answer:** x^2 − 25
+
+**✅ Answer: 4x^2 - 25**
 
 ---
 
-## 📝 Practice
-1. Factorize: x^2 + 11x + 24
-2. Simplify: (2x + 3)(2x - 3)
-3. Factorize: 4x^2 - 12x
+### Example 3
+**❓ Question:** Factorize 6x^2 - 9x.
 
-**Answers:**
-1) (x + 3)(x + 8)
-2) 4x^2 − 9
-3) 4x(x − 3)
+**✏️ My Solution:**
+Take common factor 3x.
+```
+6x^2 - 9x = 3x(2x - 3)
+```
+
+**✅ Answer: 3x(2x - 3)**
+
+---
+
+## ⚡ 60-Second Strategy
+
+1. First check for a common factor.
+2. Then check for identity form.
+3. In x^2 + bx + c, find two numbers whose sum is b and product is c.
+4. Only expand if the question really asks for expansion.
+
+---
+
+## 📝 Practice Problems
+
+1. Factorize: x^2 + 9x + 20
+2. Simplify: (x + 6)(x - 6)
+3. Factorize: 8x^2 + 12x
+4. Factorize: x^2 - x - 12
+5. Simplify: (3x - 2)^2
+6. Factorize: 5x^2 - 20
+
+---
+
+## ✔️ Answers
+
+> 📖 **[See detailed step-by-step solutions →](./Pattern5-Factorization-and-Expressions-Answers.md)**

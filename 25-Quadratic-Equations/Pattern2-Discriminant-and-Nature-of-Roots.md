@@ -1,47 +1,93 @@
-# Discriminant & Nature of Roots — Pattern 2
+# Pattern 2: Discriminant & Nature of Roots
 
-## 🔍 When This Comes Up
-- "Nature of roots" or "number of real roots"
-- Questions mentioning discriminant (D)
-- Coefficients given, roots asked without solving fully
+## 🔍 How to Recognize This Pattern
 
----
-
-## 🧠 Core Idea
-Use the **discriminant** to classify the roots quickly without solving the quadratic.
+- "Find the nature of roots"
+- "Without solving, tell whether roots are real or imaginary"
+- "Check whether roots are equal"
 
 ---
 
-## 📐 Key Formula
-For ax^2 + bx + c = 0:
+## 🧠 The Golden Rule
+
+> **Use the discriminant before solving the full equation.**
+
+For
+```
+ax^2 + bx + c = 0
+```
+Discriminant is
 ```
 D = b^2 - 4ac
 ```
-- D > 0 → two distinct real roots
-- D = 0 → equal real roots
-- D < 0 → no real roots
+
+### Meaning of D
+- **D > 0** → two real and distinct roots
+- **D = 0** → real and equal roots
+- **D < 0** → no real roots
 
 ---
 
-## ✅ Worked Example
+## ✅ Step-by-Step Examples
 
-**❓ Question:** Find the nature of roots for 2x^2 - 4x + 5 = 0.
+### Example 1
+**❓ Question:** Find the nature of roots of x^2 - 6x + 9 = 0.
 
 **✏️ My Solution:**
 ```
-D = (-4)^2 - 4(2)(5) = 16 - 40 = -24
-D < 0 → no real roots
+D = (-6)^2 - 4(1)(9) = 36 - 36 = 0
 ```
-**✅ Answer:** No real roots
+So roots are **real and equal**.
+
+**✅ Answer: Real and equal**
 
 ---
 
-## 📝 Practice
-1. Find D for x^2 - 6x + 9 = 0
-2. Nature of roots for 3x^2 + x - 2 = 0
-3. If D = 0, what does it mean?
+### Example 2
+**❓ Question:** Find the nature of roots of 3x^2 + x - 2 = 0.
 
-**Answers:**
-1) D = 0
-2) D = 25 > 0 → two distinct real roots
-3) Roots are real and equal
+**✏️ My Solution:**
+```
+D = 1^2 - 4(3)(-2) = 1 + 24 = 25 > 0
+```
+So roots are **real and distinct**.
+
+**✅ Answer: Two real and distinct roots**
+
+---
+
+### Example 3
+**❓ Question:** Find the nature of roots of 2x^2 - 4x + 5 = 0.
+
+**✏️ My Solution:**
+```
+D = (-4)^2 - 4(2)(5) = 16 - 40 = -24 < 0
+```
+So there are **no real roots**.
+
+**✅ Answer: No real roots**
+
+---
+
+## ⚡ 60-Second Strategy
+
+1. Identify a, b, c correctly.
+2. Compute D carefully.
+3. Stop there if the question only asks root type.
+4. Only solve fully if the question asks actual roots.
+
+---
+
+## 📝 Practice Problems
+
+1. Find the nature of roots of x^2 + 4x + 4 = 0.
+2. Find the nature of roots of x^2 + x + 1 = 0.
+3. Find the nature of roots of 2x^2 - 7x + 3 = 0.
+4. If D = 0, what type of roots does the equation have?
+5. Find D for 4x^2 + 4x + 1 = 0.
+
+---
+
+## ✔️ Answers
+
+> 📖 **[See detailed step-by-step solutions →](./Pattern2-Discriminant-and-Nature-of-Roots-Answers.md)**

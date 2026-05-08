@@ -1,50 +1,101 @@
-# Lines & Distance — Pattern 2
+# Pattern 2: Lines, Distance & Midpoint
 
-## 🔍 When This Comes Up
-- "Distance between two points" or "midpoint"
-- "Slope of a line" or "equation of a line"
-- Parallel / perpendicular line questions
+## 🔍 How to Recognize This Pattern
 
----
-
-## 🧠 Core Idea
-Most coordinate geometry questions reduce to **distance, midpoint, and slope**, then plug into the right line form.
+- "Distance between two points"
+- "Find the midpoint"
+- "Find slope of the line"
+- "Equation of a line through two points"
+- "Parallel or perpendicular line"
 
 ---
 
-## 📐 Key Formulas
+## 🧠 The Golden Rule
+
+> **Most line questions reduce to distance, midpoint, or slope. Compute those first.**
+
+## 📐 Core Formulas
+
 ```
-Distance: √[(x2 - x1)^2 + (y2 - y1)^2]
-Midpoint: ((x1 + x2)/2, (y1 + y2)/2)
-Slope: m = (y2 - y1)/(x2 - x1)
-Point-slope: y - y1 = m(x - x1)
-Two-point: (y - y1)/(y2 - y1) = (x - x1)/(x2 - x1)
+Distance = √[(x2 - x1)^2 + (y2 - y1)^2]
+Midpoint = ((x1 + x2)/2, (y1 + y2)/2)
+Slope m = (y2 - y1)/(x2 - x1)
+Point-slope form: y - y1 = m(x - x1)
 ```
-- Parallel lines: same slope
-- Perpendicular lines: m1 · m2 = -1
+
+- Parallel lines → same slope
+- Perpendicular lines → m1 × m2 = -1
 
 ---
 
-## ✅ Worked Example
+## ✅ Step-by-Step Examples
 
-**❓ Question:** Find equation of line through (2, 3) and (6, 11).
+### Example 1
+**❓ Question:** Find the distance between (1, 2) and (4, 6).
 
 **✏️ My Solution:**
 ```
-m = (11 - 3)/(6 - 2) = 8/4 = 2
-Use point-slope: y - 3 = 2(x - 2)
-=> y = 2x - 1
+Distance = √[(4-1)^2 + (6-2)^2]
+         = √[3^2 + 4^2]
+         = √25 = 5
 ```
-**✅ Answer:** y = 2x − 1
+
+**✅ Answer: 5**
 
 ---
 
-## 📝 Practice
-1. Distance between (1, 2) and (4, 6)
-2. Midpoint of (−2, 5) and (6, −3)
-3. Find slope of line 2x + 3y = 6
+### Example 2
+**❓ Question:** Find the midpoint of (-2, 5) and (6, -3).
 
-**Answers:**
-1) 5
-2) (2, 1)
-3) m = −2/3
+**✏️ My Solution:**
+```
+Midpoint = ((-2+6)/2, (5-3)/2)
+         = (4/2, 2/2)
+         = (2, 1)
+```
+
+**✅ Answer: (2, 1)**
+
+---
+
+### Example 3
+**❓ Question:** Find the equation of the line through (2, 3) and (6, 11).
+
+**✏️ My Solution:**
+Step 1: Find slope
+```
+m = (11-3)/(6-2) = 8/4 = 2
+```
+Step 2: Use point-slope form
+```
+y - 3 = 2(x - 2)
+y = 2x - 1
+```
+
+**✅ Answer: y = 2x - 1**
+
+---
+
+## ⚡ 60-Second Strategy
+
+1. Write the two coordinates clearly.
+2. Compute x-difference and y-difference.
+3. Choose the formula the question is asking for.
+4. Keep the answer in the requested form.
+
+---
+
+## 📝 Practice Problems
+
+1. Distance between (0, 0) and (3, 4)
+2. Midpoint of (2, 7) and (8, 1)
+3. Slope of line joining (1, 1) and (5, 9)
+4. Equation of line through (1, 2) with slope 3
+5. Are y = 2x + 1 and y = 2x - 5 parallel or perpendicular?
+6. Find the slope of 3x + 2y = 8
+
+---
+
+## ✔️ Answers
+
+> 📖 **[See detailed step-by-step solutions →](./Pattern2-Lines-and-Distance-Answers.md)**
