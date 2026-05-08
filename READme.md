@@ -18,6 +18,7 @@ Every topic includes:
 | Document | What it is |
 |----------|-----------|
 | **[EXAM-STRUCTURE.md](./EXAM-STRUCTURE.md)** | Exam pattern, weightage, 6-week study plan |
+| **[Formula-Index/Master-Formula-Index.md](./Formula-Index/Master-Formula-Index.md)** | ⭐ **All formulas + patterns + links — use this while solving papers** |
 | **[Revision-Sheets/Master-Revision-Sheet.md](./Revision-Sheets/Master-Revision-Sheet.md)** | Clean formula sheet with usage cues |
 | **[Revision-Sheets/Full-Prep-Revision.md](./Revision-Sheets/Full-Prep-Revision.md)** | Syllabus-ordered full prep revision |
 | **[Previous-Year-Questions/](./Previous-Year-Questions/)** | PYQs from 2021–2023 |
@@ -76,6 +77,9 @@ Every topic includes:
 | 16 | Direction Sense | [16-Direction-Sense](./16-Direction-Sense/) | 2–3 Qs |
 | 17 | Data Interpretation | [17-Data-Interpretation](./17-Data-Interpretation/) | 3–4 Qs |
 | 17a | Counting Figures (Triangles/Squares) | [30-Counting-Figures](./30-Counting-Figures/) | 1–2 Qs |
+| 31 | Dice (Opposite Face & Multi-View) | [31-Dice](./31-Dice/) | 1–2 Qs |
+| 32 | Clocks (Angle & Coincidence) | [32-Clocks](./32-Clocks/) | 1–2 Qs |
+| 33 | Calendar (Day After N Days, Odd Days, Next Date) | [33-Calendar](./33-Calendar/) | 1–2 Qs |
 
 ### 🌍 General Awareness
 
