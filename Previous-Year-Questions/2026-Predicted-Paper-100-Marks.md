@@ -256,7 +256,7 @@
 80. Circular arrangements of 6 persons:
 - (A) 720  (B) 120  (C) 24  (D) 360
 
-81. Dice has opposite faces sum as 7. Opposite of 4:
+81. On a standard die, opposite faces sum to 7. Which face is opposite to 4?
 - (A) 1  (B) 2  (C) 3  (D) 6
 
 82. Cause-effect: heavy rain and traffic jam, likely:
@@ -268,8 +268,8 @@
 84. Number analogy: 8:64 :: 12:?
 - (A) 124  (B) 132  (C) 144  (D) 156
 
-85. If CLOCK is coded as KCOLC, pattern is:
-- (A) +1 shift  (B) reverse  (C) vowel swap  (D) alternate shift
+85. At 3:20 on a clock, the angle between hour and minute hands is:
+- (A) 10°  (B) 20°  (C) 30°  (D) 40°
 
 86. Statement-conclusion syllogism valid if:
 - (A) all B are A from all A are B  (B) all A are C from all A are B and all B are C  (C) some A are not A  (D) none
@@ -277,8 +277,8 @@
 87. Find odd one:
 - (A) Queue  (B) Stack  (C) Linked List  (D) Table
 
-88. If today is Tuesday, day after 45 days:
-- (A) Wednesday  (B) Thursday  (C) Friday  (D) Saturday
+88. If today is 30th April (Tuesday), what is the day on 1st May?
+- (A) Tuesday  (B) Wednesday  (C) Thursday  (D) Friday
 
 89. In family tree, father’s sister is:
 - (A) mother  (B) aunt  (C) niece  (D) cousin
