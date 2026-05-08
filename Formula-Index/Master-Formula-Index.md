@@ -369,10 +369,10 @@
 
 | Pattern | Recognize When | Key Formula | Link |
 |---------|---------------|-------------|------|
-| Angle Between Hands | "Angle between hands at H:M" | **Angle = \|30H − 5.5M\|**; if >180° subtract from 360° | [→](../32-Clocks/Pattern1-Angle-Between-Hands.md) |
+| Angle Between Hands | "Angle between hands at H:M" | **Angle = `\|30H − 5.5M\|`**; if >180° subtract from 360° | [→](../32-Clocks/Pattern1-Angle-Between-Hands.md) |
 | Coincidence | "When do hands meet between X and X+1?" | **M = 60H/11** minutes past H | [→](../32-Clocks/Pattern2-Coincidence-and-Right-Angles.md) |
-| Right Angle | "When are hands at 90° between X and X+1?" | Solve **\|30H − 5.5M\| = 90** (2 solutions per hour) | [→](../32-Clocks/Pattern2-Coincidence-and-Right-Angles.md) |
-| Opposite (180°) | "When are hands directly opposite?" | Solve **\|30H − 5.5M\| = 180**; 11 times per 12 hrs | [→](../32-Clocks/Pattern2-Coincidence-and-Right-Angles.md) |
+| Right Angle | "When are hands at 90° between X and X+1?" | Solve `|30H − 5.5M| = 90` (2 solutions per hour) | [→](../32-Clocks/Pattern2-Coincidence-and-Right-Angles.md) |
+| Opposite (180°) | "When are hands directly opposite?" | Solve `|30H − 5.5M| = 180`; 11 times per 12 hrs | [→](../32-Clocks/Pattern2-Coincidence-and-Right-Angles.md) |
 | Counts in 24 hrs | "How many times do hands coincide/form right angle?" | Coincide: 22; Right angle: 44; Opposite: 22 | [→](../32-Clocks/Pattern2-Coincidence-and-Right-Angles.md) |
 
 ---
@@ -429,7 +429,7 @@
 
 | Condition | Formula / Count |
 |-----------|----------------|
-| Angle at H:M | \|30H − 5.5M\| |
+| Angle at H:M | `\|30H − 5.5M\|` |
 | Hands coincide between H & H+1 | 60H/11 min past H |
 | Right angle times per 12 hrs | 22 |
 | Coincidence times per 12 hrs | 11 |
