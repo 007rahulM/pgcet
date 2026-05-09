@@ -1,6 +1,6 @@
 # Pattern 3: Reading Comprehension and Sentence Correction
 
-## 🔍 When This Comes Up
+## Where This Comes Up
 
 - A passage is given with 3–5 questions
 - "Find the error in the sentence"
@@ -77,24 +77,26 @@
 
 ---
 
-## 📐 Part 2: Reading Comprehension Strategy
+## Part 2: Reading Comprehension Solve Workflow
 
-### 60-Second Approach:
-1. **Read the questions FIRST** (before the passage)
-2. **Skim the passage** for keywords related to questions
-3. **Read relevant sentences** carefully
-4. **Choose** the most directly supported answer (don't assume)
-
-### Tips:
-- Answers are usually **directly stated** in the passage
-- "Main idea" questions → look at **topic sentence** of each paragraph
-- "The author implies..." → look for **indirect statements**
-- Eliminate obviously wrong answers first
-- Don't use **outside knowledge** — stay with what's in the passage
+1. Read questions first and mark keywords (name/date/cause/idea/author view).  
+2. Read passage once quickly for structure (intro, detail, conclusion).  
+3. Return to each question and locate exact supporting line.  
+4. Eliminate options not supported by passage words.  
+5. For inference questions, pick the nearest implied meaning, not outside knowledge.
 
 ---
 
-## ✅ Step-by-Step Examples
+## Solve Method for Sentence Correction
+
+1. Read full sentence first.  
+2. Check in this order: subject-verb → tense → article → preposition → pronoun → comparison.  
+3. If “find error” format, choose the part that violates one grammar rule.  
+4. If “correct sentence” format, remove all options with any one rule break.
+
+---
+
+## Worked Examples
 
 ### Example 1 (Sentence Correction)
 
@@ -156,19 +158,13 @@
 
 ---
 
-## ⚡ 60-Second Summary
+## Common Traps to Eliminate Fast
 
-**For Sentence Correction:**
-1. Read the whole sentence for obvious errors
-2. Check: articles (a/an/the), prepositions, verb agreement, tense
-3. Eliminate options with clear errors
-4. Choose the cleanest, most standard English
-
-**Common traps in exams:**
-- Double comparatives: "more better" ❌ → "better" ✅
-- Double negatives: "don't know nothing" ❌ → "don't know anything" ✅
-- Wrong preposition with fixed phrases: angry with (not on), good at (not in)
-- Since vs For: since = time point, for = duration
+- Double comparative: more better, more taller  
+- Double negative: don’t know nothing  
+- Wrong pair: angry on, married with, good in (in these contexts)  
+- Since/For confusion  
+- Either/Neither with plural verb
 
 ---
 

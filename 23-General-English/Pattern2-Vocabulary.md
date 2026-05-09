@@ -1,6 +1,6 @@
 # Pattern 2: Vocabulary — Synonyms, Antonyms, One-Word Substitutions
 
-## 🔍 When This Comes Up
+## Where This Comes Up
 
 - "Choose the synonym of 'diligent'"
 - "Find the antonym of 'hostile'"
@@ -84,7 +84,27 @@
 
 ---
 
-## ✅ Step-by-Step Examples
+## Solve Method (Use this in every question)
+
+### A) Synonym question
+1. Write a simple meaning of the given word.
+2. Remove options with opposite meaning.
+3. Remove options from unrelated context.
+4. Pick closest meaning, not exact dictionary sentence.
+
+### B) Antonym question
+1. Confirm base meaning of the given word.
+2. Remove words with same meaning (common trap).
+3. Pick strongest opposite in context.
+
+### C) One-word substitution
+1. Identify key root in phrase (phobia, -cide, -ology, -phile, etc.).
+2. Match root with option.
+3. Reject close-but-wrong roots.
+
+---
+
+## Worked Examples
 
 ### Example 1 (Synonym)
 **Q:** Synonym of "diligent":
@@ -117,29 +137,17 @@
 
 ---
 
-## ⚡ 60-Second Tips
+## High-Yield Root Map (Use directly in elimination)
 
-**For synonyms:**
-- If unsure, eliminate obvious antonyms and unrelated words
-- Think of the root meaning of the word
-
-**For antonyms:**
-- Antonym = OPPOSITE meaning
-- Don't confuse with synonym (same meaning)
-
-**Phobia roots to know:**
-- Hydro = water
-- Acro = height
-- Claustro = enclosed space
-- Xeno = foreign/stranger
-- Arachno = spiders
-- Pyro = fire
-
-**One-word roots:**
-- -cide = killing (homicide=murder, regicide=king, matricide=mother)
-- -ology = study of (ornithology=birds, entomology=insects)
-- -phile = lover of (bibliophile=books, philanthropist=humans)
-- Poly = many (polyglot=many languages)
+- Hydro = water  
+- Acro = height  
+- Claustro = closed spaces  
+- Xeno = foreign/stranger  
+- Pyro = fire  
+- -cide = killing  
+- -ology = study of  
+- -phile = lover of  
+- Poly = many
 
 ---
 

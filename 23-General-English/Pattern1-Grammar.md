@@ -1,6 +1,6 @@
 # Pattern 1: Grammar — Tenses, Articles, Prepositions, Subject-Verb Agreement
 
-## 🔍 When This Comes Up
+## Where This Comes Up
 
 - "Choose the correct form of the verb..."
 - "Fill in the blank with correct article (a/an/the)"
@@ -68,7 +68,17 @@
 
 ---
 
-## ✅ Step-by-Step Examples
+## Solve Method (Use this order in exam)
+
+1. **Read full sentence once** (do not jump to options first).  
+2. **Identify tested area**: tense / article / preposition / subject-verb.  
+3. **Apply one rule only** at the blank/error point.  
+4. **Eliminate options** that break that rule.  
+5. **Re-read final sentence** for natural grammar.
+
+---
+
+## Worked Examples
 
 ### Example 1 (Article)
 **Q:** "I want to be ___ engineer."
@@ -97,20 +107,21 @@
 
 ---
 
-## ⚡ 60-Second Tips
+## Exact Rules to Apply While Solving
 
-**Article rule:** Listen to the SOUND, not the spelling.
-- "a" before consonant SOUNDS (even if vowel letter): a university, a one-time offer
-- "an" before vowel SOUNDS (even if consonant letter): an hour, an MBA
-
-**Preposition rule:**
-- Since + specific POINT in time (since 2020)
-- For + DURATION (for 3 years)
-
-**Tense signal words:**
-- "already, just, yet, since, for" → Present Perfect
-- "yesterday, ago, last" → Simple Past
-- "by the time, before" + future → Future Perfect
+- **Articles:** decide by sound, not spelling.  
+  - a university, a one-time offer  
+  - an hour, an MBA
+- **Since vs For:**  
+  - since = starting point in time  
+  - for = duration
+- **Subject-Verb:**  
+  - he/she/it → singular verb  
+  - collective nouns usually singular in objective test usage
+- **Tense cues:**  
+  - already/just/yet/since/for → present perfect  
+  - yesterday/ago/last → simple past  
+  - by the time + future context → future perfect
 
 ---
 
