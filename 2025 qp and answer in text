@@ -1,0 +1,889 @@
+Which of the following is correct?
+(a) m^4 - 256 = (m^2 + 16)(m^2 - 16)
+(b) m^4 - 256 = (m + 4i)(m - 4i)(m + 4)(m - 4)
+(1) a only
+(2) b only
+(3) both a and b
+(4) neither a nor b
+
+Which of the following is not a quadratic equation?
+(1) (x - 2)^2 + 1 = 2x + 3
+(2) x(x + 1) + 8 = (x + 2)(x - 2)
+(3) x(2x + 3) = x^2 + 1
+(4) (x + 2)^3 = x^3 - 4
+
+A person has 2 parents, 4 grandparents, 8 great grandparents and so on. The number of his ancestors during the ten generations preceding his own is
+(1) 1512
+(2) 4086
+(3) 1023
+(4) 2046
+
+If the co-efficients of three consecutive terms in the expansion of (1 + α)^n are in the ratio 1:7:42 then the value of n is
+(1) 55
+(2) 50
+(3) 45
+(4) 60
+
+The number of different 8-letter arrangement that can be made from the letters of the word DAUGHTER so that all vowels do not occur together is
+(1) 36000
+(2) 43200
+(3) 64800
+(4) 53600
+
+The area of a triangle whose vertices are (3,8)(-4,2) and (5,1) is
+(1) 30.5
+(2) 61
+(3) 40.5
+(4) 81
+
+Let A, B and C are the square matrices of the order n × n. Then which of the following is not correct?
+(1) A + B = B + A
+(2) (A + B) + C = A + (B + C)
+(3) AB = BA
+(4) (AB)C = A(BC)
+
+Let A = {1,2, {3,4} ,5}, then which of the following is correct?
+(1) {3,4} ⊂ A
+(2) {{3,4}} ⊂ A
+(3) {3,4} ∈ A
+(4) {3,4} ∉ A
+
+The angle between the line through the points (4, 7, 8), (2, 3, 4) and the line through the points (-1, -2, 1), (1, 2, 5) is
+(1) π/3
+(2) π/2
+(3) π/6
+(4) 0
+
+The mid point of the line joining the points (1, 4, 8) and (3, 6, 10) is
+(1) (2, 5, 9)
+(2) (1, 1, 1)
+(3) (4, 10, 18)
+(4) (2, 2, 2)
+
+The equation of the circle which passes through the points (2, -2) and (3, 4) and whose centre lies on the line x + y = 2 is
+(1) (x - 0.7)^2 + (y - 1.3)^2 = 12.58
+(2) (x + 0.7)^2 + (y + 1.3)^2 = 12.58
+(3) (x - 0.7)^2 + (y + 1.3)^2 = 12.58
+(4) x^2 + y^2 = 5
+
+The equation of the ellipse, with major axis along the x-axis and passing through the points (4, 3) and (-1, 4) is
+(1) 15x^2 + 7y^2 = 247
+(2) 15x^2 - 7y^2 = 247
+(3) 7x^2 - 15y^2 = 247
+(4) 7x^2 + 15y^2 = 247
+
+The equation of the hyperbola where foci are (0, ±12) and the length of the latus rectum is 36 is
+(1) x^2 - y^2 = 108
+(2) x^2 - 3y^2 = 108
+(3) 3y^2 - x^2 = 108
+(4) x^2 + 3y^2 = 108
+
+In Boolean algebra, which of the following is correct?
+(1) x ∧ y = x' ∨ y'
+(2) x ∨ y = x' ∧ y'
+(3) x ∧ (x ∨ y) = x
+(4) x ∨ 1 = x
+
+In Boolean algebra, simplified form of (x ∧ y) ∨ x' ∨ y' is
+(1) 1
+(2) 0
+(3) y
+(4) x
+
+Which of the following statement/statements is/are true?
+(a) x ∨ y ∧ x' ∧ y' = (x' ∧ y) ∨ (x ∧ y')
+(b) x ∨ y ∧ y ∨ z ∧ z ∨ x = (x ∧ y) ∨ (y ∧ z) ∨ (z ∧ x)
+Codes:
+(1) a only
+(2) b only
+(3) both a and b
+(4) neither a nor b
+
+Which of the following is/are true?
+(a) cos 2x = cos^2 x + sin^2 x
+(b) cos 2x = (1 - tan^2 x) / (1 + tan^2 x)
+Codes:
+(1) a only
+(2) b only
+(3) both a and b
+(4) neither a nor b
+
+For any real numbers x and y, which of the following is/are correct?
+(a) If sin x = sin y then x = nπ + (-1)^n y where n ∈ z
+(b) If tan x = tan y then x = nπ + y where n ∈ z
+Codes:
+(1) a only
+(2) b only
+(3) both a and b
+(4) neither a nor b
+
+If Sin x = 3/5, Cos y = -12/13 where x and y both lie in second quadrant, the value of Sin(x + y) is
+(1) -56/65
+(2) 4/65
+(3) 5/13
+(4) (option missing)
+
+The value of Sin^-1 (Sin (3π/5)) is
+(1) 2π/5
+(2) 3π/5
+(3) 5/3π
+(4) 4π/5
+
+A bag contains 8 white and 6 red balls. The probability of drawing two balls of the same colour is
+(1) 28/91
+(2) 15/91
+(3) 13/91
+(4) 43/91
+
+Two students Anil and Ashima appeared for an examination. The probability that Anil will qualify the examination is 0.05 and that Ashima will qualify the examination is 0.10. The probability that both will qualify the examination is 0.02. The probability that both will not qualify the examination is
+(1) 0.13
+(2) 0.87
+(3) 0.98
+(4) 0.15
+
+The standard deviation of 8, 10, 12, 14, 16, 18, 20, 22, 24, 26 is
+(1) 33
+(2) 5.74
+(3) 15
+(4) 3.98
+
+The lines of regression of y on x and x on y are available as 4x - 5y + 33 = 0 and 20x - 9y = 107 respectively. The co-efficient of correlation between x and y is
+(1) 0.6
+(2) 0.8
+(3) 0.45
+(4) 0.95
+
+A frequency distribution of variable x with mean 42 and median 50 is
+(1) positively skewed distribution
+(2) negatively skewed distribution
+(3) mesokurtic distribution
+(4) platykurtic distribution
+
+Viruses:
+(a) are usually spread by downloading from public pages or copying the content from an infected hard disk or pendrive
+(b) does not spread
+Which of the following is/are correct?
+(1) both a and b are correct
+(2) only a is correct
+(3) only b is correct
+(4) neither a nor b is correct
+
+Given the following statements:
+S1: NAND and NOR are universal gates
+S2: AND, OR, NOT are basic gates
+Which of the following is the correct answer?
+(1) S1: true and S2: true
+(2) S1: false and S2: false
+(3) S1: false and S2: true
+(4) S1: true and S2: false
+
+Select the correct arrangement in the decreasing order of size
+(1) KB, MB, GB, Bit, Byte, Nibble
+(2) Bit, Byte, Nibble, KB, GB, MB
+(3) GB, MB, KB, Byte, Nibble, Bit
+(4) MB, KB, GB, Nibble, Bit, Byte
+
+Given the following lists:
+List 1
+(a) Input devices
+(b) Memory devices
+(c) System software
+(d) Operating system
+List 2
+(i) Floppy disks, Hard drives
+(ii) Keyboard, Microphone
+(iii) Windows, Linux
+(iv) Compiler, Assembler
+Identify the correct match from the following:
+(1) a-iv, b-iii, c-ii, d-i
+(2) a-iii, b-iv, c-ii, d-i
+(3) a-ii, b-i, c-iv, d-iii
+(4) a-iii, b-ii, c-iv, d-i
+
+The (a) memory is used to (b) the performance mismatch between the (c) memory and the (d). The correct order of words in the above statement is
+(1) (a) Main, (b) Increase, (c) Cache, (d) CPU Registers
+(2) (a) Secondary, (b) Increase, (c) CPU Registers, (d) Main memory
+(3) (a) Cache, (b) Decrease, (c) Main, (d) CPU Register
+(4) (a) Cache, (b) Decrease, (c) Main, (d) Secondary memory
+
+Identify the correct answer from the given options:
+(a) Mouse is a device which can be connected externally to a computer
+(b) Left and Right buttons of the mouse have the same functionality
+(c) The moving speed of the pointer on the screen is fixed
+Codes:
+(1) (a), (b) and (c) are true
+(2) (a) is true, (b) and (c) are false
+(3) (a) and (b) are true, (c) is false
+(4) (a) and (c) are true, (b) is false
+
+Consider the following statements with respect to internet:
+S1 : A computer requires a correct IP address to access internet
+S2 : Internet is a worldwide system of interconnected computer networks and electronic devices that communicate with each other using an established set of protocols
+S3 : One of the biggest advantage of internet is a safe cyber space.
+Which of the following is correct?
+(1) S1 : True, S2 : True; S3 : True
+(2) S1 : True, S2 : True; S3 : False
+(3) S1 : False, S2 : True; S3 : True
+(4) S1 : False, S2 : False; S3 : False
+
+Which of the following statements is true with respect to a database?
+(1) Collection of data or information without any organization
+(2) Organized collection of data or information that can be accessed and updated
+(3) Organized collection of data that cannot be updated
+(4) Collection of data or information with proper organization
+
+________ is a method used to encode information into a format that can be used and understood by computer system.
+(1) Data structure
+(2) Data definition
+(3) Data representation
+(4) Data crunching
+
+Match the following:
+List 1
+(a) 1024 bytes
+(b) 1024 KB
+(c) 1024 MB
+(d) 1024 GB
+List 2
+(i) 1 gigabyte
+(ii) 1 megabyte
+(iii) 1 terabyte
+(iv) 1 kilobyte
+Codes:
+(1) a - iv, b - iii, c - ii, d - i
+(2) a - iv, b - ii, c - i, d - iii
+(3) a - iii, b - ii, c - iv, d - i
+(4) a - iv, b - iii, c - i, d - ii
+
+Which among the following is correct about 85, equivalent 4-bit BCD code?
+(1) 0111 0110
+(2) 1000 0101
+(3) 1000 0011
+(4) 0010 0101
+
+With respect to Binary, Octal and Hexadecimal number systems: S1: Octal and Hexadecimal representation offer compact representation than binary S2: Binary numbers are fundamental in computing and are used at the lowest level in digital system Which of the following is correct?
+(1) Both S1 and S2 are true
+(2) Both S1 and S2 are false
+(3) S1 is true and S2 is false
+(4) S2 is true and S1 is false
+
+If negative members are stored in 2's complement form, then range of numbers that can be stored in 8 bits is
+(1) -127 to +127
+(2) -127 to +128
+(3) -128 to +127
+(4) -128 to +128
+
+S3 in 2's complement form is
+(1) 1001011
+(2) 001010
+(3) 0110101
+(4) 001011
+(Note: "S3" appears to be a typo/context missing, preserved as in original)
+
+Decimal equivalent of the 763.4 is
+(1) 499.5
+(2) 499
+(3) 49.95
+(4) 459.9
+
+The magnitude of the binary number 10111011 in 1's complement and 2's complement representation are ______ and ______ respectively.
+(1) -69, -68
+(2) -68, -69
+(3) -59, -58
+(4) -58, -59
+
+1's and 2's complement of -24 in binary are ______ and ______
+(1) 100111, 101000
+(2) 011000, 011001
+(3) 101000, 100111
+(4) 011001, 011000
+
+If the random variable x has a probability distribution P(x) of the following form where k is a scalar
+P(x) = { k if x=0; 2k if x=1; 3k if x=2; 0 otherwise }
+then the value of P(x < 2) is
+(1) 1/6
+(2) 2/6
+(3) 13/6
+(4) 1/2
+
+______ is the most common security method with respect to using computers.
+(1) Lock and key
+(2) Key card systems
+(3) Passwords
+(4) Surveillance system
+
+Given the following statements with respect to Operating System:
+S1: Kernel is the heart of Operating System
+S2: Operating System acts as an interface between user and computer
+S3: Operating System is a hardware
+Which of the following is correct?
+(1) S1, S2 and S3 are correct
+(2) S1 and S2 are correct and S3 is not correct
+(3) S1, S2 and S3 are incorrect
+(4) S1 is correct and S2 & S3 are incorrect
+
+Which mode loads the minimal set of drivers when starting windows operating system?
+(1) Safe mode
+(2) Normal mode
+(3) VGA mode
+(4) Network support mode
+
+Match the following:
+List 1
+(a) Open source Operating System
+(b) Multiprocessing Operating System
+(c) Real time Operating System
+(d) Batch processing Operating System
+List 2
+(i) Does not interact with the computer directly
+(ii) Processes data and events that have critically defined time constraints
+(iii) Source code is open to all
+(iv) Used to boost the performance of multiple CPUs in a single computer system
+Codes:
+(1) a - i, b - ii, c - iii, d - iv
+(2) a - i, b - iv, c - ii, d - iii
+(3) a - iii, b - iv, c - ii, d - i
+(4) a - iv, b - iii, c - ii, d - i
+
+Given the following information with respect to a multitasking Operating System:
+S1: Enables a computer to execute multiple tasks or processes simultaneously.
+S2: Increases the productivity of the machine if the tasks to be done are organised and carried out correctly.
+S3: Supports only single user.
+Which of the following is correct?
+(1) Only S1 and S2 are correct and S3 is incorrect
+(2) Only S1 and S3 are correct and S2 is incorrect
+(3) Only S2 and S3 are correct and S1 is incorrect
+(4) Only S1 is correct and S2 and S3 are incorrect
+
+How is X related to Y?
+A: X is Y's sister
+B: Z is the father of X and Y.
+(1) Statement A alone is sufficient to answer the question
+(2) Statement B alone is sufficient to answer the question
+(3) The data either in A or B are sufficient to answer the question
+(4) The data given in both the statements together are not sufficient to answer the question
+
+In a certain code '297' means 'clear blue sky'. Which number means 'sky'?
+A: In that language '926' means 'clear blue colour'
+B: In that language '175' means 'dark cloudy sky'.
+(1) Statement A alone is sufficient to answer the question
+(2) Statement B alone is sufficient to answer the question
+(3) The data either in A or B are sufficient to answer the question
+(4) The data given in both the statements together are not sufficient to answer the question
+
+A train 125 m long passes a man running at 5 km/hr in the same direction in which the train is going in 10 seconds. The speed of the train is
+(1) 45 km/hr
+(2) 50 km/hr
+(3) 54 km/hr
+(4) 55 km/hr
+
+The angle of elevation of a ladder leaning against a wall is 60° and the foot of the ladder is 4.6 m away from the wall. The length of the ladder is
+(1) 2.3 m
+(2) 4.6 m
+(3) 7.8 m
+(4) 9.2 m
+
+A, B and C can do a piece of work in 20, 30 and 60 days respectively. In how many days can A do the work if he is assisted by B and C on every 3rd day?
+(1) 12 days
+(2) 15 days
+(3) 16 days
+(4) 18 days
+
+The difference between simple and compound interests compounded annually on a certain sum of money for 2 years at 4% per annum is Rs 1. The sum in ₹ is
+(1) 625
+(2) 650
+(3) 640
+(4) (option missing, 650 listed as (4))
+
+If selling price is doubled, the profit triples. Find the profit in percent
+(1) 66 2/3
+(2) 100
+(3) 105 1/3
+(4) 120
+
+At 3:40, the hour hand and the minute hand of a clock form an angle of
+(1) 120°
+(2) 125°
+(3) 130°
+(4) 135°
+
+The following pie-chart shows the percentage distribution of the expenditure incurred in publishing a book. If for a certain quantity of books, the publisher has to pay Rs. 30,600 as printing cost, then what will be the amount of royalty to be paid for these books?
+[Image: Pie chart with percentages. Based on context, printing cost is given. Royalty percentage needed from chart. Unable to reproduce chart, but question preserved.]
+(1) Rs. 19,450
+(2) Rs. 21,200
+(3) Rs. 22,950
+(4) Rs. 26,150
+
+Study the following table and answer the question: What is the average amount of interest per year which the company had to pay during this period?
+Year | Interest on loans (in Lakh rupees)
+1998 | 23.4
+1999 | 32.5
+2000 | 41.6
+2001 | 36.4
+2002 | 49.4
+(1) 32.43 lakh rupees
+(2) 33.45 lakh rupees
+(3) 34.18 lakh rupees
+(4) 36.66 lakh rupees
+
+Statements: Some actors are singers. All the singers are dancers. Conclusions: A. Some actors are dancers B. No singer is an actor
+(1) only A follows
+(2) only B follows
+(3) either A or B follows
+(4) neither A nor B follows
+
+A: A huge truck overturned on the middle of the road last night.
+B: The Police had cordoned off the entire area in the locality this morning for half of the day.
+(1) Statement A is the cause and statement B is its effect
+(2) Statement B is the cause and statement A is its effect
+(3) Both Statements A and B are independent causes
+(4) Both statements A and B are effects of some common cause
+
+Two positions of dice are shown below:
+Which digit will appear on the face opposite to the face with number 4?
+[Image: Two dice faces shown visually, numbers visible. Not reproducible in text.]
+(1) 3
+(2) 5
+(3) 6
+(4) 2
+
+The total of the ages of Amar, Akbar and Anthony is 80 years. What was the total of their ages 5 years ago?
+(1) 60 years
+(2) 65 years
+(3) 50 years
+(4) 55 years
+
+In the series 53,53,40,40,27,27, What number should come next?
+(1) 12
+(2) 14
+(3) 27
+(4) 53
+
+In the series 42,40,38,35,33,31,28 the next 2 terms are
+(1) 25, 22
+(2) 26, 23
+(3) 26, 24
+(4) 25, 23
+
+What number should fill the blank in the series?
+F2, __, D8, C16, B32
+(1) A16
+(2) G4
+(3) E4
+(4) E3
+
+A and B invest in a business in the ratio 3:2. If 5% of the total profit goes to charity and A's share is Rs. 855, the total profit is
+(1) Rs. 1425
+(2) Rs. 1500
+(3) Rs. 1537.50
+(4) Rs. 1576
+
+In options trading, what does the term "Strike Price" refer to?
+(1) The current market price of the underlying asset
+(2) The price at which the underlying asset can be bought or sold
+(3) The price of the option contract itself
+(4) The commission fee for executing the trade
+
+Which of the following are critical factors for achieving sustainable competitive advantages in a business?
+(i) Exploiting economies of scale.
+(ii) Maintaining high levels of customer satisfaction and loyalty.
+(iii) Frequent changes in business strategy.
+(iv) Developing unique, valuable resources and capabilities.
+Select the correct answer using the options given below:
+(1) i, ii and iv only
+(2) i, iii and iv only
+(3) ii, iii and iv only
+(4) i, ii, iii and iv
+
+Consider the following pairs:
+Sectors | Companies
+(i) Private Sector Industries | Tata Iron and Steel Industries
+(ii) Public Sector Industries | Maruti Udyog Ltd
+(iii) Joint Sector Industries | Hindustan Aeronautics Ltd
+(iv) Co-operative Industries | Anand Milk Union Ltd
+(v) Cottage Industries | Basket weaving
+Which of the above pairs are correctly matched?
+(1) Only i, ii, iii and iv
+(2) Only ii, iii, iv and v
+(3) i, ii, iii, iv and v
+(4) Only i, iv and v
+
+Which of the following are crucial for industries to navigate uncertain economic condition and market disruptions?
+(a) Diversifying revenue streams and expanding into new markets.
+(b) Implementing cost-cutting measures and reducing operating expenses.
+(c) Maintaining a rigid organizational structure to ensure stability.
+(d) Proactively monitoring market trends and competitor activities.
+Select the answer using the codes given below:
+(1) a, b and d
+(2) a, b, c and d
+(3) a, b and c
+(4) b, c and d
+
+What does the term "Cabotage" refer to in the transportation industry?
+(1) The transportation of goods or passengers across international borders
+(2) The transportation of goods or passengers within a country
+(3) The transportation of goods internationally by a domestic operator
+(4) The leasing of foreign transport vessel for domestic use
+
+Which of the following is/are not the functions of NCTE?
+(a) Understanding surveys and studies relating to various aspects of teacher education and publish the result thereof.
+(b) Recruiting qualified staff in the teacher education institutions.
+(c) Laying down norms for any specified category of courses or trainings in teacher education.
+(d) Creating job opportunities for the students who have completed teacher education programmes in the NCTE recognized institutions.
+Choose the correct answer from the options given below:
+(1) a and d only
+(2) c and d only
+(3) b and d only
+(4) d only
+
+Xiomi tied up with Foxconn to establish its plant in which of the following states of India?
+(1) Andhra Pradesh
+(2) Maharashtra
+(3) Telangana
+(4) Tamil Nadu
+
+Which of the following statements about the vitamins are correct?
+(a) Vitamin A and Vitamin B were discovered by Elmer McCollum.
+(b) Deficiency of Vitamin D causes weak bones.
+(c) Vitamin C was invented by Albert Szent-Gyorgyi.
+(d) Deficiency of Vitamin B causes scurvy.
+Select the correct answer using the codes given below:
+(1) a, b and d
+(2) b, c and d
+(3) a, c and d
+(4) a, b and c
+
+The accidental death coverage of Pradhan Mantri Suraksha Bima Yojana (PMSBY) is
+(1) Rs. One Lakh
+(2) Rs. Two Lakhs
+(3) Rs. Three Lakhs
+(4) Rs. Four Lakhs
+
+Consider the following statements regarding the Health Belief Model (HBM).
+(a) The Health Belief Model (HBM) is a framework for understanding how patients beliefs influence their health behaviors.
+(b) HBM does not consider perceived barriers to taking health-related actions.
+Which of the statements given above is/are correct?
+(1) a only
+(2) b only
+(3) Both a and b
+(4) Neither a nor b
+
+Which term refers to the ability to turn ideas into action through creativity, innovation and risk-taking?
+(1) Managerial skill
+(2) Strategic planning
+(3) Entrepreneurship
+(4) Operational efficiency
+
+Which aspect of the LEARN model is focused on collaboratively deciding on treatment?
+(1) Listen
+(2) Explain
+(3) Recommend
+(4) Negotiate
+
+An inclusive workplace culture enhances employee satisfaction and retention by promoting diversity and equity.
+Which of the following initiatives contribute to developing an inclusive workplace culture?
+(a) Diversity training programmes
+(b) Equal employment opportunity policies
+(c) Performance-based incentives
+(d) Flexible working hours
+(e) Inclusive leadership practices
+Select the correct answer from the codes given below:
+(1) a, b and d
+(2) a, c and d
+(3) a, b, d and e
+(4) b, c and e
+
+Which of the following characteristics are essential for entrepreneurial success?
+(a) Risk aversion
+(b) Innovation and creativity
+(c) Hierarchical decision-making
+(d) Long-term stability
+(e) Adaptability to market changes
+Select the correct answer from the codes given below:
+(1) b and e
+(2) a, c and d
+(3) b, d and e
+(4) a, b and e
+
+What role does cultural humility play in healthcare interactions?
+(a) Mastery of medical procedures.
+(b) Understanding personal biases.
+(c) Compliance with hospital regulations.
+(d) Efficient patient scheduling.
+(e) Adherence to clinical guidelines.
+Select the correct answer from the codes given below:
+(1) b and e only
+(2) a, c and d only
+(3) b, c and e only
+(4) a, b and d only
+
+Match the following:
+List I (Types of ventures) | List II (Characteristics)
+a. Scalable Startup | i. Aimed at addressing social issues and community needs
+b. Small Business | ii. High growth potential, often technology-driven
+c. Social Enterprises | iii. Local businesses with limited growth potential
+d. Large company | iv. Established firms expanding through innovation
+Choose the correct answer from the options given below:
+(1) a - iii, b - iv, c - ii, d - i
+(2) a - i, b - ii, c - iii, d - iv
+(3) a - ii, b - iii, c - i, d - iv
+(4) a - iv, b - iii, c - i, d - ii
+
+Which factors contribute to fostering an entrepreneurial ecosystem?
+(a) Access to venture capital
+(b) Government regulations
+(c) Supportive mentorship programs
+(d) Competitive market conditions
+(e) Technological advancements
+Select the correct answer from the codes given below:
+(1) a, c and e
+(2) b, c and d
+(3) a, b and d
+(4) b, d and e
+
+Which of the following factors can directly affect the value of a bond?
+(a) Interest rates
+(b) Credit rating of the issuer
+(c) Company's stock price
+(d) Inflation rate
+Select the correct answer from the codes given below:
+(1) a, b and d
+(2) a, c and d
+(3) a and d
+(4) b, c and d
+
+Which technology is often used in Advanced Driver-Assistance Systems (ADAS) to detect obstacles and enhance vehicle safety?
+(1) Radio Frequency Identification (RFID)
+(2) Light Detection and Ranging (LiDAR)
+(3) Infrared sensors
+(4) Ultrasonic sensors
+
+Choose the word which is CLOSEST in meaning to the word REFRAIN:
+(1) Exult
+(2) Abstain
+(3) Cease
+(4) Forswear
+
+Choose the word which is OPPOSITE in meaning to the word TRANQUILITY:
+(1) Lull
+(2) Chaos
+(3) Torture
+(4) Sympathy
+
+Choose the right meaning of the underlined phrase:
+Please keep an eye on him as he looks suspicious.
+(1) Watch somebody unintentionally
+(2) Watch somebody carefully
+(3) Watch somebody carelessly
+(4) to look at somebody for pleasure
+
+Direction: Choose the correct word and fill in the blank.
+There was a ______ in my bag.
+(1) Whole
+(2) Whorl
+(3) Hole
+(4) Whirl
+
+Directions: There are five sentences marked as I, II, III, IV and V. The position of I is fixed as the first sentence of the passage. You are required to choose one of the four alternatives given below which would be the most logical sequence of the sentences in the passage.
+I. A wounded dolphin, stranded on land must be handled with great care.
+II. The animal must be kept wet and cool, or it will die under its own weight.
+III. Its fins get crushed under its own weight.
+IV. Its tender skin, as fragile as wet paper must be protected from the drying out by applying ordinary cooking oil.
+V. Once the dolphin is removed from the water, its body weight becomes its enemy.
+(1) III - V - II - IV
+(2) IV - II - V - III
+(3) V - III - II - IV
+(4) II - III - IV - V
+
+Please select the best alternative for the underlined expression to improve the sentence in meaning. Who did you invite to the party?
+(1) Whom did you
+(2) What did you
+(3) Which did you
+(4) No improvement
+
+Directions: Select the most appropriate form of the word and fill in the blank in the following sentence.
+He likes ______ music.
+(1) Classic
+(2) Classics
+(3) Classical
+(4) Classically
+
+Direction: Read the sentence to find out whether there is any error in it. The error, if any, will be in one part of the sentence. The alphabet number of that part is the answer.
+I have come to / know that / his father has died / three days ago.
+A B C D
+(1) A
+(2) B
+(3) C
+(4) D
+
+Choose the best option to fill in the blank and complete the following sentence.
+This problem ______ by your brother yesterday.
+(1) solves
+(2) is solved
+(3) was solved
+(4) will be solved
+
+Choose the sentence which is grammatically correct from the options given.
+(1) I am too weak that I can't walk
+(2) I am so weak because I can't walk
+(3) I am so weak that I can't walk
+(4) I have been too weak that I can't walk
+
+Read the passage given below and answer the questions 96-99 by selecting the best option.
+
+Passage
+
+Metal Detectors
+
+Metal detectors make magnetic waves. These waves go through the ground. The waves change when they hit metal. Then the device beeps. This lets the person with the device know that metal is close.
+
+The first metal detectors were meant to help miners. They were big. They cost a lot of money. They used a lot of power. And worst of all, they didn't work well. People kept trying to make them better.
+
+Metal detectors got smaller. Now they are light and cheap. They also work better. That is why people bring them back to the beach. They can look for rings in the water. They can look for phones in the sand. Metal detectors also protect people.
+
+They help to keep guns out of some places. They are in airports. They are in courthouses. Some schools use them. They help guards look for weapons.
+
+These devices also make clothes safer. It sounds funny, but it's true. Most clothes are made in big factories. There are lots of needles in these places. Needles break from time to time. They get stuck in the clothes. They would poke people trying them on. They don't though. That's because our clothes are scanned for metal. Isn't that nice? Let's hear it from the metal detectors. They make the world a safer place.
+
+Questions (96-99)
+
+Which was one of the problems with the first metal detectors?
+(1) They were too handy
+(2) They were less expensive
+(3) They worked well
+(4) They used lot of power
+
+Which of the following best describes the main idea of the first paragraph?
+(1) It describes the sounds of a metal detector
+(2) It explains how metal detectors work
+(3) It warns about the effects of metal detectors
+(4) It explains how magnetic waves move
+
+How do metal detectors make clothing safer?
+(1) Metal detectors make sure factory machines are working the right way
+(2) Metal detectors make sure workers don't bring weapons into factories
+(3) Metal detectors make sure that broken needles don't get into clothing
+(4) Metal detectors help people recover lost clothing at the beach
+
+Why do people bring metal detectors to the beach?
+(1) Metal detectors help people find valuable items
+(2) Metal detectors help people keep the sand clean and safe
+(3) Metal detectors help guards keep weapons away from the beach
+(4) Metal detectors help in finding bombs
+
+Read the sentence and choose the word with the correct spelling from the options given.
+The hotel can ______ up to 500 guests.
+(1) accommodate
+(2) accommodate
+(3) accommodate
+(4) accommodate
+(Note: All options appear identical; preserved as in original)
+
+
+
+
+
+Answers  
+
+Answer Key – PGCET MCA 2025
+Q	Ans	Explanation
+1	(3)	Both factorisations correct
+2	(2)	x(x+1)+8 = (x+2)(x−2) simplifies to x+12=0 (linear)
+3	(4)	Sum = 2(2¹⁰−1)=2046
+4	(1)	n = 55
+5	(1)	8! − 6!×3! = 36000
+6	(1)	Area = 30.5
+7	(3)	AB = BA is not always true
+8	(3)	{3,4} ∈ A
+9	(4)	Angle = 0
+10	(1)	(2,5,9)
+11	(1)	(x−0.7)²+(y−1.3)²=12.58
+12	(1)	15x²+7y²=247
+13	(3)	3y²−x²=108
+14	(3)	Absorption law
+15	(1)	(x∧y)∨(x∧y)′ = 1
+16	(2)	b only true
+17	(2)	b only (cos2x formula)
+18	(3)	Both general solution formulas correct
+19	(1)	−56/65
+20	(1)	2π/5
+21	(4)	43/91
+22	(2)	0.87
+23	(2)	SD ≈ 5.74
+24	(1)	r = 0.6
+25	(2)	Mean < Median ⇒ negative skew
+26	(2)	Only a correct
+27	(1)	Both S1, S2 true
+28	(3)	GB, MB, KB, Byte, Nibble, Bit
+29	(3)	a‑ii, b‑i, c‑iv, d‑iii
+30	(3)	Cache, Decrease, Main, CPU Register
+31	(2)	a true, b,c false
+32	(2)	S1 True, S2 True, S3 False
+33	(2)	Organised collection that can be accessed/updated
+34	(3)	Data representation
+35	(2)	a‑iv, b‑ii, c‑i, d‑iii
+36	(2)	1000 0101
+37	(1)	Both true
+38	(3)	−128 to +127
+39	–	Ambiguous (S3)
+40	(1)	499.5 (octal 763.4)
+41	(2)	−68, −69
+42	(1)	100111, 101000
+43	(4)	1/2
+44	(3)	Passwords
+45	(2)	S1,S2 correct, S3 not
+46	(1)	Safe mode
+47	(3)	a‑iii, b‑iv, c‑ii, d‑i
+48	(1)	S1,S2 correct, S3 incorrect
+49	(1)	A alone sufficient
+50	(1)	A alone sufficient
+51	(2)	50 km/h
+52	(4)	9.2 m
+53	(2)	15 days
+54	(1)	₹625
+55	(2)	100%
+56	(3)	130°
+57	–	Image missing
+58	(4)	36.66 lakh
+59	(1)	Only A follows
+60	(1)	A cause, B effect
+61	–	Image missing
+62	(2)	65 years
+63	(2)	14
+64	(3)	26, 24
+65	(3)	E4
+66	(2)	₹1500
+67	(2)	Strike price
+68	(1)	i, ii, iv
+69	(4)	i, iv, v correct
+70	(1)	a, b, d
+71	(2)	Transportation within a country
+72	(3)	b and d not functions of NCTE
+73	(1)	Andhra Pradesh
+74	(4)	a, b, c correct
+75	(2)	₹2 Lakhs
+76	(1)	a only
+77	(3)	Entrepreneurship
+78	(4)	Negotiate
+79	(3)	a, b, d, e
+80	(1)	b, e
+81	–	(Best: understanding personal biases)
+82	(3)	a‑ii, b‑iii, c‑i, d‑iv
+83	(1)	a, c, e
+84	(1)	a, b, d
+85	(2)	LiDAR
+86	(2)	Abstain
+87	(2)	Chaos
+88	(2)	Watch carefully
+89	(3)	Hole
+90	(3)	V, III, II, IV
+91	(1)	Whom did you
+92	(3)	Classical
+93	(3)	Error in C (has died → died)
+94	(3)	was solved
+95	(3)	so weak that
+96	(4)	Used lot of power
+97	(2)	Explains how metal detectors work
+98	(3)	Broken needles don’t get into clothing
+99	(1)	Find valuable items
+100	(1)	accommodate (all options identical)
