@@ -13,7 +13,7 @@ Every answer block repeats: question + options + answer explanation + exact topi
 - (4) Rigorous
 
 **🤔 What I understood:**
-- Topic used: **Algebra — Core**
+- Topic used: **General English — Vocabulary**
 - We must compute/verify and then map to the correct option.
 
 **💡 What I’ll use (repo-style):**
@@ -27,7 +27,7 @@ Step 3: This directly matches option **(2)**.
 **✅ Final Answer: (2)**
 
 - **Answer + Explanation Link:** [Direct anchor for Q1](#q1)
-- **Exact Topic-Pattern Link:** [Algebra — Core](../../24-Algebra-Basics/Pattern1-Core-Algebra.md)
+- **Exact Topic-Pattern Link:** [General English — Vocabulary](../../23-General-English/Pattern2-Vocabulary.md)
 - **Question Block Link:** [Go to Q1 question](./Questions.md#q1)
 
 ## Q2
@@ -41,7 +41,7 @@ Step 3: This directly matches option **(2)**.
 - (4) Transpose
 
 **🤔 What I understood:**
-- Topic used: **Simple/Compound Interest — Comparison**
+- Topic used: **General English — Vocabulary**
 - We must compute/verify and then map to the correct option.
 
 **💡 What I’ll use (repo-style):**
@@ -55,7 +55,7 @@ Step 3: This directly matches option **(3)**.
 **✅ Final Answer: (3)**
 
 - **Answer + Explanation Link:** [Direct anchor for Q2](#q2)
-- **Exact Topic-Pattern Link:** [Simple/Compound Interest — Comparison](../../06-Simple-Compound-Interest/03-CI-vs-SI-Comparison.md)
+- **Exact Topic-Pattern Link:** [General English — Vocabulary](../../23-General-English/Pattern2-Vocabulary.md)
 - **Question Block Link:** [Go to Q2 question](./Questions.md#q2)
 
 ## Q3
@@ -69,7 +69,7 @@ Step 3: This directly matches option **(3)**.
 - (4) To call for help
 
 **🤔 What I understood:**
-- Topic used: **Algebra — Core**
+- Topic used: **General English — Vocabulary**
 - We must compute/verify and then map to the correct option.
 
 **💡 What I’ll use (repo-style):**
@@ -83,7 +83,7 @@ Step 3: This directly matches option **(2)**.
 **✅ Final Answer: (2)**
 
 - **Answer + Explanation Link:** [Direct anchor for Q3](#q3)
-- **Exact Topic-Pattern Link:** [Algebra — Core](../../24-Algebra-Basics/Pattern1-Core-Algebra.md)
+- **Exact Topic-Pattern Link:** [General English — Vocabulary](../../23-General-English/Pattern2-Vocabulary.md)
 - **Question Block Link:** [Go to Q3 question](./Questions.md#q3)
 
 ## Q4
@@ -97,7 +97,7 @@ Step 3: This directly matches option **(2)**.
 - (4) II, III, IV, V
 
 **🤔 What I understood:**
-- Topic used: **Algebra — Core**
+- Topic used: **General English — RC and Errors**
 - We must compute/verify and then map to the correct option.
 
 **💡 What I’ll use (repo-style):**
@@ -111,7 +111,7 @@ Step 3: This directly matches option **(2)**.
 **✅ Final Answer: (2)**
 
 - **Answer + Explanation Link:** [Direct anchor for Q4](#q4)
-- **Exact Topic-Pattern Link:** [Algebra — Core](../../24-Algebra-Basics/Pattern1-Core-Algebra.md)
+- **Exact Topic-Pattern Link:** [General English — RC and Errors](../../23-General-English/Pattern3-Reading-Comprehension-and-Errors.md)
 - **Question Block Link:** [Go to Q4 question](./Questions.md#q4)
 
 ## Q5
@@ -153,7 +153,7 @@ Step 3: This directly matches option **–**.
 - (4) Fanatic
 
 **🤔 What I understood:**
-- Topic used: **General English — Grammar**
+- Topic used: **General English — Vocabulary**
 - We must compute/verify and then map to the correct option.
 
 **💡 What I’ll use (repo-style):**
@@ -167,7 +167,7 @@ Step 3: This directly matches option **(4)**.
 **✅ Final Answer: (4)**
 
 - **Answer + Explanation Link:** [Direct anchor for Q10](#q10)
-- **Exact Topic-Pattern Link:** [General English — Grammar](../../23-General-English/Pattern1-Grammar.md)
+- **Exact Topic-Pattern Link:** [General English — Vocabulary](../../23-General-English/Pattern2-Vocabulary.md)
 - **Question Block Link:** [Go to Q10 question](./Questions.md#q10)
 
 ## Q11
@@ -181,7 +181,7 @@ Step 3: This directly matches option **(4)**.
 - (4) Shiny new machines
 
 **🤔 What I understood:**
-- Topic used: **Algebra — Core**
+- Topic used: **General English — RC and Errors**
 - We must compute/verify and then map to the correct option.
 
 **💡 What I’ll use (repo-style):**
@@ -195,7 +195,7 @@ Step 3: This directly matches option **(4)**.
 **✅ Final Answer: (4)**
 
 - **Answer + Explanation Link:** [Direct anchor for Q11](#q11)
-- **Exact Topic-Pattern Link:** [Algebra — Core](../../24-Algebra-Basics/Pattern1-Core-Algebra.md)
+- **Exact Topic-Pattern Link:** [General English — RC and Errors](../../23-General-English/Pattern3-Reading-Comprehension-and-Errors.md)
 - **Question Block Link:** [Go to Q11 question](./Questions.md#q11)
 
 ## Q12
@@ -209,7 +209,7 @@ Step 3: This directly matches option **(4)**.
 - (4) New planets are discovered by astrologers.
 
 **🤔 What I understood:**
-- Topic used: **Simple/Compound Interest — Comparison**
+- Topic used: **General English — RC and Errors**
 - We must compute/verify and then map to the correct option.
 
 **💡 What I’ll use (repo-style):**
@@ -223,7 +223,7 @@ Step 3: This directly matches option **(2)**.
 **✅ Final Answer: (2)**
 
 - **Answer + Explanation Link:** [Direct anchor for Q12](#q12)
-- **Exact Topic-Pattern Link:** [Simple/Compound Interest — Comparison](../../06-Simple-Compound-Interest/03-CI-vs-SI-Comparison.md)
+- **Exact Topic-Pattern Link:** [General English — RC and Errors](../../23-General-English/Pattern3-Reading-Comprehension-and-Errors.md)
 - **Question Block Link:** [Go to Q12 question](./Questions.md#q12)
 
 ## Q13
@@ -237,7 +237,7 @@ Step 3: This directly matches option **(2)**.
 - (4) The author himself/herself
 
 **🤔 What I understood:**
-- Topic used: **Simple/Compound Interest — Comparison**
+- Topic used: **General English — RC and Errors**
 - We must compute/verify and then map to the correct option.
 
 **💡 What I’ll use (repo-style):**
@@ -251,7 +251,7 @@ Step 3: This directly matches option **(3)**.
 **✅ Final Answer: (3)**
 
 - **Answer + Explanation Link:** [Direct anchor for Q13](#q13)
-- **Exact Topic-Pattern Link:** [Simple/Compound Interest — Comparison](../../06-Simple-Compound-Interest/03-CI-vs-SI-Comparison.md)
+- **Exact Topic-Pattern Link:** [General English — RC and Errors](../../23-General-English/Pattern3-Reading-Comprehension-and-Errors.md)
 - **Question Block Link:** [Go to Q13 question](./Questions.md#q13)
 
 ## Q14
@@ -265,7 +265,7 @@ Step 3: This directly matches option **(3)**.
 - (4) is happy that the world is not disturbing astronomers.
 
 **🤔 What I understood:**
-- Topic used: **General English — RC**
+- Topic used: **General English — RC and Errors**
 - We must compute/verify and then map to the correct option.
 
 **💡 What I’ll use (repo-style):**
@@ -279,7 +279,7 @@ Step 3: This directly matches option **(1)**.
 **✅ Final Answer: (1)**
 
 - **Answer + Explanation Link:** [Direct anchor for Q14](#q14)
-- **Exact Topic-Pattern Link:** [General English — RC](../../23-General-English/Pattern3-Reading-Comprehension-and-Errors.md)
+- **Exact Topic-Pattern Link:** [General English — RC and Errors](../../23-General-English/Pattern3-Reading-Comprehension-and-Errors.md)
 - **Question Block Link:** [Go to Q14 question](./Questions.md#q14)
 
 ## Q15
@@ -293,7 +293,7 @@ Step 3: This directly matches option **(1)**.
 - (4) Astrologers are to be rejected.
 
 **🤔 What I understood:**
-- Topic used: **Algebra — Core**
+- Topic used: **General English — RC and Errors**
 - We must compute/verify and then map to the correct option.
 
 **💡 What I’ll use (repo-style):**
@@ -307,7 +307,7 @@ Step 3: This directly matches option **(1)**.
 **✅ Final Answer: (1)**
 
 - **Answer + Explanation Link:** [Direct anchor for Q15](#q15)
-- **Exact Topic-Pattern Link:** [Algebra — Core](../../24-Algebra-Basics/Pattern1-Core-Algebra.md)
+- **Exact Topic-Pattern Link:** [General English — RC and Errors](../../23-General-English/Pattern3-Reading-Comprehension-and-Errors.md)
 - **Question Block Link:** [Go to Q15 question](./Questions.md#q15)
 
 ## Q16
@@ -321,7 +321,7 @@ Step 3: This directly matches option **(1)**.
 - (4) (missing)
 
 **🤔 What I understood:**
-- Topic used: **Trigonometry — Compound/Double Angle**
+- Topic used: **Quant — Time, Speed and Distance**
 - We must compute/verify and then map to the correct option.
 
 **💡 What I’ll use (repo-style):**
@@ -335,7 +335,7 @@ Step 3: This directly matches option **(2)**.
 **✅ Final Answer: (2)**
 
 - **Answer + Explanation Link:** [Direct anchor for Q16](#q16)
-- **Exact Topic-Pattern Link:** [Trigonometry — Compound/Double Angle](../../27-Trigonometry/Pattern2-Compound-and-Double-Angle.md)
+- **Exact Topic-Pattern Link:** [Quant — Time, Speed and Distance](../../02-Time-Speed-Distance/Pattern1-Basics-Speed-Distance-Time.md)
 - **Question Block Link:** [Go to Q16 question](./Questions.md#q16)
 
 ## Q17
@@ -349,7 +349,7 @@ Step 3: This directly matches option **(2)**.
 - (4) E
 
 **🤔 What I understood:**
-- Topic used: **Algebra — Core**
+- Topic used: **Reasoning — Coding/Decoding**
 - We must compute/verify and then map to the correct option.
 
 **💡 What I’ll use (repo-style):**
@@ -363,7 +363,7 @@ Step 3: This directly matches option **(2)**.
 **✅ Final Answer: (2)**
 
 - **Answer + Explanation Link:** [Direct anchor for Q17](#q17)
-- **Exact Topic-Pattern Link:** [Algebra — Core](../../24-Algebra-Basics/Pattern1-Core-Algebra.md)
+- **Exact Topic-Pattern Link:** [Reasoning — Coding/Decoding](../../12-Coding-Decoding/Pattern1-Letter-Shifting.md)
 - **Question Block Link:** [Go to Q17 question](./Questions.md#q17)
 
 ## Q18
@@ -377,7 +377,7 @@ Step 3: This directly matches option **(2)**.
 - (4) Z and 2
 
 **🤔 What I understood:**
-- Topic used: **Trigonometry — Compound/Double Angle**
+- Topic used: **Algebra — Core**
 - We must compute/verify and then map to the correct option.
 
 **💡 What I’ll use (repo-style):**
@@ -391,7 +391,7 @@ Step 3: This directly matches option **(3)**.
 **✅ Final Answer: (3)**
 
 - **Answer + Explanation Link:** [Direct anchor for Q18](#q18)
-- **Exact Topic-Pattern Link:** [Trigonometry — Compound/Double Angle](../../27-Trigonometry/Pattern2-Compound-and-Double-Angle.md)
+- **Exact Topic-Pattern Link:** [Algebra — Core](../../24-Algebra-Basics/Pattern1-Core-Algebra.md)
 - **Question Block Link:** [Go to Q18 question](./Questions.md#q18)
 
 ## Q19
@@ -405,7 +405,7 @@ Step 3: This directly matches option **(3)**.
 - (4) 26th and 22nd
 
 **🤔 What I understood:**
-- Topic used: **Algebra — Core**
+- Topic used: **Reasoning — Ranking and Positions**
 - We must compute/verify and then map to the correct option.
 
 **💡 What I’ll use (repo-style):**
@@ -419,7 +419,7 @@ Step 3: This directly matches option **(3)**.
 **✅ Final Answer: (3)**
 
 - **Answer + Explanation Link:** [Direct anchor for Q19](#q19)
-- **Exact Topic-Pattern Link:** [Algebra — Core](../../24-Algebra-Basics/Pattern1-Core-Algebra.md)
+- **Exact Topic-Pattern Link:** [Reasoning — Ranking and Positions](../../15-Seating-Arrangement/Pattern3-Ranking-and-Positions.md)
 - **Question Block Link:** [Go to Q19 question](./Questions.md#q19)
 
 ## Q20
@@ -433,7 +433,7 @@ Step 3: This directly matches option **(3)**.
 - (4) Either III or IV follows
 
 **🤔 What I understood:**
-- Topic used: **Trigonometry — Compound/Double Angle**
+- Topic used: **Reasoning — Syllogism**
 - We must compute/verify and then map to the correct option.
 
 **💡 What I’ll use (repo-style):**
@@ -447,7 +447,7 @@ Step 3: This directly matches option **–**.
 **✅ Final Answer: –**
 
 - **Answer + Explanation Link:** [Direct anchor for Q20](#q20)
-- **Exact Topic-Pattern Link:** [Trigonometry — Compound/Double Angle](../../27-Trigonometry/Pattern2-Compound-and-Double-Angle.md)
+- **Exact Topic-Pattern Link:** [Reasoning — Syllogism](../../14-Syllogisms/Pattern1-Two-Statement.md)
 - **Question Block Link:** [Go to Q20 question](./Questions.md#q20)
 
 ## Q21
@@ -461,7 +461,7 @@ Step 3: This directly matches option **–**.
 - (4) 12 years
 
 **🤔 What I understood:**
-- Topic used: **Algebra — Core**
+- Topic used: **Algebra — Linear Equations**
 - We must compute/verify and then map to the correct option.
 
 **💡 What I’ll use (repo-style):**
@@ -475,7 +475,7 @@ Step 3: This directly matches option **(3)**.
 **✅ Final Answer: (3)**
 
 - **Answer + Explanation Link:** [Direct anchor for Q21](#q21)
-- **Exact Topic-Pattern Link:** [Algebra — Core](../../24-Algebra-Basics/Pattern1-Core-Algebra.md)
+- **Exact Topic-Pattern Link:** [Algebra — Linear Equations](../../24-Algebra-Basics/Pattern2-Linear-Equations.md)
 - **Question Block Link:** [Go to Q21 question](./Questions.md#q21)
 
 ## Q22
@@ -489,7 +489,7 @@ Step 3: This directly matches option **(3)**.
 - (4) Both follow
 
 **🤔 What I understood:**
-- Topic used: **Algebra — Core**
+- Topic used: **Reasoning — Syllogism**
 - We must compute/verify and then map to the correct option.
 
 **💡 What I’ll use (repo-style):**
@@ -503,7 +503,7 @@ Step 3: This directly matches option **(3)**.
 **✅ Final Answer: (3)**
 
 - **Answer + Explanation Link:** [Direct anchor for Q22](#q22)
-- **Exact Topic-Pattern Link:** [Algebra — Core](../../24-Algebra-Basics/Pattern1-Core-Algebra.md)
+- **Exact Topic-Pattern Link:** [Reasoning — Syllogism](../../14-Syllogisms/Pattern1-Two-Statement.md)
 - **Question Block Link:** [Go to Q22 question](./Questions.md#q22)
 
 ## Q23
@@ -517,7 +517,7 @@ Step 3: This directly matches option **(3)**.
 - (4) 3250
 
 **🤔 What I understood:**
-- Topic used: **Trigonometry — Compound/Double Angle**
+- Topic used: **Quant — Ratio and Proportion**
 - We must compute/verify and then map to the correct option.
 
 **💡 What I’ll use (repo-style):**
@@ -531,7 +531,7 @@ Step 3: This directly matches option **–**.
 **✅ Final Answer: –**
 
 - **Answer + Explanation Link:** [Direct anchor for Q23](#q23)
-- **Exact Topic-Pattern Link:** [Trigonometry — Compound/Double Angle](../../27-Trigonometry/Pattern2-Compound-and-Double-Angle.md)
+- **Exact Topic-Pattern Link:** [Quant — Ratio and Proportion](../../05-Ratio-and-Proportion/Pattern1-Ratio-Basics.md)
 - **Question Block Link:** [Go to Q23 question](./Questions.md#q23)
 
 ## Q24
@@ -545,7 +545,7 @@ Step 3: This directly matches option **–**.
 - (4) 11
 
 **🤔 What I understood:**
-- Topic used: **Algebra — Core**
+- Topic used: **General English — Grammar**
 - We must compute/verify and then map to the correct option.
 
 **💡 What I’ll use (repo-style):**
@@ -559,7 +559,7 @@ Step 3: This directly matches option **(4)**.
 **✅ Final Answer: (4)**
 
 - **Answer + Explanation Link:** [Direct anchor for Q24](#q24)
-- **Exact Topic-Pattern Link:** [Algebra — Core](../../24-Algebra-Basics/Pattern1-Core-Algebra.md)
+- **Exact Topic-Pattern Link:** [General English — Grammar](../../23-General-English/Pattern1-Grammar.md)
 - **Question Block Link:** [Go to Q24 question](./Questions.md#q24)
 
 ## Q25
@@ -573,7 +573,7 @@ Step 3: This directly matches option **(4)**.
 - (4) 9 L
 
 **🤔 What I understood:**
-- Topic used: **Simple/Compound Interest — Comparison**
+- Topic used: **Quant — Ratio and Proportion**
 - We must compute/verify and then map to the correct option.
 
 **💡 What I’ll use (repo-style):**
@@ -587,7 +587,7 @@ Step 3: This directly matches option **(3)**.
 **✅ Final Answer: (3)**
 
 - **Answer + Explanation Link:** [Direct anchor for Q25](#q25)
-- **Exact Topic-Pattern Link:** [Simple/Compound Interest — Comparison](../../06-Simple-Compound-Interest/03-CI-vs-SI-Comparison.md)
+- **Exact Topic-Pattern Link:** [Quant — Ratio and Proportion](../../05-Ratio-and-Proportion/Pattern1-Ratio-Basics.md)
 - **Question Block Link:** [Go to Q25 question](./Questions.md#q25)
 
 ## Q26
@@ -601,7 +601,7 @@ Step 3: This directly matches option **(3)**.
 - (4) 50 m
 
 **🤔 What I understood:**
-- Topic used: **Profit and Loss — Basics**
+- Topic used: **Algebra — Core**
 - We must compute/verify and then map to the correct option.
 
 **💡 What I’ll use (repo-style):**
@@ -615,7 +615,7 @@ Step 3: This directly matches option **(4)**.
 **✅ Final Answer: (4)**
 
 - **Answer + Explanation Link:** [Direct anchor for Q26](#q26)
-- **Exact Topic-Pattern Link:** [Profit and Loss — Basics](../../03-Profit-and-Loss/01-Basic-Concepts.md)
+- **Exact Topic-Pattern Link:** [Algebra — Core](../../24-Algebra-Basics/Pattern1-Core-Algebra.md)
 - **Question Block Link:** [Go to Q26 question](./Questions.md#q26)
 
 ## Q27
@@ -629,7 +629,7 @@ Step 3: This directly matches option **(4)**.
 - (4) 2.5
 
 **🤔 What I understood:**
-- Topic used: **Algebra — Core**
+- Topic used: **Quant — Profit and Loss**
 - We must compute/verify and then map to the correct option.
 
 **💡 What I’ll use (repo-style):**
@@ -643,7 +643,7 @@ Step 3: This directly matches option **(1)**.
 **✅ Final Answer: (1)**
 
 - **Answer + Explanation Link:** [Direct anchor for Q27](#q27)
-- **Exact Topic-Pattern Link:** [Algebra — Core](../../24-Algebra-Basics/Pattern1-Core-Algebra.md)
+- **Exact Topic-Pattern Link:** [Quant — Profit and Loss](../../03-Profit-and-Loss/Pattern1-Basics-Profit-Loss.md)
 - **Question Block Link:** [Go to Q27 question](./Questions.md#q27)
 
 ## Q28
@@ -657,7 +657,7 @@ Step 3: This directly matches option **(1)**.
 - (4) 100 m
 
 **🤔 What I understood:**
-- Topic used: **Algebra — Core**
+- Topic used: **Quant — Time, Speed and Distance**
 - We must compute/verify and then map to the correct option.
 
 **💡 What I’ll use (repo-style):**
@@ -671,7 +671,7 @@ Step 3: This directly matches option **(3)**.
 **✅ Final Answer: (3)**
 
 - **Answer + Explanation Link:** [Direct anchor for Q28](#q28)
-- **Exact Topic-Pattern Link:** [Algebra — Core](../../24-Algebra-Basics/Pattern1-Core-Algebra.md)
+- **Exact Topic-Pattern Link:** [Quant — Time, Speed and Distance](../../02-Time-Speed-Distance/Pattern1-Basics-Speed-Distance-Time.md)
 - **Question Block Link:** [Go to Q28 question](./Questions.md#q28)
 
 ## Q29
@@ -713,7 +713,7 @@ Step 3: This directly matches option **(3)**.
 - (4) Four
 
 **🤔 What I understood:**
-- Topic used: **Profit and Loss — Basics**
+- Topic used: **Reasoning — Series**
 - We must compute/verify and then map to the correct option.
 
 **💡 What I’ll use (repo-style):**
@@ -727,7 +727,7 @@ Step 3: This directly matches option **(2)**.
 **✅ Final Answer: (2)**
 
 - **Answer + Explanation Link:** [Direct anchor for Q30](#q30)
-- **Exact Topic-Pattern Link:** [Profit and Loss — Basics](../../03-Profit-and-Loss/01-Basic-Concepts.md)
+- **Exact Topic-Pattern Link:** [Reasoning — Series](../../13-Series/Pattern1-Number-Series.md)
 - **Question Block Link:** [Go to Q30 question](./Questions.md#q30)
 
 ## Q31
@@ -741,7 +741,7 @@ Step 3: This directly matches option **(2)**.
 - (4) 15°
 
 **🤔 What I understood:**
-- Topic used: **Time Speed Distance — Trains/Boats**
+- Topic used: **Trigonometry — Heights and Distances**
 - We must compute/verify and then map to the correct option.
 
 **💡 What I’ll use (repo-style):**
@@ -755,7 +755,7 @@ Step 3: This directly matches option **(1)**.
 **✅ Final Answer: (1)**
 
 - **Answer + Explanation Link:** [Direct anchor for Q31](#q31)
-- **Exact Topic-Pattern Link:** [Time Speed Distance — Trains/Boats](../../02-Time-Speed-Distance/04-Trains.md)
+- **Exact Topic-Pattern Link:** [Trigonometry — Heights and Distances](../../27-Trigonometry/Pattern5-Heights-and-Distances.md)
 - **Question Block Link:** [Go to Q31 question](./Questions.md#q31)
 
 ## Q32
@@ -769,7 +769,7 @@ Step 3: This directly matches option **(1)**.
 - (4) 2:3:1
 
 **🤔 What I understood:**
-- Topic used: **Calendar — Day and Dates**
+- Topic used: **Computer Awareness — Networks**
 - We must compute/verify and then map to the correct option.
 
 **💡 What I’ll use (repo-style):**
@@ -783,7 +783,7 @@ Step 3: This directly matches option **(1)**.
 **✅ Final Answer: (1)**
 
 - **Answer + Explanation Link:** [Direct anchor for Q32](#q32)
-- **Exact Topic-Pattern Link:** [Calendar — Day and Dates](../../33-Calendar/Pattern1-Day-After-N-Days.md)
+- **Exact Topic-Pattern Link:** [Computer Awareness — Networks](../../18-Computer-Awareness/07-Computer-Networks.md)
 - **Question Block Link:** [Go to Q32 question](./Questions.md#q32)
 
 ## Q33
@@ -797,7 +797,7 @@ Step 3: This directly matches option **(1)**.
 - (4) 1/2
 
 **🤔 What I understood:**
-- Topic used: **Algebra — Core**
+- Topic used: **Coordinate Geometry — Conics**
 - We must compute/verify and then map to the correct option.
 
 **💡 What I’ll use (repo-style):**
@@ -811,7 +811,7 @@ Step 3: This directly matches option **(3)**.
 **✅ Final Answer: (3)**
 
 - **Answer + Explanation Link:** [Direct anchor for Q33](#q33)
-- **Exact Topic-Pattern Link:** [Algebra — Core](../../24-Algebra-Basics/Pattern1-Core-Algebra.md)
+- **Exact Topic-Pattern Link:** [Coordinate Geometry — Conics](../../26-Coordinate-Geometry/Pattern4-Conics-and-Transformations.md)
 - **Question Block Link:** [Go to Q33 question](./Questions.md#q33)
 
 ## Q34
@@ -825,7 +825,7 @@ Step 3: This directly matches option **(3)**.
 - (4) 2x + y = 1
 
 **🤔 What I understood:**
-- Topic used: **Algebra — Core**
+- Topic used: **Trigonometry — Compound/Double Angle**
 - We must compute/verify and then map to the correct option.
 
 **💡 What I’ll use (repo-style):**
@@ -839,7 +839,7 @@ Step 3: This directly matches option **(1)**.
 **✅ Final Answer: (1)**
 
 - **Answer + Explanation Link:** [Direct anchor for Q34](#q34)
-- **Exact Topic-Pattern Link:** [Algebra — Core](../../24-Algebra-Basics/Pattern1-Core-Algebra.md)
+- **Exact Topic-Pattern Link:** [Trigonometry — Compound/Double Angle](../../27-Trigonometry/Pattern2-Compound-and-Double-Angle.md)
 - **Question Block Link:** [Go to Q34 question](./Questions.md#q34)
 
 ## Q35
@@ -853,7 +853,7 @@ Step 3: This directly matches option **(1)**.
 - (4) (missing)
 
 **🤔 What I understood:**
-- Topic used: **Algebra — Core**
+- Topic used: **Trigonometry — Compound/Double Angle**
 - We must compute/verify and then map to the correct option.
 
 **💡 What I’ll use (repo-style):**
@@ -867,7 +867,7 @@ Step 3: This directly matches option **(1)**.
 **✅ Final Answer: (1)**
 
 - **Answer + Explanation Link:** [Direct anchor for Q35](#q35)
-- **Exact Topic-Pattern Link:** [Algebra — Core](../../24-Algebra-Basics/Pattern1-Core-Algebra.md)
+- **Exact Topic-Pattern Link:** [Trigonometry — Compound/Double Angle](../../27-Trigonometry/Pattern2-Compound-and-Double-Angle.md)
 - **Question Block Link:** [Go to Q35 question](./Questions.md#q35)
 
 ## Q41
@@ -881,7 +881,7 @@ Step 3: This directly matches option **(1)**.
 - (4) 40
 
 **🤔 What I understood:**
-- Topic used: **Algebra — Core**
+- Topic used: **Quant — Time, Speed and Distance**
 - We must compute/verify and then map to the correct option.
 
 **💡 What I’ll use (repo-style):**
@@ -895,7 +895,7 @@ Step 3: This directly matches option **(3)**.
 **✅ Final Answer: (3)**
 
 - **Answer + Explanation Link:** [Direct anchor for Q41](#q41)
-- **Exact Topic-Pattern Link:** [Algebra — Core](../../24-Algebra-Basics/Pattern1-Core-Algebra.md)
+- **Exact Topic-Pattern Link:** [Quant — Time, Speed and Distance](../../02-Time-Speed-Distance/Pattern1-Basics-Speed-Distance-Time.md)
 - **Question Block Link:** [Go to Q41 question](./Questions.md#q41)
 
 ## Q42
@@ -909,7 +909,7 @@ Step 3: This directly matches option **(3)**.
 - (4) 300
 
 **🤔 What I understood:**
-- Topic used: **Algebra — Core**
+- Topic used: **Quant — Simple/Compound Interest**
 - We must compute/verify and then map to the correct option.
 
 **💡 What I’ll use (repo-style):**
@@ -923,7 +923,7 @@ Step 3: This directly matches option **(4)**.
 **✅ Final Answer: (4)**
 
 - **Answer + Explanation Link:** [Direct anchor for Q42](#q42)
-- **Exact Topic-Pattern Link:** [Algebra — Core](../../24-Algebra-Basics/Pattern1-Core-Algebra.md)
+- **Exact Topic-Pattern Link:** [Quant — Simple/Compound Interest](../../06-Simple-Compound-Interest/03-CI-vs-SI-Comparison.md)
 - **Question Block Link:** [Go to Q42 question](./Questions.md#q42)
 
 ## Q43
@@ -937,7 +937,7 @@ Step 3: This directly matches option **(4)**.
 - (4) d only
 
 **🤔 What I understood:**
-- Topic used: **Trigonometry — Inverse Trig and Equations**
+- Topic used: **General Awareness — Current Affairs/Core**
 - We must compute/verify and then map to the correct option.
 
 **💡 What I’ll use (repo-style):**
@@ -951,7 +951,7 @@ Step 3: This directly matches option **(1)**.
 **✅ Final Answer: (1)**
 
 - **Answer + Explanation Link:** [Direct anchor for Q43](#q43)
-- **Exact Topic-Pattern Link:** [Trigonometry — Inverse Trig and Equations](../../27-Trigonometry/Pattern4-Inverse-Trig-and-Equations.md)
+- **Exact Topic-Pattern Link:** [General Awareness — Current Affairs/Core](../../29-General-Awareness/Pattern1-General-Awareness.md)
 - **Question Block Link:** [Go to Q43 question](./Questions.md#q43)
 
 ## Q44
@@ -965,7 +965,7 @@ Step 3: This directly matches option **(1)**.
 - (4) C = A·B
 
 **🤔 What I understood:**
-- Topic used: **Trigonometry — Compound/Double Angle**
+- Topic used: **Boolean Algebra — Simplification**
 - We must compute/verify and then map to the correct option.
 
 **💡 What I’ll use (repo-style):**
@@ -979,7 +979,7 @@ Step 3: This directly matches option **(1)**.
 **✅ Final Answer: (1)**
 
 - **Answer + Explanation Link:** [Direct anchor for Q44](#q44)
-- **Exact Topic-Pattern Link:** [Trigonometry — Compound/Double Angle](../../27-Trigonometry/Pattern2-Compound-and-Double-Angle.md)
+- **Exact Topic-Pattern Link:** [Boolean Algebra — Simplification](../../28-Boolean-Algebra/Pattern3-Simplification-Strategies.md)
 - **Question Block Link:** [Go to Q44 question](./Questions.md#q44)
 
 ## Q45
@@ -993,7 +993,7 @@ Step 3: This directly matches option **(1)**.
 - (4) (x ∨ y) ∨ 0
 
 **🤔 What I understood:**
-- Topic used: **Algebra — Core**
+- Topic used: **Boolean Algebra — Simplification**
 - We must compute/verify and then map to the correct option.
 
 **💡 What I’ll use (repo-style):**
@@ -1007,7 +1007,7 @@ Step 3: This directly matches option **(1)**.
 **✅ Final Answer: (1)**
 
 - **Answer + Explanation Link:** [Direct anchor for Q45](#q45)
-- **Exact Topic-Pattern Link:** [Algebra — Core](../../24-Algebra-Basics/Pattern1-Core-Algebra.md)
+- **Exact Topic-Pattern Link:** [Boolean Algebra — Simplification](../../28-Boolean-Algebra/Pattern3-Simplification-Strategies.md)
 - **Question Block Link:** [Go to Q45 question](./Questions.md#q45)
 
 ## Q46
@@ -1021,7 +1021,7 @@ Step 3: This directly matches option **(1)**.
 - (4) a = b
 
 **🤔 What I understood:**
-- Topic used: **Algebra — Core**
+- Topic used: **Boolean Algebra — Simplification**
 - We must compute/verify and then map to the correct option.
 
 **💡 What I’ll use (repo-style):**
@@ -1035,7 +1035,7 @@ Step 3: This directly matches option **(4)**.
 **✅ Final Answer: (4)**
 
 - **Answer + Explanation Link:** [Direct anchor for Q46](#q46)
-- **Exact Topic-Pattern Link:** [Algebra — Core](../../24-Algebra-Basics/Pattern1-Core-Algebra.md)
+- **Exact Topic-Pattern Link:** [Boolean Algebra — Simplification](../../28-Boolean-Algebra/Pattern3-Simplification-Strategies.md)
 - **Question Block Link:** [Go to Q46 question](./Questions.md#q46)
 
 ## Q47
@@ -1049,7 +1049,7 @@ Step 3: This directly matches option **(4)**.
 - (4) x∧x′
 
 **🤔 What I understood:**
-- Topic used: **Algebra — Core**
+- Topic used: **Boolean Algebra — Simplification**
 - We must compute/verify and then map to the correct option.
 
 **💡 What I’ll use (repo-style):**
@@ -1063,7 +1063,7 @@ Step 3: This directly matches option **(4)**.
 **✅ Final Answer: (4)**
 
 - **Answer + Explanation Link:** [Direct anchor for Q47](#q47)
-- **Exact Topic-Pattern Link:** [Algebra — Core](../../24-Algebra-Basics/Pattern1-Core-Algebra.md)
+- **Exact Topic-Pattern Link:** [Boolean Algebra — Simplification](../../28-Boolean-Algebra/Pattern3-Simplification-Strategies.md)
 - **Question Block Link:** [Go to Q47 question](./Questions.md#q47)
 
 ## Q48
@@ -1077,7 +1077,7 @@ Step 3: This directly matches option **(4)**.
 - (4) 2sinθ
 
 **🤔 What I understood:**
-- Topic used: **Boolean Algebra — Simplification**
+- Topic used: **Trigonometry — Compound/Double Angle**
 - We must compute/verify and then map to the correct option.
 
 **💡 What I’ll use (repo-style):**
@@ -1091,7 +1091,7 @@ Step 3: This directly matches option **(1)**.
 **✅ Final Answer: (1)**
 
 - **Answer + Explanation Link:** [Direct anchor for Q48](#q48)
-- **Exact Topic-Pattern Link:** [Boolean Algebra — Simplification](../../28-Boolean-Algebra/Pattern3-Simplification-Strategies.md)
+- **Exact Topic-Pattern Link:** [Trigonometry — Compound/Double Angle](../../27-Trigonometry/Pattern2-Compound-and-Double-Angle.md)
 - **Question Block Link:** [Go to Q48 question](./Questions.md#q48)
 
 ## Q49
@@ -1105,7 +1105,7 @@ Step 3: This directly matches option **(1)**.
 - (4) π
 
 **🤔 What I understood:**
-- Topic used: **Algebra — Core**
+- Topic used: **Trigonometry — Compound/Double Angle**
 - We must compute/verify and then map to the correct option.
 
 **💡 What I’ll use (repo-style):**
@@ -1119,7 +1119,7 @@ Step 3: This directly matches option **(4)**.
 **✅ Final Answer: (4)**
 
 - **Answer + Explanation Link:** [Direct anchor for Q49](#q49)
-- **Exact Topic-Pattern Link:** [Algebra — Core](../../24-Algebra-Basics/Pattern1-Core-Algebra.md)
+- **Exact Topic-Pattern Link:** [Trigonometry — Compound/Double Angle](../../27-Trigonometry/Pattern2-Compound-and-Double-Angle.md)
 - **Question Block Link:** [Go to Q49 question](./Questions.md#q49)
 
 ## Q50
@@ -1133,7 +1133,7 @@ Step 3: This directly matches option **(4)**.
 - (4) scalene
 
 **🤔 What I understood:**
-- Topic used: **Algebra — Core**
+- Topic used: **Trigonometry — Compound/Double Angle**
 - We must compute/verify and then map to the correct option.
 
 **💡 What I’ll use (repo-style):**
@@ -1147,7 +1147,7 @@ Step 3: This directly matches option **(2)**.
 **✅ Final Answer: (2)**
 
 - **Answer + Explanation Link:** [Direct anchor for Q50](#q50)
-- **Exact Topic-Pattern Link:** [Algebra — Core](../../24-Algebra-Basics/Pattern1-Core-Algebra.md)
+- **Exact Topic-Pattern Link:** [Trigonometry — Compound/Double Angle](../../27-Trigonometry/Pattern2-Compound-and-Double-Angle.md)
 - **Question Block Link:** [Go to Q50 question](./Questions.md#q50)
 
 ## Q51
@@ -1189,7 +1189,7 @@ Step 3: This directly matches option **(2)**.
 - (4) 3
 
 **🤔 What I understood:**
-- Topic used: **Trigonometry — Compound/Double Angle**
+- Topic used: **Sets and Relations — Sets/Venn**
 - We must compute/verify and then map to the correct option.
 
 **💡 What I’ll use (repo-style):**
@@ -1203,7 +1203,7 @@ Step 3: This directly matches option **(4)**.
 **✅ Final Answer: (4)**
 
 - **Answer + Explanation Link:** [Direct anchor for Q52](#q52)
-- **Exact Topic-Pattern Link:** [Trigonometry — Compound/Double Angle](../../27-Trigonometry/Pattern2-Compound-and-Double-Angle.md)
+- **Exact Topic-Pattern Link:** [Sets and Relations — Sets/Venn](../../20-Sets-and-Relations/Pattern1-Sets-and-Venn-Diagrams.md)
 - **Question Block Link:** [Go to Q52 question](./Questions.md#q52)
 
 ## Q53
@@ -1217,7 +1217,7 @@ Step 3: This directly matches option **(4)**.
 - (4) 7/15
 
 **🤔 What I understood:**
-- Topic used: **Algebra — Core**
+- Topic used: **Quant — Probability**
 - We must compute/verify and then map to the correct option.
 
 **💡 What I’ll use (repo-style):**
@@ -1231,7 +1231,7 @@ Step 3: This directly matches option **(2)**.
 **✅ Final Answer: (2)**
 
 - **Answer + Explanation Link:** [Direct anchor for Q53](#q53)
-- **Exact Topic-Pattern Link:** [Algebra — Core](../../24-Algebra-Basics/Pattern1-Core-Algebra.md)
+- **Exact Topic-Pattern Link:** [Quant — Probability](../../10-Probability/Pattern1-Basic-Probability.md)
 - **Question Block Link:** [Go to Q53 question](./Questions.md#q53)
 
 ## Q54
@@ -1245,7 +1245,7 @@ Step 3: This directly matches option **(2)**.
 - (4) 1/2
 
 **🤔 What I understood:**
-- Topic used: **Algebra — Core**
+- Topic used: **Quant — Probability**
 - We must compute/verify and then map to the correct option.
 
 **💡 What I’ll use (repo-style):**
@@ -1259,7 +1259,7 @@ Step 3: This directly matches option **(1)**.
 **✅ Final Answer: (1)**
 
 - **Answer + Explanation Link:** [Direct anchor for Q54](#q54)
-- **Exact Topic-Pattern Link:** [Algebra — Core](../../24-Algebra-Basics/Pattern1-Core-Algebra.md)
+- **Exact Topic-Pattern Link:** [Quant — Probability](../../10-Probability/Pattern1-Basic-Probability.md)
 - **Question Block Link:** [Go to Q54 question](./Questions.md#q54)
 
 ## Q55
@@ -1273,7 +1273,7 @@ Step 3: This directly matches option **(1)**.
 - (4) 0.019
 
 **🤔 What I understood:**
-- Topic used: **Algebra — Core**
+- Topic used: **Quant — Percentages**
 - We must compute/verify and then map to the correct option.
 
 **💡 What I’ll use (repo-style):**
@@ -1287,7 +1287,7 @@ Step 3: This directly matches option **(2)**.
 **✅ Final Answer: (2)**
 
 - **Answer + Explanation Link:** [Direct anchor for Q55](#q55)
-- **Exact Topic-Pattern Link:** [Algebra — Core](../../24-Algebra-Basics/Pattern1-Core-Algebra.md)
+- **Exact Topic-Pattern Link:** [Quant — Percentages](../../04-Percentages/Pattern1-Basics.md)
 - **Question Block Link:** [Go to Q55 question](./Questions.md#q55)
 
 ## Q56
@@ -1301,7 +1301,7 @@ Step 3: This directly matches option **(2)**.
 - (4) 0.5831
 
 **🤔 What I understood:**
-- Topic used: **Algebra — Core**
+- Topic used: **Reasoning — Direction Sense**
 - We must compute/verify and then map to the correct option.
 
 **💡 What I’ll use (repo-style):**
@@ -1315,7 +1315,7 @@ Step 3: This directly matches option **(4)**.
 **✅ Final Answer: (4)**
 
 - **Answer + Explanation Link:** [Direct anchor for Q56](#q56)
-- **Exact Topic-Pattern Link:** [Algebra — Core](../../24-Algebra-Basics/Pattern1-Core-Algebra.md)
+- **Exact Topic-Pattern Link:** [Reasoning — Direction Sense](../../16-Direction-Sense/Pattern1-Basic-Directions.md)
 - **Question Block Link:** [Go to Q56 question](./Questions.md#q56)
 
 ## Q57
@@ -1329,7 +1329,7 @@ Step 3: This directly matches option **(4)**.
 - (4) (Q₃+Q₁−2Q₂)/(Q₂−Q₁)
 
 **🤔 What I understood:**
-- Topic used: **Algebra — Core**
+- Topic used: **Statistics — Skewness/Kurtosis**
 - We must compute/verify and then map to the correct option.
 
 **💡 What I’ll use (repo-style):**
@@ -1343,7 +1343,7 @@ Step 3: This directly matches option **(3)**.
 **✅ Final Answer: (3)**
 
 - **Answer + Explanation Link:** [Direct anchor for Q57](#q57)
-- **Exact Topic-Pattern Link:** [Algebra — Core](../../24-Algebra-Basics/Pattern1-Core-Algebra.md)
+- **Exact Topic-Pattern Link:** [Statistics — Skewness/Kurtosis](../../19-Statistics/Pattern5-Skewness-and-Kurtosis.md)
 - **Question Block Link:** [Go to Q57 question](./Questions.md#q57)
 
 ## Q58
@@ -1357,7 +1357,7 @@ Step 3: This directly matches option **(3)**.
 - (4) Computer system
 
 **🤔 What I understood:**
-- Topic used: **Algebra — Core**
+- Topic used: **Sets and Relations — Sets/Venn**
 - We must compute/verify and then map to the correct option.
 
 **💡 What I’ll use (repo-style):**
@@ -1371,7 +1371,7 @@ Step 3: This directly matches option **(3)**.
 **✅ Final Answer: (3)**
 
 - **Answer + Explanation Link:** [Direct anchor for Q58](#q58)
-- **Exact Topic-Pattern Link:** [Algebra — Core](../../24-Algebra-Basics/Pattern1-Core-Algebra.md)
+- **Exact Topic-Pattern Link:** [Sets and Relations — Sets/Venn](../../20-Sets-and-Relations/Pattern1-Sets-and-Venn-Diagrams.md)
 - **Question Block Link:** [Go to Q58 question](./Questions.md#q58)
 
 ## Q59
@@ -1385,7 +1385,7 @@ Step 3: This directly matches option **(3)**.
 - (4) UTF‑32
 
 **🤔 What I understood:**
-- Topic used: **Algebra — Core**
+- Topic used: **Computer Awareness — Fundamentals**
 - We must compute/verify and then map to the correct option.
 
 **💡 What I’ll use (repo-style):**
@@ -1399,7 +1399,7 @@ Step 3: This directly matches option **(3)**.
 **✅ Final Answer: (3)**
 
 - **Answer + Explanation Link:** [Direct anchor for Q59](#q59)
-- **Exact Topic-Pattern Link:** [Algebra — Core](../../24-Algebra-Basics/Pattern1-Core-Algebra.md)
+- **Exact Topic-Pattern Link:** [Computer Awareness — Fundamentals](../../18-Computer-Awareness/02-Computer-Fundamentals.md)
 - **Question Block Link:** [Go to Q59 question](./Questions.md#q59)
 
 ## Q60
@@ -1413,7 +1413,7 @@ Step 3: This directly matches option **(3)**.
 - (4) Pen drive
 
 **🤔 What I understood:**
-- Topic used: **Algebra — Core**
+- Topic used: **Computer Awareness — Fundamentals**
 - We must compute/verify and then map to the correct option.
 
 **💡 What I’ll use (repo-style):**
@@ -1427,7 +1427,7 @@ Step 3: This directly matches option **(2)**.
 **✅ Final Answer: (2)**
 
 - **Answer + Explanation Link:** [Direct anchor for Q60](#q60)
-- **Exact Topic-Pattern Link:** [Algebra — Core](../../24-Algebra-Basics/Pattern1-Core-Algebra.md)
+- **Exact Topic-Pattern Link:** [Computer Awareness — Fundamentals](../../18-Computer-Awareness/02-Computer-Fundamentals.md)
 - **Question Block Link:** [Go to Q60 question](./Questions.md#q60)
 
 ## Q61
@@ -1441,7 +1441,7 @@ Step 3: This directly matches option **(2)**.
 - (4) CPU Registers, Primary Memory, Cache, Magnetic Disk
 
 **🤔 What I understood:**
-- Topic used: **Algebra — Core**
+- Topic used: **Computer Awareness — Fundamentals**
 - We must compute/verify and then map to the correct option.
 
 **💡 What I’ll use (repo-style):**
@@ -1455,7 +1455,7 @@ Step 3: This directly matches option **(1)**.
 **✅ Final Answer: (1)**
 
 - **Answer + Explanation Link:** [Direct anchor for Q61](#q61)
-- **Exact Topic-Pattern Link:** [Algebra — Core](../../24-Algebra-Basics/Pattern1-Core-Algebra.md)
+- **Exact Topic-Pattern Link:** [Computer Awareness — Fundamentals](../../18-Computer-Awareness/02-Computer-Fundamentals.md)
 - **Question Block Link:** [Go to Q61 question](./Questions.md#q61)
 
 ## Q62
@@ -1469,7 +1469,7 @@ Step 3: This directly matches option **(1)**.
 - (4) S1, S2 only
 
 **🤔 What I understood:**
-- Topic used: **Computer Awareness — Fundamentals**
+- Topic used: **Algebra — Core**
 - We must compute/verify and then map to the correct option.
 
 **💡 What I’ll use (repo-style):**
@@ -1483,7 +1483,7 @@ Step 3: This directly matches option **(2)**.
 **✅ Final Answer: (2)**
 
 - **Answer + Explanation Link:** [Direct anchor for Q62](#q62)
-- **Exact Topic-Pattern Link:** [Computer Awareness — Fundamentals](../../18-Computer-Awareness/02-Computer-Fundamentals.md)
+- **Exact Topic-Pattern Link:** [Algebra — Core](../../24-Algebra-Basics/Pattern1-Core-Algebra.md)
 - **Question Block Link:** [Go to Q62 question](./Questions.md#q62)
 
 ## Q63
@@ -1525,7 +1525,7 @@ Step 3: This directly matches option **(3)**.
 - (4) only c
 
 **🤔 What I understood:**
-- Topic used: **Computer Awareness — Fundamentals**
+- Topic used: **Computer Awareness — Networks**
 - We must compute/verify and then map to the correct option.
 
 **💡 What I’ll use (repo-style):**
@@ -1539,7 +1539,7 @@ Step 3: This directly matches option **(3)**.
 **✅ Final Answer: (3)**
 
 - **Answer + Explanation Link:** [Direct anchor for Q64](#q64)
-- **Exact Topic-Pattern Link:** [Computer Awareness — Fundamentals](../../18-Computer-Awareness/02-Computer-Fundamentals.md)
+- **Exact Topic-Pattern Link:** [Computer Awareness — Networks](../../18-Computer-Awareness/07-Computer-Networks.md)
 - **Question Block Link:** [Go to Q64 question](./Questions.md#q64)
 
 ## Q65
@@ -1553,7 +1553,7 @@ Step 3: This directly matches option **(3)**.
 - (4) 74₍₈₎, A1₍₁₆₎
 
 **🤔 What I understood:**
-- Topic used: **Algebra — Core**
+- Topic used: **Computer Awareness — Number Systems**
 - We must compute/verify and then map to the correct option.
 
 **💡 What I’ll use (repo-style):**
@@ -1567,7 +1567,7 @@ Step 3: This directly matches option **(2)**.
 **✅ Final Answer: (2)**
 
 - **Answer + Explanation Link:** [Direct anchor for Q65](#q65)
-- **Exact Topic-Pattern Link:** [Algebra — Core](../../24-Algebra-Basics/Pattern1-Core-Algebra.md)
+- **Exact Topic-Pattern Link:** [Computer Awareness — Number Systems](../../18-Computer-Awareness/01-Number-Systems.md)
 - **Question Block Link:** [Go to Q65 question](./Questions.md#q65)
 
 ## Q66
@@ -1581,7 +1581,7 @@ Step 3: This directly matches option **(2)**.
 - (4) 1 Megabyte
 
 **🤔 What I understood:**
-- Topic used: **Algebra — Core**
+- Topic used: **Computer Awareness — Number Systems**
 - We must compute/verify and then map to the correct option.
 
 **💡 What I’ll use (repo-style):**
@@ -1595,7 +1595,7 @@ Step 3: This directly matches option **(3)**.
 **✅ Final Answer: (3)**
 
 - **Answer + Explanation Link:** [Direct anchor for Q66](#q66)
-- **Exact Topic-Pattern Link:** [Algebra — Core](../../24-Algebra-Basics/Pattern1-Core-Algebra.md)
+- **Exact Topic-Pattern Link:** [Computer Awareness — Number Systems](../../18-Computer-Awareness/01-Number-Systems.md)
 - **Question Block Link:** [Go to Q66 question](./Questions.md#q66)
 
 ## Q67
@@ -1609,7 +1609,7 @@ Step 3: This directly matches option **(3)**.
 - (4) a‑i; b‑iii; c‑iv; d‑ii
 
 **🤔 What I understood:**
-- Topic used: **Algebra — Core**
+- Topic used: **Computer Awareness — Number Systems**
 - We must compute/verify and then map to the correct option.
 
 **💡 What I’ll use (repo-style):**
@@ -1623,7 +1623,7 @@ Step 3: This directly matches option **(1)**.
 **✅ Final Answer: (1)**
 
 - **Answer + Explanation Link:** [Direct anchor for Q67](#q67)
-- **Exact Topic-Pattern Link:** [Algebra — Core](../../24-Algebra-Basics/Pattern1-Core-Algebra.md)
+- **Exact Topic-Pattern Link:** [Computer Awareness — Number Systems](../../18-Computer-Awareness/01-Number-Systems.md)
 - **Question Block Link:** [Go to Q67 question](./Questions.md#q67)
 
 ## Q68
@@ -1637,7 +1637,7 @@ Step 3: This directly matches option **(1)**.
 - (4) a‑i; b‑ii; c‑iii; d‑iv
 
 **🤔 What I understood:**
-- Topic used: **Algebra — Core**
+- Topic used: **Computer Awareness — Data Representation/Binary Arithmetic**
 - We must compute/verify and then map to the correct option.
 
 **💡 What I’ll use (repo-style):**
@@ -1651,7 +1651,7 @@ Step 3: This directly matches option **(3)**.
 **✅ Final Answer: (3)**
 
 - **Answer + Explanation Link:** [Direct anchor for Q68](#q68)
-- **Exact Topic-Pattern Link:** [Algebra — Core](../../24-Algebra-Basics/Pattern1-Core-Algebra.md)
+- **Exact Topic-Pattern Link:** [Computer Awareness — Data Representation/Binary Arithmetic](../../18-Computer-Awareness/09-Data-Representation-and-Binary-Arithmetic.md)
 - **Question Block Link:** [Go to Q68 question](./Questions.md#q68)
 
 ## Q69
@@ -1721,7 +1721,7 @@ Step 3: This directly matches option **(2)**.
 - (4) Mantissa, Float
 
 **🤔 What I understood:**
-- Topic used: **Algebra — Core**
+- Topic used: **Computer Awareness — Networks**
 - We must compute/verify and then map to the correct option.
 
 **💡 What I’ll use (repo-style):**
@@ -1735,7 +1735,7 @@ Step 3: This directly matches option **(2)**.
 **✅ Final Answer: (2)**
 
 - **Answer + Explanation Link:** [Direct anchor for Q71](#q71)
-- **Exact Topic-Pattern Link:** [Algebra — Core](../../24-Algebra-Basics/Pattern1-Core-Algebra.md)
+- **Exact Topic-Pattern Link:** [Computer Awareness — Networks](../../18-Computer-Awareness/07-Computer-Networks.md)
 - **Question Block Link:** [Go to Q71 question](./Questions.md#q71)
 
 ## Q72
@@ -1777,7 +1777,7 @@ Step 3: This directly matches option **(3)**.
 - (4) a‑i; b‑iii; c‑iv; d‑ii
 
 **🤔 What I understood:**
-- Topic used: **Algebra — Core**
+- Topic used: **Computer Awareness — Number Systems**
 - We must compute/verify and then map to the correct option.
 
 **💡 What I’ll use (repo-style):**
@@ -1791,7 +1791,7 @@ Step 3: This directly matches option **(3)**.
 **✅ Final Answer: (3)**
 
 - **Answer + Explanation Link:** [Direct anchor for Q73](#q73)
-- **Exact Topic-Pattern Link:** [Algebra — Core](../../24-Algebra-Basics/Pattern1-Core-Algebra.md)
+- **Exact Topic-Pattern Link:** [Computer Awareness — Number Systems](../../18-Computer-Awareness/01-Number-Systems.md)
 - **Question Block Link:** [Go to Q73 question](./Questions.md#q73)
 
 ## Q74
@@ -1805,7 +1805,7 @@ Step 3: This directly matches option **(3)**.
 - (4) Morphing
 
 **🤔 What I understood:**
-- Topic used: **Computer Awareness — Number Systems**
+- Topic used: **Computer Awareness — Fundamentals**
 - We must compute/verify and then map to the correct option.
 
 **💡 What I’ll use (repo-style):**
@@ -1819,7 +1819,7 @@ Step 3: This directly matches option **(1)**.
 **✅ Final Answer: (1)**
 
 - **Answer + Explanation Link:** [Direct anchor for Q74](#q74)
-- **Exact Topic-Pattern Link:** [Computer Awareness — Number Systems](../../18-Computer-Awareness/01-Number-Systems.md)
+- **Exact Topic-Pattern Link:** [Computer Awareness — Fundamentals](../../18-Computer-Awareness/02-Computer-Fundamentals.md)
 - **Question Block Link:** [Go to Q74 question](./Questions.md#q74)
 
 ## Q75
@@ -1889,7 +1889,7 @@ Step 3: This directly matches option **(3)**.
 - (4) S1 and S2 correct, S3 incorrect
 
 **🤔 What I understood:**
-- Topic used: **Computer Awareness — Operating Systems**
+- Topic used: **Reasoning — Syllogism**
 - We must compute/verify and then map to the correct option.
 
 **💡 What I’ll use (repo-style):**
@@ -1903,7 +1903,7 @@ Step 3: This directly matches option **(1)**.
 **✅ Final Answer: (1)**
 
 - **Answer + Explanation Link:** [Direct anchor for Q77](#q77)
-- **Exact Topic-Pattern Link:** [Computer Awareness — Operating Systems](../../18-Computer-Awareness/05-Operating-Systems.md)
+- **Exact Topic-Pattern Link:** [Reasoning — Syllogism](../../14-Syllogisms/Pattern1-Two-Statement.md)
 - **Question Block Link:** [Go to Q77 question](./Questions.md#q77)
 
 ## Q78
@@ -1916,7 +1916,7 @@ Step 3: This directly matches option **(1)**.
 - (3) Project schedule (inferred)
 
 **🤔 What I understood:**
-- Topic used: **Computer Awareness — Operating Systems**
+- Topic used: **Computer Awareness — Networks**
 - We must compute/verify and then map to the correct option.
 
 **💡 What I’ll use (repo-style):**
@@ -1930,7 +1930,7 @@ Step 3: This directly matches option **(3)**.
 **✅ Final Answer: (3)**
 
 - **Answer + Explanation Link:** [Direct anchor for Q78](#q78)
-- **Exact Topic-Pattern Link:** [Computer Awareness — Operating Systems](../../18-Computer-Awareness/05-Operating-Systems.md)
+- **Exact Topic-Pattern Link:** [Computer Awareness — Networks](../../18-Computer-Awareness/07-Computer-Networks.md)
 - **Question Block Link:** [Go to Q78 question](./Questions.md#q78)
 
 ## Q79
@@ -1972,7 +1972,7 @@ Step 3: This directly matches option **(1)**.
 - (4) (missing)
 
 **🤔 What I understood:**
-- Topic used: **Algebra — Core**
+- Topic used: **Trigonometry — Compound/Double Angle**
 - We must compute/verify and then map to the correct option.
 
 **💡 What I’ll use (repo-style):**
@@ -1986,7 +1986,7 @@ Step 3: This directly matches option **(4)**.
 **✅ Final Answer: (4)**
 
 - **Answer + Explanation Link:** [Direct anchor for Q80](#q80)
-- **Exact Topic-Pattern Link:** [Algebra — Core](../../24-Algebra-Basics/Pattern1-Core-Algebra.md)
+- **Exact Topic-Pattern Link:** [Trigonometry — Compound/Double Angle](../../27-Trigonometry/Pattern2-Compound-and-Double-Angle.md)
 - **Question Block Link:** [Go to Q80 question](./Questions.md#q80)
 
 ## Q81
@@ -2000,7 +2000,7 @@ Step 3: This directly matches option **(4)**.
 - (4) All of the above
 
 **🤔 What I understood:**
-- Topic used: **Algebra — Core**
+- Topic used: **Sets and Relations — Sets/Venn**
 - We must compute/verify and then map to the correct option.
 
 **💡 What I’ll use (repo-style):**
@@ -2014,7 +2014,7 @@ Step 3: This directly matches option **–**.
 **✅ Final Answer: –**
 
 - **Answer + Explanation Link:** [Direct anchor for Q81](#q81)
-- **Exact Topic-Pattern Link:** [Algebra — Core](../../24-Algebra-Basics/Pattern1-Core-Algebra.md)
+- **Exact Topic-Pattern Link:** [Sets and Relations — Sets/Venn](../../20-Sets-and-Relations/Pattern1-Sets-and-Venn-Diagrams.md)
 - **Question Block Link:** [Go to Q81 question](./Questions.md#q81)
 
 ## Q82
@@ -2056,7 +2056,7 @@ Step 3: This directly matches option **(4)**.
 - (4) Air combined with sea
 
 **🤔 What I understood:**
-- Topic used: **Algebra — Core**
+- Topic used: **Quant — Profit and Loss**
 - We must compute/verify and then map to the correct option.
 
 **💡 What I’ll use (repo-style):**
@@ -2070,7 +2070,7 @@ Step 3: This directly matches option **(2)**.
 **✅ Final Answer: (2)**
 
 - **Answer + Explanation Link:** [Direct anchor for Q83](#q83)
-- **Exact Topic-Pattern Link:** [Algebra — Core](../../24-Algebra-Basics/Pattern1-Core-Algebra.md)
+- **Exact Topic-Pattern Link:** [Quant — Profit and Loss](../../03-Profit-and-Loss/Pattern1-Basics-Profit-Loss.md)
 - **Question Block Link:** [Go to Q83 question](./Questions.md#q83)
 
 ## Q84
@@ -2084,7 +2084,7 @@ Step 3: This directly matches option **(2)**.
 - (4) a, c, d only
 
 **🤔 What I understood:**
-- Topic used: **Algebra — Core**
+- Topic used: **Computer Awareness — Networks**
 - We must compute/verify and then map to the correct option.
 
 **💡 What I’ll use (repo-style):**
@@ -2098,7 +2098,7 @@ Step 3: This directly matches option **(3)**.
 **✅ Final Answer: (3)**
 
 - **Answer + Explanation Link:** [Direct anchor for Q84](#q84)
-- **Exact Topic-Pattern Link:** [Algebra — Core](../../24-Algebra-Basics/Pattern1-Core-Algebra.md)
+- **Exact Topic-Pattern Link:** [Computer Awareness — Networks](../../18-Computer-Awareness/07-Computer-Networks.md)
 - **Question Block Link:** [Go to Q84 question](./Questions.md#q84)
 
 ## Q85
@@ -2140,7 +2140,7 @@ Step 3: This directly matches option **(4)**.
 - (4) Quantitative Analysis
 
 **🤔 What I understood:**
-- Topic used: **Algebra — Core**
+- Topic used: **General Awareness — Current Affairs/Core**
 - We must compute/verify and then map to the correct option.
 
 **💡 What I’ll use (repo-style):**
@@ -2154,7 +2154,7 @@ Step 3: This directly matches option **(1)**.
 **✅ Final Answer: (1)**
 
 - **Answer + Explanation Link:** [Direct anchor for Q86](#q86)
-- **Exact Topic-Pattern Link:** [Algebra — Core](../../24-Algebra-Basics/Pattern1-Core-Algebra.md)
+- **Exact Topic-Pattern Link:** [General Awareness — Current Affairs/Core](../../29-General-Awareness/Pattern1-General-Awareness.md)
 - **Question Block Link:** [Go to Q86 question](./Questions.md#q86)
 
 ## Q87
@@ -2168,7 +2168,7 @@ Step 3: This directly matches option **(1)**.
 - (4) a, b, c
 
 **🤔 What I understood:**
-- Topic used: **Algebra — Core**
+- Topic used: **Quant — Profit and Loss**
 - We must compute/verify and then map to the correct option.
 
 **💡 What I’ll use (repo-style):**
@@ -2182,7 +2182,7 @@ Step 3: This directly matches option **(4)**.
 **✅ Final Answer: (4)**
 
 - **Answer + Explanation Link:** [Direct anchor for Q87](#q87)
-- **Exact Topic-Pattern Link:** [Algebra — Core](../../24-Algebra-Basics/Pattern1-Core-Algebra.md)
+- **Exact Topic-Pattern Link:** [Quant — Profit and Loss](../../03-Profit-and-Loss/Pattern1-Basics-Profit-Loss.md)
 - **Question Block Link:** [Go to Q87 question](./Questions.md#q87)
 
 ## Q88
@@ -2196,7 +2196,7 @@ Step 3: This directly matches option **(4)**.
 - (4) Centralized economic planning
 
 **🤔 What I understood:**
-- Topic used: **General Awareness — Core**
+- Topic used: **Computer Awareness — Networks**
 - We must compute/verify and then map to the correct option.
 
 **💡 What I’ll use (repo-style):**
@@ -2210,7 +2210,7 @@ Step 3: This directly matches option **(2)**.
 **✅ Final Answer: (2)**
 
 - **Answer + Explanation Link:** [Direct anchor for Q88](#q88)
-- **Exact Topic-Pattern Link:** [General Awareness — Core](../../29-General-Awareness/Pattern1-General-Awareness.md)
+- **Exact Topic-Pattern Link:** [Computer Awareness — Networks](../../18-Computer-Awareness/07-Computer-Networks.md)
 - **Question Block Link:** [Go to Q88 question](./Questions.md#q88)
 
 ## Q89
@@ -2224,7 +2224,7 @@ Step 3: This directly matches option **(2)**.
 - (4) Neither a nor b
 
 **🤔 What I understood:**
-- Topic used: **Simple/Compound Interest — Comparison**
+- Topic used: **Reasoning — Blood Relations**
 - We must compute/verify and then map to the correct option.
 
 **💡 What I’ll use (repo-style):**
@@ -2238,7 +2238,7 @@ Step 3: This directly matches option **(2)**.
 **✅ Final Answer: (2)**
 
 - **Answer + Explanation Link:** [Direct anchor for Q89](#q89)
-- **Exact Topic-Pattern Link:** [Simple/Compound Interest — Comparison](../../06-Simple-Compound-Interest/03-CI-vs-SI-Comparison.md)
+- **Exact Topic-Pattern Link:** [Reasoning — Blood Relations](../../11-Blood-Relations/Pattern2-Chain-and-Family-Tree.md)
 - **Question Block Link:** [Go to Q89 question](./Questions.md#q89)
 
 ## Q90
@@ -2280,7 +2280,7 @@ Step 3: This directly matches option **(3)**.
 - (4) Global Health Security Agenda
 
 **🤔 What I understood:**
-- Topic used: **General Awareness — Core**
+- Topic used: **General Awareness — Current Affairs/Core**
 - We must compute/verify and then map to the correct option.
 
 **💡 What I’ll use (repo-style):**
@@ -2294,7 +2294,7 @@ Step 3: This directly matches option **(1)**.
 **✅ Final Answer: (1)**
 
 - **Answer + Explanation Link:** [Direct anchor for Q91](#q91)
-- **Exact Topic-Pattern Link:** [General Awareness — Core](../../29-General-Awareness/Pattern1-General-Awareness.md)
+- **Exact Topic-Pattern Link:** [General Awareness — Current Affairs/Core](../../29-General-Awareness/Pattern1-General-Awareness.md)
 - **Question Block Link:** [Go to Q91 question](./Questions.md#q91)
 
 ## Q92
@@ -2308,7 +2308,7 @@ Step 3: This directly matches option **(1)**.
 - (4) a, b, c only
 
 **🤔 What I understood:**
-- Topic used: **Algebra — Core**
+- Topic used: **General Awareness — Current Affairs/Core**
 - We must compute/verify and then map to the correct option.
 
 **💡 What I’ll use (repo-style):**
@@ -2322,7 +2322,7 @@ Step 3: This directly matches option **(1)**.
 **✅ Final Answer: (1)**
 
 - **Answer + Explanation Link:** [Direct anchor for Q92](#q92)
-- **Exact Topic-Pattern Link:** [Algebra — Core](../../24-Algebra-Basics/Pattern1-Core-Algebra.md)
+- **Exact Topic-Pattern Link:** [General Awareness — Current Affairs/Core](../../29-General-Awareness/Pattern1-General-Awareness.md)
 - **Question Block Link:** [Go to Q92 question](./Questions.md#q92)
 
 ## Q93
@@ -2336,7 +2336,7 @@ Step 3: This directly matches option **(1)**.
 - (4) a, b, c, d
 
 **🤔 What I understood:**
-- Topic used: **Algebra — Core**
+- Topic used: **Reasoning — Syllogism**
 - We must compute/verify and then map to the correct option.
 
 **💡 What I’ll use (repo-style):**
@@ -2350,7 +2350,7 @@ Step 3: This directly matches option **(4)**.
 **✅ Final Answer: (4)**
 
 - **Answer + Explanation Link:** [Direct anchor for Q93](#q93)
-- **Exact Topic-Pattern Link:** [Algebra — Core](../../24-Algebra-Basics/Pattern1-Core-Algebra.md)
+- **Exact Topic-Pattern Link:** [Reasoning — Syllogism](../../14-Syllogisms/Pattern1-Two-Statement.md)
 - **Question Block Link:** [Go to Q93 question](./Questions.md#q93)
 
 ## Q94
@@ -2364,7 +2364,7 @@ Step 3: This directly matches option **(4)**.
 - (4) a, c, d only
 
 **🤔 What I understood:**
-- Topic used: **Algebra — Core**
+- Topic used: **Computer Awareness — Networks**
 - We must compute/verify and then map to the correct option.
 
 **💡 What I’ll use (repo-style):**
@@ -2378,7 +2378,7 @@ Step 3: This directly matches option **(1)**.
 **✅ Final Answer: (1)**
 
 - **Answer + Explanation Link:** [Direct anchor for Q94](#q94)
-- **Exact Topic-Pattern Link:** [Algebra — Core](../../24-Algebra-Basics/Pattern1-Core-Algebra.md)
+- **Exact Topic-Pattern Link:** [Computer Awareness — Networks](../../18-Computer-Awareness/07-Computer-Networks.md)
 - **Question Block Link:** [Go to Q94 question](./Questions.md#q94)
 
 ## Q95
@@ -2392,7 +2392,7 @@ Step 3: This directly matches option **(1)**.
 - (4) a, b, d only
 
 **🤔 What I understood:**
-- Topic used: **Algebra — Core**
+- Topic used: **Reasoning — Syllogism**
 - We must compute/verify and then map to the correct option.
 
 **💡 What I’ll use (repo-style):**
@@ -2406,7 +2406,7 @@ Step 3: This directly matches option **(1)**.
 **✅ Final Answer: (1)**
 
 - **Answer + Explanation Link:** [Direct anchor for Q95](#q95)
-- **Exact Topic-Pattern Link:** [Algebra — Core](../../24-Algebra-Basics/Pattern1-Core-Algebra.md)
+- **Exact Topic-Pattern Link:** [Reasoning — Syllogism](../../14-Syllogisms/Pattern1-Two-Statement.md)
 - **Question Block Link:** [Go to Q95 question](./Questions.md#q95)
 
 ## Q96
@@ -2420,7 +2420,7 @@ Step 3: This directly matches option **(1)**.
 - (4) a‑ii; b‑i; c‑iii; d‑iv
 
 **🤔 What I understood:**
-- Topic used: **Algebra — Core**
+- Topic used: **Computer Awareness — Networks**
 - We must compute/verify and then map to the correct option.
 
 **💡 What I’ll use (repo-style):**
@@ -2434,7 +2434,7 @@ Step 3: This directly matches option **(3)**.
 **✅ Final Answer: (3)**
 
 - **Answer + Explanation Link:** [Direct anchor for Q96](#q96)
-- **Exact Topic-Pattern Link:** [Algebra — Core](../../24-Algebra-Basics/Pattern1-Core-Algebra.md)
+- **Exact Topic-Pattern Link:** [Computer Awareness — Networks](../../18-Computer-Awareness/07-Computer-Networks.md)
 - **Question Block Link:** [Go to Q96 question](./Questions.md#q96)
 
 ## Q97
@@ -2448,7 +2448,7 @@ Step 3: This directly matches option **(3)**.
 - (4) a and b only
 
 **🤔 What I understood:**
-- Topic used: **Algebra — Core**
+- Topic used: **General Awareness — Current Affairs/Core**
 - We must compute/verify and then map to the correct option.
 
 **💡 What I’ll use (repo-style):**
@@ -2462,7 +2462,7 @@ Step 3: This directly matches option **(3)**.
 **✅ Final Answer: (3)**
 
 - **Answer + Explanation Link:** [Direct anchor for Q97](#q97)
-- **Exact Topic-Pattern Link:** [Algebra — Core](../../24-Algebra-Basics/Pattern1-Core-Algebra.md)
+- **Exact Topic-Pattern Link:** [General Awareness — Current Affairs/Core](../../29-General-Awareness/Pattern1-General-Awareness.md)
 - **Question Block Link:** [Go to Q97 question](./Questions.md#q97)
 
 ## Q98

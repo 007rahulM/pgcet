@@ -8,6 +8,7 @@ Seating arrangement tests your spatial reasoning. Expect **2–4 questions** in 
 |------|---------|-----------------|
 | [Pattern1-Linear.md](./Pattern1-Linear.md) | People sitting in a straight row | "A, B, C, D, E sit in a row" |
 | [Pattern2-Circular.md](./Pattern2-Circular.md) | People sitting around a circle/table | "6 people sit around a circular table" |
+| [Pattern3-Ranking-and-Positions.md](./Pattern3-Ranking-and-Positions.md) | Rank conversion (top ↔ bottom), position counting | "A is 7th from top in class of 31" |
 
 ## The Golden Rule
 

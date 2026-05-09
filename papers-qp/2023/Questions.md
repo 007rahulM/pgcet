@@ -12,7 +12,7 @@ Each question includes two required links:
 - (A) first (B) second (C) third (D) fourth
 
 - **Answer + Explanation Link:** [Open Q1 answer](./Answers-Detailed.md#q1)
-- **Exact Topic-Pattern Link:** [Algebra — Core](../../24-Algebra-Basics/Pattern1-Core-Algebra.md)
+- **Exact Topic-Pattern Link:** [Computer Awareness — Fundamentals](../../18-Computer-Awareness/02-Computer-Fundamentals.md)
 
 ## Q2
 
@@ -25,7 +25,7 @@ Each question includes two required links:
 - (D) Floppy disks
 
 - **Answer + Explanation Link:** [Open Q2 answer](./Answers-Detailed.md#q2)
-- **Exact Topic-Pattern Link:** [Algebra — Core](../../24-Algebra-Basics/Pattern1-Core-Algebra.md)
+- **Exact Topic-Pattern Link:** [Trigonometry — Compound/Double Angle](../../27-Trigonometry/Pattern2-Compound-and-Double-Angle.md)
 
 ## Q3
 
@@ -35,7 +35,7 @@ Each question includes two required links:
 - (A) Control sound (B) Computer gaming (C) Draw pictures (D) Enter text
 
 - **Answer + Explanation Link:** [Open Q3 answer](./Answers-Detailed.md#q3)
-- **Exact Topic-Pattern Link:** [Algebra — Core](../../24-Algebra-Basics/Pattern1-Core-Algebra.md)
+- **Exact Topic-Pattern Link:** [Computer Awareness — Fundamentals](../../18-Computer-Awareness/02-Computer-Fundamentals.md)
 
 ## Q4
 
@@ -66,7 +66,7 @@ Each question includes two required links:
 - (C) Windows and MacOS (D) System and Application
 
 - **Answer + Explanation Link:** [Open Q6 answer](./Answers-Detailed.md#q6)
-- **Exact Topic-Pattern Link:** [Algebra — Core](../../24-Algebra-Basics/Pattern1-Core-Algebra.md)
+- **Exact Topic-Pattern Link:** [Computer Awareness — Fundamentals](../../18-Computer-Awareness/02-Computer-Fundamentals.md)
 
 ## Q7
 
@@ -97,7 +97,7 @@ Each question includes two required links:
 - (A) Trojan Horse (B) Worm (C) Keystroke Logger (D) Logic Bomb
 
 - **Answer + Explanation Link:** [Open Q9 answer](./Answers-Detailed.md#q9)
-- **Exact Topic-Pattern Link:** [Algebra — Core](../../24-Algebra-Basics/Pattern1-Core-Algebra.md)
+- **Exact Topic-Pattern Link:** [Computer Awareness — Fundamentals](../../18-Computer-Awareness/02-Computer-Fundamentals.md)
 
 ## Q10
 
@@ -107,7 +107,7 @@ Each question includes two required links:
 - (A) Home key (B) End key (C) Insert key (D) Ctrl key + End key
 
 - **Answer + Explanation Link:** [Open Q10 answer](./Answers-Detailed.md#q10)
-- **Exact Topic-Pattern Link:** [Algebra — Core](../../24-Algebra-Basics/Pattern1-Core-Algebra.md)
+- **Exact Topic-Pattern Link:** [Computer Awareness — Fundamentals](../../18-Computer-Awareness/02-Computer-Fundamentals.md)
 
 ## Q11
 
@@ -117,7 +117,7 @@ Each question includes two required links:
 - (A) Copper (B) Aluminium (C) Silicon (D) Silver
 
 - **Answer + Explanation Link:** [Open Q11 answer](./Answers-Detailed.md#q11)
-- **Exact Topic-Pattern Link:** [Computer Awareness — Fundamentals](../../18-Computer-Awareness/02-Computer-Fundamentals.md)
+- **Exact Topic-Pattern Link:** [Algebra — Core](../../24-Algebra-Basics/Pattern1-Core-Algebra.md)
 
 ## Q12
 
@@ -140,7 +140,7 @@ Each question includes two required links:
 - (D) Accessing data from tape
 
 - **Answer + Explanation Link:** [Open Q13 answer](./Answers-Detailed.md#q13)
-- **Exact Topic-Pattern Link:** [Algebra — Core](../../24-Algebra-Basics/Pattern1-Core-Algebra.md)
+- **Exact Topic-Pattern Link:** [Computer Awareness — Networks](../../18-Computer-Awareness/07-Computer-Networks.md)
 
 ## Q14
 
@@ -150,7 +150,7 @@ Each question includes two required links:
 - (A) Bug (B) Debug (C) Virus (D) Noise
 
 - **Answer + Explanation Link:** [Open Q14 answer](./Answers-Detailed.md#q14)
-- **Exact Topic-Pattern Link:** [General English — Grammar](../../23-General-English/Pattern1-Grammar.md)
+- **Exact Topic-Pattern Link:** [Computer Awareness — Fundamentals](../../18-Computer-Awareness/02-Computer-Fundamentals.md)
 
 ## Q15
 
@@ -160,7 +160,7 @@ Each question includes two required links:
 - (A) 2000 (B) 1998 (C) 1999 (D) 2001
 
 - **Answer + Explanation Link:** [Open Q15 answer](./Answers-Detailed.md#q15)
-- **Exact Topic-Pattern Link:** [Algebra — Core](../../24-Algebra-Basics/Pattern1-Core-Algebra.md)
+- **Exact Topic-Pattern Link:** [Computer Awareness — Fundamentals](../../18-Computer-Awareness/02-Computer-Fundamentals.md)
 
 ## Q16
 
@@ -170,7 +170,7 @@ Each question includes two required links:
 - (A) QSRDTNB (B) SUTDTNB (C) TUSDTNB (D) SUTDBNT
 
 - **Answer + Explanation Link:** [Open Q16 answer](./Answers-Detailed.md#q16)
-- **Exact Topic-Pattern Link:** [Statistics — Variance and SD](../../19-Statistics/Pattern2-Variance-and-SD.md)
+- **Exact Topic-Pattern Link:** [Computer Awareness — Networks](../../18-Computer-Awareness/07-Computer-Networks.md)
 
 ## Q17
 
@@ -180,7 +180,7 @@ Each question includes two required links:
 - (A) North‑West (B) South‑East (C) North‑East (D) South‑West
 
 - **Answer + Explanation Link:** [Open Q17 answer](./Answers-Detailed.md#q17)
-- **Exact Topic-Pattern Link:** [Algebra — Core](../../24-Algebra-Basics/Pattern1-Core-Algebra.md)
+- **Exact Topic-Pattern Link:** [Reasoning — Direction Sense](../../16-Direction-Sense/Pattern1-Basic-Directions.md)
 
 ## Q18
 
@@ -190,7 +190,7 @@ Each question includes two required links:
 - (A) Son‑in‑law (B) Daughter (C) Niece (D) Grand‑daughter
 
 - **Answer + Explanation Link:** [Open Q18 answer](./Answers-Detailed.md#q18)
-- **Exact Topic-Pattern Link:** [Algebra — Core](../../24-Algebra-Basics/Pattern1-Core-Algebra.md)
+- **Exact Topic-Pattern Link:** [Reasoning — Blood Relations](../../11-Blood-Relations/Pattern2-Chain-and-Family-Tree.md)
 
 ## Q19
 
@@ -200,7 +200,7 @@ Each question includes two required links:
 - (A) 160 (B) 180 (C) 110 (D) 140
 
 - **Answer + Explanation Link:** [Open Q19 answer](./Answers-Detailed.md#q19)
-- **Exact Topic-Pattern Link:** [Reasoning — Syllogism Pattern](../../14-Syllogisms/Pattern1-Two-Statement.md)
+- **Exact Topic-Pattern Link:** [Reasoning — Series](../../13-Series/Pattern1-Number-Series.md)
 
 ## Q20
 
@@ -210,7 +210,7 @@ Each question includes two required links:
 - (A) 321 (B) 876 (C) 987 (D) 345
 
 - **Answer + Explanation Link:** [Open Q20 answer](./Answers-Detailed.md#q20)
-- **Exact Topic-Pattern Link:** [Trigonometry — Compound/Double Angle](../../27-Trigonometry/Pattern2-Compound-and-Double-Angle.md)
+- **Exact Topic-Pattern Link:** [Reasoning — Series](../../13-Series/Pattern1-Number-Series.md)
 
 ## Q21
 
@@ -220,7 +220,7 @@ Each question includes two required links:
 - (A) 3 (B) 0 (C) 2 (D) 1
 
 - **Answer + Explanation Link:** [Open Q21 answer](./Answers-Detailed.md#q21)
-- **Exact Topic-Pattern Link:** [Simple/Compound Interest — Comparison](../../06-Simple-Compound-Interest/03-CI-vs-SI-Comparison.md)
+- **Exact Topic-Pattern Link:** [Reasoning — Direction Sense](../../16-Direction-Sense/Pattern1-Basic-Directions.md)
 
 ## Q22
 
@@ -240,7 +240,7 @@ Each question includes two required links:
 - (A) 2 (B) 6 (C) 9 (D) 8
 
 - **Answer + Explanation Link:** [Open Q23 answer](./Answers-Detailed.md#q23)
-- **Exact Topic-Pattern Link:** [Algebra — Core](../../24-Algebra-Basics/Pattern1-Core-Algebra.md)
+- **Exact Topic-Pattern Link:** [Reasoning — Series](../../13-Series/Pattern1-Number-Series.md)
 
 ## Q24
 
@@ -250,7 +250,7 @@ Each question includes two required links:
 - (A) Mission Indradhanush (B) Janani Suraksha Yojana (C) Rashtriya Bal Swasthya Karyakram (D) Prasuti Araike
 
 - **Answer + Explanation Link:** [Open Q24 answer](./Answers-Detailed.md#q24)
-- **Exact Topic-Pattern Link:** [Algebra — Core](../../24-Algebra-Basics/Pattern1-Core-Algebra.md)
+- **Exact Topic-Pattern Link:** [General Awareness — Current Affairs/Core](../../29-General-Awareness/Pattern1-General-Awareness.md)
 
 ## Q25
 
@@ -260,7 +260,7 @@ Each question includes two required links:
 - (A) Bimal Patel (B) Bijoy Jain (C) B.V. Doshi (D) Rahul Mehrotra
 
 - **Answer + Explanation Link:** [Open Q25 answer](./Answers-Detailed.md#q25)
-- **Exact Topic-Pattern Link:** [Matrices — Operations](../../21-Matrices-and-Determinants/Pattern1-Matrix-Types-and-Operations.md)
+- **Exact Topic-Pattern Link:** [General Awareness — Current Affairs/Core](../../29-General-Awareness/Pattern1-General-Awareness.md)
 
 ## Q26
 
@@ -270,7 +270,7 @@ Each question includes two required links:
 - (A) Mumbai – Sainagar Shirdi (B) Puri – Howrah (C) Varanasi – New Delhi (D) Bengaluru – Dharwad
 
 - **Answer + Explanation Link:** [Open Q26 answer](./Answers-Detailed.md#q26)
-- **Exact Topic-Pattern Link:** [Algebra — Core](../../24-Algebra-Basics/Pattern1-Core-Algebra.md)
+- **Exact Topic-Pattern Link:** [Quant — Time, Speed and Distance](../../02-Time-Speed-Distance/Pattern1-Basics-Speed-Distance-Time.md)
 
 ## Q27
 
@@ -280,7 +280,7 @@ Each question includes two required links:
 - (A) Girish Chandra Murmu (B) V. Narahari Rao (C) Shashikant Sharma (D) M.K. Jain
 
 - **Answer + Explanation Link:** [Open Q27 answer](./Answers-Detailed.md#q27)
-- **Exact Topic-Pattern Link:** [General English — RC](../../23-General-English/Pattern3-Reading-Comprehension-and-Errors.md)
+- **Exact Topic-Pattern Link:** [Algebra — Core](../../24-Algebra-Basics/Pattern1-Core-Algebra.md)
 
 ## Q28
 
@@ -290,7 +290,7 @@ Each question includes two required links:
 - (A) 2030 (B) 2035 (C) 2042 (D) 2047
 
 - **Answer + Explanation Link:** [Open Q28 answer](./Answers-Detailed.md#q28)
-- **Exact Topic-Pattern Link:** [General Awareness — Core](../../29-General-Awareness/Pattern1-General-Awareness.md)
+- **Exact Topic-Pattern Link:** [General Awareness — Current Affairs/Core](../../29-General-Awareness/Pattern1-General-Awareness.md)
 
 ## Q29
 
@@ -300,7 +300,7 @@ Each question includes two required links:
 - (A) United Payment India (B) Unified Payment Interface (C) Unique Payment Information (D) Unified Payment Information
 
 - **Answer + Explanation Link:** [Open Q29 answer](./Answers-Detailed.md#q29)
-- **Exact Topic-Pattern Link:** [General Awareness — Core](../../29-General-Awareness/Pattern1-General-Awareness.md)
+- **Exact Topic-Pattern Link:** [General Awareness — Current Affairs/Core](../../29-General-Awareness/Pattern1-General-Awareness.md)
 
 ## Q30
 
@@ -313,7 +313,7 @@ Each question includes two required links:
 - (D) Kedarnath Singh Punjab
 
 - **Answer + Explanation Link:** [Open Q30 answer](./Answers-Detailed.md#q30)
-- **Exact Topic-Pattern Link:** [Algebra — Core](../../24-Algebra-Basics/Pattern1-Core-Algebra.md)
+- **Exact Topic-Pattern Link:** [Computer Awareness — Networks](../../18-Computer-Awareness/07-Computer-Networks.md)
 
 ## Q31
 
@@ -326,7 +326,7 @@ Each question includes two required links:
 - (D) Punjab National Bank United Bank of India
 
 - **Answer + Explanation Link:** [Open Q31 answer](./Answers-Detailed.md#q31)
-- **Exact Topic-Pattern Link:** [Simple/Compound Interest — Comparison](../../06-Simple-Compound-Interest/03-CI-vs-SI-Comparison.md)
+- **Exact Topic-Pattern Link:** [Sets and Relations — Sets/Venn](../../20-Sets-and-Relations/Pattern1-Sets-and-Venn-Diagrams.md)
 
 ## Q32
 
@@ -336,7 +336,7 @@ Each question includes two required links:
 - (A) Din (B) Mention (C) Restrict (D) Alliance
 
 - **Answer + Explanation Link:** [Open Q32 answer](./Answers-Detailed.md#q32)
-- **Exact Topic-Pattern Link:** [Trigonometry — Compound/Double Angle](../../27-Trigonometry/Pattern2-Compound-and-Double-Angle.md)
+- **Exact Topic-Pattern Link:** [General English — Vocabulary](../../23-General-English/Pattern2-Vocabulary.md)
 
 ## Q33
 
@@ -346,7 +346,7 @@ Each question includes two required links:
 - (A) Disphilanthropist (B) Unphilanthropist (C) Disanthropist (D) Misanthropist
 
 - **Answer + Explanation Link:** [Open Q33 answer](./Answers-Detailed.md#q33)
-- **Exact Topic-Pattern Link:** [Algebra — Core](../../24-Algebra-Basics/Pattern1-Core-Algebra.md)
+- **Exact Topic-Pattern Link:** [General English — Vocabulary](../../23-General-English/Pattern2-Vocabulary.md)
 
 ## Q34
 
@@ -356,7 +356,7 @@ Each question includes two required links:
 - (A) recover (B) leave (C) give up (D) suppress
 
 - **Answer + Explanation Link:** [Open Q34 answer](./Answers-Detailed.md#q34)
-- **Exact Topic-Pattern Link:** [Trigonometry — Compound/Double Angle](../../27-Trigonometry/Pattern2-Compound-and-Double-Angle.md)
+- **Exact Topic-Pattern Link:** [Algebra — Core](../../24-Algebra-Basics/Pattern1-Core-Algebra.md)
 
 ## Q35
 
@@ -366,7 +366,7 @@ Each question includes two required links:
 - (A) Simple work (B) Hard work (C) Discontinuous work (D) Continuous work
 
 - **Answer + Explanation Link:** [Open Q35 answer](./Answers-Detailed.md#q35)
-- **Exact Topic-Pattern Link:** [Algebra — Core](../../24-Algebra-Basics/Pattern1-Core-Algebra.md)
+- **Exact Topic-Pattern Link:** [General English — Vocabulary](../../23-General-English/Pattern2-Vocabulary.md)
 
 ## Q36
 
@@ -376,7 +376,7 @@ Each question includes two required links:
 - (A) deer (B) deers (C) deering (D) deered
 
 - **Answer + Explanation Link:** [Open Q36 answer](./Answers-Detailed.md#q36)
-- **Exact Topic-Pattern Link:** [General English — RC](../../23-General-English/Pattern3-Reading-Comprehension-and-Errors.md)
+- **Exact Topic-Pattern Link:** [Algebra — Core](../../24-Algebra-Basics/Pattern1-Core-Algebra.md)
 
 ## Q37
 
@@ -386,7 +386,7 @@ Each question includes two required links:
 - (A) 1/128 (B) 1/132 (C) 1/150 (D) 1/154
 
 - **Answer + Explanation Link:** [Open Q37 answer](./Answers-Detailed.md#q37)
-- **Exact Topic-Pattern Link:** [General English — Vocabulary](../../23-General-English/Pattern2-Vocabulary.md)
+- **Exact Topic-Pattern Link:** [Algebra — Core](../../24-Algebra-Basics/Pattern1-Core-Algebra.md)
 
 ## Q38
 
@@ -396,7 +396,7 @@ Each question includes two required links:
 - (A) 0 (B) I (C) 2I (D) 3I
 
 - **Answer + Explanation Link:** [Open Q38 answer](./Answers-Detailed.md#q38)
-- **Exact Topic-Pattern Link:** [Algebra — Core](../../24-Algebra-Basics/Pattern1-Core-Algebra.md)
+- **Exact Topic-Pattern Link:** [Trigonometry — Compound/Double Angle](../../27-Trigonometry/Pattern2-Compound-and-Double-Angle.md)
 
 ## Q39
 
@@ -416,7 +416,7 @@ Each question includes two required links:
 - (A) 4c² (B) 10c² (C) 5c³ (D) 10c³
 
 - **Answer + Explanation Link:** [Open Q40 answer](./Answers-Detailed.md#q40)
-- **Exact Topic-Pattern Link:** [Algebra — Core](../../24-Algebra-Basics/Pattern1-Core-Algebra.md)
+- **Exact Topic-Pattern Link:** [Algebra — Progressions and Binomial](../../24-Algebra-Basics/Pattern4-Progressions-and-Binomial.md)
 
 ## Q41
 
@@ -426,7 +426,7 @@ Each question includes two required links:
 - (A) (3,4) (B) (4,3) (C) (5,4) (D) (5,3)
 
 - **Answer + Explanation Link:** [Open Q41 answer](./Answers-Detailed.md#q41)
-- **Exact Topic-Pattern Link:** [Trigonometry — Compound/Double Angle](../../27-Trigonometry/Pattern2-Compound-and-Double-Angle.md)
+- **Exact Topic-Pattern Link:** [Quant — Ratio and Proportion](../../05-Ratio-and-Proportion/Pattern1-Ratio-Basics.md)
 
 ## Q42
 
@@ -436,7 +436,7 @@ Each question includes two required links:
 - (A) (−2,−5),3 (B) (−2,−5),5 (C) (2,5),3 (D) (2,5),5
 
 - **Answer + Explanation Link:** [Open Q42 answer](./Answers-Detailed.md#q42)
-- **Exact Topic-Pattern Link:** [Matrices — Operations](../../21-Matrices-and-Determinants/Pattern1-Matrix-Types-and-Operations.md)
+- **Exact Topic-Pattern Link:** [Coordinate Geometry — Conics](../../26-Coordinate-Geometry/Pattern4-Conics-and-Transformations.md)
 
 ## Q43
 
@@ -446,7 +446,7 @@ Each question includes two required links:
 - (A) (0,√5),(0,−√5) (B) (0,5),(0,−5) (C) (√5,0),(−√5,0) (D) (5,0),(−5,0)
 
 - **Answer + Explanation Link:** [Open Q43 answer](./Answers-Detailed.md#q43)
-- **Exact Topic-Pattern Link:** [Algebra — Core](../../24-Algebra-Basics/Pattern1-Core-Algebra.md)
+- **Exact Topic-Pattern Link:** [Coordinate Geometry — Conics](../../26-Coordinate-Geometry/Pattern4-Conics-and-Transformations.md)
 
 ## Q44
 
@@ -456,7 +456,7 @@ Each question includes two required links:
 - (A) two, one (B) one, one (C) two, two (D) one, two
 
 - **Answer + Explanation Link:** [Open Q44 answer](./Answers-Detailed.md#q44)
-- **Exact Topic-Pattern Link:** [Simple/Compound Interest — Comparison](../../06-Simple-Compound-Interest/03-CI-vs-SI-Comparison.md)
+- **Exact Topic-Pattern Link:** [Quant — Profit and Loss](../../03-Profit-and-Loss/Pattern1-Basics-Profit-Loss.md)
 
 ## Q45
 
@@ -466,7 +466,7 @@ Each question includes two required links:
 - (A) (AB)C = (BA)C (B) (AB)C = A(BC) (C) (AB)C = C(AB) (D) (AB)C = B(AC)
 
 - **Answer + Explanation Link:** [Open Q45 answer](./Answers-Detailed.md#q45)
-- **Exact Topic-Pattern Link:** [Coordinate Geometry — Lines and Distance](../../26-Coordinate-Geometry/Pattern2-Lines-and-Distance.md)
+- **Exact Topic-Pattern Link:** [Algebra — Core](../../24-Algebra-Basics/Pattern1-Core-Algebra.md)
 
 ## Q46
 
@@ -476,7 +476,7 @@ Each question includes two required links:
 - (A) X=0,Y=1 (B) X=1,Y=1 (C) X=1,Y=0 (D) X=0,Y=0
 
 - **Answer + Explanation Link:** [Open Q46 answer](./Answers-Detailed.md#q46)
-- **Exact Topic-Pattern Link:** [Algebra — Core](../../24-Algebra-Basics/Pattern1-Core-Algebra.md)
+- **Exact Topic-Pattern Link:** [Boolean Algebra — Simplification](../../28-Boolean-Algebra/Pattern3-Simplification-Strategies.md)
 
 ## Q47
 
@@ -486,7 +486,7 @@ Each question includes two required links:
 - (A) X (B) Y (C) X̅ (D) Y̅
 
 - **Answer + Explanation Link:** [Open Q47 answer](./Answers-Detailed.md#q47)
-- **Exact Topic-Pattern Link:** [Coordinate Geometry — Conics](../../26-Coordinate-Geometry/Pattern4-Conics-and-Transformations.md)
+- **Exact Topic-Pattern Link:** [Boolean Algebra — Simplification](../../28-Boolean-Algebra/Pattern3-Simplification-Strategies.md)
 
 ## Q48
 
@@ -496,7 +496,7 @@ Each question includes two required links:
 - (A) 1 (B) −1 (C) 0 (D) 2
 
 - **Answer + Explanation Link:** [Open Q48 answer](./Answers-Detailed.md#q48)
-- **Exact Topic-Pattern Link:** [Coordinate Geometry — Conics](../../26-Coordinate-Geometry/Pattern4-Conics-and-Transformations.md)
+- **Exact Topic-Pattern Link:** [Matrices — Determinants and Operations](../../21-Matrices-and-Determinants/Pattern1-Matrix-Types-and-Operations.md)
 
 ## Q49
 
@@ -506,7 +506,7 @@ Each question includes two required links:
 - (A) √2 sin x (B) √2 cos x (C) 2 sin x (D) 2 cos x
 
 - **Answer + Explanation Link:** [Open Q49 answer](./Answers-Detailed.md#q49)
-- **Exact Topic-Pattern Link:** [Simple/Compound Interest — Comparison](../../06-Simple-Compound-Interest/03-CI-vs-SI-Comparison.md)
+- **Exact Topic-Pattern Link:** [Trigonometry — Compound/Double Angle](../../27-Trigonometry/Pattern2-Compound-and-Double-Angle.md)
 
 ## Q50
 
@@ -526,7 +526,7 @@ Each question includes two required links:
 - (A) π/5 (B) 2π/5 (C) 3π/5 (D) −3π/5
 
 - **Answer + Explanation Link:** [Open Q51 answer](./Answers-Detailed.md#q51)
-- **Exact Topic-Pattern Link:** [Boolean Algebra — Simplification](../../28-Boolean-Algebra/Pattern3-Simplification-Strategies.md)
+- **Exact Topic-Pattern Link:** [Trigonometry — Compound/Double Angle](../../27-Trigonometry/Pattern2-Compound-and-Double-Angle.md)
 
 ## Q52
 
@@ -536,7 +536,7 @@ Each question includes two required links:
 - (A) 0 (B) 1 (C) −1 (D) 1/2
 
 - **Answer + Explanation Link:** [Open Q52 answer](./Answers-Detailed.md#q52)
-- **Exact Topic-Pattern Link:** [Algebra — Core](../../24-Algebra-Basics/Pattern1-Core-Algebra.md)
+- **Exact Topic-Pattern Link:** [Trigonometry — Compound/Double Angle](../../27-Trigonometry/Pattern2-Compound-and-Double-Angle.md)
 
 ## Q53
 
@@ -546,7 +546,7 @@ Each question includes two required links:
 - (A) 1/2 (B) 1/4 (C) 1/5 (D) 1/13
 
 - **Answer + Explanation Link:** [Open Q53 answer](./Answers-Detailed.md#q53)
-- **Exact Topic-Pattern Link:** [Trigonometry — Compound/Double Angle](../../27-Trigonometry/Pattern2-Compound-and-Double-Angle.md)
+- **Exact Topic-Pattern Link:** [Quant — Probability](../../10-Probability/Pattern1-Basic-Probability.md)
 
 ## Q54
 
@@ -556,7 +556,7 @@ Each question includes two required links:
 - (A) (σ/x̄)×100 (B) √(σ/x̄)×100 (C) (x̄/σ)×100 (D) √(x̄/σ)×100
 
 - **Answer + Explanation Link:** [Open Q54 answer](./Answers-Detailed.md#q54)
-- **Exact Topic-Pattern Link:** [Trigonometry — Inverse Trig and Equations](../../27-Trigonometry/Pattern4-Inverse-Trig-and-Equations.md)
+- **Exact Topic-Pattern Link:** [Sets and Relations — Sets/Venn](../../20-Sets-and-Relations/Pattern1-Sets-and-Venn-Diagrams.md)
 
 ## Q55
 
@@ -566,7 +566,7 @@ Each question includes two required links:
 - (A) −2 (B) −1.5 (C) 0.5 (D) 1.5
 
 - **Answer + Explanation Link:** [Open Q55 answer](./Answers-Detailed.md#q55)
-- **Exact Topic-Pattern Link:** [Trigonometry — Inverse Trig and Equations](../../27-Trigonometry/Pattern4-Inverse-Trig-and-Equations.md)
+- **Exact Topic-Pattern Link:** [Algebra — Core](../../24-Algebra-Basics/Pattern1-Core-Algebra.md)
 
 ## Q56
 
@@ -576,7 +576,7 @@ Each question includes two required links:
 - (A) ac ≤ 1, r = ±√(ac) (B) ac < 1, r = ac (C) ac > 1, r = ±√(ac) (D) ac > 1, r = ac
 
 - **Answer + Explanation Link:** [Open Q56 answer](./Answers-Detailed.md#q56)
-- **Exact Topic-Pattern Link:** [Algebra — Core](../../24-Algebra-Basics/Pattern1-Core-Algebra.md)
+- **Exact Topic-Pattern Link:** [Statistics — Correlation and Regression](../../19-Statistics/Pattern4-Correlation-and-Regression.md)
 
 ## Q57
 
@@ -586,7 +586,7 @@ Each question includes two required links:
 - (A) Grace Murray Hopper (B) John McCarthy (C) Guido van Rossum (D) Brendan Eich
 
 - **Answer + Explanation Link:** [Open Q57 answer](./Answers-Detailed.md#q57)
-- **Exact Topic-Pattern Link:** [Algebra — Core](../../24-Algebra-Basics/Pattern1-Core-Algebra.md)
+- **Exact Topic-Pattern Link:** [Computer Awareness — Networks](../../18-Computer-Awareness/07-Computer-Networks.md)
 
 ## Q58
 
@@ -599,7 +599,7 @@ Each question includes two required links:
 - (D) A place from where we can access the Internet
 
 - **Answer + Explanation Link:** [Open Q58 answer](./Answers-Detailed.md#q58)
-- **Exact Topic-Pattern Link:** [Algebra — Core](../../24-Algebra-Basics/Pattern1-Core-Algebra.md)
+- **Exact Topic-Pattern Link:** [Computer Awareness — Fundamentals](../../18-Computer-Awareness/02-Computer-Fundamentals.md)
 
 ## Q59
 
@@ -609,7 +609,7 @@ Each question includes two required links:
 - (A) 1 to 10 Mbps (B) 10 to 100 bps (C) 100 to 1000 Mbps (D) 1000 to 10,000 Mbps
 
 - **Answer + Explanation Link:** [Open Q59 answer](./Answers-Detailed.md#q59)
-- **Exact Topic-Pattern Link:** [Algebra — Core](../../24-Algebra-Basics/Pattern1-Core-Algebra.md)
+- **Exact Topic-Pattern Link:** [Computer Awareness — Networks](../../18-Computer-Awareness/07-Computer-Networks.md)
 
 ## Q60
 
@@ -622,7 +622,7 @@ Each question includes two required links:
 - (D) are used only on one large mainframe computer
 
 - **Answer + Explanation Link:** [Open Q60 answer](./Answers-Detailed.md#q60)
-- **Exact Topic-Pattern Link:** [Algebra — Core](../../24-Algebra-Basics/Pattern1-Core-Algebra.md)
+- **Exact Topic-Pattern Link:** [Computer Awareness — Operating Systems](../../18-Computer-Awareness/05-Operating-Systems.md)
 
 ## Q61
 
@@ -632,7 +632,7 @@ Each question includes two required links:
 - (A) 25 (B) 20 (C) 49 (D) 100
 
 - **Answer + Explanation Link:** [Open Q61 answer](./Answers-Detailed.md#q61)
-- **Exact Topic-Pattern Link:** [Algebra — Core](../../24-Algebra-Basics/Pattern1-Core-Algebra.md)
+- **Exact Topic-Pattern Link:** [Reasoning — Series](../../13-Series/Pattern1-Number-Series.md)
 
 ## Q62
 
@@ -642,7 +642,7 @@ Each question includes two required links:
 - (A) 12 pm on Monday (B) 12 am on Tuesday (C) 12 am on Wednesday (D) 12 am on the same day
 
 - **Answer + Explanation Link:** [Open Q62 answer](./Answers-Detailed.md#q62)
-- **Exact Topic-Pattern Link:** [Simple/Compound Interest — Comparison](../../06-Simple-Compound-Interest/03-CI-vs-SI-Comparison.md)
+- **Exact Topic-Pattern Link:** [Trigonometry — Compound/Double Angle](../../27-Trigonometry/Pattern2-Compound-and-Double-Angle.md)
 
 ## Q63
 
@@ -652,7 +652,7 @@ Each question includes two required links:
 - (A) Wednesday (B) Tuesday (C) Sunday (D) Monday
 
 - **Answer + Explanation Link:** [Open Q63 answer](./Answers-Detailed.md#q63)
-- **Exact Topic-Pattern Link:** [Computer Awareness — Networks](../../18-Computer-Awareness/07-Computer-Networks.md)
+- **Exact Topic-Pattern Link:** [Reasoning — Calendar (Odd Days and Dates)](../../33-Calendar/Pattern2-Odd-Days-and-Dates.md)
 
 ## Q64
 
@@ -662,7 +662,7 @@ Each question includes two required links:
 - (A) North‑West (B) East (C) North (D) South‑West
 
 - **Answer + Explanation Link:** [Open Q64 answer](./Answers-Detailed.md#q64)
-- **Exact Topic-Pattern Link:** [Algebra — Core](../../24-Algebra-Basics/Pattern1-Core-Algebra.md)
+- **Exact Topic-Pattern Link:** [Reasoning — Direction Sense](../../16-Direction-Sense/Pattern1-Basic-Directions.md)
 
 ## Q65
 
@@ -672,7 +672,7 @@ Each question includes two required links:
 - (A) 26 (B) 20 (C) 28 (D) 24
 
 - **Answer + Explanation Link:** [Open Q65 answer](./Answers-Detailed.md#q65)
-- **Exact Topic-Pattern Link:** [Trigonometry — Compound/Double Angle](../../27-Trigonometry/Pattern2-Compound-and-Double-Angle.md)
+- **Exact Topic-Pattern Link:** [Quant — Percentages](../../04-Percentages/Pattern1-Basics.md)
 
 ## Q66
 
@@ -685,7 +685,7 @@ Each question includes two required links:
 - (D) The first G20 Summit was held in 2008 in Washington, D.C.
 
 - **Answer + Explanation Link:** [Open Q66 answer](./Answers-Detailed.md#q66)
-- **Exact Topic-Pattern Link:** [Statistics — Variance and SD](../../19-Statistics/Pattern2-Variance-and-SD.md)
+- **Exact Topic-Pattern Link:** [Reasoning — Direction Sense](../../16-Direction-Sense/Pattern1-Basic-Directions.md)
 
 ## Q67
 
@@ -695,7 +695,7 @@ Each question includes two required links:
 - (A) Prepositional clause (B) Noun clause (C) Adjective clause (D) Adverb clause
 
 - **Answer + Explanation Link:** [Open Q67 answer](./Answers-Detailed.md#q67)
-- **Exact Topic-Pattern Link:** [Statistics — Variance and SD](../../19-Statistics/Pattern2-Variance-and-SD.md)
+- **Exact Topic-Pattern Link:** [General English — Grammar](../../23-General-English/Pattern1-Grammar.md)
 
 ## Q68
 
@@ -705,7 +705,7 @@ Each question includes two required links:
 - (A) (5x+9y)² (B) (9y−5x)² (C) (5y+9x)² (D) (5y−9x)²
 
 - **Answer + Explanation Link:** [Open Q68 answer](./Answers-Detailed.md#q68)
-- **Exact Topic-Pattern Link:** [General English — Grammar](../../23-General-English/Pattern1-Grammar.md)
+- **Exact Topic-Pattern Link:** [Algebra — Factorization/Expressions](../../24-Algebra-Basics/Pattern5-Factorization-and-Expressions.md)
 
 ## Q69
 
@@ -715,7 +715,7 @@ Each question includes two required links:
 - (A) (3,−1) or (5,−1) (B) (3,1) or (5,2) (C) (3.4,−0.8) or (5,−2) (D) (3.4,0.8) or (5,2)
 
 - **Answer + Explanation Link:** [Open Q69 answer](./Answers-Detailed.md#q69)
-- **Exact Topic-Pattern Link:** [General English — RC](../../23-General-English/Pattern3-Reading-Comprehension-and-Errors.md)
+- **Exact Topic-Pattern Link:** [Algebra — Core](../../24-Algebra-Basics/Pattern1-Core-Algebra.md)
 
 ## Q70
 
@@ -725,7 +725,7 @@ Each question includes two required links:
 - (A) 1/5 (B) 2/5 (C) 3/5 (D) 4/5
 
 - **Answer + Explanation Link:** [Open Q70 answer](./Answers-Detailed.md#q70)
-- **Exact Topic-Pattern Link:** [Trigonometry — Compound/Double Angle](../../27-Trigonometry/Pattern2-Compound-and-Double-Angle.md)
+- **Exact Topic-Pattern Link:** [Quant — Time, Speed and Distance](../../02-Time-Speed-Distance/Pattern1-Basics-Speed-Distance-Time.md)
 
 ## Q71
 
@@ -735,7 +735,7 @@ Each question includes two required links:
 - (A) 4x² = −3y (B) 3x² = −4y (C) 2x² = −3y (D) 3x² = −2y
 
 - **Answer + Explanation Link:** [Open Q71 answer](./Answers-Detailed.md#q71)
-- **Exact Topic-Pattern Link:** [General Awareness — Core](../../29-General-Awareness/Pattern1-General-Awareness.md)
+- **Exact Topic-Pattern Link:** [Trigonometry — Compound/Double Angle](../../27-Trigonometry/Pattern2-Compound-and-Double-Angle.md)
 
 ## Q72
 
@@ -745,7 +745,7 @@ Each question includes two required links:
 - (A) C,D,E (B) D,E (C) C,E (D) C,D
 
 - **Answer + Explanation Link:** [Open Q72 answer](./Answers-Detailed.md#q72)
-- **Exact Topic-Pattern Link:** [Simple/Compound Interest — Comparison](../../06-Simple-Compound-Interest/03-CI-vs-SI-Comparison.md)
+- **Exact Topic-Pattern Link:** [Computer Awareness — Networks](../../18-Computer-Awareness/07-Computer-Networks.md)
 
 ## Q73
 
@@ -755,7 +755,7 @@ Each question includes two required links:
 - (A) A⊂B (B) B⊂A (C) A=B (D) A⊄B
 
 - **Answer + Explanation Link:** [Open Q73 answer](./Answers-Detailed.md#q73)
-- **Exact Topic-Pattern Link:** [Boolean Algebra — Simplification](../../28-Boolean-Algebra/Pattern3-Simplification-Strategies.md)
+- **Exact Topic-Pattern Link:** [Sets and Relations — Sets/Venn](../../20-Sets-and-Relations/Pattern1-Sets-and-Venn-Diagrams.md)
 
 ## Q74
 
@@ -765,7 +765,7 @@ Each question includes two required links:
 - (A) 13/12 (B) 13/14 (C) 12/13 (D) 14/13
 
 - **Answer + Explanation Link:** [Open Q74 answer](./Answers-Detailed.md#q74)
-- **Exact Topic-Pattern Link:** [Coordinate Geometry — Lines and Distance](../../26-Coordinate-Geometry/Pattern2-Lines-and-Distance.md)
+- **Exact Topic-Pattern Link:** [Trigonometry — Compound/Double Angle](../../27-Trigonometry/Pattern2-Compound-and-Double-Angle.md)
 
 ## Q75
 
@@ -775,7 +775,7 @@ Each question includes two required links:
 - (A) 111 (B) 1000 (C) 1001 (D) 1110
 
 - **Answer + Explanation Link:** [Open Q75 answer](./Answers-Detailed.md#q75)
-- **Exact Topic-Pattern Link:** [Trigonometry — Compound/Double Angle](../../27-Trigonometry/Pattern2-Compound-and-Double-Angle.md)
+- **Exact Topic-Pattern Link:** [Computer Awareness — Number Systems](../../18-Computer-Awareness/01-Number-Systems.md)
 
 ## Q76
 
@@ -785,7 +785,7 @@ Each question includes two required links:
 - [Options not clearly extractable from provided text]
 
 - **Answer + Explanation Link:** [Open Q76 answer](./Answers-Detailed.md#q76)
-- **Exact Topic-Pattern Link:** [Coordinate Geometry — Conics](../../26-Coordinate-Geometry/Pattern4-Conics-and-Transformations.md)
+- **Exact Topic-Pattern Link:** [Algebra — Core](../../24-Algebra-Basics/Pattern1-Core-Algebra.md)
 
 ## Q77
 
@@ -795,7 +795,7 @@ Each question includes two required links:
 - [Options not clearly extractable from provided text]
 
 - **Answer + Explanation Link:** [Open Q77 answer](./Answers-Detailed.md#q77)
-- **Exact Topic-Pattern Link:** [Simple/Compound Interest — Comparison](../../06-Simple-Compound-Interest/03-CI-vs-SI-Comparison.md)
+- **Exact Topic-Pattern Link:** [Algebra — Core](../../24-Algebra-Basics/Pattern1-Core-Algebra.md)
 
 ## Q78
 
@@ -815,7 +815,7 @@ Each question includes two required links:
 - [Options not clearly extractable from provided text]
 
 - **Answer + Explanation Link:** [Open Q79 answer](./Answers-Detailed.md#q79)
-- **Exact Topic-Pattern Link:** [Trigonometry — Compound/Double Angle](../../27-Trigonometry/Pattern2-Compound-and-Double-Angle.md)
+- **Exact Topic-Pattern Link:** [Algebra — Core](../../24-Algebra-Basics/Pattern1-Core-Algebra.md)
 
 ## Q80
 
