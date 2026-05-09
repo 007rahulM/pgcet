@@ -13,6 +13,7 @@ General Awareness in PGCET is not about memorizing everything. It is about cover
 | [Pattern3-Governance-and-Polity.md](./Pattern3-Governance-and-Polity.md) | Constitution, institutions, governance | "President", "ECI", "CAG", "Parliament" |
 | [Pattern4-Science-Tech-and-Health.md](./Pattern4-Science-Tech-and-Health.md) | Tech, science, healthcare, innovation | "WHO", "ISRO", "AI", "renewables" |
 | [Pattern5-Culture-Entrepreneurship-and-Communication.md](./Pattern5-Culture-Entrepreneurship-and-Communication.md) | Culture, startup terms, business communication | "classical dance", "MSME", "minutes of meeting" |
+| [Pattern6-2025-Emerging-Terms.md](./Pattern6-2025-Emerging-Terms.md) | 2025-style new terms (finance, transport, health models, ADAS) | "strike price", "cabotage", "LEARN", "LiDAR" |
 
 ## Golden Rules
 
@@ -26,3 +27,4 @@ General Awareness in PGCET is not about memorizing everything. It is about cover
 1. Pattern 1 for the map.
 2. Pattern 2 and 3 for the most exam-like one-liners.
 3. Pattern 4 and 5 for mixed static + modern awareness.
+4. Pattern 6 for 2025-style emerging one-liner terms.
