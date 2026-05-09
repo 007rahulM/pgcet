@@ -483,7 +483,7 @@ Each question includes two required links:
 - (4) a = b
 
 - **Answer + Explanation Link:** [Open Q46 answer](./Answers-Detailed.md#q46)
-- **Exact Topic-Pattern Link:** [Reasoning — Series (Letter)](../../13-Series/Pattern2-Letter-Series.md)
+- **Exact Topic-Pattern Link:** [Boolean Algebra — Simplification](../../28-Boolean-Algebra/Pattern3-Simplification-Strategies.md)
 
 ## Q47
 
@@ -561,7 +561,7 @@ Each question includes two required links:
 - (4) 3
 
 - **Answer + Explanation Link:** [Open Q52 answer](./Answers-Detailed.md#q52)
-- **Exact Topic-Pattern Link:** [Sets and Relations — Sets/Venn](../../20-Sets-and-Relations/Pattern1-Sets-and-Venn-Diagrams.md)
+- **Exact Topic-Pattern Link:** [Trigonometry — Inverse Trig and Equations](../../27-Trigonometry/Pattern4-Inverse-Trig-and-Equations.md)
 
 ## Q53
 
@@ -600,7 +600,7 @@ Each question includes two required links:
 - (4) 0.019
 
 - **Answer + Explanation Link:** [Open Q55 answer](./Answers-Detailed.md#q55)
-- **Exact Topic-Pattern Link:** [Quant — Percentages](../../04-Percentages/01-Basic-Calculations.md)
+- **Exact Topic-Pattern Link:** [Quant — Probability](../../10-Probability/01-Basic-Probability.md)
 
 ## Q56
 
@@ -613,7 +613,7 @@ Each question includes two required links:
 - (4) 0.5831
 
 - **Answer + Explanation Link:** [Open Q56 answer](./Answers-Detailed.md#q56)
-- **Exact Topic-Pattern Link:** [Reasoning — Blood Relations](../../11-Blood-Relations/Pattern2-Chain-and-Family-Tree.md)
+- **Exact Topic-Pattern Link:** [Quant — Probability](../../10-Probability/01-Basic-Probability.md)
 
 ## Q57
 
@@ -730,7 +730,7 @@ Each question includes two required links:
 - (4) 74₍₈₎, A1₍₁₆₎
 
 - **Answer + Explanation Link:** [Open Q65 answer](./Answers-Detailed.md#q65)
-- **Exact Topic-Pattern Link:** [Reasoning — Series (Letter)](../../13-Series/Pattern2-Letter-Series.md)
+- **Exact Topic-Pattern Link:** [Computer Awareness — Number Systems](../../18-Computer-Awareness/01-Number-Systems.md)
 
 ## Q66
 
@@ -886,7 +886,7 @@ Each question includes two required links:
 - (4) S1 and S2 correct, S3 incorrect
 
 - **Answer + Explanation Link:** [Open Q77 answer](./Answers-Detailed.md#q77)
-- **Exact Topic-Pattern Link:** [Reasoning — Series (Letter)](../../13-Series/Pattern2-Letter-Series.md)
+- **Exact Topic-Pattern Link:** [Computer Awareness — Operating Systems](../../18-Computer-Awareness/05-Operating-Systems.md)
 
 ## Q78
 
@@ -937,7 +937,7 @@ Each question includes two required links:
 - (4) All of the above
 
 - **Answer + Explanation Link:** [Open Q81 answer](./Answers-Detailed.md#q81)
-- **Exact Topic-Pattern Link:** [Sets and Relations — Sets/Venn](../../20-Sets-and-Relations/Pattern1-Sets-and-Venn-Diagrams.md)
+- **Exact Topic-Pattern Link:** [General Awareness — Business/Finance](../../29-General-Awareness/Pattern2-Business-and-Finance.md)
 
 ## Q82
 
@@ -1015,7 +1015,7 @@ Each question includes two required links:
 - (4) a, b, c
 
 - **Answer + Explanation Link:** [Open Q87 answer](./Answers-Detailed.md#q87)
-- **Exact Topic-Pattern Link:** [Quant — Profit and Loss](../../03-Profit-and-Loss/01-Basic-Concepts.md)
+- **Exact Topic-Pattern Link:** [General Awareness — Culture/Entrepreneurship/Communication](../../29-General-Awareness/Pattern5-Culture-Entrepreneurship-and-Communication.md)
 
 ## Q88
 
@@ -1041,7 +1041,7 @@ Each question includes two required links:
 - (4) Neither a nor b
 
 - **Answer + Explanation Link:** [Open Q89 answer](./Answers-Detailed.md#q89)
-- **Exact Topic-Pattern Link:** [Reasoning — Blood Relations](../../11-Blood-Relations/Pattern2-Chain-and-Family-Tree.md)
+- **Exact Topic-Pattern Link:** [General Awareness — Culture/Entrepreneurship/Communication](../../29-General-Awareness/Pattern5-Culture-Entrepreneurship-and-Communication.md)
 
 ## Q90
 
@@ -1106,7 +1106,7 @@ Each question includes two required links:
 - (4) a, c, d only
 
 - **Answer + Explanation Link:** [Open Q94 answer](./Answers-Detailed.md#q94)
-- **Exact Topic-Pattern Link:** [General Awareness — Business/Finance](../../29-General-Awareness/Pattern2-Business-and-Finance.md)
+- **Exact Topic-Pattern Link:** [General Awareness — Science/Tech/Health](../../29-General-Awareness/Pattern4-Science-Tech-and-Health.md)
 
 ## Q95
 
@@ -1119,7 +1119,7 @@ Each question includes two required links:
 - (4) a, b, d only
 
 - **Answer + Explanation Link:** [Open Q95 answer](./Answers-Detailed.md#q95)
-- **Exact Topic-Pattern Link:** [Quant — Ratio and Proportion](../../05-Ratio-and-Proportion/01-Basic-Ratios.md)
+- **Exact Topic-Pattern Link:** [General Awareness — Business/Finance](../../29-General-Awareness/Pattern2-Business-and-Finance.md)
 
 ## Q96
 

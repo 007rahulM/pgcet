@@ -1035,7 +1035,7 @@ Step 3: This directly matches option **(4)**.
 **✅ Final Answer: (4)**
 
 - **Answer + Explanation Link:** [Direct anchor for Q46](#q46)
-- **Exact Topic-Pattern Link:** [Reasoning — Series (Letter)](../../13-Series/Pattern2-Letter-Series.md)
+- **Exact Topic-Pattern Link:** [Boolean Algebra — Simplification](../../28-Boolean-Algebra/Pattern3-Simplification-Strategies.md)
 - **Question Block Link:** [Go to Q46 question](./Questions.md#q46)
 
 ## Q47
@@ -1203,7 +1203,7 @@ Step 3: This directly matches option **(4)**.
 **✅ Final Answer: (4)**
 
 - **Answer + Explanation Link:** [Direct anchor for Q52](#q52)
-- **Exact Topic-Pattern Link:** [Sets and Relations — Sets/Venn](../../20-Sets-and-Relations/Pattern1-Sets-and-Venn-Diagrams.md)
+- **Exact Topic-Pattern Link:** [Trigonometry — Inverse Trig and Equations](../../27-Trigonometry/Pattern4-Inverse-Trig-and-Equations.md)
 - **Question Block Link:** [Go to Q52 question](./Questions.md#q52)
 
 ## Q53
@@ -1287,7 +1287,7 @@ Step 3: This directly matches option **(2)**.
 **✅ Final Answer: (2)**
 
 - **Answer + Explanation Link:** [Direct anchor for Q55](#q55)
-- **Exact Topic-Pattern Link:** [Quant — Percentages](../../04-Percentages/01-Basic-Calculations.md)
+- **Exact Topic-Pattern Link:** [Quant — Probability](../../10-Probability/01-Basic-Probability.md)
 - **Question Block Link:** [Go to Q55 question](./Questions.md#q55)
 
 ## Q56
@@ -1315,7 +1315,7 @@ Step 3: This directly matches option **(4)**.
 **✅ Final Answer: (4)**
 
 - **Answer + Explanation Link:** [Direct anchor for Q56](#q56)
-- **Exact Topic-Pattern Link:** [Reasoning — Blood Relations](../../11-Blood-Relations/Pattern2-Chain-and-Family-Tree.md)
+- **Exact Topic-Pattern Link:** [Quant — Probability](../../10-Probability/01-Basic-Probability.md)
 - **Question Block Link:** [Go to Q56 question](./Questions.md#q56)
 
 ## Q57
@@ -1567,7 +1567,7 @@ Step 3: This directly matches option **(2)**.
 **✅ Final Answer: (2)**
 
 - **Answer + Explanation Link:** [Direct anchor for Q65](#q65)
-- **Exact Topic-Pattern Link:** [Reasoning — Series (Letter)](../../13-Series/Pattern2-Letter-Series.md)
+- **Exact Topic-Pattern Link:** [Computer Awareness — Number Systems](../../18-Computer-Awareness/01-Number-Systems.md)
 - **Question Block Link:** [Go to Q65 question](./Questions.md#q65)
 
 ## Q66
@@ -1903,7 +1903,7 @@ Step 3: This directly matches option **(1)**.
 **✅ Final Answer: (1)**
 
 - **Answer + Explanation Link:** [Direct anchor for Q77](#q77)
-- **Exact Topic-Pattern Link:** [Reasoning — Series (Letter)](../../13-Series/Pattern2-Letter-Series.md)
+- **Exact Topic-Pattern Link:** [Computer Awareness — Operating Systems](../../18-Computer-Awareness/05-Operating-Systems.md)
 - **Question Block Link:** [Go to Q77 question](./Questions.md#q77)
 
 ## Q78
@@ -2014,7 +2014,7 @@ Step 3: This directly matches option **–**.
 **✅ Final Answer: –**
 
 - **Answer + Explanation Link:** [Direct anchor for Q81](#q81)
-- **Exact Topic-Pattern Link:** [Sets and Relations — Sets/Venn](../../20-Sets-and-Relations/Pattern1-Sets-and-Venn-Diagrams.md)
+- **Exact Topic-Pattern Link:** [General Awareness — Business/Finance](../../29-General-Awareness/Pattern2-Business-and-Finance.md)
 - **Question Block Link:** [Go to Q81 question](./Questions.md#q81)
 
 ## Q82
@@ -2182,7 +2182,7 @@ Step 3: This directly matches option **(4)**.
 **✅ Final Answer: (4)**
 
 - **Answer + Explanation Link:** [Direct anchor for Q87](#q87)
-- **Exact Topic-Pattern Link:** [Quant — Profit and Loss](../../03-Profit-and-Loss/01-Basic-Concepts.md)
+- **Exact Topic-Pattern Link:** [General Awareness — Culture/Entrepreneurship/Communication](../../29-General-Awareness/Pattern5-Culture-Entrepreneurship-and-Communication.md)
 - **Question Block Link:** [Go to Q87 question](./Questions.md#q87)
 
 ## Q88
@@ -2238,7 +2238,7 @@ Step 3: This directly matches option **(2)**.
 **✅ Final Answer: (2)**
 
 - **Answer + Explanation Link:** [Direct anchor for Q89](#q89)
-- **Exact Topic-Pattern Link:** [Reasoning — Blood Relations](../../11-Blood-Relations/Pattern2-Chain-and-Family-Tree.md)
+- **Exact Topic-Pattern Link:** [General Awareness — Culture/Entrepreneurship/Communication](../../29-General-Awareness/Pattern5-Culture-Entrepreneurship-and-Communication.md)
 - **Question Block Link:** [Go to Q89 question](./Questions.md#q89)
 
 ## Q90
@@ -2378,7 +2378,7 @@ Step 3: This directly matches option **(1)**.
 **✅ Final Answer: (1)**
 
 - **Answer + Explanation Link:** [Direct anchor for Q94](#q94)
-- **Exact Topic-Pattern Link:** [General Awareness — Business/Finance](../../29-General-Awareness/Pattern2-Business-and-Finance.md)
+- **Exact Topic-Pattern Link:** [General Awareness — Science/Tech/Health](../../29-General-Awareness/Pattern4-Science-Tech-and-Health.md)
 - **Question Block Link:** [Go to Q94 question](./Questions.md#q94)
 
 ## Q95
@@ -2406,7 +2406,7 @@ Step 3: This directly matches option **(1)**.
 **✅ Final Answer: (1)**
 
 - **Answer + Explanation Link:** [Direct anchor for Q95](#q95)
-- **Exact Topic-Pattern Link:** [Quant — Ratio and Proportion](../../05-Ratio-and-Proportion/01-Basic-Ratios.md)
+- **Exact Topic-Pattern Link:** [General Awareness — Business/Finance](../../29-General-Awareness/Pattern2-Business-and-Finance.md)
 - **Question Block Link:** [Go to Q95 question](./Questions.md#q95)
 
 ## Q96

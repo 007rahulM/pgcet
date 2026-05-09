@@ -1569,7 +1569,7 @@ Step 3: This directly matches option **(C)**.
 **✅ Final Answer: (C)**
 
 - **Answer + Explanation Link:** [Direct anchor for Q62](#q62)
-- **Exact Topic-Pattern Link:** [Reasoning — Clocks](../../32-Clocks/Pattern1-Angle-Between-Hands.md)
+- **Exact Topic-Pattern Link:** [Reasoning — Clocks (Gain/Loss)](../../32-Clocks/Pattern3-Clock-Gain-and-Loss.md)
 - **Question Block Link:** [Go to Q62 question](./Questions.md#q62)
 
 ## Q63

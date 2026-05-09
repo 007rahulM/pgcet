@@ -642,7 +642,7 @@ Each question includes two required links:
 - (A) 12 pm on Monday (B) 12 am on Tuesday (C) 12 am on Wednesday (D) 12 am on the same day
 
 - **Answer + Explanation Link:** [Open Q62 answer](./Answers-Detailed.md#q62)
-- **Exact Topic-Pattern Link:** [Reasoning — Clocks](../../32-Clocks/Pattern1-Angle-Between-Hands.md)
+- **Exact Topic-Pattern Link:** [Reasoning — Clocks (Gain/Loss)](../../32-Clocks/Pattern3-Clock-Gain-and-Loss.md)
 
 ## Q63
 

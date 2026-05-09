@@ -8,6 +8,7 @@ Clock problems test angle calculation and time reasoning for the hands of a 12-h
 |------|---------|-----------------|
 | [Pattern1-Angle-Between-Hands.md](./Pattern1-Angle-Between-Hands.md) | Angle between hour and minute hands at a given time | "At 3:20, the angle between the hands is…" |
 | [Pattern2-Coincidence-and-Right-Angles.md](./Pattern2-Coincidence-and-Right-Angles.md) | When hands coincide, are opposite, or at 90° | "Between 4 and 5 o'clock, when do the hands meet?" |
+| [Pattern3-Clock-Gain-and-Loss.md](./Pattern3-Clock-Gain-and-Loss.md) | Uniformly fast/slow clock correction time | "3 min slow now, 5 min fast later—when correct?" |
 
 ## The Golden Formula
 
@@ -33,4 +34,4 @@ Clock problems test angle calculation and time reasoning for the hands of a 12-h
 
 ## Study Order
 
-Pattern 1 (angle formula for any given time) → Pattern 2 (finding the exact time when a special condition is met).
+Pattern 1 (angle formula for any given time) → Pattern 2 (coincidence/opposite/right-angle time) → Pattern 3 (uniform gain/loss correction time).
