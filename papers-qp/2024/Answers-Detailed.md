@@ -545,21 +545,21 @@ Step 3: This directly matches option **–**.
 - (4) 11
 
 **🤔 What I understood:**
-- Topic used: **General English — Grammar**
+- Topic used: **Quant — Profit and Loss**
 - We must compute/verify and then map to the correct option.
 
 **💡 What I’ll use (repo-style):**
 - core concept rule from linked pattern
 
 **✏️ My Solution (actual working):**
-Step 1: Apply the required method for this question type and evaluate the options.
-Step 2: Obtained/verified key result: **Reena = 12 years**
-Step 3: This directly matches option **(4)**.
+Step 1: Profit per article = SP − CP = 765 − 632 = 133.
+Step 2: Number of articles = Total profit ÷ Profit per article = 1596 ÷ 133 = 12.
+Step 3: This directly matches option **(1)**.
 
-**✅ Final Answer: (4)**
+**✅ Final Answer: (1)**
 
 - **Answer + Explanation Link:** [Direct anchor for Q24](#q24)
-- **Exact Topic-Pattern Link:** [General English — Grammar](../../23-General-English/Pattern1-Grammar.md)
+- **Exact Topic-Pattern Link:** [Quant — Profit and Loss](../../03-Profit-and-Loss/01-Basic-Concepts.md)
 - **Question Block Link:** [Go to Q24 question](./Questions.md#q24)
 
 ## Q25
@@ -825,7 +825,7 @@ Step 3: This directly matches option **(3)**.
 - (4) 2x + y = 1
 
 **🤔 What I understood:**
-- Topic used: **Reasoning — Series (Letter)**
+- Topic used: **Coordinate Geometry — Conics/Lines**
 - We must compute/verify and then map to the correct option.
 
 **💡 What I’ll use (repo-style):**
@@ -839,7 +839,7 @@ Step 3: This directly matches option **(1)**.
 **✅ Final Answer: (1)**
 
 - **Answer + Explanation Link:** [Direct anchor for Q34](#q34)
-- **Exact Topic-Pattern Link:** [Reasoning — Series (Letter)](../../13-Series/Pattern2-Letter-Series.md)
+- **Exact Topic-Pattern Link:** [Coordinate Geometry — Conics/Lines](../../26-Coordinate-Geometry/Pattern4-Conics-and-Transformations.md)
 - **Question Block Link:** [Go to Q34 question](./Questions.md#q34)
 
 ## Q35
@@ -853,7 +853,7 @@ Step 3: This directly matches option **(1)**.
 - (4) (missing)
 
 **🤔 What I understood:**
-- Topic used: **Reasoning — Series (Letter)**
+- Topic used: **Coordinate Geometry — Conics/Lines**
 - We must compute/verify and then map to the correct option.
 
 **💡 What I’ll use (repo-style):**
@@ -867,7 +867,7 @@ Step 3: This directly matches option **(1)**.
 **✅ Final Answer: (1)**
 
 - **Answer + Explanation Link:** [Direct anchor for Q35](#q35)
-- **Exact Topic-Pattern Link:** [Reasoning — Series (Letter)](../../13-Series/Pattern2-Letter-Series.md)
+- **Exact Topic-Pattern Link:** [Coordinate Geometry — Conics/Lines](../../26-Coordinate-Geometry/Pattern4-Conics-and-Transformations.md)
 - **Question Block Link:** [Go to Q35 question](./Questions.md#q35)
 
 ## Q41
@@ -881,7 +881,7 @@ Step 3: This directly matches option **(1)**.
 - (4) 40
 
 **🤔 What I understood:**
-- Topic used: **Reasoning — Series (Letter)**
+- Topic used: **Coordinate Geometry — Conics/Lines**
 - We must compute/verify and then map to the correct option.
 
 **💡 What I’ll use (repo-style):**
@@ -895,7 +895,7 @@ Step 3: This directly matches option **(3)**.
 **✅ Final Answer: (3)**
 
 - **Answer + Explanation Link:** [Direct anchor for Q41](#q41)
-- **Exact Topic-Pattern Link:** [Reasoning — Series (Letter)](../../13-Series/Pattern2-Letter-Series.md)
+- **Exact Topic-Pattern Link:** [Coordinate Geometry — Conics/Lines](../../26-Coordinate-Geometry/Pattern4-Conics-and-Transformations.md)
 - **Question Block Link:** [Go to Q41 question](./Questions.md#q41)
 
 ## Q42
@@ -1329,7 +1329,7 @@ Step 3: This directly matches option **(4)**.
 - (4) (Q₃+Q₁−2Q₂)/(Q₂−Q₁)
 
 **🤔 What I understood:**
-- Topic used: **Reasoning — Series (Letter)**
+- Topic used: **Statistics — Variance and Skewness**
 - We must compute/verify and then map to the correct option.
 
 **💡 What I’ll use (repo-style):**
@@ -1343,7 +1343,7 @@ Step 3: This directly matches option **(3)**.
 **✅ Final Answer: (3)**
 
 - **Answer + Explanation Link:** [Direct anchor for Q57](#q57)
-- **Exact Topic-Pattern Link:** [Reasoning — Series (Letter)](../../13-Series/Pattern2-Letter-Series.md)
+- **Exact Topic-Pattern Link:** [Statistics — Variance and Skewness](../../19-Statistics/Pattern2-Variance-and-SD.md)
 - **Question Block Link:** [Go to Q57 question](./Questions.md#q57)
 
 ## Q58
@@ -1469,7 +1469,7 @@ Step 3: This directly matches option **(1)**.
 - (4) S1, S2 only
 
 **🤔 What I understood:**
-- Topic used: **Reasoning — Series (Letter)**
+- Topic used: **Computer Awareness — Fundamentals**
 - We must compute/verify and then map to the correct option.
 
 **💡 What I’ll use (repo-style):**
@@ -1483,7 +1483,7 @@ Step 3: This directly matches option **(2)**.
 **✅ Final Answer: (2)**
 
 - **Answer + Explanation Link:** [Direct anchor for Q62](#q62)
-- **Exact Topic-Pattern Link:** [Reasoning — Series (Letter)](../../13-Series/Pattern2-Letter-Series.md)
+- **Exact Topic-Pattern Link:** [Computer Awareness — Fundamentals](../../18-Computer-Awareness/02-Computer-Fundamentals.md)
 - **Question Block Link:** [Go to Q62 question](./Questions.md#q62)
 
 ## Q63

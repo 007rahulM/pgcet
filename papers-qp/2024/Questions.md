@@ -262,7 +262,7 @@ Each question includes two required links:
 - (4) 11
 
 - **Answer + Explanation Link:** [Open Q24 answer](./Answers-Detailed.md#q24)
-- **Exact Topic-Pattern Link:** [General English — Grammar](../../23-General-English/Pattern1-Grammar.md)
+- **Exact Topic-Pattern Link:** [Quant — Profit and Loss](../../03-Profit-and-Loss/01-Basic-Concepts.md)
 
 ## Q25
 
@@ -392,7 +392,7 @@ Each question includes two required links:
 - (4) 2x + y = 1
 
 - **Answer + Explanation Link:** [Open Q34 answer](./Answers-Detailed.md#q34)
-- **Exact Topic-Pattern Link:** [Reasoning — Series (Letter)](../../13-Series/Pattern2-Letter-Series.md)
+- **Exact Topic-Pattern Link:** [Coordinate Geometry — Conics/Lines](../../26-Coordinate-Geometry/Pattern4-Conics-and-Transformations.md)
 
 ## Q35
 
@@ -405,7 +405,7 @@ Each question includes two required links:
 - (4) (missing)
 
 - **Answer + Explanation Link:** [Open Q35 answer](./Answers-Detailed.md#q35)
-- **Exact Topic-Pattern Link:** [Reasoning — Series (Letter)](../../13-Series/Pattern2-Letter-Series.md)
+- **Exact Topic-Pattern Link:** [Coordinate Geometry — Conics/Lines](../../26-Coordinate-Geometry/Pattern4-Conics-and-Transformations.md)
 
 ## Q41
 
@@ -418,7 +418,7 @@ Each question includes two required links:
 - (4) 40
 
 - **Answer + Explanation Link:** [Open Q41 answer](./Answers-Detailed.md#q41)
-- **Exact Topic-Pattern Link:** [Reasoning — Series (Letter)](../../13-Series/Pattern2-Letter-Series.md)
+- **Exact Topic-Pattern Link:** [Coordinate Geometry — Conics/Lines](../../26-Coordinate-Geometry/Pattern4-Conics-and-Transformations.md)
 
 ## Q42
 
@@ -626,7 +626,7 @@ Each question includes two required links:
 - (4) (Q₃+Q₁−2Q₂)/(Q₂−Q₁)
 
 - **Answer + Explanation Link:** [Open Q57 answer](./Answers-Detailed.md#q57)
-- **Exact Topic-Pattern Link:** [Reasoning — Series (Letter)](../../13-Series/Pattern2-Letter-Series.md)
+- **Exact Topic-Pattern Link:** [Statistics — Variance and Skewness](../../19-Statistics/Pattern2-Variance-and-SD.md)
 
 ## Q58
 
@@ -691,7 +691,7 @@ Each question includes two required links:
 - (4) S1, S2 only
 
 - **Answer + Explanation Link:** [Open Q62 answer](./Answers-Detailed.md#q62)
-- **Exact Topic-Pattern Link:** [Reasoning — Series (Letter)](../../13-Series/Pattern2-Letter-Series.md)
+- **Exact Topic-Pattern Link:** [Computer Awareness — Fundamentals](../../18-Computer-Awareness/02-Computer-Fundamentals.md)
 
 ## Q63
 
