@@ -69,6 +69,58 @@ Each question includes two required links:
 - **Answer + Explanation Link:** [Open Q5 answer](./Answers-Detailed.md#q5)
 - **Exact Topic-Pattern Link:** [General English — Grammar](../../23-General-English/Pattern1-Grammar.md)
 
+## Q6
+
+**Question:** [SOURCE MISSING IN CURRENT 2024 FILE] — Question text needs to be restored from official paper scan.
+
+**Options:**
+- (1) [missing in source]
+- (2) [missing in source]
+- (3) [missing in source]
+- (4) [missing in source]
+
+- **Answer + Explanation Link:** [Open Q6 answer](./Answers-Detailed.md#q6)
+- **Exact Topic-Pattern Link:** [General English — RC and Errors](../../23-General-English/Pattern3-Reading-Comprehension-and-Errors.md)
+
+## Q7
+
+**Question:** [SOURCE MISSING IN CURRENT 2024 FILE] — Question text needs to be restored from official paper scan.
+
+**Options:**
+- (1) [missing in source]
+- (2) [missing in source]
+- (3) [missing in source]
+- (4) [missing in source]
+
+- **Answer + Explanation Link:** [Open Q7 answer](./Answers-Detailed.md#q7)
+- **Exact Topic-Pattern Link:** [General English — RC and Errors](../../23-General-English/Pattern3-Reading-Comprehension-and-Errors.md)
+
+## Q8
+
+**Question:** [SOURCE MISSING IN CURRENT 2024 FILE] — Question text needs to be restored from official paper scan.
+
+**Options:**
+- (1) [missing in source]
+- (2) [missing in source]
+- (3) [missing in source]
+- (4) [missing in source]
+
+- **Answer + Explanation Link:** [Open Q8 answer](./Answers-Detailed.md#q8)
+- **Exact Topic-Pattern Link:** [General English — RC and Errors](../../23-General-English/Pattern3-Reading-Comprehension-and-Errors.md)
+
+## Q9
+
+**Question:** [SOURCE MISSING IN CURRENT 2024 FILE] — Question text needs to be restored from official paper scan.
+
+**Options:**
+- (1) [missing in source]
+- (2) [missing in source]
+- (3) [missing in source]
+- (4) [missing in source]
+
+- **Answer + Explanation Link:** [Open Q9 answer](./Answers-Detailed.md#q9)
+- **Exact Topic-Pattern Link:** [General English — RC and Errors](../../23-General-English/Pattern3-Reading-Comprehension-and-Errors.md)
+
 ## Q10
 
 **Question:** Choose the best substitute for “One who is filled with excessive enthusiasm in religious matters”.
@@ -405,6 +457,71 @@ Each question includes two required links:
 - (4) (missing)
 
 - **Answer + Explanation Link:** [Open Q35 answer](./Answers-Detailed.md#q35)
+- **Exact Topic-Pattern Link:** [Coordinate Geometry — Conics/Lines](../../26-Coordinate-Geometry/Pattern4-Conics-and-Transformations.md)
+
+## Q36
+
+**Question:** [SOURCE MISSING IN CURRENT 2024 FILE] — Question text needs to be restored from official paper scan.
+
+**Options:**
+- (1) [missing in source]
+- (2) [missing in source]
+- (3) [missing in source]
+- (4) [missing in source]
+
+- **Answer + Explanation Link:** [Open Q36 answer](./Answers-Detailed.md#q36)
+- **Exact Topic-Pattern Link:** [Coordinate Geometry — Conics/Lines](../../26-Coordinate-Geometry/Pattern4-Conics-and-Transformations.md)
+
+## Q37
+
+**Question:** [SOURCE MISSING IN CURRENT 2024 FILE] — Question text needs to be restored from official paper scan.
+
+**Options:**
+- (1) [missing in source]
+- (2) [missing in source]
+- (3) [missing in source]
+- (4) [missing in source]
+
+- **Answer + Explanation Link:** [Open Q37 answer](./Answers-Detailed.md#q37)
+- **Exact Topic-Pattern Link:** [Coordinate Geometry — Conics/Lines](../../26-Coordinate-Geometry/Pattern4-Conics-and-Transformations.md)
+
+## Q38
+
+**Question:** [SOURCE MISSING IN CURRENT 2024 FILE] — Question text needs to be restored from official paper scan.
+
+**Options:**
+- (1) [missing in source]
+- (2) [missing in source]
+- (3) [missing in source]
+- (4) [missing in source]
+
+- **Answer + Explanation Link:** [Open Q38 answer](./Answers-Detailed.md#q38)
+- **Exact Topic-Pattern Link:** [Coordinate Geometry — Conics/Lines](../../26-Coordinate-Geometry/Pattern4-Conics-and-Transformations.md)
+
+## Q39
+
+**Question:** [SOURCE MISSING IN CURRENT 2024 FILE] — Question text needs to be restored from official paper scan.
+
+**Options:**
+- (1) [missing in source]
+- (2) [missing in source]
+- (3) [missing in source]
+- (4) [missing in source]
+
+- **Answer + Explanation Link:** [Open Q39 answer](./Answers-Detailed.md#q39)
+- **Exact Topic-Pattern Link:** [Coordinate Geometry — Conics/Lines](../../26-Coordinate-Geometry/Pattern4-Conics-and-Transformations.md)
+
+## Q40
+
+**Question:** [SOURCE MISSING IN CURRENT 2024 FILE] — Question text needs to be restored from official paper scan.
+
+**Options:**
+- (1) [missing in source]
+- (2) [missing in source]
+- (3) [missing in source]
+- (4) [missing in source]
+
+- **Answer + Explanation Link:** [Open Q40 answer](./Answers-Detailed.md#q40)
 - **Exact Topic-Pattern Link:** [Coordinate Geometry — Conics/Lines](../../26-Coordinate-Geometry/Pattern4-Conics-and-Transformations.md)
 
 ## Q41

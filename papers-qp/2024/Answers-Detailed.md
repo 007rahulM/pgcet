@@ -142,6 +142,118 @@ Step 3: This directly matches option **–**.
 - **Exact Topic-Pattern Link:** [General English — Grammar](../../23-General-English/Pattern1-Grammar.md)
 - **Question Block Link:** [Go to Q5 question](./Questions.md#q5)
 
+## Q6
+
+**❓ Question:** [SOURCE MISSING IN CURRENT 2024 FILE] — question/options must be restored from official paper source.
+
+**Options:**
+- (1) [missing in source]
+- (2) [missing in source]
+- (3) [missing in source]
+- (4) [missing in source]
+
+**🤔 What I understood:**
+- Topic used: **General English — RC and Errors**
+- Source question block is currently missing in this file version.
+
+**💡 What I’ll use (repo-style):**
+- language rule/meaning context
+
+**✏️ My Solution (actual working):**
+Step 1: Official question text not available in current repository snapshot.
+Step 2: Marked for restoration from verified source.
+Step 3: Final answer cannot be validated until source text is restored.
+
+**✅ Final Answer: [PENDING SOURCE RESTORE]**
+
+- **Answer + Explanation Link:** [Direct anchor for Q6](#q6)
+- **Exact Topic-Pattern Link:** [General English — RC and Errors](../../23-General-English/Pattern3-Reading-Comprehension-and-Errors.md)
+- **Question Block Link:** [Go to Q6 question](./Questions.md#q6)
+
+## Q7
+
+**❓ Question:** [SOURCE MISSING IN CURRENT 2024 FILE] — question/options must be restored from official paper source.
+
+**Options:**
+- (1) [missing in source]
+- (2) [missing in source]
+- (3) [missing in source]
+- (4) [missing in source]
+
+**🤔 What I understood:**
+- Topic used: **General English — RC and Errors**
+- Source question block is currently missing in this file version.
+
+**💡 What I’ll use (repo-style):**
+- language rule/meaning context
+
+**✏️ My Solution (actual working):**
+Step 1: Official question text not available in current repository snapshot.
+Step 2: Marked for restoration from verified source.
+Step 3: Final answer cannot be validated until source text is restored.
+
+**✅ Final Answer: [PENDING SOURCE RESTORE]**
+
+- **Answer + Explanation Link:** [Direct anchor for Q7](#q7)
+- **Exact Topic-Pattern Link:** [General English — RC and Errors](../../23-General-English/Pattern3-Reading-Comprehension-and-Errors.md)
+- **Question Block Link:** [Go to Q7 question](./Questions.md#q7)
+
+## Q8
+
+**❓ Question:** [SOURCE MISSING IN CURRENT 2024 FILE] — question/options must be restored from official paper source.
+
+**Options:**
+- (1) [missing in source]
+- (2) [missing in source]
+- (3) [missing in source]
+- (4) [missing in source]
+
+**🤔 What I understood:**
+- Topic used: **General English — RC and Errors**
+- Source question block is currently missing in this file version.
+
+**💡 What I’ll use (repo-style):**
+- language rule/meaning context
+
+**✏️ My Solution (actual working):**
+Step 1: Official question text not available in current repository snapshot.
+Step 2: Marked for restoration from verified source.
+Step 3: Final answer cannot be validated until source text is restored.
+
+**✅ Final Answer: [PENDING SOURCE RESTORE]**
+
+- **Answer + Explanation Link:** [Direct anchor for Q8](#q8)
+- **Exact Topic-Pattern Link:** [General English — RC and Errors](../../23-General-English/Pattern3-Reading-Comprehension-and-Errors.md)
+- **Question Block Link:** [Go to Q8 question](./Questions.md#q8)
+
+## Q9
+
+**❓ Question:** [SOURCE MISSING IN CURRENT 2024 FILE] — question/options must be restored from official paper source.
+
+**Options:**
+- (1) [missing in source]
+- (2) [missing in source]
+- (3) [missing in source]
+- (4) [missing in source]
+
+**🤔 What I understood:**
+- Topic used: **General English — RC and Errors**
+- Source question block is currently missing in this file version.
+
+**💡 What I’ll use (repo-style):**
+- language rule/meaning context
+
+**✏️ My Solution (actual working):**
+Step 1: Official question text not available in current repository snapshot.
+Step 2: Marked for restoration from verified source.
+Step 3: Final answer cannot be validated until source text is restored.
+
+**✅ Final Answer: [PENDING SOURCE RESTORE]**
+
+- **Answer + Explanation Link:** [Direct anchor for Q9](#q9)
+- **Exact Topic-Pattern Link:** [General English — RC and Errors](../../23-General-English/Pattern3-Reading-Comprehension-and-Errors.md)
+- **Question Block Link:** [Go to Q9 question](./Questions.md#q9)
+
 ## Q10
 
 **❓ Question:** Choose the best substitute for “One who is filled with excessive enthusiasm in religious matters”.
@@ -869,6 +981,146 @@ Step 3: This directly matches option **(1)**.
 - **Answer + Explanation Link:** [Direct anchor for Q35](#q35)
 - **Exact Topic-Pattern Link:** [Coordinate Geometry — Conics/Lines](../../26-Coordinate-Geometry/Pattern4-Conics-and-Transformations.md)
 - **Question Block Link:** [Go to Q35 question](./Questions.md#q35)
+
+## Q36
+
+**❓ Question:** [SOURCE MISSING IN CURRENT 2024 FILE] — question/options must be restored from official paper source.
+
+**Options:**
+- (1) [missing in source]
+- (2) [missing in source]
+- (3) [missing in source]
+- (4) [missing in source]
+
+**🤔 What I understood:**
+- Topic used: **Coordinate Geometry — Conics/Lines**
+- Source question block is currently missing in this file version.
+
+**💡 What I’ll use (repo-style):**
+- core concept rule from linked pattern
+
+**✏️ My Solution (actual working):**
+Step 1: Official question text not available in current repository snapshot.
+Step 2: Marked for restoration from verified source.
+Step 3: Final answer cannot be validated until source text is restored.
+
+**✅ Final Answer: [PENDING SOURCE RESTORE]**
+
+- **Answer + Explanation Link:** [Direct anchor for Q36](#q36)
+- **Exact Topic-Pattern Link:** [Coordinate Geometry — Conics/Lines](../../26-Coordinate-Geometry/Pattern4-Conics-and-Transformations.md)
+- **Question Block Link:** [Go to Q36 question](./Questions.md#q36)
+
+## Q37
+
+**❓ Question:** [SOURCE MISSING IN CURRENT 2024 FILE] — question/options must be restored from official paper source.
+
+**Options:**
+- (1) [missing in source]
+- (2) [missing in source]
+- (3) [missing in source]
+- (4) [missing in source]
+
+**🤔 What I understood:**
+- Topic used: **Coordinate Geometry — Conics/Lines**
+- Source question block is currently missing in this file version.
+
+**💡 What I’ll use (repo-style):**
+- core concept rule from linked pattern
+
+**✏️ My Solution (actual working):**
+Step 1: Official question text not available in current repository snapshot.
+Step 2: Marked for restoration from verified source.
+Step 3: Final answer cannot be validated until source text is restored.
+
+**✅ Final Answer: [PENDING SOURCE RESTORE]**
+
+- **Answer + Explanation Link:** [Direct anchor for Q37](#q37)
+- **Exact Topic-Pattern Link:** [Coordinate Geometry — Conics/Lines](../../26-Coordinate-Geometry/Pattern4-Conics-and-Transformations.md)
+- **Question Block Link:** [Go to Q37 question](./Questions.md#q37)
+
+## Q38
+
+**❓ Question:** [SOURCE MISSING IN CURRENT 2024 FILE] — question/options must be restored from official paper source.
+
+**Options:**
+- (1) [missing in source]
+- (2) [missing in source]
+- (3) [missing in source]
+- (4) [missing in source]
+
+**🤔 What I understood:**
+- Topic used: **Coordinate Geometry — Conics/Lines**
+- Source question block is currently missing in this file version.
+
+**💡 What I’ll use (repo-style):**
+- core concept rule from linked pattern
+
+**✏️ My Solution (actual working):**
+Step 1: Official question text not available in current repository snapshot.
+Step 2: Marked for restoration from verified source.
+Step 3: Final answer cannot be validated until source text is restored.
+
+**✅ Final Answer: [PENDING SOURCE RESTORE]**
+
+- **Answer + Explanation Link:** [Direct anchor for Q38](#q38)
+- **Exact Topic-Pattern Link:** [Coordinate Geometry — Conics/Lines](../../26-Coordinate-Geometry/Pattern4-Conics-and-Transformations.md)
+- **Question Block Link:** [Go to Q38 question](./Questions.md#q38)
+
+## Q39
+
+**❓ Question:** [SOURCE MISSING IN CURRENT 2024 FILE] — question/options must be restored from official paper source.
+
+**Options:**
+- (1) [missing in source]
+- (2) [missing in source]
+- (3) [missing in source]
+- (4) [missing in source]
+
+**🤔 What I understood:**
+- Topic used: **Coordinate Geometry — Conics/Lines**
+- Source question block is currently missing in this file version.
+
+**💡 What I’ll use (repo-style):**
+- core concept rule from linked pattern
+
+**✏️ My Solution (actual working):**
+Step 1: Official question text not available in current repository snapshot.
+Step 2: Marked for restoration from verified source.
+Step 3: Final answer cannot be validated until source text is restored.
+
+**✅ Final Answer: [PENDING SOURCE RESTORE]**
+
+- **Answer + Explanation Link:** [Direct anchor for Q39](#q39)
+- **Exact Topic-Pattern Link:** [Coordinate Geometry — Conics/Lines](../../26-Coordinate-Geometry/Pattern4-Conics-and-Transformations.md)
+- **Question Block Link:** [Go to Q39 question](./Questions.md#q39)
+
+## Q40
+
+**❓ Question:** [SOURCE MISSING IN CURRENT 2024 FILE] — question/options must be restored from official paper source.
+
+**Options:**
+- (1) [missing in source]
+- (2) [missing in source]
+- (3) [missing in source]
+- (4) [missing in source]
+
+**🤔 What I understood:**
+- Topic used: **Coordinate Geometry — Conics/Lines**
+- Source question block is currently missing in this file version.
+
+**💡 What I’ll use (repo-style):**
+- core concept rule from linked pattern
+
+**✏️ My Solution (actual working):**
+Step 1: Official question text not available in current repository snapshot.
+Step 2: Marked for restoration from verified source.
+Step 3: Final answer cannot be validated until source text is restored.
+
+**✅ Final Answer: [PENDING SOURCE RESTORE]**
+
+- **Answer + Explanation Link:** [Direct anchor for Q40](#q40)
+- **Exact Topic-Pattern Link:** [Coordinate Geometry — Conics/Lines](../../26-Coordinate-Geometry/Pattern4-Conics-and-Transformations.md)
+- **Question Block Link:** [Go to Q40 question](./Questions.md#q40)
 
 ## Q41
 
