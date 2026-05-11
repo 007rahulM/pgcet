@@ -270,7 +270,7 @@ Each question includes two required links:
 - (4) 4π/5
 
 - **Answer + Explanation Link:** [Open Q20 answer](./Answers-Detailed.md#q20)
-- **Exact Topic-Pattern Link:** [Trigonometry — Compound/Double Angle](../../27-Trigonometry/Pattern2-Compound-and-Double-Angle.md)
+- **Exact Topic-Pattern Link:** [Trigonometry — Inverse Trig and Equations](../../27-Trigonometry/Pattern4-Inverse-Trig-and-Equations.md)
 
 ## Q21
 
@@ -393,7 +393,7 @@ Each question includes two required links:
 - (4) a-iii, b-ii, c-iv, d-i
 
 - **Answer + Explanation Link:** [Open Q29 answer](./Answers-Detailed.md#q29)
-- **Exact Topic-Pattern Link:** [Computer Awareness — Operating Systems](../../18-Computer-Awareness/05-Operating-Systems.md)
+- **Exact Topic-Pattern Link:** [Computer Awareness — Fundamentals](../../18-Computer-Awareness/02-Computer-Fundamentals.md)
 
 ## Q30
 
@@ -781,7 +781,7 @@ Each question includes two required links:
 - (4) 36.66 lakh rupees
 
 - **Answer + Explanation Link:** [Open Q58 answer](./Answers-Detailed.md#q58)
-- **Exact Topic-Pattern Link:** [Quant — Averages](../../07-Averages/01-Basic-Average.md)
+- **Exact Topic-Pattern Link:** [Reasoning — Data Interpretation (Tables/Bar Graphs)](../../17-Data-Interpretation/Pattern1-Tables-and-Bar-Graphs.md)
 
 ## Q59
 
@@ -898,7 +898,7 @@ Each question includes two required links:
 - (4) The commission fee for executing the trade
 
 - **Answer + Explanation Link:** [Open Q67 answer](./Answers-Detailed.md#q67)
-- **Exact Topic-Pattern Link:** [General Awareness — Business/Finance](../../29-General-Awareness/Pattern2-Business-and-Finance.md)
+- **Exact Topic-Pattern Link:** [General Awareness — 2025 Emerging Terms](../../29-General-Awareness/Pattern6-2025-Emerging-Terms.md)
 
 ## Q68
 
@@ -911,7 +911,7 @@ Each question includes two required links:
 - (4) i, ii, iii and iv
 
 - **Answer + Explanation Link:** [Open Q68 answer](./Answers-Detailed.md#q68)
-- **Exact Topic-Pattern Link:** [General Awareness — Culture/Entrepreneurship/Communication](../../29-General-Awareness/Pattern5-Culture-Entrepreneurship-and-Communication.md)
+- **Exact Topic-Pattern Link:** [General Awareness — Business/Finance](../../29-General-Awareness/Pattern2-Business-and-Finance.md)
 
 ## Q69
 
@@ -924,7 +924,7 @@ Each question includes two required links:
 - (4) Only i, iv and v
 
 - **Answer + Explanation Link:** [Open Q69 answer](./Answers-Detailed.md#q69)
-- **Exact Topic-Pattern Link:** [General Awareness — Culture/Entrepreneurship/Communication](../../29-General-Awareness/Pattern5-Culture-Entrepreneurship-and-Communication.md)
+- **Exact Topic-Pattern Link:** [General Awareness — Business/Finance](../../29-General-Awareness/Pattern2-Business-and-Finance.md)
 
 ## Q70
 
@@ -954,7 +954,7 @@ Each question includes two required links:
 - (4) The leasing of foreign transport vessel for domestic use
 
 - **Answer + Explanation Link:** [Open Q71 answer](./Answers-Detailed.md#q71)
-- **Exact Topic-Pattern Link:** [General Awareness — Core](../../29-General-Awareness/Pattern1-General-Awareness.md)
+- **Exact Topic-Pattern Link:** [General Awareness — 2025 Emerging Terms](../../29-General-Awareness/Pattern6-2025-Emerging-Terms.md)
 
 ## Q72
 
@@ -971,7 +971,7 @@ Each question includes two required links:
 - (4) d only
 
 - **Answer + Explanation Link:** [Open Q72 answer](./Answers-Detailed.md#q72)
-- **Exact Topic-Pattern Link:** [General Awareness — Governance/Polity](../../29-General-Awareness/Pattern3-Governance-and-Polity.md)
+- **Exact Topic-Pattern Link:** [General Awareness — 2025 Emerging Terms](../../29-General-Awareness/Pattern6-2025-Emerging-Terms.md)
 
 ## Q73
 
@@ -1014,7 +1014,7 @@ Each question includes two required links:
 - (4) Rs. Four Lakhs
 
 - **Answer + Explanation Link:** [Open Q75 answer](./Answers-Detailed.md#q75)
-- **Exact Topic-Pattern Link:** [General Awareness — Governance/Polity](../../29-General-Awareness/Pattern3-Governance-and-Polity.md)
+- **Exact Topic-Pattern Link:** [General Awareness — 2025 Emerging Terms](../../29-General-Awareness/Pattern6-2025-Emerging-Terms.md)
 
 ## Q76
 
@@ -1029,7 +1029,7 @@ Each question includes two required links:
 - (4) Neither a nor b
 
 - **Answer + Explanation Link:** [Open Q76 answer](./Answers-Detailed.md#q76)
-- **Exact Topic-Pattern Link:** [General Awareness — Science/Tech/Health](../../29-General-Awareness/Pattern4-Science-Tech-and-Health.md)
+- **Exact Topic-Pattern Link:** [General Awareness — 2025 Emerging Terms](../../29-General-Awareness/Pattern6-2025-Emerging-Terms.md)
 
 ## Q77
 
@@ -1055,7 +1055,7 @@ Each question includes two required links:
 - (4) Negotiate
 
 - **Answer + Explanation Link:** [Open Q78 answer](./Answers-Detailed.md#q78)
-- **Exact Topic-Pattern Link:** [General Awareness — Culture/Entrepreneurship/Communication](../../29-General-Awareness/Pattern5-Culture-Entrepreneurship-and-Communication.md)
+- **Exact Topic-Pattern Link:** [General Awareness — 2025 Emerging Terms](../../29-General-Awareness/Pattern6-2025-Emerging-Terms.md)
 
 ## Q79
 
@@ -1072,7 +1072,7 @@ Each question includes two required links:
 - (4) b, c and e
 
 - **Answer + Explanation Link:** [Open Q79 answer](./Answers-Detailed.md#q79)
-- **Exact Topic-Pattern Link:** [General Awareness — Culture/Entrepreneurship/Communication](../../29-General-Awareness/Pattern5-Culture-Entrepreneurship-and-Communication.md)
+- **Exact Topic-Pattern Link:** [General Awareness — 2025 Emerging Terms](../../29-General-Awareness/Pattern6-2025-Emerging-Terms.md)
 
 ## Q80
 
@@ -1153,7 +1153,7 @@ Each question includes two required links:
 - (4) b, c and d
 
 - **Answer + Explanation Link:** [Open Q84 answer](./Answers-Detailed.md#q84)
-- **Exact Topic-Pattern Link:** [General Awareness — Business/Finance](../../29-General-Awareness/Pattern2-Business-and-Finance.md)
+- **Exact Topic-Pattern Link:** [General Awareness — 2025 Emerging Terms](../../29-General-Awareness/Pattern6-2025-Emerging-Terms.md)
 
 ## Q85
 
@@ -1166,7 +1166,7 @@ Each question includes two required links:
 - (4) Ultrasonic sensors
 
 - **Answer + Explanation Link:** [Open Q85 answer](./Answers-Detailed.md#q85)
-- **Exact Topic-Pattern Link:** [General Awareness — Science/Tech/Health](../../29-General-Awareness/Pattern4-Science-Tech-and-Health.md)
+- **Exact Topic-Pattern Link:** [General Awareness — 2025 Emerging Terms](../../29-General-Awareness/Pattern6-2025-Emerging-Terms.md)
 
 ## Q86
 
@@ -1218,7 +1218,7 @@ Each question includes two required links:
 - (4) Whirl
 
 - **Answer + Explanation Link:** [Open Q89 answer](./Answers-Detailed.md#q89)
-- **Exact Topic-Pattern Link:** [General English — Grammar](../../23-General-English/Pattern1-Grammar.md)
+- **Exact Topic-Pattern Link:** [General English — Vocabulary](../../23-General-English/Pattern2-Vocabulary.md)
 
 ## Q90
 

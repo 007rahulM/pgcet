@@ -192,6 +192,23 @@ T ═══ S
 
 **✅ Answer: T is P's Grandmother**
 
+
+### Data Sufficiency Variant (Relation can/cannot be decided)
+
+In some questions, two statements (A and B) are provided and you must decide whether relation is determinable.
+
+**Rule:**
+- If gender + family link are both fixed, relation is decidable.
+- If one statement gives only gender or only relation chain, it may be insufficient.
+- Check A alone, B alone, then A+B.
+
+**Mini Example:**
+A: X is Y's sister.  
+B: Z is father of X and Y.
+
+A alone gives X's gender and direct relation to Y, so relation **is already decidable** (X is sister of Y).
+
+
 ---
 
 ## ⚡ 60-Second Shortcut

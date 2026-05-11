@@ -22,6 +22,23 @@
 - **UPI** = instant digital payments system.
 - **NEFT / RTGS** = electronic fund transfer systems.
 
+
+### 2025-Style Business/Market Terms
+
+- **Strike Price (Options):** pre-agreed price at which underlying can be bought/sold.
+- **Sustainable competitive advantage:** driven by scale efficiency, customer loyalty, and unique capabilities.
+- **Industry sectors (basic classification):** private sector, public sector, cooperative sector, cottage industries.
+- **Bond value drivers:** market interest rates, inflation expectations, and issuer credit quality.
+
+### Extra Mini Examples
+
+**Q:** What is strike price?  
+**Answer:** Exercise price in an options contract.
+
+**Q:** Which factors directly affect bond value?  
+**Answer:** Interest rates, inflation, issuer credit rating.
+
+
 ---
 
 ## ✅ Step-by-Step Mini Examples

@@ -161,6 +161,23 @@ Step 1: Convert each number to its letter
 
 **✅ Answer: TEST**
 
+
+### Data Sufficiency Variant (A/B Statements)
+
+Some PGCET coding questions ask whether statement **A**, **B**, or **both** are sufficient to determine the coded value.
+
+**Quick rule:**
+- If one statement alone gives unique mapping → that statement is sufficient.
+- If neither alone gives unique mapping but together do → both together are sufficient.
+- If even together they do not isolate the required code → not sufficient.
+
+**Mini Example:**
+`297 = clear blue sky` and ask code for **sky**.
+- A: `926 = clear blue colour` (doesn't isolate sky uniquely)
+- B: `175 = dark cloudy sky` (isolates sky when compared with first line)
+So **B alone is sufficient**.
+
+
 ---
 
 ## ⚡ 60-Second Shortcut

@@ -567,7 +567,7 @@ Step 3: This directly matches option **(1)**.
 **✅ Final Answer: (1)**
 
 - **Answer + Explanation Link:** [Direct anchor for Q20](#q20)
-- **Exact Topic-Pattern Link:** [Trigonometry — Compound/Double Angle](../../27-Trigonometry/Pattern2-Compound-and-Double-Angle.md)
+- **Exact Topic-Pattern Link:** [Trigonometry — Inverse Trig and Equations](../../27-Trigonometry/Pattern4-Inverse-Trig-and-Equations.md)
 - **Question Block Link:** [Go to Q20 question](./Questions.md#q20)
 
 ## Q21
@@ -825,7 +825,7 @@ Step 3: This directly matches option **(3)**.
 **✅ Final Answer: (3)**
 
 - **Answer + Explanation Link:** [Direct anchor for Q29](#q29)
-- **Exact Topic-Pattern Link:** [Computer Awareness — Operating Systems](../../18-Computer-Awareness/05-Operating-Systems.md)
+- **Exact Topic-Pattern Link:** [Computer Awareness — Fundamentals](../../18-Computer-Awareness/02-Computer-Fundamentals.md)
 - **Question Block Link:** [Go to Q29 question](./Questions.md#q29)
 
 ## Q30
@@ -1648,7 +1648,7 @@ Step 3: This directly matches option **(4)**.
 **✅ Final Answer: (4)**
 
 - **Answer + Explanation Link:** [Direct anchor for Q58](#q58)
-- **Exact Topic-Pattern Link:** [Quant — Averages](../../07-Averages/01-Basic-Average.md)
+- **Exact Topic-Pattern Link:** [Reasoning — Data Interpretation (Tables/Bar Graphs)](../../17-Data-Interpretation/Pattern1-Tables-and-Bar-Graphs.md)
 - **Question Block Link:** [Go to Q58 question](./Questions.md#q58)
 
 ## Q59
@@ -1900,7 +1900,7 @@ Step 3: This directly matches option **(2)**.
 **✅ Final Answer: (2)**
 
 - **Answer + Explanation Link:** [Direct anchor for Q67](#q67)
-- **Exact Topic-Pattern Link:** [General Awareness — Business/Finance](../../29-General-Awareness/Pattern2-Business-and-Finance.md)
+- **Exact Topic-Pattern Link:** [General Awareness — 2025 Emerging Terms](../../29-General-Awareness/Pattern6-2025-Emerging-Terms.md)
 - **Question Block Link:** [Go to Q67 question](./Questions.md#q67)
 
 ## Q68
@@ -1928,7 +1928,7 @@ Step 3: This directly matches option **(1)**.
 **✅ Final Answer: (1)**
 
 - **Answer + Explanation Link:** [Direct anchor for Q68](#q68)
-- **Exact Topic-Pattern Link:** [General Awareness — Culture/Entrepreneurship/Communication](../../29-General-Awareness/Pattern5-Culture-Entrepreneurship-and-Communication.md)
+- **Exact Topic-Pattern Link:** [General Awareness — Business/Finance](../../29-General-Awareness/Pattern2-Business-and-Finance.md)
 - **Question Block Link:** [Go to Q68 question](./Questions.md#q68)
 
 ## Q69
@@ -1956,7 +1956,7 @@ Step 3: This directly matches option **(4)**.
 **✅ Final Answer: (4)**
 
 - **Answer + Explanation Link:** [Direct anchor for Q69](#q69)
-- **Exact Topic-Pattern Link:** [General Awareness — Culture/Entrepreneurship/Communication](../../29-General-Awareness/Pattern5-Culture-Entrepreneurship-and-Communication.md)
+- **Exact Topic-Pattern Link:** [General Awareness — Business/Finance](../../29-General-Awareness/Pattern2-Business-and-Finance.md)
 - **Question Block Link:** [Go to Q69 question](./Questions.md#q69)
 
 ## Q70
@@ -2016,7 +2016,7 @@ Step 3: This directly matches option **(2)**.
 **✅ Final Answer: (2)**
 
 - **Answer + Explanation Link:** [Direct anchor for Q71](#q71)
-- **Exact Topic-Pattern Link:** [General Awareness — Core](../../29-General-Awareness/Pattern1-General-Awareness.md)
+- **Exact Topic-Pattern Link:** [General Awareness — 2025 Emerging Terms](../../29-General-Awareness/Pattern6-2025-Emerging-Terms.md)
 - **Question Block Link:** [Go to Q71 question](./Questions.md#q71)
 
 ## Q72
@@ -2048,7 +2048,7 @@ Step 3: This directly matches option **(3)**.
 **✅ Final Answer: (3)**
 
 - **Answer + Explanation Link:** [Direct anchor for Q72](#q72)
-- **Exact Topic-Pattern Link:** [General Awareness — Governance/Polity](../../29-General-Awareness/Pattern3-Governance-and-Polity.md)
+- **Exact Topic-Pattern Link:** [General Awareness — 2025 Emerging Terms](../../29-General-Awareness/Pattern6-2025-Emerging-Terms.md)
 - **Question Block Link:** [Go to Q72 question](./Questions.md#q72)
 
 ## Q73
@@ -2136,7 +2136,7 @@ Step 3: This directly matches option **(2)**.
 **✅ Final Answer: (2)**
 
 - **Answer + Explanation Link:** [Direct anchor for Q75](#q75)
-- **Exact Topic-Pattern Link:** [General Awareness — Governance/Polity](../../29-General-Awareness/Pattern3-Governance-and-Polity.md)
+- **Exact Topic-Pattern Link:** [General Awareness — 2025 Emerging Terms](../../29-General-Awareness/Pattern6-2025-Emerging-Terms.md)
 - **Question Block Link:** [Go to Q75 question](./Questions.md#q75)
 
 ## Q76
@@ -2166,7 +2166,7 @@ Step 3: This directly matches option **(1)**.
 **✅ Final Answer: (1)**
 
 - **Answer + Explanation Link:** [Direct anchor for Q76](#q76)
-- **Exact Topic-Pattern Link:** [General Awareness — Science/Tech/Health](../../29-General-Awareness/Pattern4-Science-Tech-and-Health.md)
+- **Exact Topic-Pattern Link:** [General Awareness — 2025 Emerging Terms](../../29-General-Awareness/Pattern6-2025-Emerging-Terms.md)
 - **Question Block Link:** [Go to Q76 question](./Questions.md#q76)
 
 ## Q77
@@ -2222,7 +2222,7 @@ Step 3: This directly matches option **(4)**.
 **✅ Final Answer: (4)**
 
 - **Answer + Explanation Link:** [Direct anchor for Q78](#q78)
-- **Exact Topic-Pattern Link:** [General Awareness — Culture/Entrepreneurship/Communication](../../29-General-Awareness/Pattern5-Culture-Entrepreneurship-and-Communication.md)
+- **Exact Topic-Pattern Link:** [General Awareness — 2025 Emerging Terms](../../29-General-Awareness/Pattern6-2025-Emerging-Terms.md)
 - **Question Block Link:** [Go to Q78 question](./Questions.md#q78)
 
 ## Q79
@@ -2254,7 +2254,7 @@ Step 3: This directly matches option **(3)**.
 **✅ Final Answer: (3)**
 
 - **Answer + Explanation Link:** [Direct anchor for Q79](#q79)
-- **Exact Topic-Pattern Link:** [General Awareness — Culture/Entrepreneurship/Communication](../../29-General-Awareness/Pattern5-Culture-Entrepreneurship-and-Communication.md)
+- **Exact Topic-Pattern Link:** [General Awareness — 2025 Emerging Terms](../../29-General-Awareness/Pattern6-2025-Emerging-Terms.md)
 - **Question Block Link:** [Go to Q79 question](./Questions.md#q79)
 
 ## Q80
@@ -2410,7 +2410,7 @@ Step 3: This directly matches option **(1)**.
 **✅ Final Answer: (1)**
 
 - **Answer + Explanation Link:** [Direct anchor for Q84](#q84)
-- **Exact Topic-Pattern Link:** [General Awareness — Business/Finance](../../29-General-Awareness/Pattern2-Business-and-Finance.md)
+- **Exact Topic-Pattern Link:** [General Awareness — 2025 Emerging Terms](../../29-General-Awareness/Pattern6-2025-Emerging-Terms.md)
 - **Question Block Link:** [Go to Q84 question](./Questions.md#q84)
 
 ## Q85
@@ -2438,7 +2438,7 @@ Step 3: This directly matches option **(2)**.
 **✅ Final Answer: (2)**
 
 - **Answer + Explanation Link:** [Direct anchor for Q85](#q85)
-- **Exact Topic-Pattern Link:** [General Awareness — Science/Tech/Health](../../29-General-Awareness/Pattern4-Science-Tech-and-Health.md)
+- **Exact Topic-Pattern Link:** [General Awareness — 2025 Emerging Terms](../../29-General-Awareness/Pattern6-2025-Emerging-Terms.md)
 - **Question Block Link:** [Go to Q85 question](./Questions.md#q85)
 
 ## Q86
@@ -2550,7 +2550,7 @@ Step 3: This directly matches option **(3)**.
 **✅ Final Answer: (3)**
 
 - **Answer + Explanation Link:** [Direct anchor for Q89](#q89)
-- **Exact Topic-Pattern Link:** [General English — Grammar](../../23-General-English/Pattern1-Grammar.md)
+- **Exact Topic-Pattern Link:** [General English — Vocabulary](../../23-General-English/Pattern2-Vocabulary.md)
 - **Question Block Link:** [Go to Q89 question](./Questions.md#q89)
 
 ## Q90

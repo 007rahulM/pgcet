@@ -82,6 +82,20 @@
 | One who loves books | Bibliophile |
 | One who can use both hands equally | Ambidextrous |
 
+
+## 📐 Homophones and Commonly Confused Words
+
+These are common in fill-in-the-blank vocabulary questions.
+
+- **hole** = empty gap/opening
+- **whole** = complete/entire
+- **whirl** = spin rapidly
+- **whorl** = spiral pattern
+
+**Mini Example:**
+"There was a ___ in my bag." → **hole** (opening in bag)
+
+
 ---
 
 ## Solve Method (Use this in every question)
