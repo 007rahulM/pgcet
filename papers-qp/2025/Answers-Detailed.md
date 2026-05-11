@@ -155,21 +155,21 @@ Step 3: This directly matches option **(1)**.
 - (4) 81
 
 **🤔 What I understood:**
-- Topic used: **Coordinate Geometry — Conics/Lines**
+- Topic used: **Coordinate Geometry — Lines/Distance/3D Basics**
 - We must compute/verify and then map to the correct option.
 
 **💡 What I’ll use (repo-style):**
-- core concept rule from linked pattern
+- area of triangle by coordinate formula
 
 **✏️ My Solution (actual working):**
-Step 1: Apply the required method for this question type and evaluate the options.
+Step 1: Use area formula for coordinates: 1/2 |x1(y2-y3)+x2(y3-y1)+x3(y1-y2)|.
 Step 2: Obtained/verified key result: **Area = 30.5**
 Step 3: This directly matches option **(1)**.
 
 **✅ Final Answer: (1)**
 
 - **Answer + Explanation Link:** [Direct anchor for Q6](#q6)
-- **Exact Topic-Pattern Link:** [Coordinate Geometry — Conics/Lines](../../26-Coordinate-Geometry/Pattern4-Conics-and-Transformations.md)
+- **Exact Topic-Pattern Link:** [Coordinate Geometry — Lines/Distance/3D Basics](../../26-Coordinate-Geometry/Pattern2-Lines-and-Distance.md)
 - **Question Block Link:** [Go to Q6 question](./Questions.md#q6)
 
 ## Q7
@@ -239,21 +239,21 @@ Step 3: This directly matches option **(3)**.
 - (4) 0
 
 **🤔 What I understood:**
-- Topic used: **Coordinate Geometry — Conics/Lines**
+- Topic used: **Coordinate Geometry — Lines/Distance/3D Basics**
 - We must compute/verify and then map to the correct option.
 
 **💡 What I’ll use (repo-style):**
-- core concept rule from linked pattern
+- direction vectors and dot-product angle rule
 
 **✏️ My Solution (actual working):**
-Step 1: Apply the required method for this question type and evaluate the options.
-Step 2: Obtained/verified key result: **Angle = 0**
+Step 1: Form direction vectors from the two point pairs.
+Step 2: Compute dot product and magnitudes to get cosθ = 1, so **Angle = 0**
 Step 3: This directly matches option **(4)**.
 
 **✅ Final Answer: (4)**
 
 - **Answer + Explanation Link:** [Direct anchor for Q9](#q9)
-- **Exact Topic-Pattern Link:** [Coordinate Geometry — Conics/Lines](../../26-Coordinate-Geometry/Pattern4-Conics-and-Transformations.md)
+- **Exact Topic-Pattern Link:** [Coordinate Geometry — Lines/Distance/3D Basics](../../26-Coordinate-Geometry/Pattern2-Lines-and-Distance.md)
 - **Question Block Link:** [Go to Q9 question](./Questions.md#q9)
 
 ## Q10
@@ -267,21 +267,21 @@ Step 3: This directly matches option **(4)**.
 - (4) (2, 2, 2)
 
 **🤔 What I understood:**
-- Topic used: **Coordinate Geometry — Conics/Lines**
+- Topic used: **Coordinate Geometry — Lines/Distance/3D Basics**
 - We must compute/verify and then map to the correct option.
 
 **💡 What I’ll use (repo-style):**
-- core concept rule from linked pattern
+- 3D midpoint formula
 
 **✏️ My Solution (actual working):**
-Step 1: Apply the required method for this question type and evaluate the options.
+Step 1: Apply midpoint formula component-wise in 3D.
 Step 2: Obtained/verified key result: **(2,5,9)**
 Step 3: This directly matches option **(1)**.
 
 **✅ Final Answer: (1)**
 
 - **Answer + Explanation Link:** [Direct anchor for Q10](#q10)
-- **Exact Topic-Pattern Link:** [Coordinate Geometry — Conics/Lines](../../26-Coordinate-Geometry/Pattern4-Conics-and-Transformations.md)
+- **Exact Topic-Pattern Link:** [Coordinate Geometry — Lines/Distance/3D Basics](../../26-Coordinate-Geometry/Pattern2-Lines-and-Distance.md)
 - **Question Block Link:** [Go to Q10 question](./Questions.md#q10)
 
 ## Q11
@@ -295,21 +295,21 @@ Step 3: This directly matches option **(1)**.
 - (4) x^2 + y^2 = 5
 
 **🤔 What I understood:**
-- Topic used: **Coordinate Geometry — Conics/Lines**
+- Topic used: **Coordinate Geometry — Circles**
 - We must compute/verify and then map to the correct option.
 
 **💡 What I’ll use (repo-style):**
-- core concept rule from linked pattern
+- center-condition + equal-distance circle equation
 
 **✏️ My Solution (actual working):**
-Step 1: Apply the required method for this question type and evaluate the options.
+Step 1: Use center on x+y=2 and equal distances to both given points.
 Step 2: Obtained/verified key result: **(x−0.7)²+(y−1.3)²=12.58**
 Step 3: This directly matches option **(1)**.
 
 **✅ Final Answer: (1)**
 
 - **Answer + Explanation Link:** [Direct anchor for Q11](#q11)
-- **Exact Topic-Pattern Link:** [Coordinate Geometry — Conics/Lines](../../26-Coordinate-Geometry/Pattern4-Conics-and-Transformations.md)
+- **Exact Topic-Pattern Link:** [Coordinate Geometry — Circles](../../26-Coordinate-Geometry/Pattern3-Circles.md)
 - **Question Block Link:** [Go to Q11 question](./Questions.md#q11)
 
 ## Q12
@@ -1690,11 +1690,11 @@ Step 3: This directly matches option **(1)**.
 - (4) Both statements A and B are effects of some common cause
 
 **🤔 What I understood:**
-- Topic used: **Mathematical Logic — Connectives/Truth Tables**
-- We must compute/verify and then map to the correct option.
+- Topic used: **Reasoning — Cause and Effect**
+- We must classify whether A causes B, B causes A, both independent, or both effects.
 
 **💡 What I’ll use (repo-style):**
-- core concept rule from linked pattern
+- cause-effect statement evaluation rule
 
 **✏️ My Solution (actual working):**
 Step 1: Apply the required method for this question type and evaluate the options.
@@ -1704,7 +1704,7 @@ Step 3: This directly matches option **(1)**.
 **✅ Final Answer: (1)**
 
 - **Answer + Explanation Link:** [Direct anchor for Q60](#q60)
-- **Exact Topic-Pattern Link:** [Mathematical Logic — Connectives/Truth Tables](../../22-Mathematical-Logic/Pattern1-Connectives-and-Truth-Tables.md)
+- **Exact Topic-Pattern Link:** [Reasoning — Cause and Effect](../../22-Mathematical-Logic/Pattern3-Cause-and-Effect.md)
 - **Question Block Link:** [Go to Q60 question](./Questions.md#q60)
 
 ## Q61

@@ -9,7 +9,7 @@ Coordinate Geometry becomes easy once you reduce every question to one of a few 
 | File | Pattern | Recognition Clue |
 |------|---------|-----------------|
 | [Pattern1-Coordinate-Geometry.md](./Pattern1-Coordinate-Geometry.md) | Full formula guide | "Mixed coordinate geometry set" |
-| [Pattern2-Lines-and-Distance.md](./Pattern2-Lines-and-Distance.md) | Points, slope, line equations | "Find distance", "find slope", "equation of line" |
+| [Pattern2-Lines-and-Distance.md](./Pattern2-Lines-and-Distance.md) | Points, slope, line equations, area, 3D midpoint/angle | "Find distance", "find slope", "equation of line" |
 | [Pattern3-Circles.md](./Pattern3-Circles.md) | Circle equations | "Find center/radius", "write equation of circle" |
 | [Pattern4-Conics-and-Transformations.md](./Pattern4-Conics-and-Transformations.md) | Parabola, ellipse, hyperbola, transformations | "focus", "directrix", "identify conic" |
 

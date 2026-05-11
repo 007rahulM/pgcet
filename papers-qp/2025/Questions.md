@@ -82,7 +82,7 @@ Each question includes two required links:
 - (4) 81
 
 - **Answer + Explanation Link:** [Open Q6 answer](./Answers-Detailed.md#q6)
-- **Exact Topic-Pattern Link:** [Coordinate Geometry — Conics/Lines](../../26-Coordinate-Geometry/Pattern4-Conics-and-Transformations.md)
+- **Exact Topic-Pattern Link:** [Coordinate Geometry — Lines/Distance/3D Basics](../../26-Coordinate-Geometry/Pattern2-Lines-and-Distance.md)
 
 ## Q7
 
@@ -121,7 +121,7 @@ Each question includes two required links:
 - (4) 0
 
 - **Answer + Explanation Link:** [Open Q9 answer](./Answers-Detailed.md#q9)
-- **Exact Topic-Pattern Link:** [Coordinate Geometry — Conics/Lines](../../26-Coordinate-Geometry/Pattern4-Conics-and-Transformations.md)
+- **Exact Topic-Pattern Link:** [Coordinate Geometry — Lines/Distance/3D Basics](../../26-Coordinate-Geometry/Pattern2-Lines-and-Distance.md)
 
 ## Q10
 
@@ -134,7 +134,7 @@ Each question includes two required links:
 - (4) (2, 2, 2)
 
 - **Answer + Explanation Link:** [Open Q10 answer](./Answers-Detailed.md#q10)
-- **Exact Topic-Pattern Link:** [Coordinate Geometry — Conics/Lines](../../26-Coordinate-Geometry/Pattern4-Conics-and-Transformations.md)
+- **Exact Topic-Pattern Link:** [Coordinate Geometry — Lines/Distance/3D Basics](../../26-Coordinate-Geometry/Pattern2-Lines-and-Distance.md)
 
 ## Q11
 
@@ -147,7 +147,7 @@ Each question includes two required links:
 - (4) x^2 + y^2 = 5
 
 - **Answer + Explanation Link:** [Open Q11 answer](./Answers-Detailed.md#q11)
-- **Exact Topic-Pattern Link:** [Coordinate Geometry — Conics/Lines](../../26-Coordinate-Geometry/Pattern4-Conics-and-Transformations.md)
+- **Exact Topic-Pattern Link:** [Coordinate Geometry — Circles](../../26-Coordinate-Geometry/Pattern3-Circles.md)
 
 ## Q12
 
@@ -807,7 +807,7 @@ Each question includes two required links:
 - (4) Both statements A and B are effects of some common cause
 
 - **Answer + Explanation Link:** [Open Q60 answer](./Answers-Detailed.md#q60)
-- **Exact Topic-Pattern Link:** [Mathematical Logic — Connectives/Truth Tables](../../22-Mathematical-Logic/Pattern1-Connectives-and-Truth-Tables.md)
+- **Exact Topic-Pattern Link:** [Reasoning — Cause and Effect](../../22-Mathematical-Logic/Pattern3-Cause-and-Effect.md)
 
 ## Q61
 

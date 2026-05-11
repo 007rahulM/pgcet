@@ -74,6 +74,36 @@ y = 2x - 1
 
 **✅ Answer: y = 2x - 1**
 
+
+
+### 2D Triangle Area by Coordinates
+
+```
+Area = 1/2 |x1(y2-y3) + x2(y3-y1) + x3(y1-y2)|
+```
+
+Use this directly when three 2D vertices are given.
+
+### 3D Midpoint and Direction Vector
+
+For points A(x1,y1,z1), B(x2,y2,z2):
+
+```
+Midpoint M = ((x1+x2)/2, (y1+y2)/2, (z1+z2)/2)
+Direction vector AB = (x2-x1, y2-y1, z2-z1)
+```
+
+### Angle Between Two 3D Lines
+
+If line directions are **u = (u1,u2,u3)** and **v = (v1,v2,v3)**,
+
+```
+cosθ = (u·v) / (|u||v|)
+```
+
+- θ = 0 when vectors are parallel in same direction
+- θ = π when vectors are parallel opposite direction
+
 ---
 
 ## ⚡ 60-Second Strategy

@@ -8,6 +8,7 @@ Mathematical Logic tests propositional logic, truth tables, and logical equivale
 |------|---------|-----------------|
 | [Pattern1-Connectives-and-Truth-Tables.md](./Pattern1-Connectives-and-Truth-Tables.md) | AND, OR, NOT, →, ↔ with truth values | "p = T, q = F. Find p ∧ q" |
 | [Pattern2-Equivalences-and-Contrapositive.md](./Pattern2-Equivalences-and-Contrapositive.md) | Tautology, De Morgan, Converse/Contrapositive | "Which is logically equivalent to p → q?" |
+| [Pattern3-Cause-and-Effect.md](./Pattern3-Cause-and-Effect.md) | Statement relation (cause/effect) | "A happened, then B happened — relation?" |
 
 ## Truth Tables Quick Reference
 
@@ -27,4 +28,4 @@ Mathematical Logic tests propositional logic, truth tables, and logical equivale
 
 ## Study Order
 
-Pattern 1 (Truth Tables) → Pattern 2 (Equivalences). You must know truth tables before studying equivalences.
+Pattern 1 (Truth Tables) → Pattern 2 (Equivalences) → Pattern 3 (Cause and Effect classification).
