@@ -57,6 +57,7 @@
 | Discount | "Marked Price and discount given" | `Discount% = (Discount/MP)×100`; `SP = MP×(100−D%)/100` | [→](../03-Profit-and-Loss/02-Discount.md) |
 | Successive Discounts | "Two discounts a% and b% applied one after other" | `Net discount = a + b − ab/100` | [→](../03-Profit-and-Loss/03-Successive-Discounts.md) |
 | Dishonest Dealer | "Dealer uses false weights / short measures" | `Gain% = (True weight − False weight)/False weight × 100` | [→](../03-Profit-and-Loss/04-Dishonest-Dealer.md) |
+| Transaction Chain Profit | "A bought from B, B from C; find original CP" | Reverse stepwise: `CP = SP×100/(100+p)` or `SP×100/(100-l)` | [→](../03-Profit-and-Loss/05-Transaction-Chain-Profit.md) |
 
 ---
 
@@ -69,6 +70,7 @@
 | Percentage Change | "Value increased/decreased by X%; find new value" | Increase: `×(100+X)/100`; Decrease: `×(100−X)/100` | [→](../04-Percentages/02-Percentage-Change.md) |
 | Successive Changes | "Two changes a% then b% applied in sequence" | `Net change = a + b + ab/100` (use − for decrease) | [→](../04-Percentages/02-Percentage-Change.md) |
 | Applications | "A is X% more than B", "Election margin %" | `A = B×(100+X)/100`; population/income problems | [→](../04-Percentages/03-Percentage-Applications.md) |
+| Reverse Percentage / Target Value | "Additional discount?", "Find original before increase/decrease" | Original = `Final×100/(100±p)`; extra discount uses reduced-price base | [→](../04-Percentages/04-Reverse-Percentage-and-Exam-Traps.md) |
 
 ---
 
@@ -81,6 +83,7 @@
 | Proportion | "Find mean/third/fourth proportional; direct/inverse proportion" | 4th proportional: `d = bc/a`; Mean prop: `√(ac)` | [→](../05-Ratio-and-Proportion/02-Proportion-Concepts.md) |
 | Partnership | "Partners invest for same/different durations" | Profit ∝ Capital × Time | [→](../05-Ratio-and-Proportion/03-Partnership-and-Mixtures.md) |
 | Alligation / Mixtures | "Mix two items at different prices/concentrations" | Cheaper : Dearer = (Dearer − Mean) : (Mean − Cheaper) | [→](../05-Ratio-and-Proportion/03-Partnership-and-Mixtures.md) |
+| Direct / Inverse Variation | "Varies directly", "more workers less time" | Direct: `x₁/y₁=x₂/y₂`; Inverse: `x₁y₁=x₂y₂` | [→](../05-Ratio-and-Proportion/04-Direct-and-Inverse-Variation.md) |
 
 ---
 
@@ -93,6 +96,7 @@
 | Compound Interest | "Find CI / amount compounded yearly/half-yearly" | `A = P(1 + R/100)ⁿ`; half-yearly: R/2 and 2n | [→](../06-Simple-Compound-Interest/02-Compound-Interest.md) |
 | CI vs SI Difference | "Difference between CI and SI for 2/3 years" | 2 yrs: `P(R/100)²`; 3 yrs: `P(R/100)²(R/100 + 3)` | [→](../06-Simple-Compound-Interest/03-CI-vs-SI-Comparison.md) |
 | Doubling Time | "In how many years will amount double?" | SI: `T = 100/R`; CI: use Rule of 72: `T ≈ 72/R` | [→](../06-Simple-Compound-Interest/02-Compound-Interest.md) |
+| Compounding Period Comparison | "Half-yearly instead of annual — extra paid/saved?" | Compare amounts: annual `P(1+R/100)^T`; half-yearly `P(1+R/200)^(2T)` | [→](../06-Simple-Compound-Interest/04-Change-in-Compounding-Period.md) |
 
 ---
 
@@ -105,6 +109,7 @@
 | Changed Average | "New member joins/leaves — average changes" | New sum = Old avg × Old count ± change | [→](../07-Averages/02-Changed-Average.md) |
 | Replacement | "One member replaced — average changes by X" | Replaced value = Old value ± (change × n) | [→](../07-Averages/02-Changed-Average.md) |
 | Weighted Average | "Two groups combined; find combined average" | `Weighted Avg = (n₁×avg₁ + n₂×avg₂)/(n₁+n₂)` | [→](../07-Averages/03-Weighted-Average.md) |
+| Average Equation Trap | "One value is x more/less than the average itself" | Let average = `a`; total = `na`; build equation from description | [→](../07-Averages/04-Equation-Based-Averages.md) |
 
 ---
 
@@ -195,6 +200,7 @@
 | Indices & Logarithms | "Simplify aˣ × aʸ"; "log₂ 8 = ?" | aˣ×aʸ=aˣ⁺ʸ; log(ab)=log a+log b; log(aⁿ)=n log a | [→](../24-Algebra-Basics/Pattern3-Indices-and-Logarithms.md) |
 | Progressions | "Sum of AP / GP; nth term" | AP: `Tₙ=a+(n−1)d`; `Sₙ=n/2(2a+(n−1)d)`; GP: `Tₙ=arⁿ⁻¹`; `Sₙ=a(rⁿ−1)/(r−1)` | [→](../24-Algebra-Basics/Pattern4-Progressions-and-Binomial.md) |
 | Binomial Theorem | "Expand (a+b)ⁿ; find rth term" | `Tᵣ₊₁ = C(n,r)×aⁿ⁻ʳ×bʳ` | [→](../24-Algebra-Basics/Pattern4-Progressions-and-Binomial.md) |
+| BODMAS / Nested Expressions | "Find value of 40-[20-{...}]" | Brackets → multiply/divide → add/subtract | [→](../24-Algebra-Basics/Pattern6-BODMAS-and-Nested-Expressions.md) |
 
 ---
 
@@ -286,6 +292,7 @@
 | Letter Shifting | "APPLE is coded as BQQMF (each letter +1)" | Find shift value; apply to each letter | [→](../12-Coding-Decoding/Pattern1-Letter-Shifting.md) |
 | Reverse / Opposite | "CAT → ZAG (reverse alphabet: A↔Z, B↔Y…)" | Opposite of A=Z, B=Y… ; or word reversed | [→](../12-Coding-Decoding/Pattern2-Opposite-and-Reverse.md) |
 | Number Coding | "Each letter → number; or word → number" | Assign position value (A=1…Z=26); sum or multiply | [→](../12-Coding-Decoding/Pattern3-Number-Coding.md) |
+| Mixed Analogy Coding | "COMBAT:...::CREATE:?"; odd/even shift codes | Test constant shift → reverse → opposite → odd/even → growing shifts | [→](../12-Coding-Decoding/Pattern4-Mixed-Word-Coding-and-Analogy.md) |
 
 ---
 

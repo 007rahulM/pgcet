@@ -9,6 +9,7 @@ This topic tests your ability to identify and apply patterns in coded messages. 
 | [Pattern1-Letter-Shifting.md](./Pattern1-Letter-Shifting.md) | Letter shifted by a constant | "MANGO = PDQJR" — each letter moved +3 |
 | [Pattern2-Opposite-and-Reverse.md](./Pattern2-Opposite-and-Reverse.md) | Opposite letters / Word reversed | A↔Z sum=27; or word spelled backwards |
 | [Pattern3-Number-Coding.md](./Pattern3-Number-Coding.md) | Letters replaced by numbers | "PENCIL = 16-5-14-3-9-12" (positions) |
+| [Pattern4-Mixed-Word-Coding-and-Analogy.md](./Pattern4-Mixed-Word-Coding-and-Analogy.md) | Position-wise / odd-even / analogy coding | "COMBAT:...::CREATE:?" |
 
 ## Quick Identification Guide
 
@@ -18,6 +19,7 @@ This topic tests your ability to identify and apply patterns in coded messages. 
 | Opposite letters | Check if position sum = 27 |
 | Reverse | Check if 1st letter of code = last letter of word |
 | Number code | Check if numbers = alphabet positions (A=1...Z=26) |
+| Mixed analogy code | Check odd/even positions, growing shifts, and word-pair analogy |
 
 ## Key Reference
 
@@ -36,4 +38,4 @@ A↔Z  B↔Y  C↔X  D↔W  E↔V  F↔U  G↔T  H↔S  I↔R  J↔Q  K↔P  L�
 
 ## Study Order
 
-Go through Pattern 1 → 2 → 3 in order for best understanding.
+Go through Pattern 1 → 2 → 3 → 4 in order for best understanding.

@@ -9,12 +9,14 @@ Appears in every competitive exam. Expect **2–3 questions** in MCA PGCET. Ofte
 | [01-Basic-Ratios.md](./01-Basic-Ratios.md) | Basic ratios, dividing quantities, combining ratios |
 | [02-Proportion-Concepts.md](./02-Proportion-Concepts.md) | Fourth/mean/third proportional, direct/inverse proportion |
 | [03-Partnership-and-Mixtures.md](./03-Partnership-and-Mixtures.md) | Business partnership, alligation, mixing problems |
+| [04-Direct-and-Inverse-Variation.md](./04-Direct-and-Inverse-Variation.md) | Direct variation, inverse variation, unit-rate questions |
 
 ## Quick Reference
 
 - "Divide in ratio" → See [01-Basic-Ratios.md](./01-Basic-Ratios.md)
 - "Find mean proportional / fourth proportional" → See [02-Proportion-Concepts.md](./02-Proportion-Concepts.md)
 - "Partnership profit sharing / mixing" → See [03-Partnership-and-Mixtures.md](./03-Partnership-and-Mixtures.md)
+- "Varies directly / inversely" → See [04-Direct-and-Inverse-Variation.md](./04-Direct-and-Inverse-Variation.md)
 
 ---
 

@@ -9,12 +9,14 @@ Appears in almost every competitive exam. Expect **2–3 questions** in MCA PGCE
 | [01-Basic-Average.md](./01-Basic-Average.md) | Simple average, consecutive numbers, missing value |
 | [02-Changed-Average.md](./02-Changed-Average.md) | Member joining/leaving, replacement problems |
 | [03-Weighted-Average.md](./03-Weighted-Average.md) | Combining groups, weighted averages |
+| [04-Equation-Based-Averages.md](./04-Equation-Based-Averages.md) | Hidden-average equations and one-person traps |
 
 ## Quick Reference
 
 - "Average of numbers / find missing value" → See [01-Basic-Average.md](./01-Basic-Average.md)
 - "New member joins / member replaced" → See [02-Changed-Average.md](./02-Changed-Average.md)
 - "Two groups combined average" → See [03-Weighted-Average.md](./03-Weighted-Average.md)
+- "One person's value is tied to the average itself" → See [04-Equation-Based-Averages.md](./04-Equation-Based-Averages.md)
 
 ---
 

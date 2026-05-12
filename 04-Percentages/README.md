@@ -9,12 +9,14 @@ One of the **most frequently asked topics** in MCA PGCET. Expect **2–4 questio
 | [01-Basic-Calculations.md](./01-Basic-Calculations.md) | Finding part, whole, and percentage; fraction equivalents |
 | [02-Percentage-Change.md](./02-Percentage-Change.md) | Increase, decrease, and successive changes |
 | [03-Percentage-Applications.md](./03-Percentage-Applications.md) | Comparison problems, elections, combined applications |
+| [04-Reverse-Percentage-and-Exam-Traps.md](./04-Reverse-Percentage-and-Exam-Traps.md) | Reverse percentages, target SP, decrease traps |
 
 ## Quick Reference
 
 - "What % of X is Y?" → See [01-Basic-Calculations.md](./01-Basic-Calculations.md)
 - "X increased/decreased by Y%" → See [02-Percentage-Change.md](./02-Percentage-Change.md)
 - "A is X% more than B" → See [03-Percentage-Applications.md](./03-Percentage-Applications.md)
+- "Additional discount / original before change / % drop from old value" → See [04-Reverse-Percentage-and-Exam-Traps.md](./04-Reverse-Percentage-and-Exam-Traps.md)
 
 ---
 

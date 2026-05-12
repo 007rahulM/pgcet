@@ -9,12 +9,14 @@ Expect **2–3 questions** from here in MCA PGCET. These are direct formula-appl
 | [01-Simple-Interest.md](./01-Simple-Interest.md) | SI formula, finding P/R/T, when sum doubles |
 | [02-Compound-Interest.md](./02-Compound-Interest.md) | CI formula, half-yearly/quarterly, Rule of 72 |
 | [03-CI-vs-SI-Comparison.md](./03-CI-vs-SI-Comparison.md) | Difference between CI and SI, mixed problems |
+| [04-Change-in-Compounding-Period.md](./04-Change-in-Compounding-Period.md) | Annual vs half-yearly vs quarterly comparison |
 
 ## Quick Reference
 
 - "Find SI" → See [01-Simple-Interest.md](./01-Simple-Interest.md)
 - "Find CI / compounded half-yearly" → See [02-Compound-Interest.md](./02-Compound-Interest.md)
 - "Difference between CI and SI" → See [03-CI-vs-SI-Comparison.md](./03-CI-vs-SI-Comparison.md)
+- "Savings if compounding period changes" → See [04-Change-in-Compounding-Period.md](./04-Change-in-Compounding-Period.md)
 
 ---
 

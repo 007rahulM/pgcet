@@ -10,6 +10,7 @@ Expect **2–4 questions** in MCA PGCET. Mostly straightforward formula applicat
 | [02-Discount.md](./02-Discount.md) | Marked Price and Discounts |
 | [03-Successive-Discounts.md](./03-Successive-Discounts.md) | Two or more discounts together |
 | [04-Dishonest-Dealer.md](./04-Dishonest-Dealer.md) | False weight trick |
+| [05-Transaction-Chain-Profit.md](./05-Transaction-Chain-Profit.md) | Multi-person buy/sell profit chain |
 
 ## Key Abbreviations
 

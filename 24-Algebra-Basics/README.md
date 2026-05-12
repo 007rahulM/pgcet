@@ -13,6 +13,7 @@ Algebra basics are a high-value foundation topic because they support **Quadrati
 | [Pattern3-Indices-and-Logarithms.md](./Pattern3-Indices-and-Logarithms.md) | Powers and logarithms | "Simplify exponents", "find log", "change of base" |
 | [Pattern4-Progressions-and-Binomial.md](./Pattern4-Progressions-and-Binomial.md) | AP, GP, HP, binomial theorem | "nth term", "sum of terms", "coefficient" |
 | [Pattern5-Factorization-and-Expressions.md](./Pattern5-Factorization-and-Expressions.md) | Factorization and simplification | "split middle term", "difference of squares" |
+| [Pattern6-BODMAS-and-Nested-Expressions.md](./Pattern6-BODMAS-and-Nested-Expressions.md) | Fast arithmetic evaluation | "find the value of 40-[20-{...}]" |
 
 ## Golden Rules
 
@@ -24,7 +25,7 @@ Algebra basics are a high-value foundation topic because they support **Quadrati
 ## Study Order
 
 1. Start with **Pattern 1** for the full picture.
-2. Master **Pattern 5** and **Pattern 2** next — these are used most often.
+2. Master **Pattern 5**, **Pattern 2**, and **Pattern 6** next — these are used most often in speed-based questions.
 3. Then do **Pattern 3** and **Pattern 4** for formula-based questions.
 
 ## Practice Flow
