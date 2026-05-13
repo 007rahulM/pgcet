@@ -21,6 +21,17 @@ Use formulas for grid counting instead of manual counting.
 [m(m+1)/2] × [n(n+1)/2]
 ```
 
+## ✂️ Pattern-Cutting for Non-Perfect Figures
+
+When grid lines are broken / extra lines are added:
+
+1. Split into simple full grids.
+2. Count each full grid using formula.
+3. Add rectangles formed across shared boundaries.
+4. Subtract shapes counted twice.
+
+This is the fastest way in composite counting questions.
+
 ## 📌 Example Grid (3×2)
 
 ```
@@ -64,8 +75,22 @@ Step 4: Total rectangles = 6 × 3 = 18
 
 ---
 
+## 🔥 Example 3 (Composite Cut Method)
+
+A figure is made by joining a **2×2 grid** and a **1×2 grid** on one side.
+
+Step 1: Rectangles in 2×2 = (2×3/2)×(2×3/2) = 3×3 = 9  
+Step 2: Rectangles in 1×2 = (1×2/2)×(2×3/2) = 1×3 = 3  
+Step 3: Cross-boundary rectangles (spanning both parts) = 4  
+
+**✅ Total rectangles = 9 + 3 + 4 = 16**
+
+---
+
 ## 📝 Practice Problems
 
 1. Squares in a 4×4 grid?
 2. Rectangles in a 4×3 grid?
 3. Squares in a 5×5 grid?
+4. Rectangles in a 2×5 grid?
+5. A 3×3 grid has one small square removed from a corner. Count complete squares left.

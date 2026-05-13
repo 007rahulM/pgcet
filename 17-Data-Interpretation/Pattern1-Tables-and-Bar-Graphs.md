@@ -7,6 +7,22 @@
 - "Find the % change from year X to year Y"
 - "In which period was the value highest?"
 
+### Quick Visual Clue
+
+Typical bar graph looks like:
+```
+Value
+  |
+9 |        █
+8 |   █    █
+7 |   █ █  █
+6 | █ █ █  █
+  +----------------
+    Jan Feb Mar Apr
+```
+
+Read axis labels and units first.
+
 ---
 
 ## 🧠 General Strategy
@@ -102,6 +118,7 @@ Step 4: % increase Jan→Mar = (9000−8000)/8000 × 100 = 1000/8000 × 100 = **
 2. **For large numbers:** Round to nearest 100/1000, calculate, adjust
 3. **Approximation is OK** for MCQs — options are usually spaced far apart
 4. **Find max/min visually** — scan the column/row for highest/lowest
+5. In bar graphs, compare **height first**, calculate only when needed
 
 ---
 
@@ -129,6 +146,7 @@ Step 4: % increase Jan→Mar = (9000−8000)/8000 × 100 = 1000/8000 × 100 = **
 5. What was the average annual revenue of Company B over the 4 years?
 
 6. Which company showed the highest % growth from 2019 to 2022?
+7. Draw a quick bar chart from the table and identify visually closest years for A and C.
 
 ---
 

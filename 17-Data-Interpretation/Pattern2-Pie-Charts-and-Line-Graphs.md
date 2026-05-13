@@ -7,6 +7,30 @@
 - "Find the angle for sector X"
 - "On which day was the rise highest?"
 
+### Quick Visual Templates
+
+**Pie chart sketch:**
+```
+      ______
+   .-'  |   '-.
+  / 30% | 20%  \
+ |------+------|
+  \ 25% | 25% /
+   '-.__|__. -'
+```
+
+**Line graph sketch:**
+```
+Value
+  |
+40|        *
+35|     *     *
+30|  *
+25|
+  +----------------
+    Mon Tue Wed Thu
+```
+
 ---
 
 ## 📐 Key Formulas
@@ -118,6 +142,7 @@ Step 2: Differences: Jan=10, Feb=15, Mar=5, Apr=25, May=5
 - To find greatest rise/fall: calculate differences between consecutive points
 - Look for steepest slope visually
 - For "total" questions: add all values shown
+- For unclear graph print, write points as a mini-table first
 
 ---
 

@@ -16,6 +16,19 @@
 3. **Draw a tree or table** of the data
 4. **Answer questions** from your extracted data
 
+### Caselet Extraction Template (Use Every Time)
+
+```
+Total = ______
+Group A = ______
+Group B = ______
+Subgroup of A = ______
+Subgroup of B = ______
+Required = ______
+```
+
+If percentages are nested, convert to absolute numbers step-by-step.
+
 ---
 
 ## ✅ Step-by-Step Examples

@@ -28,6 +28,38 @@ D = b^2 - 4ac
 
 ---
 
+## 🎯 Parameter (k) Questions — k≥, k≤, k=0 Type
+
+These are exactly the questions where an equation has a parameter like:
+`x² + kx + 4 = 0` or `x² + (k-2)x + (k+1)=0`
+
+Use only discriminant:
+
+1. Write `D(k) = b² - 4ac`
+2. Apply condition:
+   - real roots → `D(k) ≥ 0`
+   - equal roots → `D(k) = 0`
+   - no real roots → `D(k) < 0`
+3. Solve inequality/equation in k
+
+### Example A
+For `x² + kx + 1 = 0`, find k for real roots.
+
+`D = k² - 4`
+Real roots ⇒ `k² - 4 ≥ 0` ⇒ `(k-2)(k+2) ≥ 0`
+
+**Answer:** `k ≤ -2` or `k ≥ 2`
+
+### Example B
+For `x² + (k-3)x + 2 = 0`, find k for equal roots.
+
+`D = (k-3)² - 8 = 0`
+`(k-3)² = 8`
+
+**Answer:** `k = 3 ± 2√2`
+
+---
+
 ## ✅ Step-by-Step Examples
 
 ### Example 1
