@@ -16,3 +16,11 @@ Counting triangles, squares, rectangles, and cubes falls under visual/spatial re
 ## Study Order
 
 Start with triangles, then grids, then squares/rectangles, and finish with cubes.
+
+## Diagram & Image-Difference Support
+
+- Use the **[Math 60-Second Playbook](../Revision-Sheets/Math-60-Second-Playbook.md)**.
+- For figure counting/image-difference style questions:
+  - count by layers (small → medium → large),
+  - mark each counted shape once,
+  - redraw rough figures if the printed one is unclear.

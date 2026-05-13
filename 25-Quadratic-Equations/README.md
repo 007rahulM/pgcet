@@ -24,3 +24,11 @@ Quadratics usually appear as direct marks because the question types repeat.
 1. Pattern 1 for the complete picture.
 2. Pattern 2 for fast exam questions.
 3. Pattern 3 for equation-building questions.
+
+## Beginner Speed Support
+
+- For fast solving in 60 seconds, use: **[Math 60-Second Playbook](../Revision-Sheets/Math-60-Second-Playbook.md)**.
+- PYQ links for direct practice:
+  - [2025 Topic Mapping](../papers-qp/2025/Topic-Mapping.md)
+  - [2024 Topic Mapping](../papers-qp/2024/Topic-Mapping.md)
+  - [2023 Topic Mapping](../papers-qp/2023/Topic-Mapping.md)

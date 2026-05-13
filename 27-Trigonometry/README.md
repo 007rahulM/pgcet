@@ -27,3 +27,9 @@ Trigonometry becomes easy when you split questions into repeating patterns: **st
 2. Pattern 2 next.
 3. Then Pattern 5 and Pattern 3.
 4. Finish with Pattern 4.
+
+## Beginner + Diagram Support
+
+- Use the **[Math 60-Second Playbook](../Revision-Sheets/Math-60-Second-Playbook.md)**.
+- In heights/distances and triangle questions: draw first, solve second.
+- For time pressure: identify ratio needed (`sin/cos/tan`) before calculation.

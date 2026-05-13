@@ -29,3 +29,9 @@ Data Interpretation (DI) tests your ability to read and analyze presented data. 
 ## Study Order
 
 Pattern 1 → Pattern 2 → Pattern 3. Tables are simplest, caselets are trickiest.
+
+## Beginner + Visual Support
+
+- Use the **[Math 60-Second Playbook](../Revision-Sheets/Math-60-Second-Playbook.md)**.
+- For line/pie questions: read the question first, then scan values.
+- If graph clarity is poor, make a quick mini-table and solve from it.

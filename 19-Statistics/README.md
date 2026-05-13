@@ -34,3 +34,8 @@ Statistics covers data analysis including averages, spread, and frequency distri
 ## Study Order
 
 Pattern 1 → Pattern 2 → Pattern 3. Learn individual measures before grouped data formulas.
+
+## Beginner Speed Support
+
+- Use the **[Math 60-Second Playbook](../Revision-Sheets/Math-60-Second-Playbook.md)** for quick SD/variance decisions.
+- First apply property checks (add/multiply constant effects), then do full SD computation only if needed.

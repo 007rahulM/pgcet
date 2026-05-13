@@ -38,3 +38,11 @@ Each pattern file now ends with:
 - a separate **answers file** for detailed solutions
 
 > Quadratic equations are covered separately in **[25-Quadratic-Equations](../25-Quadratic-Equations/)**.
+
+## Beginner Speed Support
+
+- Use the **[Math 60-Second Playbook](../Revision-Sheets/Math-60-Second-Playbook.md)** for pattern-first solving and memory hooks.
+- Practice mapped PYQs from:
+  - [2025 Topic Mapping](../papers-qp/2025/Topic-Mapping.md)
+  - [2024 Topic Mapping](../papers-qp/2024/Topic-Mapping.md)
+  - [2023 Topic Mapping](../papers-qp/2023/Topic-Mapping.md)

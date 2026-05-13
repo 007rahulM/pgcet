@@ -25,3 +25,9 @@ Coordinate Geometry becomes easy once you reduce every question to one of a few 
 1. Pattern 2 first — it covers the most-used tools.
 2. Pattern 3 next — circle questions are usually direct.
 3. Pattern 4 after that — memorize standard forms and focus/directrix facts.
+
+## Beginner + Diagram Support
+
+- Use the **[Math 60-Second Playbook](../Revision-Sheets/Math-60-Second-Playbook.md)**.
+- Always draw a tiny sketch before formula use (points, slope direction, line relation).
+- If a printed figure is unclear, redraw rough coordinates and solve from that sketch.
