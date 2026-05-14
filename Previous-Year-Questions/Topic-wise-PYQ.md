@@ -206,3 +206,13 @@ What does this query do?
 
 **2019 (Pattern):** 2, 3, 5, 8, 13, ?
 **Answer:** 21 (Fibonacci: each = sum of previous two)
+
+---
+
+## 📅 Previous Year Appearance (PGCET)
+
+- **2025:** ❌ Not appeared
+- **2024:** ❌ Not appeared
+- **2023:** ❌ Not appeared
+
+> Links open the exact question in the respective year's paper for cross-reference.

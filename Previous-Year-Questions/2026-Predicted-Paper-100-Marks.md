@@ -322,3 +322,13 @@
 - (B) Neither of the boys has come.
 - (C) Neither of the boys are come.
 - (D) Neither of the boys were come.
+
+---
+
+## 📅 Previous Year Appearance (PGCET)
+
+- **2025:** ❌ Not appeared
+- **2024:** ❌ Not appeared
+- **2023:** ❌ Not appeared
+
+> Links open the exact question in the respective year's paper for cross-reference.

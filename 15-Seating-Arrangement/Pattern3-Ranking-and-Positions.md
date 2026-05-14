@@ -86,3 +86,13 @@ Now both are from top (12 and 27):
 ## Answers
 
 > 📖 **[See detailed step-by-step solutions →](./Pattern3-Ranking-and-Positions-Answers.md)**
+
+---
+
+## 📅 Previous Year Appearance (PGCET)
+
+- **2025:** ❌ Not appeared
+- **2024:** ✅ Appeared → [Q19](../../papers-qp/2024/Questions.md#q19)
+- **2023:** ❌ Not appeared
+
+> Links open the exact question in the respective year's paper for cross-reference.

@@ -9,16 +9,35 @@
 
 ### Quick Visual Clue
 
-Typical bar graph looks like:
+**Grouped bar graph (two products):**
 ```
-Value
-  |
-9 |        █
-8 |   █    █
-7 |   █ █  █
-6 | █ █ █  █
-  +----------------
-    Jan Feb Mar Apr
+Units
+(00s)
+ 6 | [A][B]       [A]
+ 5 |       [A][B]      [A][B]
+ 4 |                
+ 3 |          [B]
+ 2 |
+   +----+----+----+----
+       Q1   Q2   Q3   Q4
+   [A] = Product A,  [B] = Product B
+```
+
+**Comparative bar chart (companies, 3 years):**
+```
+Revenue
+(₹ Cr)
+ 600 |                    C22
+ 550 |               C21
+ 500 |          A21  
+ 480 |               A22
+ 450 |     A20
+ 400 |  A19            B22
+ 350 |     B20
+ 300 |  C19
+     +----+----+----+----
+       2019  2020  2021  2022
+   Each bar: Company + Year label
 ```
 
 Read axis labels and units first.
@@ -152,3 +171,13 @@ Step 4: % increase Jan→Mar = (9000−8000)/8000 × 100 = 1000/8000 × 100 = **
 
 
 > 📖 **[See detailed step-by-step solutions →](./Pattern1-Tables-and-Bar-Graphs-Answers.md)**
+
+---
+
+## 📅 Previous Year Appearance (PGCET)
+
+- **2025:** ✅ Appeared → [Q58](../../papers-qp/2025/Questions.md#q58)
+- **2024:** ✅ Appeared → [Q98](../../papers-qp/2024/Questions.md#q98), [Q99](../../papers-qp/2024/Questions.md#q99), [Q100](../../papers-qp/2024/Questions.md#q100)
+- **2023:** ✅ Appeared → [Q76](../../papers-qp/2023/Questions.md#q76), [Q77](../../papers-qp/2023/Questions.md#q77), [Q78](../../papers-qp/2023/Questions.md#q78), [Q79](../../papers-qp/2023/Questions.md#q79), [Q80](../../papers-qp/2023/Questions.md#q80)
+
+> Links open the exact question in the respective year's paper for cross-reference.

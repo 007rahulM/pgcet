@@ -172,3 +172,13 @@ Ways = (6−1)! = 5! = 5 × 4 × 3 × 2 × 1 = **120**
 ---
 
 > 📖 **[See detailed step-by-step solutions →](./01-Permutations-Answers.md)**
+
+---
+
+## 📅 Previous Year Appearance (PGCET)
+
+- **2025:** ❌ Not appeared
+- **2024:** ❌ Not appeared
+- **2023:** ✅ Appeared → [Q39](../../papers-qp/2023/Questions.md#q39)
+
+> Links open the exact question in the respective year's paper for cross-reference.

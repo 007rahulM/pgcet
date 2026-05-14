@@ -107,3 +107,13 @@ Coefficient = 24.
 ## ✔️ Answers
 
 > 📖 **[See detailed step-by-step solutions →](./Pattern4-Progressions-and-Binomial-Answers.md)**
+
+---
+
+## 📅 Previous Year Appearance (PGCET)
+
+- **2025:** ✅ Appeared → [Q3](../../papers-qp/2025/Questions.md#q3), [Q4](../../papers-qp/2025/Questions.md#q4)
+- **2024:** ❌ Not appeared
+- **2023:** ✅ Appeared → [Q37](../../papers-qp/2023/Questions.md#q37)
+
+> Links open the exact question in the respective year's paper for cross-reference.

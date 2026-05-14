@@ -179,3 +179,13 @@ Step 1: Back = opposite of front = 7 − 2 = **5**
 ## ✔️ Answers
 
 > 📖 **[See detailed step-by-step solutions →](./Pattern1-Opposite-Face-Answers.md)**
+
+---
+
+## 📅 Previous Year Appearance (PGCET)
+
+- **2025:** ✅ Appeared → [Q61](../../papers-qp/2025/Questions.md#q61)
+- **2024:** ❌ Not appeared
+- **2023:** ❌ Not appeared
+
+> Links open the exact question in the respective year's paper for cross-reference.

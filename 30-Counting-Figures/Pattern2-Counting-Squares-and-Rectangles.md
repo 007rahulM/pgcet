@@ -94,3 +94,13 @@ Step 3: Cross-boundary rectangles (spanning both parts) = 4
 3. Squares in a 5×5 grid?
 4. Rectangles in a 2×5 grid?
 5. A 3×3 grid has one small square removed from a corner. Count complete squares left.
+
+---
+
+## 📅 Previous Year Appearance (PGCET)
+
+- **2025:** ❌ Not appeared
+- **2024:** ❌ Not appeared
+- **2023:** ❌ Not appeared
+
+> Links open the exact question in the respective year's paper for cross-reference.

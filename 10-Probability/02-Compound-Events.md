@@ -183,3 +183,13 @@ Step 4: P(at least 2 heads) = 1 − 1/8 − 3/8 = 4/8 = 1/2
 ---
 
 > 📖 **[See detailed step-by-step solutions →](./02-Compound-Events-Answers.md)**
+
+---
+
+## 📅 Previous Year Appearance (PGCET)
+
+- **2025:** ❌ Not appeared
+- **2024:** ❌ Not appeared
+- **2023:** ❌ Not appeared
+
+> Links open the exact question in the respective year's paper for cross-reference.

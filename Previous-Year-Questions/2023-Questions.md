@@ -286,3 +286,13 @@
 
 **Answer: (B) Neither of the students has submitted.**
 **Solution:** "Neither" with a plural noun uses a singular verb → "has" is correct.
+
+---
+
+## 📅 Previous Year Appearance (PGCET)
+
+- **2025:** ❌ Not appeared
+- **2024:** ❌ Not appeared
+- **2023:** ❌ Not appeared
+
+> Links open the exact question in the respective year's paper for cross-reference.

@@ -158,3 +158,13 @@ Low=4, High=4, Mid=4 → arr[4]=23 = 23 FOUND!
 
 
 > 📖 **[See detailed step-by-step solutions →](./04-Algorithms-Answers.md)**
+
+---
+
+## 📅 Previous Year Appearance (PGCET)
+
+- **2025:** ❌ Not appeared
+- **2024:** ❌ Not appeared
+- **2023:** ❌ Not appeared
+
+> Links open the exact question in the respective year's paper for cross-reference.

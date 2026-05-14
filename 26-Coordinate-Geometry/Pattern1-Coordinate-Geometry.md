@@ -502,3 +502,13 @@ After mastering above 10 problems, practice:
 - IndiaBix.com → Coordinate Geometry (25 problems)
 
 **Goal:** Solve any coordinate geometry problem in under 60 seconds!
+
+---
+
+## 📅 Previous Year Appearance (PGCET)
+
+- **2025:** ❌ Not appeared
+- **2024:** ❌ Not appeared
+- **2023:** ❌ Not appeared
+
+> Links open the exact question in the respective year's paper for cross-reference.

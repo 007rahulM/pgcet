@@ -59,3 +59,13 @@
 1. A: Factory machine failed. B: Production dropped next day.
 2. A: Exam date postponed. B: Students got extra preparation time.
 3. A: Flood warning issued. B: People moved to shelters.
+
+---
+
+## 📅 Previous Year Appearance (PGCET)
+
+- **2025:** ✅ Appeared → [Q60](../../papers-qp/2025/Questions.md#q60)
+- **2024:** ❌ Not appeared
+- **2023:** ❌ Not appeared
+
+> Links open the exact question in the respective year's paper for cross-reference.

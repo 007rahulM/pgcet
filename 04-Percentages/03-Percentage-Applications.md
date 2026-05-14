@@ -182,3 +182,13 @@ B is less than A by = (30 / (100 + 30)) × 100 = 30 / 130 × 100 ≈ **23.08%**
 ---
 
 > 📖 **[See detailed step-by-step solutions →](./03-Percentage-Applications-Answers.md)**
+
+---
+
+## 📅 Previous Year Appearance (PGCET)
+
+- **2025:** ❌ Not appeared
+- **2024:** ❌ Not appeared
+- **2023:** ❌ Not appeared
+
+> Links open the exact question in the respective year's paper for cross-reference.

@@ -58,3 +58,12 @@ So here:
 - 3 min : 5 min 36 sec = 180 : 336 = 15 : 28  
 - Correct moment is at 15/(15+28) = 15/43 of total interval.
 
+---
+
+## 📅 Previous Year Appearance (PGCET)
+
+- **2025:** ❌ Not appeared
+- **2024:** ❌ Not appeared
+- **2023:** ✅ Appeared → [Q62](../../papers-qp/2023/Questions.md#q62)
+
+> Links open the exact question in the respective year's paper for cross-reference.

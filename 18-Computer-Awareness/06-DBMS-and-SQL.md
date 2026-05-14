@@ -201,3 +201,13 @@ INNER JOIN Courses ON Students.CourseID = Courses.ID;
 
 
 > 📖 **[See detailed step-by-step solutions →](./06-DBMS-and-SQL-Answers.md)**
+
+---
+
+## 📅 Previous Year Appearance (PGCET)
+
+- **2025:** ✅ Appeared → [Q33](../../papers-qp/2025/Questions.md#q33)
+- **2024:** ❌ Not appeared
+- **2023:** ❌ Not appeared
+
+> Links open the exact question in the respective year's paper for cross-reference.

@@ -179,3 +179,13 @@ Without a third view to narrow further, the most common exam format gives enough
 ## ✔️ Answers
 
 > 📖 **[See detailed step-by-step solutions →](./Pattern2-Dice-Views-Answers.md)**
+
+---
+
+## 📅 Previous Year Appearance (PGCET)
+
+- **2025:** ❌ Not appeared
+- **2024:** ❌ Not appeared
+- **2023:** ❌ Not appeared
+
+> Links open the exact question in the respective year's paper for cross-reference.

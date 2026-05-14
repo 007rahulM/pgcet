@@ -151,3 +151,13 @@ Try to solve each in under 60 seconds:
 ---
 
 > 📖 **[See detailed step-by-step solutions →](./Pattern1-Basic-Together-Answers.md)**
+
+---
+
+## 📅 Previous Year Appearance (PGCET)
+
+- **2025:** ✅ Appeared → [Q53](../../papers-qp/2025/Questions.md#q53)
+- **2024:** ✅ Appeared → [Q26](../../papers-qp/2024/Questions.md#q26)
+- **2023:** ❌ Not appeared
+
+> Links open the exact question in the respective year's paper for cross-reference.

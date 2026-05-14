@@ -9,26 +9,63 @@
 
 ### Quick Visual Templates
 
-**Pie chart sketch:**
+**Pie chart (labeled sectors):**
 ```
-      ______
-   .-'  |   '-.
-  / 30% | 20%  \
- |------+------|
-  \ 25% | 25% /
-   '-.__|__. -'
+           Food 30%
+        ___________
+      /      |      \
+     /  30%  |  20%  \
+    |   Food | Rent   |
+    |--------|--------|   ← Each sector angle = % × 3.6
+    |  25%   |  25%   |
+     \ Trans |  Edu  /
+      \______|______/
+      Transport 25%
 ```
 
-**Line graph sketch:**
+**Realistic labeled pie chart (Budget ₹60,000):**
 ```
-Value
-  |
-40|        *
-35|     *     *
-30|  *
-25|
-  +----------------
-    Mon Tue Wed Thu
+              Food (30%) = ₹18,000
+             /  108° sector
+           /___
+          | *  |  ← angle = 30% × 360 = 108°
+    Rent  |  * |  25% = 90°
+    25%   | *  |
+          |*___|
+           \   \
+            \   Education 20% = 72°
+             Transport 15% = 54°, Others 10% = 36°
+```
+
+**Line graph (two companies):**
+```
+Sales
+(₹L)
+ 60 |         *  ← Company X peak (Apr)
+ 55 |              *
+ 50 |    *          * ← Company Y peak (May)
+ 45 |        *
+ 40 | *
+ 35 |    *       *
+ 30 | *    *
+ 25 |
+    +----+----+----+----+----
+       Jan  Feb  Mar  Apr  May
+    ─── Company X    ─ ─ Company Y
+```
+
+**Multi-line graph (trend comparison):**
+```
+Temp
+(°C)
+ 33 |              *  ← Thu peak
+ 32 |    *
+ 31 |                   *
+ 30 | *
+ 29 |         *
+    +----+----+----+----+----
+       Mon  Tue  Wed  Thu  Fri
+   Greatest rise: Wed→Thu = +4°C
 ```
 
 ---
@@ -175,3 +212,13 @@ Monthly rainfall (mm): Jan=80, Feb=60, Mar=40, Apr=20, May=10, Jun=90, Jul=150, 
 
 
 > 📖 **[See detailed step-by-step solutions →](./Pattern2-Pie-Charts-and-Line-Graphs-Answers.md)**
+
+---
+
+## 📅 Previous Year Appearance (PGCET)
+
+- **2025:** ✅ Appeared → [Q57](../../papers-qp/2025/Questions.md#q57)
+- **2024:** ❌ Not appeared
+- **2023:** ❌ Not appeared
+
+> Links open the exact question in the respective year's paper for cross-reference.

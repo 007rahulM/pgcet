@@ -144,3 +144,13 @@ Step 2: A needs to gain 400 m on B → Time = 400 ÷ 2 = 200 seconds
 ---
 
 > 📖 **[See detailed step-by-step solutions →](./03-Relative-Speed-Answers.md)**
+
+---
+
+## 📅 Previous Year Appearance (PGCET)
+
+- **2025:** ❌ Not appeared
+- **2024:** ❌ Not appeared
+- **2023:** ❌ Not appeared
+
+> Links open the exact question in the respective year's paper for cross-reference.

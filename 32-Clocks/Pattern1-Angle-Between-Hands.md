@@ -191,3 +191,13 @@ Step 2: At 2 hours 27 3/11 minutes, the hands are at 90°.
 ## ✔️ Answers
 
 > 📖 **[See detailed step-by-step solutions →](./Pattern1-Angle-Between-Hands-Answers.md)**
+
+---
+
+## 📅 Previous Year Appearance (PGCET)
+
+- **2025:** ✅ Appeared → [Q56](../../papers-qp/2025/Questions.md#q56)
+- **2024:** ❌ Not appeared
+- **2023:** ❌ Not appeared
+
+> Links open the exact question in the respective year's paper for cross-reference.

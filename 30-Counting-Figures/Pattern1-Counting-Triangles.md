@@ -113,3 +113,13 @@ D------E------F
 5. In a mixed figure, count only triangles that include the center intersection point.
 
 **Tip:** Draw and label each triangle size before counting.
+
+---
+
+## 📅 Previous Year Appearance (PGCET)
+
+- **2025:** ❌ Not appeared
+- **2024:** ❌ Not appeared
+- **2023:** ❌ Not appeared
+
+> Links open the exact question in the respective year's paper for cross-reference.

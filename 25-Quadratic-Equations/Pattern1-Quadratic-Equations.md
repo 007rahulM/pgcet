@@ -168,3 +168,12 @@ x² - x - 6 = 0
 
 **Master this topic = 2–4 easy marks.**
 
+---
+
+## 📅 Previous Year Appearance (PGCET)
+
+- **2025:** ✅ Appeared → [Q2](../../papers-qp/2025/Questions.md#q2)
+- **2024:** ❌ Not appeared
+- **2023:** ❌ Not appeared
+
+> Links open the exact question in the respective year's paper for cross-reference.

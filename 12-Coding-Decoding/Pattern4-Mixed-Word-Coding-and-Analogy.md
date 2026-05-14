@@ -137,3 +137,13 @@ For analogy coding:
 ---
 
 > 📖 **[See detailed step-by-step solutions →](./Pattern4-Mixed-Word-Coding-and-Analogy-Answers.md)**
+
+---
+
+## 📅 Previous Year Appearance (PGCET)
+
+- **2025:** ❌ Not appeared
+- **2024:** ❌ Not appeared
+- **2023:** ❌ Not appeared
+
+> Links open the exact question in the respective year's paper for cross-reference.

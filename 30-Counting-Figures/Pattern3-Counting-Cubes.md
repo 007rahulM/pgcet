@@ -63,3 +63,13 @@ Step 4: Total = 1 + 8 + 27 = 36
 1. Unit cubes in a 4×4×4 cube?
 2. All cubes of all sizes in a 2×2×2 cube?
 3. All cubes of all sizes in a 4×4×4 cube?
+
+---
+
+## 📅 Previous Year Appearance (PGCET)
+
+- **2025:** ❌ Not appeared
+- **2024:** ❌ Not appeared
+- **2023:** ❌ Not appeared
+
+> Links open the exact question in the respective year's paper for cross-reference.

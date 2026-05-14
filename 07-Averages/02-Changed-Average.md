@@ -177,3 +177,13 @@ New student's weight = 561 − 500 = **61 kg**
 ---
 
 > 📖 **[See detailed step-by-step solutions →](./02-Changed-Average-Answers.md)**
+
+---
+
+## 📅 Previous Year Appearance (PGCET)
+
+- **2025:** ❌ Not appeared
+- **2024:** ❌ Not appeared
+- **2023:** ❌ Not appeared
+
+> Links open the exact question in the respective year's paper for cross-reference.

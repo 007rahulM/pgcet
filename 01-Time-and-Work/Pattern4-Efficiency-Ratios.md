@@ -163,3 +163,13 @@ Step 2: How long does A take to do 1/2 the work?
 ---
 
 > 📖 **[See detailed step-by-step solutions →](./Pattern4-Efficiency-Ratios-Answers.md)**
+
+---
+
+## 📅 Previous Year Appearance (PGCET)
+
+- **2025:** ❌ Not appeared
+- **2024:** ❌ Not appeared
+- **2023:** ❌ Not appeared
+
+> Links open the exact question in the respective year's paper for cross-reference.

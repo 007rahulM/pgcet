@@ -162,3 +162,13 @@ Step 2: Apply −3 to each letter of NICE
 ---
 
 > 📖 **[See detailed step-by-step solutions →](./Pattern1-Letter-Shifting-Answers.md)**
+
+---
+
+## 📅 Previous Year Appearance (PGCET)
+
+- **2025:** ❌ Not appeared
+- **2024:** ✅ Appeared → [Q17](../../papers-qp/2024/Questions.md#q17)
+- **2023:** ✅ Appeared → [Q16](../../papers-qp/2023/Questions.md#q16)
+
+> Links open the exact question in the respective year's paper for cross-reference.

@@ -285,3 +285,13 @@ Error is: (A) He  (B) plays  (C) since  (D) childhood
 - (A) Insomniac  (B) Somnambulist  (C) Narcoleptic  (D) Hypnotist
 
 **Answer: (B) Somnambulist**
+
+---
+
+## 📅 Previous Year Appearance (PGCET)
+
+- **2025:** ❌ Not appeared
+- **2024:** ❌ Not appeared
+- **2023:** ❌ Not appeared
+
+> Links open the exact question in the respective year's paper for cross-reference.

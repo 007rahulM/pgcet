@@ -117,3 +117,13 @@ Step 4: Final value
 ---
 
 > 📖 **[See detailed step-by-step solutions →](./Pattern6-BODMAS-and-Nested-Expressions-Answers.md)**
+
+---
+
+## 📅 Previous Year Appearance (PGCET)
+
+- **2025:** ❌ Not appeared
+- **2024:** ❌ Not appeared
+- **2023:** ❌ Not appeared
+
+> Links open the exact question in the respective year's paper for cross-reference.

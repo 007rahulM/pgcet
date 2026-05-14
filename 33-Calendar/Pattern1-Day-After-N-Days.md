@@ -187,3 +187,13 @@ Step 1: Code = (4 − 3 + 7) mod 7 = **1 = Monday**
 ## ✔️ Answers
 
 > 📖 **[See detailed step-by-step solutions →](./Pattern1-Day-After-N-Days-Answers.md)**
+
+---
+
+## 📅 Previous Year Appearance (PGCET)
+
+- **2025:** ❌ Not appeared
+- **2024:** ❌ Not appeared
+- **2023:** ❌ Not appeared
+
+> Links open the exact question in the respective year's paper for cross-reference.

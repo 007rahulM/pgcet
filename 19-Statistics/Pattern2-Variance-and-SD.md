@@ -161,3 +161,13 @@ This is faster than computing each deviation!
 
 
 > 📖 **[See detailed step-by-step solutions →](./Pattern2-Variance-and-SD-Answers.md)**
+
+---
+
+## 📅 Previous Year Appearance (PGCET)
+
+- **2025:** ✅ Appeared → [Q23](../../papers-qp/2025/Questions.md#q23), [Q24](../../papers-qp/2025/Questions.md#q24), [Q25](../../papers-qp/2025/Questions.md#q25)
+- **2024:** ✅ Appeared → [Q57](../../papers-qp/2024/Questions.md#q57)
+- **2023:** ✅ Appeared → [Q54](../../papers-qp/2023/Questions.md#q54), [Q55](../../papers-qp/2023/Questions.md#q55), [Q56](../../papers-qp/2023/Questions.md#q56)
+
+> Links open the exact question in the respective year's paper for cross-reference.

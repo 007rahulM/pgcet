@@ -71,3 +71,12 @@ E(X) = 0×0.2 + 1×0.5 + 2×0.3 = 1.1
 2) pq = 0.21  
 3) np = 1
 
+---
+
+## 📅 Previous Year Appearance (PGCET)
+
+- **2025:** ❌ Not appeared
+- **2024:** ❌ Not appeared
+- **2023:** ❌ Not appeared
+
+> Links open the exact question in the respective year's paper for cross-reference.

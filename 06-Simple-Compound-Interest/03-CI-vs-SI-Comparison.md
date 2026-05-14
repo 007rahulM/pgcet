@@ -155,3 +155,13 @@ R = **10%**
 ---
 
 > 📖 **[See detailed step-by-step solutions →](./03-CI-vs-SI-Comparison-Answers.md)**
+
+---
+
+## 📅 Previous Year Appearance (PGCET)
+
+- **2025:** ✅ Appeared → [Q54](../../papers-qp/2025/Questions.md#q54)
+- **2024:** ✅ Appeared → [Q42](../../papers-qp/2024/Questions.md#q42)
+- **2023:** ❌ Not appeared
+
+> Links open the exact question in the respective year's paper for cross-reference.

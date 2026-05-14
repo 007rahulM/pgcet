@@ -123,3 +123,13 @@ So there are **no real roots**.
 ## ✔️ Answers
 
 > 📖 **[See detailed step-by-step solutions →](./Pattern2-Discriminant-and-Nature-of-Roots-Answers.md)**
+
+---
+
+## 📅 Previous Year Appearance (PGCET)
+
+- **2025:** ❌ Not appeared
+- **2024:** ❌ Not appeared
+- **2023:** ❌ Not appeared
+
+> Links open the exact question in the respective year's paper for cross-reference.

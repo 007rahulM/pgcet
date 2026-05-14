@@ -154,3 +154,13 @@ Step 3: P(not red) = 5/10 = 1/2
 ---
 
 > 📖 **[See detailed step-by-step solutions →](./01-Basic-Probability-Answers.md)**
+
+---
+
+## 📅 Previous Year Appearance (PGCET)
+
+- **2025:** ✅ Appeared → [Q21](../../papers-qp/2025/Questions.md#q21), [Q22](../../papers-qp/2025/Questions.md#q22), [Q43](../../papers-qp/2025/Questions.md#q43)
+- **2024:** ✅ Appeared → [Q53](../../papers-qp/2024/Questions.md#q53), [Q54](../../papers-qp/2024/Questions.md#q54), [Q55](../../papers-qp/2024/Questions.md#q55), [Q56](../../papers-qp/2024/Questions.md#q56)
+- **2023:** ✅ Appeared → [Q53](../../papers-qp/2023/Questions.md#q53)
+
+> Links open the exact question in the respective year's paper for cross-reference.

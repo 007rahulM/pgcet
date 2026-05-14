@@ -177,3 +177,13 @@ In 12 hours (720 minutes): 720 ÷ (32 8/11) ≈ 22 times.
 ## ✔️ Answers
 
 > 📖 **[See detailed step-by-step solutions →](./Pattern2-Coincidence-and-Right-Angles-Answers.md)**
+
+---
+
+## 📅 Previous Year Appearance (PGCET)
+
+- **2025:** ❌ Not appeared
+- **2024:** ❌ Not appeared
+- **2023:** ❌ Not appeared
+
+> Links open the exact question in the respective year's paper for cross-reference.

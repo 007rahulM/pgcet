@@ -96,3 +96,13 @@ Radius = √(2^2 + (-5)^2 - 13) = √(4 + 25 - 13) = √16 = 4
 ## ✔️ Answers
 
 > 📖 **[See detailed step-by-step solutions →](./Pattern3-Circles-Answers.md)**
+
+---
+
+## 📅 Previous Year Appearance (PGCET)
+
+- **2025:** ✅ Appeared → [Q11](../../papers-qp/2025/Questions.md#q11)
+- **2024:** ❌ Not appeared
+- **2023:** ❌ Not appeared
+
+> Links open the exact question in the respective year's paper for cross-reference.

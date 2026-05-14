@@ -161,3 +161,13 @@ Step 1: Use A's salary as the base this time
 ---
 
 > 📖 **[See detailed step-by-step solutions →](./01-Basic-Calculations-Answers.md)**
+
+---
+
+## 📅 Previous Year Appearance (PGCET)
+
+- **2025:** ❌ Not appeared
+- **2024:** ❌ Not appeared
+- **2023:** ✅ Appeared → [Q65](../../papers-qp/2023/Questions.md#q65)
+
+> Links open the exact question in the respective year's paper for cross-reference.

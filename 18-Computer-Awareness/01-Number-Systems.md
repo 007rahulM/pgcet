@@ -217,3 +217,13 @@ Answer: 00111111₂
 
 
 > 📖 **[See detailed step-by-step solutions →](./01-Number-Systems-Answers.md)**
+
+---
+
+## 📅 Previous Year Appearance (PGCET)
+
+- **2025:** ✅ Appeared → [Q37](../../papers-qp/2025/Questions.md#q37), [Q41](../../papers-qp/2025/Questions.md#q41), [Q42](../../papers-qp/2025/Questions.md#q42)
+- **2024:** ✅ Appeared → [Q65](../../papers-qp/2024/Questions.md#q65), [Q66](../../papers-qp/2024/Questions.md#q66), [Q67](../../papers-qp/2024/Questions.md#q67), [Q73](../../papers-qp/2024/Questions.md#q73)
+- **2023:** ✅ Appeared → [Q5](../../papers-qp/2023/Questions.md#q5), [Q8](../../papers-qp/2023/Questions.md#q8), [Q12](../../papers-qp/2023/Questions.md#q12), [Q75](../../papers-qp/2023/Questions.md#q75)
+
+> Links open the exact question in the respective year's paper for cross-reference.

@@ -191,3 +191,13 @@ These are common in fill-in-the-blank vocabulary questions.
 
 
 > 📖 **[See detailed step-by-step solutions →](./Pattern2-Vocabulary-Answers.md)**
+
+---
+
+## 📅 Previous Year Appearance (PGCET)
+
+- **2025:** ✅ Appeared → [Q86](../../papers-qp/2025/Questions.md#q86), [Q87](../../papers-qp/2025/Questions.md#q87), [Q88](../../papers-qp/2025/Questions.md#q88), [Q89](../../papers-qp/2025/Questions.md#q89), [Q100](../../papers-qp/2025/Questions.md#q100)
+- **2024:** ✅ Appeared → [Q1](../../papers-qp/2024/Questions.md#q1), [Q2](../../papers-qp/2024/Questions.md#q2), [Q3](../../papers-qp/2024/Questions.md#q3), [Q10](../../papers-qp/2024/Questions.md#q10)
+- **2023:** ✅ Appeared → [Q32](../../papers-qp/2023/Questions.md#q32), [Q33](../../papers-qp/2023/Questions.md#q33), [Q34](../../papers-qp/2023/Questions.md#q34), [Q35](../../papers-qp/2023/Questions.md#q35)
+
+> Links open the exact question in the respective year's paper for cross-reference.

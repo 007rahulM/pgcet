@@ -145,3 +145,13 @@
 
 ## 4) Important note
 For questions where OCR is noisy, re-check with original scan before final memorization. This sheet is for **topic mapping and revision direction** first, and answer reconstruction second.
+
+---
+
+## 📅 Previous Year Appearance (PGCET)
+
+- **2025:** ❌ Not appeared
+- **2024:** ❌ Not appeared
+- **2023:** ❌ Not appeared
+
+> Links open the exact question in the respective year's paper for cross-reference.

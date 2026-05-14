@@ -203,3 +203,13 @@ A-Z  B-Y  C-X  D-W  E-V  F-U  G-T  H-S  I-R  J-Q  K-P  L-O  M-N
 ---
 
 > 📖 **[See detailed step-by-step solutions →](./Pattern2-Opposite-and-Reverse-Answers.md)**
+
+---
+
+## 📅 Previous Year Appearance (PGCET)
+
+- **2025:** ❌ Not appeared
+- **2024:** ❌ Not appeared
+- **2023:** ❌ Not appeared
+
+> Links open the exact question in the respective year's paper for cross-reference.

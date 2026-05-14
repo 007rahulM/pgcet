@@ -51,3 +51,13 @@ Total cubes:
 
 1. A stack has layers 5×5, 4×4, 3×3. How many cubes?
 2. A stack has layers 3×3 and 2×2. How many cubes?
+
+---
+
+## 📅 Previous Year Appearance (PGCET)
+
+- **2025:** ❌ Not appeared
+- **2024:** ❌ Not appeared
+- **2023:** ❌ Not appeared
+
+> Links open the exact question in the respective year's paper for cross-reference.

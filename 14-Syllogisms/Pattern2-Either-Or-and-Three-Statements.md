@@ -168,3 +168,13 @@ All engineers are graduates. Some graduates are rich. No rich person is poor.
 ## ✔️ Answers
 
 > 📖 **[See detailed step-by-step solutions →](./Pattern2-Either-Or-and-Three-Statements-Answers.md)**
+
+---
+
+## 📅 Previous Year Appearance (PGCET)
+
+- **2025:** ❌ Not appeared
+- **2024:** ❌ Not appeared
+- **2023:** ❌ Not appeared
+
+> Links open the exact question in the respective year's paper for cross-reference.

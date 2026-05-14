@@ -219,3 +219,13 @@ So **B alone is sufficient**.
 ---
 
 > 📖 **[See detailed step-by-step solutions →](./Pattern3-Number-Coding-Answers.md)**
+
+---
+
+## 📅 Previous Year Appearance (PGCET)
+
+- **2025:** ✅ Appeared → [Q50](../../papers-qp/2025/Questions.md#q50)
+- **2024:** ❌ Not appeared
+- **2023:** ❌ Not appeared
+
+> Links open the exact question in the respective year's paper for cross-reference.

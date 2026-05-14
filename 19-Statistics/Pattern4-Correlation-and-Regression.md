@@ -98,3 +98,13 @@ r = +1   (same sign as regression coefficients)
 2) Strong negative  
 3) r² = 2 × 0.5 = 1 → r = +1 (since b_yx and b_xy are positive)
 4) y = 25 + 1.2(x − 10)
+
+---
+
+## 📅 Previous Year Appearance (PGCET)
+
+- **2025:** ❌ Not appeared
+- **2024:** ❌ Not appeared
+- **2023:** ❌ Not appeared
+
+> Links open the exact question in the respective year's paper for cross-reference.

@@ -12,10 +12,11 @@ Counting triangles, squares, rectangles, and cubes falls under visual/spatial re
 | [Pattern4-Counting-Triangles-in-Grids.md](./Pattern4-Counting-Triangles-in-Grids.md) | Triangles in triangular grids | "How many triangles in a triangle" |
 | [Pattern5-Counting-Stacked-Cubes.md](./Pattern5-Counting-Stacked-Cubes.md) | Cubes in layered stacks | "How many cubes in pyramid" |
 | [Pattern6-Composite-Rectangles-and-Squares.md](./Pattern6-Composite-Rectangles-and-Squares.md) | Composite grids | "Rectangles in a mixed grid" |
+| [Pattern7-Diagrams-and-Pattern-Cutting.md](./Pattern7-Diagrams-and-Pattern-Cutting.md) | Irregular/composite figures with cutting | L-shapes, star patterns, nested figures, embedded shapes |
 
 ## Study Order
 
-Start with triangles, then grids, then squares/rectangles, and finish with cubes.
+Start with triangles (P1, P4), then grids (P2, P6), then cubes (P3, P5), and finish with composite/irregular figures (P7).
 
 ## Diagram & Image-Difference Support
 
@@ -24,3 +25,4 @@ Start with triangles, then grids, then squares/rectangles, and finish with cubes
   - count by layers (small → medium → large),
   - mark each counted shape once,
   - redraw rough figures if the printed one is unclear.
+- **Pattern 7** is specifically for complex/irregular figures where direct formulas don't apply — use the pattern-cutting zone method taught there.

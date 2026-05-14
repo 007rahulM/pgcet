@@ -69,3 +69,13 @@ Treat this as:
 **Answers:**
 1) Rectangles = (3×4/2) × (3×4/2) = 6 × 6 = 36
 2) Squares = 1^2 + 2^2 + 3^2 + 4^2 = 30
+
+---
+
+## 📅 Previous Year Appearance (PGCET)
+
+- **2025:** ❌ Not appeared
+- **2024:** ❌ Not appeared
+- **2023:** ❌ Not appeared
+
+> Links open the exact question in the respective year's paper for cross-reference.

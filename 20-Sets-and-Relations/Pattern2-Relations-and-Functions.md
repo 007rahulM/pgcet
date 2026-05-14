@@ -146,3 +146,13 @@ A **function** f: A → B assigns **exactly one** element of B to each element o
 
 
 > 📖 **[See detailed step-by-step solutions →](./Pattern2-Relations-and-Functions-Answers.md)**
+
+---
+
+## 📅 Previous Year Appearance (PGCET)
+
+- **2025:** ❌ Not appeared
+- **2024:** ❌ Not appeared
+- **2023:** ❌ Not appeared
+
+> Links open the exact question in the respective year's paper for cross-reference.

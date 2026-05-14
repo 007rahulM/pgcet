@@ -166,3 +166,13 @@ Example: For A=10, B=6, you can use 30, 60, or even 120 as total work. The final
 ---
 
 > 📖 **[See detailed step-by-step solutions →](./Pattern3-Joining-Answers.md)**
+
+---
+
+## 📅 Previous Year Appearance (PGCET)
+
+- **2025:** ❌ Not appeared
+- **2024:** ❌ Not appeared
+- **2023:** ❌ Not appeared
+
+> Links open the exact question in the respective year's paper for cross-reference.

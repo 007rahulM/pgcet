@@ -77,3 +77,13 @@ This avoids recounting from zero.
 2. Count triangles in a triangle with only one median drawn.
 3. Count triangles when one internal segment in a 3-level grid is erased.
 4. Count only upward-facing triangles in a 4-level triangular grid.
+
+---
+
+## 📅 Previous Year Appearance (PGCET)
+
+- **2025:** ❌ Not appeared
+- **2024:** ❌ Not appeared
+- **2023:** ❌ Not appeared
+
+> Links open the exact question in the respective year's paper for cross-reference.

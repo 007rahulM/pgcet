@@ -164,3 +164,13 @@ R = (2P × 100) / (P × 20) = 200P / 20P = **10%**
 ---
 
 > 📖 **[See detailed step-by-step solutions →](./01-Simple-Interest-Answers.md)**
+
+---
+
+## 📅 Previous Year Appearance (PGCET)
+
+- **2025:** ❌ Not appeared
+- **2024:** ❌ Not appeared
+- **2023:** ❌ Not appeared
+
+> Links open the exact question in the respective year's paper for cross-reference.

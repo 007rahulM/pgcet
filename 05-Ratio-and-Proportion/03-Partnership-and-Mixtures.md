@@ -183,3 +183,13 @@ Milk : Water = 9 : 7 = **9:7**
 ---
 
 > 📖 **[See detailed step-by-step solutions →](./03-Partnership-and-Mixtures-Answers.md)**
+
+---
+
+## 📅 Previous Year Appearance (PGCET)
+
+- **2025:** ✅ Appeared → [Q66](../../papers-qp/2025/Questions.md#q66)
+- **2024:** ❌ Not appeared
+- **2023:** ❌ Not appeared
+
+> Links open the exact question in the respective year's paper for cross-reference.

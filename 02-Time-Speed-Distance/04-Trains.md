@@ -207,3 +207,13 @@ Time = Distance ÷ Speed
 ---
 
 > 📖 **[See detailed step-by-step solutions →](./04-Trains-Answers.md)**
+
+---
+
+## 📅 Previous Year Appearance (PGCET)
+
+- **2025:** ✅ Appeared → [Q51](../../papers-qp/2025/Questions.md#q51)
+- **2024:** ❌ Not appeared
+- **2023:** ❌ Not appeared
+
+> Links open the exact question in the respective year's paper for cross-reference.

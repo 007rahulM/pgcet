@@ -11,6 +11,7 @@ Quadratics usually appear as direct marks because the question types repeat.
 | [Pattern1-Quadratic-Equations.md](./Pattern1-Quadratic-Equations.md) | Full topic guide | "Solve the quadratic", "find roots", "nature of roots" |
 | [Pattern2-Discriminant-and-Nature-of-Roots.md](./Pattern2-Discriminant-and-Nature-of-Roots.md) | Root type by discriminant | "Nature of roots", "real/equal/imaginary" |
 | [Pattern3-Equation-From-Roots.md](./Pattern3-Equation-From-Roots.md) | Build equation from given roots | "Form the equation", "sum/product of roots" |
+| [Pattern4-Parameter-k-Range-Conditions.md](./Pattern4-Parameter-k-Range-Conditions.md) | k≥, k≤, k=0 type — range conditions | "Find values of k for real/equal/no roots", "range of k" |
 
 ## Golden Rules
 
@@ -18,12 +19,14 @@ Quadratics usually appear as direct marks because the question types repeat.
 - **Check the discriminant early.**
 - **If factorization is obvious, use it. If not, use the formula.**
 - **For equation from roots, use sum and product directly.**
+- **For k-range questions:** compute D as a function of k, then apply the condition (≥0 / =0 / <0).
 
 ## Study Order
 
 1. Pattern 1 for the complete picture.
 2. Pattern 2 for fast exam questions.
 3. Pattern 3 for equation-building questions.
+4. **Pattern 4 for k≥/k≤/k=0 parameter range questions.**
 
 ## Beginner Speed Support
 

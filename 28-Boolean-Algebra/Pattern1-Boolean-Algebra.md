@@ -154,3 +154,12 @@ A·(A + B) = A  (Absorption)
 2. Use **truth tables** only when simplification is messy.  
 3. Complement outside brackets? Apply De Morgan instantly.
 
+---
+
+## 📅 Previous Year Appearance (PGCET)
+
+- **2025:** ✅ Appeared → [Q27](../../papers-qp/2025/Questions.md#q27)
+- **2024:** ❌ Not appeared
+- **2023:** ❌ Not appeared
+
+> Links open the exact question in the respective year's paper for cross-reference.

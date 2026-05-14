@@ -96,3 +96,13 @@ Area = (1/2)(10)(7)sin30
 ## ✔️ Answers
 
 > 📖 **[See detailed step-by-step solutions →](./Pattern3-Triangle-Rules-and-Heights-Answers.md)**
+
+---
+
+## 📅 Previous Year Appearance (PGCET)
+
+- **2025:** ❌ Not appeared
+- **2024:** ❌ Not appeared
+- **2023:** ❌ Not appeared
+
+> Links open the exact question in the respective year's paper for cross-reference.

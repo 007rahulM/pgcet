@@ -154,3 +154,13 @@ From Example 5: New time = 3 × (60/45) = 3 × 4/3 = 4 hours ✅
 ---
 
 > 📖 **[See detailed step-by-step solutions →](./01-Basic-Concepts-Answers.md)**
+
+---
+
+## 📅 Previous Year Appearance (PGCET)
+
+- **2025:** ❌ Not appeared
+- **2024:** ✅ Appeared → [Q16](../../papers-qp/2024/Questions.md#q16), [Q27](../../papers-qp/2024/Questions.md#q27), [Q28](../../papers-qp/2024/Questions.md#q28)
+- **2023:** ✅ Appeared → [Q70](../../papers-qp/2023/Questions.md#q70)
+
+> Links open the exact question in the respective year's paper for cross-reference.

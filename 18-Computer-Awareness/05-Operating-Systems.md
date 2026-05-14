@@ -167,3 +167,13 @@ An OS is **system software** that:
 
 
 > 📖 **[See detailed step-by-step solutions →](./05-Operating-Systems-Answers.md)**
+
+---
+
+## 📅 Previous Year Appearance (PGCET)
+
+- **2025:** ✅ Appeared → [Q45](../../papers-qp/2025/Questions.md#q45), [Q46](../../papers-qp/2025/Questions.md#q46), [Q47](../../papers-qp/2025/Questions.md#q47), [Q48](../../papers-qp/2025/Questions.md#q48)
+- **2024:** ✅ Appeared → [Q75](../../papers-qp/2024/Questions.md#q75), [Q76](../../papers-qp/2024/Questions.md#q76), [Q77](../../papers-qp/2024/Questions.md#q77), [Q78](../../papers-qp/2024/Questions.md#q78)
+- **2023:** ✅ Appeared → [Q60](../../papers-qp/2023/Questions.md#q60)
+
+> Links open the exact question in the respective year's paper for cross-reference.

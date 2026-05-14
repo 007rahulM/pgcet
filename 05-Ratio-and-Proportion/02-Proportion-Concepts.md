@@ -164,3 +164,13 @@ So 15 litres of 40% solution and (30 − 15) = 15 litres of 60% solution.
 ---
 
 > 📖 **[See detailed step-by-step solutions →](./02-Proportion-Concepts-Answers.md)**
+
+---
+
+## 📅 Previous Year Appearance (PGCET)
+
+- **2025:** ❌ Not appeared
+- **2024:** ❌ Not appeared
+- **2023:** ❌ Not appeared
+
+> Links open the exact question in the respective year's paper for cross-reference.

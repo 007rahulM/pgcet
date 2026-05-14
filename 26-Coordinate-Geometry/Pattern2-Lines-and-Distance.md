@@ -129,3 +129,13 @@ cosθ = (u·v) / (|u||v|)
 ## ✔️ Answers
 
 > 📖 **[See detailed step-by-step solutions →](./Pattern2-Lines-and-Distance-Answers.md)**
+
+---
+
+## 📅 Previous Year Appearance (PGCET)
+
+- **2025:** ✅ Appeared → [Q6](../../papers-qp/2025/Questions.md#q6), [Q9](../../papers-qp/2025/Questions.md#q9), [Q10](../../papers-qp/2025/Questions.md#q10)
+- **2024:** ❌ Not appeared
+- **2023:** ❌ Not appeared
+
+> Links open the exact question in the respective year's paper for cross-reference.

@@ -53,3 +53,12 @@ Sk = (Q3 + Q1 − 2Q2) / (Q3 − Q1)
 2) Platykurtic  
 3) Symmetric
 
+---
+
+## 📅 Previous Year Appearance (PGCET)
+
+- **2025:** ❌ Not appeared
+- **2024:** ❌ Not appeared
+- **2023:** ❌ Not appeared
+
+> Links open the exact question in the respective year's paper for cross-reference.

@@ -114,3 +114,13 @@ So the valid answer is
 ## ✔️ Answers
 
 > 📖 **[See detailed step-by-step solutions →](./Pattern4-Inverse-Trig-and-Equations-Answers.md)**
+
+---
+
+## 📅 Previous Year Appearance (PGCET)
+
+- **2025:** ✅ Appeared → [Q18](../../papers-qp/2025/Questions.md#q18), [Q20](../../papers-qp/2025/Questions.md#q20)
+- **2024:** ✅ Appeared → [Q52](../../papers-qp/2024/Questions.md#q52)
+- **2023:** ❌ Not appeared
+
+> Links open the exact question in the respective year's paper for cross-reference.

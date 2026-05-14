@@ -90,3 +90,13 @@ Using De Morgan:
 ## ✔️ Answers
 
 > 📖 **[See detailed step-by-step solutions →](./Pattern3-Simplification-Strategies-Answers.md)**
+
+---
+
+## 📅 Previous Year Appearance (PGCET)
+
+- **2025:** ✅ Appeared → [Q14](../../papers-qp/2025/Questions.md#q14), [Q15](../../papers-qp/2025/Questions.md#q15), [Q16](../../papers-qp/2025/Questions.md#q16)
+- **2024:** ✅ Appeared → [Q43](../../papers-qp/2024/Questions.md#q43), [Q44](../../papers-qp/2024/Questions.md#q44), [Q45](../../papers-qp/2024/Questions.md#q45), [Q46](../../papers-qp/2024/Questions.md#q46), [Q47](../../papers-qp/2024/Questions.md#q47)
+- **2023:** ✅ Appeared → [Q46](../../papers-qp/2023/Questions.md#q46), [Q47](../../papers-qp/2023/Questions.md#q47)
+
+> Links open the exact question in the respective year's paper for cross-reference.

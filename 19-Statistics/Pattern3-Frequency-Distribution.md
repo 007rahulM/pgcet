@@ -182,3 +182,13 @@ Cumulative: 4, 10, 18... 13th value is in the 30 class.
 
 
 > 📖 **[See detailed step-by-step solutions →](./Pattern3-Frequency-Distribution-Answers.md)**
+
+---
+
+## 📅 Previous Year Appearance (PGCET)
+
+- **2025:** ❌ Not appeared
+- **2024:** ❌ Not appeared
+- **2023:** ❌ Not appeared
+
+> Links open the exact question in the respective year's paper for cross-reference.

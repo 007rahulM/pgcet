@@ -150,3 +150,13 @@ A = 3 × 5 = **15 years**, B = 5 × 5 = **25 years**
 ---
 
 > 📖 **[See detailed step-by-step solutions →](./01-Basic-Ratios-Answers.md)**
+
+---
+
+## 📅 Previous Year Appearance (PGCET)
+
+- **2025:** ❌ Not appeared
+- **2024:** ✅ Appeared → [Q23](../../papers-qp/2024/Questions.md#q23), [Q25](../../papers-qp/2024/Questions.md#q25), [Q32](../../papers-qp/2024/Questions.md#q32)
+- **2023:** ✅ Appeared → [Q41](../../papers-qp/2023/Questions.md#q41)
+
+> Links open the exact question in the respective year's paper for cross-reference.

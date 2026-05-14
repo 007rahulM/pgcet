@@ -108,3 +108,13 @@ That is the standard form of a hyperbola.
 ## ✔️ Answers
 
 > 📖 **[See detailed step-by-step solutions →](./Pattern4-Conics-and-Transformations-Answers.md)**
+
+---
+
+## 📅 Previous Year Appearance (PGCET)
+
+- **2025:** ✅ Appeared → [Q12](../../papers-qp/2025/Questions.md#q12), [Q13](../../papers-qp/2025/Questions.md#q13)
+- **2024:** ✅ Appeared → [Q33](../../papers-qp/2024/Questions.md#q33), [Q34](../../papers-qp/2024/Questions.md#q34), [Q35](../../papers-qp/2024/Questions.md#q35), [Q36](../../papers-qp/2024/Questions.md#q36), [Q37](../../papers-qp/2024/Questions.md#q37), [Q38](../../papers-qp/2024/Questions.md#q38), [Q39](../../papers-qp/2024/Questions.md#q39), [Q40](../../papers-qp/2024/Questions.md#q40), [Q41](../../papers-qp/2024/Questions.md#q41)
+- **2023:** ✅ Appeared → [Q43](../../papers-qp/2023/Questions.md#q43), [Q44](../../papers-qp/2023/Questions.md#q44), [Q71](../../papers-qp/2023/Questions.md#q71)
+
+> Links open the exact question in the respective year's paper for cross-reference.

@@ -48,3 +48,13 @@ y = 26
 **Answers:**
 1) y = 18
 2) b_yx = 0.5 × (6/4) = 0.75
+
+---
+
+## 📅 Previous Year Appearance (PGCET)
+
+- **2025:** ❌ Not appeared
+- **2024:** ❌ Not appeared
+- **2023:** ❌ Not appeared
+
+> Links open the exact question in the respective year's paper for cross-reference.

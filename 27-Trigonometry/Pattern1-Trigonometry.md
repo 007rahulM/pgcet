@@ -535,3 +535,13 @@ Based on 2025 pattern, expect:
 5. sin²θ + cos²θ = ? type → Identity  
 
 **Prepare these 5 patterns = 90% coverage!**
+
+---
+
+## 📅 Previous Year Appearance (PGCET)
+
+- **2025:** ❌ Not appeared
+- **2024:** ❌ Not appeared
+- **2023:** ❌ Not appeared
+
+> Links open the exact question in the respective year's paper for cross-reference.

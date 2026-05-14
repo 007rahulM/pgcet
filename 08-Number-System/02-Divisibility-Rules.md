@@ -192,3 +192,13 @@ Step 2: Check if the sum is divisible by 9
 ---
 
 > 📖 **[See detailed step-by-step solutions →](./02-Divisibility-Rules-Answers.md)**
+
+---
+
+## 📅 Previous Year Appearance (PGCET)
+
+- **2025:** ❌ Not appeared
+- **2024:** ❌ Not appeared
+- **2023:** ❌ Not appeared
+
+> Links open the exact question in the respective year's paper for cross-reference.

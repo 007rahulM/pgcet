@@ -271,3 +271,13 @@ Wait — recheck: L(12)−3=9=I, I(9)−3=6=F, O(15)−3=12=L, N(14)−3=11=K �
 
 **Answer: (D) works**
 **Solution:** "one of those students who" → the antecedent of "who" is "students" (plural) → should be "work" (plural verb).
+
+---
+
+## 📅 Previous Year Appearance (PGCET)
+
+- **2025:** ❌ Not appeared
+- **2024:** ❌ Not appeared
+- **2023:** ❌ Not appeared
+
+> Links open the exact question in the respective year's paper for cross-reference.

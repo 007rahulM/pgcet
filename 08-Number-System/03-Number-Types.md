@@ -171,3 +171,13 @@ Step 3: Apply to 2¹⁰
 ---
 
 > 📖 **[See detailed step-by-step solutions →](./03-Number-Types-Answers.md)**
+
+---
+
+## 📅 Previous Year Appearance (PGCET)
+
+- **2025:** ❌ Not appeared
+- **2024:** ❌ Not appeared
+- **2023:** ❌ Not appeared
+
+> Links open the exact question in the respective year's paper for cross-reference.

@@ -195,3 +195,13 @@ Some trains are buses. Some buses are taxis.
 ## ✔️ Answers
 
 > 📖 **[See detailed step-by-step solutions →](./Pattern1-Two-Statement-Answers.md)**
+
+---
+
+## 📅 Previous Year Appearance (PGCET)
+
+- **2025:** ✅ Appeared → [Q59](../../papers-qp/2025/Questions.md#q59)
+- **2024:** ✅ Appeared → [Q20](../../papers-qp/2024/Questions.md#q20), [Q22](../../papers-qp/2024/Questions.md#q22)
+- **2023:** ❌ Not appeared
+
+> Links open the exact question in the respective year's paper for cross-reference.

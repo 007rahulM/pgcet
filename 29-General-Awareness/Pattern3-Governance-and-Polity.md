@@ -64,3 +64,13 @@
 ## ✔️ Answers
 
 > 📖 **[See detailed step-by-step solutions →](./Pattern3-Governance-and-Polity-Answers.md)**
+
+---
+
+## 📅 Previous Year Appearance (PGCET)
+
+- **2025:** ❌ Not appeared
+- **2024:** ✅ Appeared → [Q93](../../papers-qp/2024/Questions.md#q93)
+- **2023:** ✅ Appeared → [Q24](../../papers-qp/2023/Questions.md#q24), [Q27](../../papers-qp/2023/Questions.md#q27), [Q28](../../papers-qp/2023/Questions.md#q28)
+
+> Links open the exact question in the respective year's paper for cross-reference.

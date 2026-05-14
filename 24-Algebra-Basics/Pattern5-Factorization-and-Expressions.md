@@ -90,3 +90,13 @@ Take common factor 3x.
 ## ✔️ Answers
 
 > 📖 **[See detailed step-by-step solutions →](./Pattern5-Factorization-and-Expressions-Answers.md)**
+
+---
+
+## 📅 Previous Year Appearance (PGCET)
+
+- **2025:** ✅ Appeared → [Q1](../../papers-qp/2025/Questions.md#q1)
+- **2024:** ❌ Not appeared
+- **2023:** ❌ Not appeared
+
+> Links open the exact question in the respective year's paper for cross-reference.
