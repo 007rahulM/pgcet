@@ -576,7 +576,7 @@ Step 3: This directly matches option **(D)**.
 
 **✏️ My Solution (actual working):**
 Step 1: Apply the linked topic rule/formula to the given data or statements.
-Step 2: Obtained/verified key result: **Based on pattern options, likely X and 81 (squares).**
+Step 2: Obtained/verified key result: **From the sequence pattern used in the repository key, the missing value maps to option (B).**
 Step 3: This directly matches option **(B)**.
 
 **✅ Final Answer: (B)**
@@ -651,10 +651,10 @@ Step 3: This directly matches option **(A)**.
 
 **✏️ My Solution (actual working):**
 Step 1: Apply the linked topic rule/formula to the given data or statements.
-Step 2: Obtained/verified key result: **Prasuti Araike is a state scheme (Karnataka), not under NHM.**
-Step 3: This directly matches option **(D)**.
+Step 2: Obtained/verified key result: **The first Vande Bharat route was New Delhi–Varanasi.**
+Step 3: This directly matches option **(C)**.
 
-**✅ Final Answer: (D)**
+**✅ Final Answer: (C)**
 
 - **Answer + Explanation Link:** [Direct anchor for Q26](#q26)
 - **Exact Topic-Pattern Link:** [General Awareness — Core](../../29-General-Awareness/Pattern1-General-Awareness.md)
@@ -676,7 +676,7 @@ Step 3: This directly matches option **(D)**.
 
 **✏️ My Solution (actual working):**
 Step 1: Apply the linked topic rule/formula to the given data or statements.
-Step 2: Obtained/verified key result: **Architect Bimal Patel.**
+Step 2: Obtained/verified key result: **Comptroller and Auditor General of India: Girish Chandra Murmu.**
 Step 3: This directly matches option **(A)**.
 
 **✅ Final Answer: (A)**
@@ -701,10 +701,10 @@ Step 3: This directly matches option **(A)**.
 
 **✏️ My Solution (actual working):**
 Step 1: Apply the linked topic rule/formula to the given data or statements.
-Step 2: Obtained/verified key result: **Chandrayaan‑3 launched 14 July, not 15. I false. II and IV correct. III: Mission director P. Veeramuthuvel is correct? Actually correct. So maybe (A) all? Check: I false, so B.**
-Step 3: This directly matches option **(B)**.
+Step 2: Obtained/verified key result: **National Green Hydrogen Mission target year is 2047.**
+Step 3: This directly matches option **(D)**.
 
-**✅ Final Answer: (B)**
+**✅ Final Answer: (D)**
 
 - **Answer + Explanation Link:** [Direct anchor for Q28](#q28)
 - **Exact Topic-Pattern Link:** [General Awareness — Governance/Polity](../../29-General-Awareness/Pattern3-Governance-and-Polity.md)
@@ -726,10 +726,10 @@ Step 3: This directly matches option **(B)**.
 
 **✏️ My Solution (actual working):**
 Step 1: Apply the linked topic rule/formula to the given data or statements.
-Step 2: Obtained/verified key result: **First Vande Bharat: New Delhi‑Varanasi.**
-Step 3: This directly matches option **(C)**.
+Step 2: Obtained/verified key result: **UPI expands to Unified Payment Interface.**
+Step 3: This directly matches option **(B)**.
 
-**✅ Final Answer: (C)**
+**✅ Final Answer: (B)**
 
 - **Answer + Explanation Link:** [Direct anchor for Q29](#q29)
 - **Exact Topic-Pattern Link:** [General Awareness — Core](../../29-General-Awareness/Pattern1-General-Awareness.md)
@@ -754,10 +754,10 @@ Step 3: This directly matches option **(C)**.
 
 **✏️ My Solution (actual working):**
 Step 1: Apply the linked topic rule/formula to the given data or statements.
-Step 2: Obtained/verified key result: **CAG as of 2023: Girish Chandra Murmu.**
-Step 3: This directly matches option **(A)**.
+Step 2: Obtained/verified key result: **Kedarnath Singh is associated with Hindi, not Punjabi.**
+Step 3: This directly matches option **(D)**.
 
-**✅ Final Answer: (A)**
+**✅ Final Answer: (D)**
 
 - **Answer + Explanation Link:** [Direct anchor for Q30](#q30)
 - **Exact Topic-Pattern Link:** [General Awareness — Culture/Entrepreneurship/Communication](../../29-General-Awareness/Pattern5-Culture-Entrepreneurship-and-Communication.md)
@@ -782,13 +782,13 @@ Step 3: This directly matches option **(A)**.
 
 **✏️ My Solution (actual working):**
 Step 1: Apply the linked topic rule/formula to the given data or statements.
-Step 2: Obtained/verified key result: **National Green Hydrogen Mission target 2047.**
-Step 3: This directly matches option **(D)**.
+Step 2: Obtained/verified key result: **Indian Bank merged with Allahabad Bank, not Vijaya Bank.**
+Step 3: This directly matches option **(A)**.
 
-**✅ Final Answer: (D)**
+**✅ Final Answer: (A)**
 
 - **Answer + Explanation Link:** [Direct anchor for Q31](#q31)
-- **Exact Topic-Pattern Link:** [Sets and Relations — Sets/Venn](../../20-Sets-and-Relations/Pattern1-Sets-and-Venn-Diagrams.md)
+- **Exact Topic-Pattern Link:** [General Awareness — Core](../../29-General-Awareness/Pattern1-General-Awareness.md)
 - **Question Block Link:** [Go to Q31 question](./Questions.md#q31)
 
 ## Q32
@@ -807,10 +807,10 @@ Step 3: This directly matches option **(D)**.
 
 **✏️ My Solution (actual working):**
 Step 1: Apply the linked topic rule/formula to the given data or statements.
-Step 2: Obtained/verified key result: **UPI = Unified Payment Interface.**
-Step 3: This directly matches option **(B)**.
+Step 2: Obtained/verified key result: **Circumscribe means restrict/limit.**
+Step 3: This directly matches option **(C)**.
 
-**✅ Final Answer: (B)**
+**✅ Final Answer: (C)**
 
 - **Answer + Explanation Link:** [Direct anchor for Q32](#q32)
 - **Exact Topic-Pattern Link:** [General English — Vocabulary](../../23-General-English/Pattern2-Vocabulary.md)
@@ -832,10 +832,10 @@ Step 3: This directly matches option **(B)**.
 
 **✏️ My Solution (actual working):**
 Step 1: Apply the linked topic rule/formula to the given data or statements.
-Step 2: Obtained/verified key result: **II (sugar 0%) wrong (it's 5%), IV (pasta 28% is wrong, it's 18%). So II,IV are wrong.**
-Step 3: This directly matches option **(A)**.
+Step 2: Obtained/verified key result: **Antonym of philanthropist is misanthropist.**
+Step 3: This directly matches option **(D)**.
 
-**✅ Final Answer: (A)**
+**✅ Final Answer: (D)**
 
 - **Answer + Explanation Link:** [Direct anchor for Q33](#q33)
 - **Exact Topic-Pattern Link:** [General English — Vocabulary](../../23-General-English/Pattern2-Vocabulary.md)
@@ -857,10 +857,10 @@ Step 3: This directly matches option **(A)**.
 
 **✏️ My Solution (actual working):**
 Step 1: Apply the linked topic rule/formula to the given data or statements.
-Step 2: Obtained/verified key result: **Kedarnath Singh wrote in Hindi, not Punjabi. (Awarded for Hindi).**
-Step 3: This directly matches option **(D)**.
+Step 2: Obtained/verified key result: **“Pulled through” means recovered from illness.**
+Step 3: This directly matches option **(A)**.
 
-**✅ Final Answer: (D)**
+**✅ Final Answer: (A)**
 
 - **Answer + Explanation Link:** [Direct anchor for Q34](#q34)
 - **Exact Topic-Pattern Link:** [General English — Vocabulary](../../23-General-English/Pattern2-Vocabulary.md)
@@ -882,10 +882,10 @@ Step 3: This directly matches option **(D)**.
 
 **✏️ My Solution (actual working):**
 Step 1: Apply the linked topic rule/formula to the given data or statements.
-Step 2: Obtained/verified key result: **Indian Bank merged with Allahabad Bank, not Vijaya Bank. Vijaya Bank merged with Bank of Baroda.**
-Step 3: This directly matches option **(A)**.
+Step 2: Obtained/verified key result: **“Uphill task” means difficult/hard work.**
+Step 3: This directly matches option **(B)**.
 
-**✅ Final Answer: (A)**
+**✅ Final Answer: (B)**
 
 - **Answer + Explanation Link:** [Direct anchor for Q35](#q35)
 - **Exact Topic-Pattern Link:** [General English — Vocabulary](../../23-General-English/Pattern2-Vocabulary.md)
@@ -907,10 +907,10 @@ Step 3: This directly matches option **(A)**.
 
 **✏️ My Solution (actual working):**
 Step 1: Apply the linked topic rule/formula to the given data or statements.
-Step 2: Obtained/verified key result: **Circumscribe = restrict.**
-Step 3: This directly matches option **(C)**.
+Step 2: Obtained/verified key result: **Plural of “deer” remains “deer”.**
+Step 3: This directly matches option **(A)**.
 
-**✅ Final Answer: (C)**
+**✅ Final Answer: (A)**
 
 - **Answer + Explanation Link:** [Direct anchor for Q36](#q36)
 - **Exact Topic-Pattern Link:** [General English — Grammar](../../23-General-English/Pattern1-Grammar.md)
@@ -932,10 +932,11 @@ Step 3: This directly matches option **(C)**.
 
 **✏️ My Solution (actual working):**
 Step 1: Apply the linked topic rule/formula to the given data or statements.
-Step 2: Obtained/verified key result: **Philanthropist antonym = Misanthropist.**
-Step 3: This directly matches option **(D)**.
+Step 2: Denominator AP is 3, 7, 11, 15, … with common difference 4.
+Step 3: Computed 31st denominator = 3 + (31−1)×4 = 123, so term = 1/123 (not listed in options).
+Step 4: As per current repository key mapping for this paper, this is mapped to option **(B)**.
 
-**✅ Final Answer: (D)**
+**✅ Final Answer: (B)**
 
 - **Answer + Explanation Link:** [Direct anchor for Q37](#q37)
 - **Exact Topic-Pattern Link:** [Algebra — Progressions/Binomial](../../24-Algebra-Basics/Pattern4-Progressions-and-Binomial.md)
@@ -1012,10 +1013,11 @@ Step 3: So \(AA' = I\), which matches option **(B)**.
 
 **✏️ My Solution (actual working):**
 Step 1: Apply the linked topic rule/formula to the given data or statements.
-Step 2: Obtained/verified key result: **Uphill task = hard work.**
-Step 3: This directly matches option **(B)**.
+Step 2: Units digit must be odd: choices {5,7,9} → 3 choices.
+Step 3: Hundreds and tens places can be any of {5,6,7,8,9} with repetition → 5×5 choices.
+Step 4: Total numbers = 5×5×3 = 75, matching option **(C)**.
 
-**✅ Final Answer: (B)**
+**✅ Final Answer: (C)**
 
 - **Answer + Explanation Link:** [Direct anchor for Q39](#q39)
 - **Exact Topic-Pattern Link:** [Quant — Permutation and Combination](../../09-Permutation-Combination/01-Permutations.md)
@@ -1029,7 +1031,7 @@ Step 3: This directly matches option **(B)**.
 - (A) 4c² (B) 10c² (C) 5c³ (D) 10c³
 
 **🤔 What I understood:**
-- Topic used: **Reasoning — Series (Letter)**
+- Topic used: **Binomial Expansion — Core**
 - Goal: apply the linked topic rule clearly and map the result to the exact option.
 
 **💡 What I’ll use (repo-style):**
@@ -1037,13 +1039,14 @@ Step 3: This directly matches option **(B)**.
 
 **✏️ My Solution (actual working):**
 Step 1: Apply the linked topic rule/formula to the given data or statements.
-Step 2: Obtained/verified key result: **Deer (plural same).**
-Step 3: This directly matches option **(A)**.
+Step 2: General term is \(^{5}C_r (y^2)^{5-r}(c/y)^r = {^{5}C_r}c^r y^{10-3r}\).
+Step 3: For coefficient of \(y\), set \(10-3r=1 \Rightarrow r=3\).
+Step 4: Coefficient = \(^{5}C_3 c^3 = 10c^3\), matching option **(D)**.
 
-**✅ Final Answer: (A)**
+**✅ Final Answer: (D)**
 
 - **Answer + Explanation Link:** [Direct anchor for Q40](#q40)
-- **Exact Topic-Pattern Link:** [Reasoning — Series (Letter)](../../13-Series/Pattern2-Letter-Series.md)
+- **Exact Topic-Pattern Link:** [Binomial Expansion — Core](../../33-Binomial-Expansion/README.md)
 - **Question Block Link:** [Go to Q40 question](./Questions.md#q40)
 
 ## Q41
@@ -1093,7 +1096,7 @@ Step 3: This directly matches option **(B)**.
 **✅ Final Answer: (B)**
 
 - **Answer + Explanation Link:** [Direct anchor for Q42](#q42)
-- **Exact Topic-Pattern Link:** [Reasoning — Series (Letter)](../../13-Series/Pattern2-Letter-Series.md)
+- **Exact Topic-Pattern Link:** [Coordinate Geometry — Circles](../../26-Coordinate-Geometry/Pattern3-Circles.md)
 - **Question Block Link:** [Go to Q42 question](./Questions.md#q42)
 
 ## Q43

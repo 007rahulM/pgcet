@@ -326,7 +326,7 @@ Each question includes two required links:
 - (D) Punjab National Bank United Bank of India
 
 - **Answer + Explanation Link:** [Open Q31 answer](./Answers-Detailed.md#q31)
-- **Exact Topic-Pattern Link:** [Sets and Relations — Sets/Venn](../../20-Sets-and-Relations/Pattern1-Sets-and-Venn-Diagrams.md)
+- **Exact Topic-Pattern Link:** [General Awareness — Core](../../29-General-Awareness/Pattern1-General-Awareness.md)
 
 ## Q32
 
@@ -416,7 +416,7 @@ Each question includes two required links:
 - (A) 4c² (B) 10c² (C) 5c³ (D) 10c³
 
 - **Answer + Explanation Link:** [Open Q40 answer](./Answers-Detailed.md#q40)
-- **Exact Topic-Pattern Link:** [Reasoning — Series (Letter)](../../13-Series/Pattern2-Letter-Series.md)
+- **Exact Topic-Pattern Link:** [Binomial Expansion — Core](../../33-Binomial-Expansion/README.md)
 
 ## Q41
 
@@ -436,7 +436,7 @@ Each question includes two required links:
 - (A) (−2,−5),3 (B) (−2,−5),5 (C) (2,5),3 (D) (2,5),5
 
 - **Answer + Explanation Link:** [Open Q42 answer](./Answers-Detailed.md#q42)
-- **Exact Topic-Pattern Link:** [Reasoning — Series (Letter)](../../13-Series/Pattern2-Letter-Series.md)
+- **Exact Topic-Pattern Link:** [Coordinate Geometry — Circles](../../26-Coordinate-Geometry/Pattern3-Circles.md)
 
 ## Q43
 
