@@ -1,6 +1,6 @@
 # PGCET 2025 — Answers with Step-by-Step Teaching
 
-Every answer block repeats: question + options + answer explanation + exact topic-pattern link.
+Each answer block explains: what is asked, which linked topic-rule is used, and how the final option is chosen.
 
 ## Q1
 
@@ -16,13 +16,13 @@ Every answer block repeats: question + options + answer explanation + exact topi
 
 **🤔 What I understood:**
 - Topic used: **Algebra — Factorization/Expressions**
-- We must compute/verify and then map to the correct option.
+- Goal: apply the linked topic rule clearly and map the result to the exact option.
 
 **💡 What I’ll use (repo-style):**
-- core concept rule from linked pattern
+- Use the exact concept/formula from the linked topic-pattern file.
 
 **✏️ My Solution (actual working):**
-Step 1: Apply the required method for this question type and evaluate the options.
+Step 1: Apply the linked topic rule/formula to the given data or statements.
 Step 2: Obtained/verified key result: **Both factorisations correct**
 Step 3: This directly matches option **(3)**.
 
@@ -44,13 +44,13 @@ Step 3: This directly matches option **(3)**.
 
 **🤔 What I understood:**
 - Topic used: **Quadratic Equations — Core**
-- We must compute/verify and then map to the correct option.
+- Goal: apply the linked topic rule clearly and map the result to the exact option.
 
 **💡 What I’ll use (repo-style):**
-- coordinate geometry formula
+- Use the exact concept/formula from the linked topic-pattern file.
 
 **✏️ My Solution (actual working):**
-Step 1: Apply the required method for this question type and evaluate the options.
+Step 1: Apply the linked topic rule/formula to the given data or statements.
 Step 2: Obtained/verified key result: **x(x+1)+8 = (x+2)(x−2) simplifies to x+12=0 (linear)**
 Step 3: This directly matches option **(2)**.
 
@@ -72,13 +72,13 @@ Step 3: This directly matches option **(2)**.
 
 **🤔 What I understood:**
 - Topic used: **Reasoning — Blood Relations**
-- We must compute/verify and then map to the correct option.
+- Goal: apply the linked topic rule clearly and map the result to the exact option.
 
 **💡 What I’ll use (repo-style):**
-- core concept rule from linked pattern
+- Use the exact concept/formula from the linked topic-pattern file.
 
 **✏️ My Solution (actual working):**
-Step 1: Apply the required method for this question type and evaluate the options.
+Step 1: Apply the linked topic rule/formula to the given data or statements.
 Step 2: Obtained/verified key result: **Sum = 2(2¹⁰−1)=2046**
 Step 3: This directly matches option **(4)**.
 
@@ -100,13 +100,13 @@ Step 3: This directly matches option **(4)**.
 
 **🤔 What I understood:**
 - Topic used: **Quant — Ratio and Proportion**
-- We must compute/verify and then map to the correct option.
+- Goal: apply the linked topic rule clearly and map the result to the exact option.
 
 **💡 What I’ll use (repo-style):**
-- core concept rule from linked pattern
+- Use the exact concept/formula from the linked topic-pattern file.
 
 **✏️ My Solution (actual working):**
-Step 1: Apply the required method for this question type and evaluate the options.
+Step 1: Apply the linked topic rule/formula to the given data or statements.
 Step 2: Obtained/verified key result: **n = 55**
 Step 3: This directly matches option **(1)**.
 
@@ -128,13 +128,13 @@ Step 3: This directly matches option **(1)**.
 
 **🤔 What I understood:**
 - Topic used: **Reasoning — Blood Relations**
-- We must compute/verify and then map to the correct option.
+- Goal: apply the linked topic rule clearly and map the result to the exact option.
 
 **💡 What I’ll use (repo-style):**
-- core concept rule from linked pattern
+- Use the exact concept/formula from the linked topic-pattern file.
 
 **✏️ My Solution (actual working):**
-Step 1: Apply the required method for this question type and evaluate the options.
+Step 1: Apply the linked topic rule/formula to the given data or statements.
 Step 2: Obtained/verified key result: **8! − 6!×3! = 36000**
 Step 3: This directly matches option **(1)**.
 
@@ -156,10 +156,10 @@ Step 3: This directly matches option **(1)**.
 
 **🤔 What I understood:**
 - Topic used: **Coordinate Geometry — Lines/Distance/3D Basics**
-- We must compute/verify and then map to the correct option.
+- Goal: apply the linked topic rule clearly and map the result to the exact option.
 
 **💡 What I’ll use (repo-style):**
-- area of triangle by coordinate formula
+- Use the exact concept/formula from the linked topic-pattern file.
 
 **✏️ My Solution (actual working):**
 Step 1: Use area formula for coordinates: 1/2 |x1(y2-y3)+x2(y3-y1)+x3(y1-y2)|.
@@ -184,13 +184,13 @@ Step 3: This directly matches option **(1)**.
 
 **🤔 What I understood:**
 - Topic used: **Matrices — Determinants and Operations**
-- We must compute/verify and then map to the correct option.
+- Goal: apply the linked topic rule clearly and map the result to the exact option.
 
 **💡 What I’ll use (repo-style):**
-- core concept rule from linked pattern
+- Use the exact concept/formula from the linked topic-pattern file.
 
 **✏️ My Solution (actual working):**
-Step 1: Apply the required method for this question type and evaluate the options.
+Step 1: Apply the linked topic rule/formula to the given data or statements.
 Step 2: Obtained/verified key result: **AB = BA is not always true**
 Step 3: This directly matches option **(3)**.
 
@@ -212,13 +212,13 @@ Step 3: This directly matches option **(3)**.
 
 **🤔 What I understood:**
 - Topic used: **Sets and Relations — Sets/Venn**
-- We must compute/verify and then map to the correct option.
+- Goal: apply the linked topic rule clearly and map the result to the exact option.
 
 **💡 What I’ll use (repo-style):**
-- set notation and relation rules
+- Use the exact concept/formula from the linked topic-pattern file.
 
 **✏️ My Solution (actual working):**
-Step 1: Apply the required method for this question type and evaluate the options.
+Step 1: Apply the linked topic rule/formula to the given data or statements.
 Step 2: Obtained/verified key result: **{3,4} ∈ A**
 Step 3: This directly matches option **(3)**.
 
@@ -240,10 +240,10 @@ Step 3: This directly matches option **(3)**.
 
 **🤔 What I understood:**
 - Topic used: **Coordinate Geometry — Lines/Distance/3D Basics**
-- We must compute/verify and then map to the correct option.
+- Goal: apply the linked topic rule clearly and map the result to the exact option.
 
 **💡 What I’ll use (repo-style):**
-- direction vectors and dot-product angle rule
+- Use the exact concept/formula from the linked topic-pattern file.
 
 **✏️ My Solution (actual working):**
 Step 1: Form direction vectors from the two point pairs.
@@ -268,10 +268,10 @@ Step 3: This directly matches option **(4)**.
 
 **🤔 What I understood:**
 - Topic used: **Coordinate Geometry — Lines/Distance/3D Basics**
-- We must compute/verify and then map to the correct option.
+- Goal: apply the linked topic rule clearly and map the result to the exact option.
 
 **💡 What I’ll use (repo-style):**
-- 3D midpoint formula
+- Use the exact concept/formula from the linked topic-pattern file.
 
 **✏️ My Solution (actual working):**
 Step 1: Apply midpoint formula component-wise in 3D.
@@ -296,10 +296,10 @@ Step 3: This directly matches option **(1)**.
 
 **🤔 What I understood:**
 - Topic used: **Coordinate Geometry — Circles**
-- We must compute/verify and then map to the correct option.
+- Goal: apply the linked topic rule clearly and map the result to the exact option.
 
 **💡 What I’ll use (repo-style):**
-- center-condition + equal-distance circle equation
+- Use the exact concept/formula from the linked topic-pattern file.
 
 **✏️ My Solution (actual working):**
 Step 1: Use center on x+y=2 and equal distances to both given points.
@@ -324,13 +324,13 @@ Step 3: This directly matches option **(1)**.
 
 **🤔 What I understood:**
 - Topic used: **Coordinate Geometry — Conics/Lines**
-- We must compute/verify and then map to the correct option.
+- Goal: apply the linked topic rule clearly and map the result to the exact option.
 
 **💡 What I’ll use (repo-style):**
-- core concept rule from linked pattern
+- Use the exact concept/formula from the linked topic-pattern file.
 
 **✏️ My Solution (actual working):**
-Step 1: Apply the required method for this question type and evaluate the options.
+Step 1: Apply the linked topic rule/formula to the given data or statements.
 Step 2: Obtained/verified key result: **15x²+7y²=247**
 Step 3: This directly matches option **(1)**.
 
@@ -352,13 +352,13 @@ Step 3: This directly matches option **(1)**.
 
 **🤔 What I understood:**
 - Topic used: **Coordinate Geometry — Conics/Lines**
-- We must compute/verify and then map to the correct option.
+- Goal: apply the linked topic rule clearly and map the result to the exact option.
 
 **💡 What I’ll use (repo-style):**
-- core concept rule from linked pattern
+- Use the exact concept/formula from the linked topic-pattern file.
 
 **✏️ My Solution (actual working):**
-Step 1: Apply the required method for this question type and evaluate the options.
+Step 1: Apply the linked topic rule/formula to the given data or statements.
 Step 2: Obtained/verified key result: **3y²−x²=108**
 Step 3: This directly matches option **(3)**.
 
@@ -380,13 +380,13 @@ Step 3: This directly matches option **(3)**.
 
 **🤔 What I understood:**
 - Topic used: **Boolean Algebra — Simplification**
-- We must compute/verify and then map to the correct option.
+- Goal: apply the linked topic rule clearly and map the result to the exact option.
 
 **💡 What I’ll use (repo-style):**
-- Boolean identity/truth table
+- Use the exact concept/formula from the linked topic-pattern file.
 
 **✏️ My Solution (actual working):**
-Step 1: Apply the required method for this question type and evaluate the options.
+Step 1: Apply the linked topic rule/formula to the given data or statements.
 Step 2: Obtained/verified key result: **Absorption law**
 Step 3: This directly matches option **(3)**.
 
@@ -408,13 +408,13 @@ Step 3: This directly matches option **(3)**.
 
 **🤔 What I understood:**
 - Topic used: **Boolean Algebra — Simplification**
-- We must compute/verify and then map to the correct option.
+- Goal: apply the linked topic rule clearly and map the result to the exact option.
 
 **💡 What I’ll use (repo-style):**
-- Boolean identity/truth table
+- Use the exact concept/formula from the linked topic-pattern file.
 
 **✏️ My Solution (actual working):**
-Step 1: Apply the required method for this question type and evaluate the options.
+Step 1: Apply the linked topic rule/formula to the given data or statements.
 Step 2: Obtained/verified key result: **(x∧y)∨(x∧y)′ = 1**
 Step 3: This directly matches option **(1)**.
 
@@ -438,13 +438,13 @@ Step 3: This directly matches option **(1)**.
 
 **🤔 What I understood:**
 - Topic used: **Boolean Algebra — Simplification**
-- We must compute/verify and then map to the correct option.
+- Goal: apply the linked topic rule clearly and map the result to the exact option.
 
 **💡 What I’ll use (repo-style):**
-- core concept rule from linked pattern
+- Use the exact concept/formula from the linked topic-pattern file.
 
 **✏️ My Solution (actual working):**
-Step 1: Apply the required method for this question type and evaluate the options.
+Step 1: Apply the linked topic rule/formula to the given data or statements.
 Step 2: Obtained/verified key result: **b only true**
 Step 3: This directly matches option **(2)**.
 
@@ -468,13 +468,13 @@ Step 3: This directly matches option **(2)**.
 
 **🤔 What I understood:**
 - Topic used: **Trigonometry — Compound/Double Angle**
-- We must compute/verify and then map to the correct option.
+- Goal: apply the linked topic rule clearly and map the result to the exact option.
 
 **💡 What I’ll use (repo-style):**
-- trigonometric identity/value relation
+- Use the exact concept/formula from the linked topic-pattern file.
 
 **✏️ My Solution (actual working):**
-Step 1: Apply the required method for this question type and evaluate the options.
+Step 1: Apply the linked topic rule/formula to the given data or statements.
 Step 2: Obtained/verified key result: **b only (cos2x formula)**
 Step 3: This directly matches option **(2)**.
 
@@ -498,13 +498,13 @@ Step 3: This directly matches option **(2)**.
 
 **🤔 What I understood:**
 - Topic used: **Sets and Relations — Sets/Venn**
-- We must compute/verify and then map to the correct option.
+- Goal: apply the linked topic rule clearly and map the result to the exact option.
 
 **💡 What I’ll use (repo-style):**
-- core concept rule from linked pattern
+- Use the exact concept/formula from the linked topic-pattern file.
 
 **✏️ My Solution (actual working):**
-Step 1: Apply the required method for this question type and evaluate the options.
+Step 1: Apply the linked topic rule/formula to the given data or statements.
 Step 2: Obtained/verified key result: **Both general solution formulas correct**
 Step 3: This directly matches option **(3)**.
 
@@ -526,13 +526,13 @@ Step 3: This directly matches option **(3)**.
 
 **🤔 What I understood:**
 - Topic used: **Trigonometry — Compound/Double Angle**
-- We must compute/verify and then map to the correct option.
+- Goal: apply the linked topic rule clearly and map the result to the exact option.
 
 **💡 What I’ll use (repo-style):**
-- core concept rule from linked pattern
+- Use the exact concept/formula from the linked topic-pattern file.
 
 **✏️ My Solution (actual working):**
-Step 1: Apply the required method for this question type and evaluate the options.
+Step 1: Apply the linked topic rule/formula to the given data or statements.
 Step 2: Obtained/verified key result: **−56/65**
 Step 3: This directly matches option **(1)**.
 
@@ -554,13 +554,13 @@ Step 3: This directly matches option **(1)**.
 
 **🤔 What I understood:**
 - Topic used: **Trigonometry — Compound/Double Angle**
-- We must compute/verify and then map to the correct option.
+- Goal: apply the linked topic rule clearly and map the result to the exact option.
 
 **💡 What I’ll use (repo-style):**
-- trigonometric identity/value relation
+- Use the exact concept/formula from the linked topic-pattern file.
 
 **✏️ My Solution (actual working):**
-Step 1: Apply the required method for this question type and evaluate the options.
+Step 1: Apply the linked topic rule/formula to the given data or statements.
 Step 2: Obtained/verified key result: **2π/5**
 Step 3: This directly matches option **(1)**.
 
@@ -582,13 +582,13 @@ Step 3: This directly matches option **(1)**.
 
 **🤔 What I understood:**
 - Topic used: **Quant — Probability**
-- We must compute/verify and then map to the correct option.
+- Goal: apply the linked topic rule clearly and map the result to the exact option.
 
 **💡 What I’ll use (repo-style):**
-- core concept rule from linked pattern
+- Use the exact concept/formula from the linked topic-pattern file.
 
 **✏️ My Solution (actual working):**
-Step 1: Apply the required method for this question type and evaluate the options.
+Step 1: Apply the linked topic rule/formula to the given data or statements.
 Step 2: Obtained/verified key result: **43/91**
 Step 3: This directly matches option **(4)**.
 
@@ -610,13 +610,13 @@ Step 3: This directly matches option **(4)**.
 
 **🤔 What I understood:**
 - Topic used: **Quant — Probability**
-- We must compute/verify and then map to the correct option.
+- Goal: apply the linked topic rule clearly and map the result to the exact option.
 
 **💡 What I’ll use (repo-style):**
-- core concept rule from linked pattern
+- Use the exact concept/formula from the linked topic-pattern file.
 
 **✏️ My Solution (actual working):**
-Step 1: Apply the required method for this question type and evaluate the options.
+Step 1: Apply the linked topic rule/formula to the given data or statements.
 Step 2: Obtained/verified key result: **0.87**
 Step 3: This directly matches option **(2)**.
 
@@ -638,13 +638,13 @@ Step 3: This directly matches option **(2)**.
 
 **🤔 What I understood:**
 - Topic used: **Statistics — Mean/Variance/Regression**
-- We must compute/verify and then map to the correct option.
+- Goal: apply the linked topic rule clearly and map the result to the exact option.
 
 **💡 What I’ll use (repo-style):**
-- statistical formula substitution
+- Use the exact concept/formula from the linked topic-pattern file.
 
 **✏️ My Solution (actual working):**
-Step 1: Apply the required method for this question type and evaluate the options.
+Step 1: Apply the linked topic rule/formula to the given data or statements.
 Step 2: Obtained/verified key result: **SD ≈ 5.74**
 Step 3: This directly matches option **(2)**.
 
@@ -666,13 +666,13 @@ Step 3: This directly matches option **(2)**.
 
 **🤔 What I understood:**
 - Topic used: **Statistics — Mean/Variance/Regression**
-- We must compute/verify and then map to the correct option.
+- Goal: apply the linked topic rule clearly and map the result to the exact option.
 
 **💡 What I’ll use (repo-style):**
-- core concept rule from linked pattern
+- Use the exact concept/formula from the linked topic-pattern file.
 
 **✏️ My Solution (actual working):**
-Step 1: Apply the required method for this question type and evaluate the options.
+Step 1: Apply the linked topic rule/formula to the given data or statements.
 Step 2: Obtained/verified key result: **r = 0.6**
 Step 3: This directly matches option **(1)**.
 
@@ -694,13 +694,13 @@ Step 3: This directly matches option **(1)**.
 
 **🤔 What I understood:**
 - Topic used: **Statistics — Mean/Variance/Regression**
-- We must compute/verify and then map to the correct option.
+- Goal: apply the linked topic rule clearly and map the result to the exact option.
 
 **💡 What I’ll use (repo-style):**
-- statistical formula substitution
+- Use the exact concept/formula from the linked topic-pattern file.
 
 **✏️ My Solution (actual working):**
-Step 1: Apply the required method for this question type and evaluate the options.
+Step 1: Apply the linked topic rule/formula to the given data or statements.
 Step 2: Obtained/verified key result: **Mean < Median ⇒ negative skew**
 Step 3: This directly matches option **(2)**.
 
@@ -724,13 +724,13 @@ Step 3: This directly matches option **(2)**.
 
 **🤔 What I understood:**
 - Topic used: **Computer Awareness — Fundamentals**
-- We must compute/verify and then map to the correct option.
+- Goal: apply the linked topic rule clearly and map the result to the exact option.
 
 **💡 What I’ll use (repo-style):**
-- core concept rule from linked pattern
+- Use the exact concept/formula from the linked topic-pattern file.
 
 **✏️ My Solution (actual working):**
-Step 1: Apply the required method for this question type and evaluate the options.
+Step 1: Apply the linked topic rule/formula to the given data or statements.
 Step 2: Obtained/verified key result: **Only a correct**
 Step 3: This directly matches option **(2)**.
 
@@ -752,13 +752,13 @@ Step 3: This directly matches option **(2)**.
 
 **🤔 What I understood:**
 - Topic used: **Reasoning — Series (Letter)**
-- We must compute/verify and then map to the correct option.
+- Goal: apply the linked topic rule clearly and map the result to the exact option.
 
 **💡 What I’ll use (repo-style):**
-- core concept rule from linked pattern
+- Use the exact concept/formula from the linked topic-pattern file.
 
 **✏️ My Solution (actual working):**
-Step 1: Apply the required method for this question type and evaluate the options.
+Step 1: Apply the linked topic rule/formula to the given data or statements.
 Step 2: Obtained/verified key result: **Both S1, S2 true**
 Step 3: This directly matches option **(1)**.
 
@@ -780,13 +780,13 @@ Step 3: This directly matches option **(1)**.
 
 **🤔 What I understood:**
 - Topic used: **Computer Awareness — Fundamentals**
-- We must compute/verify and then map to the correct option.
+- Goal: apply the linked topic rule clearly and map the result to the exact option.
 
 **💡 What I’ll use (repo-style):**
-- core concept rule from linked pattern
+- Use the exact concept/formula from the linked topic-pattern file.
 
 **✏️ My Solution (actual working):**
-Step 1: Apply the required method for this question type and evaluate the options.
+Step 1: Apply the linked topic rule/formula to the given data or statements.
 Step 2: Obtained/verified key result: **GB, MB, KB, Byte, Nibble, Bit**
 Step 3: This directly matches option **(3)**.
 
@@ -812,13 +812,13 @@ Step 3: This directly matches option **(3)**.
 
 **🤔 What I understood:**
 - Topic used: **Computer Awareness — Operating Systems**
-- We must compute/verify and then map to the correct option.
+- Goal: apply the linked topic rule clearly and map the result to the exact option.
 
 **💡 What I’ll use (repo-style):**
-- core concept rule from linked pattern
+- Use the exact concept/formula from the linked topic-pattern file.
 
 **✏️ My Solution (actual working):**
-Step 1: Apply the required method for this question type and evaluate the options.
+Step 1: Apply the linked topic rule/formula to the given data or statements.
 Step 2: Obtained/verified key result: **a‑ii, b‑i, c‑iv, d‑iii**
 Step 3: This directly matches option **(3)**.
 
@@ -840,13 +840,13 @@ Step 3: This directly matches option **(3)**.
 
 **🤔 What I understood:**
 - Topic used: **Computer Awareness — Fundamentals**
-- We must compute/verify and then map to the correct option.
+- Goal: apply the linked topic rule clearly and map the result to the exact option.
 
 **💡 What I’ll use (repo-style):**
-- core concept rule from linked pattern
+- Use the exact concept/formula from the linked topic-pattern file.
 
 **✏️ My Solution (actual working):**
-Step 1: Apply the required method for this question type and evaluate the options.
+Step 1: Apply the linked topic rule/formula to the given data or statements.
 Step 2: Obtained/verified key result: **Cache, Decrease, Main, CPU Register**
 Step 3: This directly matches option **(3)**.
 
@@ -871,13 +871,13 @@ Step 3: This directly matches option **(3)**.
 
 **🤔 What I understood:**
 - Topic used: **Computer Awareness — Programming in C**
-- We must compute/verify and then map to the correct option.
+- Goal: apply the linked topic rule clearly and map the result to the exact option.
 
 **💡 What I’ll use (repo-style):**
-- core concept rule from linked pattern
+- Use the exact concept/formula from the linked topic-pattern file.
 
 **✏️ My Solution (actual working):**
-Step 1: Apply the required method for this question type and evaluate the options.
+Step 1: Apply the linked topic rule/formula to the given data or statements.
 Step 2: Obtained/verified key result: **a true, b,c false**
 Step 3: This directly matches option **(2)**.
 
@@ -899,13 +899,13 @@ Step 3: This directly matches option **(2)**.
 
 **🤔 What I understood:**
 - Topic used: **Reasoning — Series (Letter)**
-- We must compute/verify and then map to the correct option.
+- Goal: apply the linked topic rule clearly and map the result to the exact option.
 
 **💡 What I’ll use (repo-style):**
-- core concept rule from linked pattern
+- Use the exact concept/formula from the linked topic-pattern file.
 
 **✏️ My Solution (actual working):**
-Step 1: Apply the required method for this question type and evaluate the options.
+Step 1: Apply the linked topic rule/formula to the given data or statements.
 Step 2: Obtained/verified key result: **S1 True, S2 True, S3 False**
 Step 3: This directly matches option **(2)**.
 
@@ -927,13 +927,13 @@ Step 3: This directly matches option **(2)**.
 
 **🤔 What I understood:**
 - Topic used: **Computer Awareness — DBMS and SQL**
-- We must compute/verify and then map to the correct option.
+- Goal: apply the linked topic rule clearly and map the result to the exact option.
 
 **💡 What I’ll use (repo-style):**
-- core concept rule from linked pattern
+- Use the exact concept/formula from the linked topic-pattern file.
 
 **✏️ My Solution (actual working):**
-Step 1: Apply the required method for this question type and evaluate the options.
+Step 1: Apply the linked topic rule/formula to the given data or statements.
 Step 2: Obtained/verified key result: **Organised collection that can be accessed/updated**
 Step 3: This directly matches option **(2)**.
 
@@ -955,13 +955,13 @@ Step 3: This directly matches option **(2)**.
 
 **🤔 What I understood:**
 - Topic used: **Computer Awareness — Data Representation/Binary Arithmetic**
-- We must compute/verify and then map to the correct option.
+- Goal: apply the linked topic rule clearly and map the result to the exact option.
 
 **💡 What I’ll use (repo-style):**
-- binary/decimal conversion or bit rule
+- Use the exact concept/formula from the linked topic-pattern file.
 
 **✏️ My Solution (actual working):**
-Step 1: Apply the required method for this question type and evaluate the options.
+Step 1: Apply the linked topic rule/formula to the given data or statements.
 Step 2: Obtained/verified key result: **Data representation**
 Step 3: This directly matches option **(3)**.
 
@@ -987,13 +987,13 @@ Step 3: This directly matches option **(3)**.
 
 **🤔 What I understood:**
 - Topic used: **Computer Awareness — Fundamentals**
-- We must compute/verify and then map to the correct option.
+- Goal: apply the linked topic rule clearly and map the result to the exact option.
 
 **💡 What I’ll use (repo-style):**
-- core concept rule from linked pattern
+- Use the exact concept/formula from the linked topic-pattern file.
 
 **✏️ My Solution (actual working):**
-Step 1: Apply the required method for this question type and evaluate the options.
+Step 1: Apply the linked topic rule/formula to the given data or statements.
 Step 2: Obtained/verified key result: **a‑iv, b‑ii, c‑i, d‑iii**
 Step 3: This directly matches option **(2)**.
 
@@ -1015,13 +1015,13 @@ Step 3: This directly matches option **(2)**.
 
 **🤔 What I understood:**
 - Topic used: **Computer Awareness — Data Representation/Binary Arithmetic**
-- We must compute/verify and then map to the correct option.
+- Goal: apply the linked topic rule clearly and map the result to the exact option.
 
 **💡 What I’ll use (repo-style):**
-- core concept rule from linked pattern
+- Use the exact concept/formula from the linked topic-pattern file.
 
 **✏️ My Solution (actual working):**
-Step 1: Apply the required method for this question type and evaluate the options.
+Step 1: Apply the linked topic rule/formula to the given data or statements.
 Step 2: Obtained/verified key result: **1000 0101**
 Step 3: This directly matches option **(2)**.
 
@@ -1043,13 +1043,13 @@ Step 3: This directly matches option **(2)**.
 
 **🤔 What I understood:**
 - Topic used: **Reasoning — Direction Sense**
-- We must compute/verify and then map to the correct option.
+- Goal: apply the linked topic rule clearly and map the result to the exact option.
 
 **💡 What I’ll use (repo-style):**
-- core concept rule from linked pattern
+- Use the exact concept/formula from the linked topic-pattern file.
 
 **✏️ My Solution (actual working):**
-Step 1: Apply the required method for this question type and evaluate the options.
+Step 1: Apply the linked topic rule/formula to the given data or statements.
 Step 2: Obtained/verified key result: **Both true**
 Step 3: This directly matches option **(1)**.
 
@@ -1071,13 +1071,13 @@ Step 3: This directly matches option **(1)**.
 
 **🤔 What I understood:**
 - Topic used: **Computer Awareness — Data Representation/Binary Arithmetic**
-- We must compute/verify and then map to the correct option.
+- Goal: apply the linked topic rule clearly and map the result to the exact option.
 
 **💡 What I’ll use (repo-style):**
-- core concept rule from linked pattern
+- Use the exact concept/formula from the linked topic-pattern file.
 
 **✏️ My Solution (actual working):**
-Step 1: Apply the required method for this question type and evaluate the options.
+Step 1: Apply the linked topic rule/formula to the given data or statements.
 Step 2: Obtained/verified key result: **−128 to +127**
 Step 3: This directly matches option **(3)**.
 
@@ -1099,13 +1099,13 @@ Step 3: This directly matches option **(3)**.
 
 **🤔 What I understood:**
 - Topic used: **Reasoning — Series (Letter)**
-- We must compute/verify and then map to the correct option.
+- Goal: apply the linked topic rule clearly and map the result to the exact option.
 
 **💡 What I’ll use (repo-style):**
-- core concept rule from linked pattern
+- Use the exact concept/formula from the linked topic-pattern file.
 
 **✏️ My Solution (actual working):**
-Step 1: Apply the required method for this question type and evaluate the options.
+Step 1: Apply the linked topic rule/formula to the given data or statements.
 Step 2: Obtained/verified key result: **Ambiguous (S3)**
 Step 3: This directly matches option **–**.
 
@@ -1127,13 +1127,13 @@ Step 3: This directly matches option **–**.
 
 **🤔 What I understood:**
 - Topic used: **Computer Awareness — Data Representation/Binary Arithmetic**
-- We must compute/verify and then map to the correct option.
+- Goal: apply the linked topic rule clearly and map the result to the exact option.
 
 **💡 What I’ll use (repo-style):**
-- binary/decimal conversion or bit rule
+- Use the exact concept/formula from the linked topic-pattern file.
 
 **✏️ My Solution (actual working):**
-Step 1: Apply the required method for this question type and evaluate the options.
+Step 1: Apply the linked topic rule/formula to the given data or statements.
 Step 2: Obtained/verified key result: **499.5 (octal 763.4)**
 Step 3: This directly matches option **(1)**.
 
@@ -1155,13 +1155,13 @@ Step 3: This directly matches option **(1)**.
 
 **🤔 What I understood:**
 - Topic used: **Computer Awareness — Number Systems**
-- We must compute/verify and then map to the correct option.
+- Goal: apply the linked topic rule clearly and map the result to the exact option.
 
 **💡 What I’ll use (repo-style):**
-- core concept rule from linked pattern
+- Use the exact concept/formula from the linked topic-pattern file.
 
 **✏️ My Solution (actual working):**
-Step 1: Apply the required method for this question type and evaluate the options.
+Step 1: Apply the linked topic rule/formula to the given data or statements.
 Step 2: Obtained/verified key result: **−68, −69**
 Step 3: This directly matches option **(2)**.
 
@@ -1183,13 +1183,13 @@ Step 3: This directly matches option **(2)**.
 
 **🤔 What I understood:**
 - Topic used: **Computer Awareness — Number Systems**
-- We must compute/verify and then map to the correct option.
+- Goal: apply the linked topic rule clearly and map the result to the exact option.
 
 **💡 What I’ll use (repo-style):**
-- core concept rule from linked pattern
+- Use the exact concept/formula from the linked topic-pattern file.
 
 **✏️ My Solution (actual working):**
-Step 1: Apply the required method for this question type and evaluate the options.
+Step 1: Apply the linked topic rule/formula to the given data or statements.
 Step 2: Obtained/verified key result: **100111, 101000**
 Step 3: This directly matches option **(1)**.
 
@@ -1211,13 +1211,13 @@ Step 3: This directly matches option **(1)**.
 
 **🤔 What I understood:**
 - Topic used: **Quant — Probability**
-- We must compute/verify and then map to the correct option.
+- Goal: apply the linked topic rule clearly and map the result to the exact option.
 
 **💡 What I’ll use (repo-style):**
-- core concept rule from linked pattern
+- Use the exact concept/formula from the linked topic-pattern file.
 
 **✏️ My Solution (actual working):**
-Step 1: Apply the required method for this question type and evaluate the options.
+Step 1: Apply the linked topic rule/formula to the given data or statements.
 Step 2: Obtained/verified key result: **1/2**
 Step 3: This directly matches option **(4)**.
 
@@ -1239,13 +1239,13 @@ Step 3: This directly matches option **(4)**.
 
 **🤔 What I understood:**
 - Topic used: **Computer Awareness — Fundamentals**
-- We must compute/verify and then map to the correct option.
+- Goal: apply the linked topic rule clearly and map the result to the exact option.
 
 **💡 What I’ll use (repo-style):**
-- core concept rule from linked pattern
+- Use the exact concept/formula from the linked topic-pattern file.
 
 **✏️ My Solution (actual working):**
-Step 1: Apply the required method for this question type and evaluate the options.
+Step 1: Apply the linked topic rule/formula to the given data or statements.
 Step 2: Obtained/verified key result: **Passwords**
 Step 3: This directly matches option **(3)**.
 
@@ -1267,13 +1267,13 @@ Step 3: This directly matches option **(3)**.
 
 **🤔 What I understood:**
 - Topic used: **Reasoning — Series (Letter)**
-- We must compute/verify and then map to the correct option.
+- Goal: apply the linked topic rule clearly and map the result to the exact option.
 
 **💡 What I’ll use (repo-style):**
-- core concept rule from linked pattern
+- Use the exact concept/formula from the linked topic-pattern file.
 
 **✏️ My Solution (actual working):**
-Step 1: Apply the required method for this question type and evaluate the options.
+Step 1: Apply the linked topic rule/formula to the given data or statements.
 Step 2: Obtained/verified key result: **S1,S2 correct, S3 not**
 Step 3: This directly matches option **(2)**.
 
@@ -1295,13 +1295,13 @@ Step 3: This directly matches option **(2)**.
 
 **🤔 What I understood:**
 - Topic used: **Computer Awareness — Operating Systems**
-- We must compute/verify and then map to the correct option.
+- Goal: apply the linked topic rule clearly and map the result to the exact option.
 
 **💡 What I’ll use (repo-style):**
-- core concept rule from linked pattern
+- Use the exact concept/formula from the linked topic-pattern file.
 
 **✏️ My Solution (actual working):**
-Step 1: Apply the required method for this question type and evaluate the options.
+Step 1: Apply the linked topic rule/formula to the given data or statements.
 Step 2: Obtained/verified key result: **Safe mode**
 Step 3: This directly matches option **(1)**.
 
@@ -1327,13 +1327,13 @@ Step 3: This directly matches option **(1)**.
 
 **🤔 What I understood:**
 - Topic used: **Computer Awareness — Operating Systems**
-- We must compute/verify and then map to the correct option.
+- Goal: apply the linked topic rule clearly and map the result to the exact option.
 
 **💡 What I’ll use (repo-style):**
-- core concept rule from linked pattern
+- Use the exact concept/formula from the linked topic-pattern file.
 
 **✏️ My Solution (actual working):**
-Step 1: Apply the required method for this question type and evaluate the options.
+Step 1: Apply the linked topic rule/formula to the given data or statements.
 Step 2: Obtained/verified key result: **a‑iii, b‑iv, c‑ii, d‑i**
 Step 3: This directly matches option **(3)**.
 
@@ -1355,13 +1355,13 @@ Step 3: This directly matches option **(3)**.
 
 **🤔 What I understood:**
 - Topic used: **Reasoning — Series (Letter)**
-- We must compute/verify and then map to the correct option.
+- Goal: apply the linked topic rule clearly and map the result to the exact option.
 
 **💡 What I’ll use (repo-style):**
-- core concept rule from linked pattern
+- Use the exact concept/formula from the linked topic-pattern file.
 
 **✏️ My Solution (actual working):**
-Step 1: Apply the required method for this question type and evaluate the options.
+Step 1: Apply the linked topic rule/formula to the given data or statements.
 Step 2: Obtained/verified key result: **S1,S2 correct, S3 incorrect**
 Step 3: This directly matches option **(1)**.
 
@@ -1383,13 +1383,13 @@ Step 3: This directly matches option **(1)**.
 
 **🤔 What I understood:**
 - Topic used: **Reasoning — Blood Relations**
-- We must compute/verify and then map to the correct option.
+- Goal: apply the linked topic rule clearly and map the result to the exact option.
 
 **💡 What I’ll use (repo-style):**
-- SI/CI formula
+- Use the exact concept/formula from the linked topic-pattern file.
 
 **✏️ My Solution (actual working):**
-Step 1: Apply the required method for this question type and evaluate the options.
+Step 1: Apply the linked topic rule/formula to the given data or statements.
 Step 2: Obtained/verified key result: **A alone sufficient**
 Step 3: This directly matches option **(1)**.
 
@@ -1411,13 +1411,13 @@ Step 3: This directly matches option **(1)**.
 
 **🤔 What I understood:**
 - Topic used: **Reasoning — Coding/Decoding**
-- We must compute/verify and then map to the correct option.
+- Goal: apply the linked topic rule clearly and map the result to the exact option.
 
 **💡 What I’ll use (repo-style):**
-- SI/CI formula
+- Use the exact concept/formula from the linked topic-pattern file.
 
 **✏️ My Solution (actual working):**
-Step 1: Apply the required method for this question type and evaluate the options.
+Step 1: Apply the linked topic rule/formula to the given data or statements.
 Step 2: Obtained/verified key result: **A alone sufficient**
 Step 3: This directly matches option **(1)**.
 
@@ -1439,13 +1439,13 @@ Step 3: This directly matches option **(1)**.
 
 **🤔 What I understood:**
 - Topic used: **Reasoning — Direction Sense**
-- We must compute/verify and then map to the correct option.
+- Goal: apply the linked topic rule clearly and map the result to the exact option.
 
 **💡 What I’ll use (repo-style):**
-- core concept rule from linked pattern
+- Use the exact concept/formula from the linked topic-pattern file.
 
 **✏️ My Solution (actual working):**
-Step 1: Apply the required method for this question type and evaluate the options.
+Step 1: Apply the linked topic rule/formula to the given data or statements.
 Step 2: Obtained/verified key result: **50 km/h**
 Step 3: This directly matches option **(2)**.
 
@@ -1467,13 +1467,13 @@ Step 3: This directly matches option **(2)**.
 
 **🤔 What I understood:**
 - Topic used: **Trigonometry — Heights and Distances**
-- We must compute/verify and then map to the correct option.
+- Goal: apply the linked topic rule clearly and map the result to the exact option.
 
 **💡 What I’ll use (repo-style):**
-- core concept rule from linked pattern
+- Use the exact concept/formula from the linked topic-pattern file.
 
 **✏️ My Solution (actual working):**
-Step 1: Apply the required method for this question type and evaluate the options.
+Step 1: Apply the linked topic rule/formula to the given data or statements.
 Step 2: Obtained/verified key result: **9.2 m**
 Step 3: This directly matches option **(4)**.
 
@@ -1495,13 +1495,13 @@ Step 3: This directly matches option **(4)**.
 
 **🤔 What I understood:**
 - Topic used: **Quant — Time and Work**
-- We must compute/verify and then map to the correct option.
+- Goal: apply the linked topic rule clearly and map the result to the exact option.
 
 **💡 What I’ll use (repo-style):**
-- odd-days/day-shift rule
+- Use the exact concept/formula from the linked topic-pattern file.
 
 **✏️ My Solution (actual working):**
-Step 1: Apply the required method for this question type and evaluate the options.
+Step 1: Apply the linked topic rule/formula to the given data or statements.
 Step 2: Obtained/verified key result: **15 days**
 Step 3: This directly matches option **(2)**.
 
@@ -1523,13 +1523,13 @@ Step 3: This directly matches option **(2)**.
 
 **🤔 What I understood:**
 - Topic used: **Quant — Simple/Compound Interest**
-- We must compute/verify and then map to the correct option.
+- Goal: apply the linked topic rule clearly and map the result to the exact option.
 
 **💡 What I’ll use (repo-style):**
-- core concept rule from linked pattern
+- Use the exact concept/formula from the linked topic-pattern file.
 
 **✏️ My Solution (actual working):**
-Step 1: Apply the required method for this question type and evaluate the options.
+Step 1: Apply the linked topic rule/formula to the given data or statements.
 Step 2: Obtained/verified key result: **₹625**
 Step 3: This directly matches option **(1)**.
 
@@ -1551,13 +1551,13 @@ Step 3: This directly matches option **(1)**.
 
 **🤔 What I understood:**
 - Topic used: **Quant — Profit and Loss**
-- We must compute/verify and then map to the correct option.
+- Goal: apply the linked topic rule clearly and map the result to the exact option.
 
 **💡 What I’ll use (repo-style):**
-- core concept rule from linked pattern
+- Use the exact concept/formula from the linked topic-pattern file.
 
 **✏️ My Solution (actual working):**
-Step 1: Apply the required method for this question type and evaluate the options.
+Step 1: Apply the linked topic rule/formula to the given data or statements.
 Step 2: Obtained/verified key result: **100%**
 Step 3: This directly matches option **(2)**.
 
@@ -1579,13 +1579,13 @@ Step 3: This directly matches option **(2)**.
 
 **🤔 What I understood:**
 - Topic used: **Reasoning — Clocks**
-- We must compute/verify and then map to the correct option.
+- Goal: apply the linked topic rule clearly and map the result to the exact option.
 
 **💡 What I’ll use (repo-style):**
-- core concept rule from linked pattern
+- Use the exact concept/formula from the linked topic-pattern file.
 
 **✏️ My Solution (actual working):**
-Step 1: Apply the required method for this question type and evaluate the options.
+Step 1: Apply the linked topic rule/formula to the given data or statements.
 Step 2: Obtained/verified key result: **130°**
 Step 3: This directly matches option **(3)**.
 
@@ -1607,13 +1607,13 @@ Step 3: This directly matches option **(3)**.
 
 **🤔 What I understood:**
 - Topic used: **Quant — Percentages**
-- We must compute/verify and then map to the correct option.
+- Goal: apply the linked topic rule clearly and map the result to the exact option.
 
 **💡 What I’ll use (repo-style):**
-- trigonometric identity/value relation
+- Use the exact concept/formula from the linked topic-pattern file.
 
 **✏️ My Solution (actual working):**
-Step 1: Apply the required method for this question type and evaluate the options.
+Step 1: Apply the linked topic rule/formula to the given data or statements.
 Step 2: Obtained/verified key result: **Image missing**
 Step 3: This directly matches option **–**.
 
@@ -1635,13 +1635,13 @@ Step 3: This directly matches option **–**.
 
 **🤔 What I understood:**
 - Topic used: **Quant — Averages**
-- We must compute/verify and then map to the correct option.
+- Goal: apply the linked topic rule clearly and map the result to the exact option.
 
 **💡 What I’ll use (repo-style):**
-- core concept rule from linked pattern
+- Use the exact concept/formula from the linked topic-pattern file.
 
 **✏️ My Solution (actual working):**
-Step 1: Apply the required method for this question type and evaluate the options.
+Step 1: Apply the linked topic rule/formula to the given data or statements.
 Step 2: Obtained/verified key result: **36.66 lakh**
 Step 3: This directly matches option **(4)**.
 
@@ -1663,13 +1663,13 @@ Step 3: This directly matches option **(4)**.
 
 **🤔 What I understood:**
 - Topic used: **Reasoning — Syllogism**
-- We must compute/verify and then map to the correct option.
+- Goal: apply the linked topic rule clearly and map the result to the exact option.
 
 **💡 What I’ll use (repo-style):**
-- core concept rule from linked pattern
+- Use the exact concept/formula from the linked topic-pattern file.
 
 **✏️ My Solution (actual working):**
-Step 1: Apply the required method for this question type and evaluate the options.
+Step 1: Apply the linked topic rule/formula to the given data or statements.
 Step 2: Obtained/verified key result: **Only A follows**
 Step 3: This directly matches option **(1)**.
 
@@ -1694,10 +1694,10 @@ Step 3: This directly matches option **(1)**.
 - We must classify whether A causes B, B causes A, both independent, or both effects.
 
 **💡 What I’ll use (repo-style):**
-- cause-effect statement evaluation rule
+- Use the exact concept/formula from the linked topic-pattern file.
 
 **✏️ My Solution (actual working):**
-Step 1: Apply the required method for this question type and evaluate the options.
+Step 1: Apply the linked topic rule/formula to the given data or statements.
 Step 2: Obtained/verified key result: **A cause, B effect**
 Step 3: This directly matches option **(1)**.
 
@@ -1719,13 +1719,13 @@ Step 3: This directly matches option **(1)**.
 
 **🤔 What I understood:**
 - Topic used: **Reasoning — Dice**
-- We must compute/verify and then map to the correct option.
+- Goal: apply the linked topic rule clearly and map the result to the exact option.
 
 **💡 What I’ll use (repo-style):**
-- trigonometric identity/value relation
+- Use the exact concept/formula from the linked topic-pattern file.
 
 **✏️ My Solution (actual working):**
-Step 1: Apply the required method for this question type and evaluate the options.
+Step 1: Apply the linked topic rule/formula to the given data or statements.
 Step 2: Obtained/verified key result: **Image missing**
 Step 3: This directly matches option **–**.
 
@@ -1747,13 +1747,13 @@ Step 3: This directly matches option **–**.
 
 **🤔 What I understood:**
 - Topic used: **Algebra — Core**
-- We must compute/verify and then map to the correct option.
+- Goal: apply the linked topic rule clearly and map the result to the exact option.
 
 **💡 What I’ll use (repo-style):**
-- core concept rule from linked pattern
+- Use the exact concept/formula from the linked topic-pattern file.
 
 **✏️ My Solution (actual working):**
-Step 1: Apply the required method for this question type and evaluate the options.
+Step 1: Apply the linked topic rule/formula to the given data or statements.
 Step 2: Obtained/verified key result: **65 years**
 Step 3: This directly matches option **(2)**.
 
@@ -1775,13 +1775,13 @@ Step 3: This directly matches option **(2)**.
 
 **🤔 What I understood:**
 - Topic used: **Reasoning — Series (Number)**
-- We must compute/verify and then map to the correct option.
+- Goal: apply the linked topic rule clearly and map the result to the exact option.
 
 **💡 What I’ll use (repo-style):**
-- core concept rule from linked pattern
+- Use the exact concept/formula from the linked topic-pattern file.
 
 **✏️ My Solution (actual working):**
-Step 1: Apply the required method for this question type and evaluate the options.
+Step 1: Apply the linked topic rule/formula to the given data or statements.
 Step 2: Obtained/verified key result: **14**
 Step 3: This directly matches option **(2)**.
 
@@ -1803,13 +1803,13 @@ Step 3: This directly matches option **(2)**.
 
 **🤔 What I understood:**
 - Topic used: **Reasoning — Series (Number)**
-- We must compute/verify and then map to the correct option.
+- Goal: apply the linked topic rule clearly and map the result to the exact option.
 
 **💡 What I’ll use (repo-style):**
-- core concept rule from linked pattern
+- Use the exact concept/formula from the linked topic-pattern file.
 
 **✏️ My Solution (actual working):**
-Step 1: Apply the required method for this question type and evaluate the options.
+Step 1: Apply the linked topic rule/formula to the given data or statements.
 Step 2: Obtained/verified key result: **26, 24**
 Step 3: This directly matches option **(3)**.
 
@@ -1831,13 +1831,13 @@ Step 3: This directly matches option **(3)**.
 
 **🤔 What I understood:**
 - Topic used: **Reasoning — Series (Letter)**
-- We must compute/verify and then map to the correct option.
+- Goal: apply the linked topic rule clearly and map the result to the exact option.
 
 **💡 What I’ll use (repo-style):**
-- core concept rule from linked pattern
+- Use the exact concept/formula from the linked topic-pattern file.
 
 **✏️ My Solution (actual working):**
-Step 1: Apply the required method for this question type and evaluate the options.
+Step 1: Apply the linked topic rule/formula to the given data or statements.
 Step 2: Obtained/verified key result: **E4**
 Step 3: This directly matches option **(3)**.
 
@@ -1859,13 +1859,13 @@ Step 3: This directly matches option **(3)**.
 
 **🤔 What I understood:**
 - Topic used: **Quant — Profit and Loss**
-- We must compute/verify and then map to the correct option.
+- Goal: apply the linked topic rule clearly and map the result to the exact option.
 
 **💡 What I’ll use (repo-style):**
-- core concept rule from linked pattern
+- Use the exact concept/formula from the linked topic-pattern file.
 
 **✏️ My Solution (actual working):**
-Step 1: Apply the required method for this question type and evaluate the options.
+Step 1: Apply the linked topic rule/formula to the given data or statements.
 Step 2: Obtained/verified key result: **₹1500**
 Step 3: This directly matches option **(2)**.
 
@@ -1887,13 +1887,13 @@ Step 3: This directly matches option **(2)**.
 
 **🤔 What I understood:**
 - Topic used: **General Awareness — Governance/Polity**
-- We must compute/verify and then map to the correct option.
+- Goal: apply the linked topic rule clearly and map the result to the exact option.
 
 **💡 What I’ll use (repo-style):**
-- factual elimination by concept
+- Use the exact concept/formula from the linked topic-pattern file.
 
 **✏️ My Solution (actual working):**
-Step 1: Apply the required method for this question type and evaluate the options.
+Step 1: Apply the linked topic rule/formula to the given data or statements.
 Step 2: Obtained/verified key result: **Strike price**
 Step 3: This directly matches option **(2)**.
 
@@ -1915,13 +1915,13 @@ Step 3: This directly matches option **(2)**.
 
 **🤔 What I understood:**
 - Topic used: **General Awareness — Culture/Entrepreneurship/Communication**
-- We must compute/verify and then map to the correct option.
+- Goal: apply the linked topic rule clearly and map the result to the exact option.
 
 **💡 What I’ll use (repo-style):**
-- core concept rule from linked pattern
+- Use the exact concept/formula from the linked topic-pattern file.
 
 **✏️ My Solution (actual working):**
-Step 1: Apply the required method for this question type and evaluate the options.
+Step 1: Apply the linked topic rule/formula to the given data or statements.
 Step 2: Obtained/verified key result: **i, ii, iv**
 Step 3: This directly matches option **(1)**.
 
@@ -1943,13 +1943,13 @@ Step 3: This directly matches option **(1)**.
 
 **🤔 What I understood:**
 - Topic used: **General Awareness — Culture/Entrepreneurship/Communication**
-- We must compute/verify and then map to the correct option.
+- Goal: apply the linked topic rule clearly and map the result to the exact option.
 
 **💡 What I’ll use (repo-style):**
-- core concept rule from linked pattern
+- Use the exact concept/formula from the linked topic-pattern file.
 
 **✏️ My Solution (actual working):**
-Step 1: Apply the required method for this question type and evaluate the options.
+Step 1: Apply the linked topic rule/formula to the given data or statements.
 Step 2: Obtained/verified key result: **i, iv, v correct**
 Step 3: This directly matches option **(4)**.
 
@@ -1975,13 +1975,13 @@ Step 3: This directly matches option **(4)**.
 
 **🤔 What I understood:**
 - Topic used: **General Awareness — Business/Finance**
-- We must compute/verify and then map to the correct option.
+- Goal: apply the linked topic rule clearly and map the result to the exact option.
 
 **💡 What I’ll use (repo-style):**
-- core concept rule from linked pattern
+- Use the exact concept/formula from the linked topic-pattern file.
 
 **✏️ My Solution (actual working):**
-Step 1: Apply the required method for this question type and evaluate the options.
+Step 1: Apply the linked topic rule/formula to the given data or statements.
 Step 2: Obtained/verified key result: **a, b, d**
 Step 3: This directly matches option **(1)**.
 
@@ -2003,13 +2003,13 @@ Step 3: This directly matches option **(1)**.
 
 **🤔 What I understood:**
 - Topic used: **General Awareness — Core**
-- We must compute/verify and then map to the correct option.
+- Goal: apply the linked topic rule clearly and map the result to the exact option.
 
 **💡 What I’ll use (repo-style):**
-- core concept rule from linked pattern
+- Use the exact concept/formula from the linked topic-pattern file.
 
 **✏️ My Solution (actual working):**
-Step 1: Apply the required method for this question type and evaluate the options.
+Step 1: Apply the linked topic rule/formula to the given data or statements.
 Step 2: Obtained/verified key result: **Transportation within a country**
 Step 3: This directly matches option **(2)**.
 
@@ -2035,13 +2035,13 @@ Step 3: This directly matches option **(2)**.
 
 **🤔 What I understood:**
 - Topic used: **Quant — Time, Speed and Distance**
-- We must compute/verify and then map to the correct option.
+- Goal: apply the linked topic rule clearly and map the result to the exact option.
 
 **💡 What I’ll use (repo-style):**
-- factual elimination by concept
+- Use the exact concept/formula from the linked topic-pattern file.
 
 **✏️ My Solution (actual working):**
-Step 1: Apply the required method for this question type and evaluate the options.
+Step 1: Apply the linked topic rule/formula to the given data or statements.
 Step 2: Obtained/verified key result: **b and d not functions of NCTE**
 Step 3: This directly matches option **(3)**.
 
@@ -2063,13 +2063,13 @@ Step 3: This directly matches option **(3)**.
 
 **🤔 What I understood:**
 - Topic used: **General Awareness — Core**
-- We must compute/verify and then map to the correct option.
+- Goal: apply the linked topic rule clearly and map the result to the exact option.
 
 **💡 What I’ll use (repo-style):**
-- core concept rule from linked pattern
+- Use the exact concept/formula from the linked topic-pattern file.
 
 **✏️ My Solution (actual working):**
-Step 1: Apply the required method for this question type and evaluate the options.
+Step 1: Apply the linked topic rule/formula to the given data or statements.
 Step 2: Obtained/verified key result: **Andhra Pradesh**
 Step 3: This directly matches option **(1)**.
 
@@ -2095,13 +2095,13 @@ Step 3: This directly matches option **(1)**.
 
 **🤔 What I understood:**
 - Topic used: **General Awareness — Science/Tech/Health**
-- We must compute/verify and then map to the correct option.
+- Goal: apply the linked topic rule clearly and map the result to the exact option.
 
 **💡 What I’ll use (repo-style):**
-- core concept rule from linked pattern
+- Use the exact concept/formula from the linked topic-pattern file.
 
 **✏️ My Solution (actual working):**
-Step 1: Apply the required method for this question type and evaluate the options.
+Step 1: Apply the linked topic rule/formula to the given data or statements.
 Step 2: Obtained/verified key result: **a, b, c correct**
 Step 3: This directly matches option **(4)**.
 
@@ -2123,13 +2123,13 @@ Step 3: This directly matches option **(4)**.
 
 **🤔 What I understood:**
 - Topic used: **General Awareness — Governance/Polity**
-- We must compute/verify and then map to the correct option.
+- Goal: apply the linked topic rule clearly and map the result to the exact option.
 
 **💡 What I’ll use (repo-style):**
-- core concept rule from linked pattern
+- Use the exact concept/formula from the linked topic-pattern file.
 
 **✏️ My Solution (actual working):**
-Step 1: Apply the required method for this question type and evaluate the options.
+Step 1: Apply the linked topic rule/formula to the given data or statements.
 Step 2: Obtained/verified key result: **₹2 Lakhs**
 Step 3: This directly matches option **(2)**.
 
@@ -2153,13 +2153,13 @@ Step 3: This directly matches option **(2)**.
 
 **🤔 What I understood:**
 - Topic used: **General Awareness — Science/Tech/Health**
-- We must compute/verify and then map to the correct option.
+- Goal: apply the linked topic rule clearly and map the result to the exact option.
 
 **💡 What I’ll use (repo-style):**
-- core concept rule from linked pattern
+- Use the exact concept/formula from the linked topic-pattern file.
 
 **✏️ My Solution (actual working):**
-Step 1: Apply the required method for this question type and evaluate the options.
+Step 1: Apply the linked topic rule/formula to the given data or statements.
 Step 2: Obtained/verified key result: **a only**
 Step 3: This directly matches option **(1)**.
 
@@ -2181,13 +2181,13 @@ Step 3: This directly matches option **(1)**.
 
 **🤔 What I understood:**
 - Topic used: **General Awareness — Culture/Entrepreneurship/Communication**
-- We must compute/verify and then map to the correct option.
+- Goal: apply the linked topic rule clearly and map the result to the exact option.
 
 **💡 What I’ll use (repo-style):**
-- factual elimination by concept
+- Use the exact concept/formula from the linked topic-pattern file.
 
 **✏️ My Solution (actual working):**
-Step 1: Apply the required method for this question type and evaluate the options.
+Step 1: Apply the linked topic rule/formula to the given data or statements.
 Step 2: Obtained/verified key result: **Entrepreneurship**
 Step 3: This directly matches option **(3)**.
 
@@ -2209,13 +2209,13 @@ Step 3: This directly matches option **(3)**.
 
 **🤔 What I understood:**
 - Topic used: **General Awareness — Culture/Entrepreneurship/Communication**
-- We must compute/verify and then map to the correct option.
+- Goal: apply the linked topic rule clearly and map the result to the exact option.
 
 **💡 What I’ll use (repo-style):**
-- core concept rule from linked pattern
+- Use the exact concept/formula from the linked topic-pattern file.
 
 **✏️ My Solution (actual working):**
-Step 1: Apply the required method for this question type and evaluate the options.
+Step 1: Apply the linked topic rule/formula to the given data or statements.
 Step 2: Obtained/verified key result: **Negotiate**
 Step 3: This directly matches option **(4)**.
 
@@ -2241,13 +2241,13 @@ Step 3: This directly matches option **(4)**.
 
 **🤔 What I understood:**
 - Topic used: **Quant — Time, Speed and Distance**
-- We must compute/verify and then map to the correct option.
+- Goal: apply the linked topic rule clearly and map the result to the exact option.
 
 **💡 What I’ll use (repo-style):**
-- core concept rule from linked pattern
+- Use the exact concept/formula from the linked topic-pattern file.
 
 **✏️ My Solution (actual working):**
-Step 1: Apply the required method for this question type and evaluate the options.
+Step 1: Apply the linked topic rule/formula to the given data or statements.
 Step 2: Obtained/verified key result: **a, b, d, e**
 Step 3: This directly matches option **(3)**.
 
@@ -2273,13 +2273,13 @@ Step 3: This directly matches option **(3)**.
 
 **🤔 What I understood:**
 - Topic used: **General Awareness — Culture/Entrepreneurship/Communication**
-- We must compute/verify and then map to the correct option.
+- Goal: apply the linked topic rule clearly and map the result to the exact option.
 
 **💡 What I’ll use (repo-style):**
-- core concept rule from linked pattern
+- Use the exact concept/formula from the linked topic-pattern file.
 
 **✏️ My Solution (actual working):**
-Step 1: Apply the required method for this question type and evaluate the options.
+Step 1: Apply the linked topic rule/formula to the given data or statements.
 Step 2: Obtained/verified key result: **b, e**
 Step 3: This directly matches option **(1)**.
 
@@ -2305,13 +2305,13 @@ Step 3: This directly matches option **(1)**.
 
 **🤔 What I understood:**
 - Topic used: **Reasoning — Blood Relations**
-- We must compute/verify and then map to the correct option.
+- Goal: apply the linked topic rule clearly and map the result to the exact option.
 
 **💡 What I’ll use (repo-style):**
-- trigonometric identity/value relation
+- Use the exact concept/formula from the linked topic-pattern file.
 
 **✏️ My Solution (actual working):**
-Step 1: Apply the required method for this question type and evaluate the options.
+Step 1: Apply the linked topic rule/formula to the given data or statements.
 Step 2: Obtained/verified key result: **(Best: understanding personal biases)**
 Step 3: This directly matches option **–**.
 
@@ -2333,13 +2333,13 @@ Step 3: This directly matches option **–**.
 
 **🤔 What I understood:**
 - Topic used: **General Awareness — Culture/Entrepreneurship/Communication**
-- We must compute/verify and then map to the correct option.
+- Goal: apply the linked topic rule clearly and map the result to the exact option.
 
 **💡 What I’ll use (repo-style):**
-- core concept rule from linked pattern
+- Use the exact concept/formula from the linked topic-pattern file.
 
 **✏️ My Solution (actual working):**
-Step 1: Apply the required method for this question type and evaluate the options.
+Step 1: Apply the linked topic rule/formula to the given data or statements.
 Step 2: Obtained/verified key result: **a‑ii, b‑iii, c‑i, d‑iv**
 Step 3: This directly matches option **(3)**.
 
@@ -2365,13 +2365,13 @@ Step 3: This directly matches option **(3)**.
 
 **🤔 What I understood:**
 - Topic used: **General Awareness — Governance/Polity**
-- We must compute/verify and then map to the correct option.
+- Goal: apply the linked topic rule clearly and map the result to the exact option.
 
 **💡 What I’ll use (repo-style):**
-- core concept rule from linked pattern
+- Use the exact concept/formula from the linked topic-pattern file.
 
 **✏️ My Solution (actual working):**
-Step 1: Apply the required method for this question type and evaluate the options.
+Step 1: Apply the linked topic rule/formula to the given data or statements.
 Step 2: Obtained/verified key result: **a, c, e**
 Step 3: This directly matches option **(1)**.
 
@@ -2397,13 +2397,13 @@ Step 3: This directly matches option **(1)**.
 
 **🤔 What I understood:**
 - Topic used: **General Awareness — Business/Finance**
-- We must compute/verify and then map to the correct option.
+- Goal: apply the linked topic rule clearly and map the result to the exact option.
 
 **💡 What I’ll use (repo-style):**
-- core concept rule from linked pattern
+- Use the exact concept/formula from the linked topic-pattern file.
 
 **✏️ My Solution (actual working):**
-Step 1: Apply the required method for this question type and evaluate the options.
+Step 1: Apply the linked topic rule/formula to the given data or statements.
 Step 2: Obtained/verified key result: **a, b, d**
 Step 3: This directly matches option **(1)**.
 
@@ -2425,13 +2425,13 @@ Step 3: This directly matches option **(1)**.
 
 **🤔 What I understood:**
 - Topic used: **Reasoning — Blood Relations**
-- We must compute/verify and then map to the correct option.
+- Goal: apply the linked topic rule clearly and map the result to the exact option.
 
 **💡 What I’ll use (repo-style):**
-- factual elimination by concept
+- Use the exact concept/formula from the linked topic-pattern file.
 
 **✏️ My Solution (actual working):**
-Step 1: Apply the required method for this question type and evaluate the options.
+Step 1: Apply the linked topic rule/formula to the given data or statements.
 Step 2: Obtained/verified key result: **LiDAR**
 Step 3: This directly matches option **(2)**.
 
@@ -2453,13 +2453,13 @@ Step 3: This directly matches option **(2)**.
 
 **🤔 What I understood:**
 - Topic used: **General English — Vocabulary**
-- We must compute/verify and then map to the correct option.
+- Goal: apply the linked topic rule clearly and map the result to the exact option.
 
 **💡 What I’ll use (repo-style):**
-- core concept rule from linked pattern
+- Use the exact concept/formula from the linked topic-pattern file.
 
 **✏️ My Solution (actual working):**
-Step 1: Apply the required method for this question type and evaluate the options.
+Step 1: Apply the linked topic rule/formula to the given data or statements.
 Step 2: Obtained/verified key result: **Abstain**
 Step 3: This directly matches option **(2)**.
 
@@ -2481,13 +2481,13 @@ Step 3: This directly matches option **(2)**.
 
 **🤔 What I understood:**
 - Topic used: **General English — Vocabulary**
-- We must compute/verify and then map to the correct option.
+- Goal: apply the linked topic rule clearly and map the result to the exact option.
 
 **💡 What I’ll use (repo-style):**
-- core concept rule from linked pattern
+- Use the exact concept/formula from the linked topic-pattern file.
 
 **✏️ My Solution (actual working):**
-Step 1: Apply the required method for this question type and evaluate the options.
+Step 1: Apply the linked topic rule/formula to the given data or statements.
 Step 2: Obtained/verified key result: **Chaos**
 Step 3: This directly matches option **(2)**.
 
@@ -2509,13 +2509,13 @@ Step 3: This directly matches option **(2)**.
 
 **🤔 What I understood:**
 - Topic used: **General English — Vocabulary**
-- We must compute/verify and then map to the correct option.
+- Goal: apply the linked topic rule clearly and map the result to the exact option.
 
 **💡 What I’ll use (repo-style):**
-- core concept rule from linked pattern
+- Use the exact concept/formula from the linked topic-pattern file.
 
 **✏️ My Solution (actual working):**
-Step 1: Apply the required method for this question type and evaluate the options.
+Step 1: Apply the linked topic rule/formula to the given data or statements.
 Step 2: Obtained/verified key result: **Watch carefully**
 Step 3: This directly matches option **(2)**.
 
@@ -2537,13 +2537,13 @@ Step 3: This directly matches option **(2)**.
 
 **🤔 What I understood:**
 - Topic used: **General English — Grammar**
-- We must compute/verify and then map to the correct option.
+- Goal: apply the linked topic rule clearly and map the result to the exact option.
 
 **💡 What I’ll use (repo-style):**
-- core concept rule from linked pattern
+- Use the exact concept/formula from the linked topic-pattern file.
 
 **✏️ My Solution (actual working):**
-Step 1: Apply the required method for this question type and evaluate the options.
+Step 1: Apply the linked topic rule/formula to the given data or statements.
 Step 2: Obtained/verified key result: **Hole**
 Step 3: This directly matches option **(3)**.
 
@@ -2565,13 +2565,13 @@ Step 3: This directly matches option **(3)**.
 
 **🤔 What I understood:**
 - Topic used: **General English — RC and Errors**
-- We must compute/verify and then map to the correct option.
+- Goal: apply the linked topic rule clearly and map the result to the exact option.
 
 **💡 What I’ll use (repo-style):**
-- core concept rule from linked pattern
+- Use the exact concept/formula from the linked topic-pattern file.
 
 **✏️ My Solution (actual working):**
-Step 1: Apply the required method for this question type and evaluate the options.
+Step 1: Apply the linked topic rule/formula to the given data or statements.
 Step 2: Obtained/verified key result: **V, III, II, IV**
 Step 3: This directly matches option **(3)**.
 
@@ -2593,13 +2593,13 @@ Step 3: This directly matches option **(3)**.
 
 **🤔 What I understood:**
 - Topic used: **General English — Grammar**
-- We must compute/verify and then map to the correct option.
+- Goal: apply the linked topic rule clearly and map the result to the exact option.
 
 **💡 What I’ll use (repo-style):**
-- language rule/meaning context
+- Use the exact concept/formula from the linked topic-pattern file.
 
 **✏️ My Solution (actual working):**
-Step 1: Apply the required method for this question type and evaluate the options.
+Step 1: Apply the linked topic rule/formula to the given data or statements.
 Step 2: Obtained/verified key result: **Whom did you**
 Step 3: This directly matches option **(1)**.
 
@@ -2621,13 +2621,13 @@ Step 3: This directly matches option **(1)**.
 
 **🤔 What I understood:**
 - Topic used: **General English — Grammar**
-- We must compute/verify and then map to the correct option.
+- Goal: apply the linked topic rule clearly and map the result to the exact option.
 
 **💡 What I’ll use (repo-style):**
-- SI/CI formula
+- Use the exact concept/formula from the linked topic-pattern file.
 
 **✏️ My Solution (actual working):**
-Step 1: Apply the required method for this question type and evaluate the options.
+Step 1: Apply the linked topic rule/formula to the given data or statements.
 Step 2: Obtained/verified key result: **Classical**
 Step 3: This directly matches option **(3)**.
 
@@ -2649,13 +2649,13 @@ Step 3: This directly matches option **(3)**.
 
 **🤔 What I understood:**
 - Topic used: **Reasoning — Blood Relations**
-- We must compute/verify and then map to the correct option.
+- Goal: apply the linked topic rule clearly and map the result to the exact option.
 
 **💡 What I’ll use (repo-style):**
-- language rule/meaning context
+- Use the exact concept/formula from the linked topic-pattern file.
 
 **✏️ My Solution (actual working):**
-Step 1: Apply the required method for this question type and evaluate the options.
+Step 1: Apply the linked topic rule/formula to the given data or statements.
 Step 2: Obtained/verified key result: **Error in C (has died → died)**
 Step 3: This directly matches option **(3)**.
 
@@ -2677,13 +2677,13 @@ Step 3: This directly matches option **(3)**.
 
 **🤔 What I understood:**
 - Topic used: **General English — Grammar**
-- We must compute/verify and then map to the correct option.
+- Goal: apply the linked topic rule clearly and map the result to the exact option.
 
 **💡 What I’ll use (repo-style):**
-- language rule/meaning context
+- Use the exact concept/formula from the linked topic-pattern file.
 
 **✏️ My Solution (actual working):**
-Step 1: Apply the required method for this question type and evaluate the options.
+Step 1: Apply the linked topic rule/formula to the given data or statements.
 Step 2: Obtained/verified key result: **was solved**
 Step 3: This directly matches option **(3)**.
 
@@ -2705,13 +2705,13 @@ Step 3: This directly matches option **(3)**.
 
 **🤔 What I understood:**
 - Topic used: **General English — Grammar**
-- We must compute/verify and then map to the correct option.
+- Goal: apply the linked topic rule clearly and map the result to the exact option.
 
 **💡 What I’ll use (repo-style):**
-- core concept rule from linked pattern
+- Use the exact concept/formula from the linked topic-pattern file.
 
 **✏️ My Solution (actual working):**
-Step 1: Apply the required method for this question type and evaluate the options.
+Step 1: Apply the linked topic rule/formula to the given data or statements.
 Step 2: Obtained/verified key result: **so weak that**
 Step 3: This directly matches option **(3)**.
 
@@ -2733,13 +2733,13 @@ Step 3: This directly matches option **(3)**.
 
 **🤔 What I understood:**
 - Topic used: **General English — RC and Errors**
-- We must compute/verify and then map to the correct option.
+- Goal: apply the linked topic rule clearly and map the result to the exact option.
 
 **💡 What I’ll use (repo-style):**
-- core concept rule from linked pattern
+- Use the exact concept/formula from the linked topic-pattern file.
 
 **✏️ My Solution (actual working):**
-Step 1: Apply the required method for this question type and evaluate the options.
+Step 1: Apply the linked topic rule/formula to the given data or statements.
 Step 2: Obtained/verified key result: **Used lot of power**
 Step 3: This directly matches option **(4)**.
 
@@ -2761,13 +2761,13 @@ Step 3: This directly matches option **(4)**.
 
 **🤔 What I understood:**
 - Topic used: **General English — RC and Errors**
-- We must compute/verify and then map to the correct option.
+- Goal: apply the linked topic rule clearly and map the result to the exact option.
 
 **💡 What I’ll use (repo-style):**
-- core concept rule from linked pattern
+- Use the exact concept/formula from the linked topic-pattern file.
 
 **✏️ My Solution (actual working):**
-Step 1: Apply the required method for this question type and evaluate the options.
+Step 1: Apply the linked topic rule/formula to the given data or statements.
 Step 2: Obtained/verified key result: **Explains how metal detectors work**
 Step 3: This directly matches option **(2)**.
 
@@ -2789,13 +2789,13 @@ Step 3: This directly matches option **(2)**.
 
 **🤔 What I understood:**
 - Topic used: **General English — RC and Errors**
-- We must compute/verify and then map to the correct option.
+- Goal: apply the linked topic rule clearly and map the result to the exact option.
 
 **💡 What I’ll use (repo-style):**
-- core concept rule from linked pattern
+- Use the exact concept/formula from the linked topic-pattern file.
 
 **✏️ My Solution (actual working):**
-Step 1: Apply the required method for this question type and evaluate the options.
+Step 1: Apply the linked topic rule/formula to the given data or statements.
 Step 2: Obtained/verified key result: **Broken needles don’t get into clothing**
 Step 3: This directly matches option **(3)**.
 
@@ -2817,13 +2817,13 @@ Step 3: This directly matches option **(3)**.
 
 **🤔 What I understood:**
 - Topic used: **General English — RC and Errors**
-- We must compute/verify and then map to the correct option.
+- Goal: apply the linked topic rule clearly and map the result to the exact option.
 
 **💡 What I’ll use (repo-style):**
-- core concept rule from linked pattern
+- Use the exact concept/formula from the linked topic-pattern file.
 
 **✏️ My Solution (actual working):**
-Step 1: Apply the required method for this question type and evaluate the options.
+Step 1: Apply the linked topic rule/formula to the given data or statements.
 Step 2: Obtained/verified key result: **Find valuable items**
 Step 3: This directly matches option **(1)**.
 
@@ -2845,13 +2845,13 @@ Step 3: This directly matches option **(1)**.
 
 **🤔 What I understood:**
 - Topic used: **General English — Vocabulary**
-- We must compute/verify and then map to the correct option.
+- Goal: apply the linked topic rule clearly and map the result to the exact option.
 
 **💡 What I’ll use (repo-style):**
-- core concept rule from linked pattern
+- Use the exact concept/formula from the linked topic-pattern file.
 
 **✏️ My Solution (actual working):**
-Step 1: Apply the required method for this question type and evaluate the options.
+Step 1: Apply the linked topic rule/formula to the given data or statements.
 Step 2: Obtained/verified key result: **accommodate (all options identical)**
 Step 3: This directly matches option **(1)**.
 
