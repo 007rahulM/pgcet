@@ -1,2793 +1,1363 @@
 # PGCET 2024 — Answers with Step-by-Step Teaching
 
-Each answer block explains: what is asked, which linked topic-rule is used, and how the final option is chosen.
-
 ## Q1
 
-**❓ Question:** Choose the word which is CLOSEST in meaning to the word FABULOUS
+**Question:** Choose the word which is CLOSEST in meaning to the word FABULOUS.
 
-**Options:**
-- (1) Auspicious
-- (2) Astonishing
-- (3) Credible
-- (4) Rigorous
+**Options:** (1) Auspicious (2) Astonishing (3) Credible (4) Rigorous
 
-**🤔 What I understood:**
-- Topic used: **General English — Vocabulary**
-- Goal: apply the linked topic rule clearly and map the result to the exact option.
+**Solution:**  
+Fabulous means amazing or astonishing.
 
-**💡 What I’ll use (repo-style):**
-- Use the exact concept/formula from the linked topic-pattern file.
+**Final answer:** (2) Astonishing  
+**Topic:** [General English — Vocabulary](../../23-General-English/Pattern2-Vocabulary.md)
 
-**✏️ My Solution (actual working):**
-Step 1: Apply the linked topic rule/formula to the given data or statements.
-Step 2: Obtained/verified key result: **Fabulous = astonishing**
-Step 3: This directly matches option **(2)**.
-
-**✅ Final Answer: (2)**
-
-- **Answer + Explanation Link:** [Direct anchor for Q1](#q1)
-- **Exact Topic-Pattern Link:** [General English — Vocabulary](../../23-General-English/Pattern2-Vocabulary.md)
-- **Question Block Link:** [Go to Q1 question](./Questions.md#q1)
+---
 
 ## Q2
 
-**❓ Question:** Choose the word which is OPPOSITE in meaning to the word ISOLATE
+**Question:** Choose the word which is OPPOSITE in meaning to the word ISOLATE.
 
-**Options:**
-- (1) Assuage
-- (2) Insulate
-- (3) Mingle
-- (4) Transpose
+**Options:** (1) Assuage (2) Insulate (3) Mingle (4) Transpose
 
-**🤔 What I understood:**
-- Topic used: **General English — Vocabulary**
-- Goal: apply the linked topic rule clearly and map the result to the exact option.
+**Solution:**  
+Isolate means separate; opposite is mingle (mix socially).
 
-**💡 What I’ll use (repo-style):**
-- Use the exact concept/formula from the linked topic-pattern file.
+**Final answer:** (3) Mingle  
+**Topic:** [General English — Vocabulary](../../23-General-English/Pattern2-Vocabulary.md)
 
-**✏️ My Solution (actual working):**
-Step 1: Apply the linked topic rule/formula to the given data or statements.
-Step 2: Obtained/verified key result: **Isolate opposite = mingle**
-Step 3: This directly matches option **(3)**.
-
-**✅ Final Answer: (3)**
-
-- **Answer + Explanation Link:** [Direct anchor for Q2](#q2)
-- **Exact Topic-Pattern Link:** [General English — Vocabulary](../../23-General-English/Pattern2-Vocabulary.md)
-- **Question Block Link:** [Go to Q2 question](./Questions.md#q2)
+---
 
 ## Q3
 
-**❓ Question:** Select the option which best expresses the meaning of the idiom “Add fuel to the fire”.
+**Question:** Select the option which best expresses the meaning of the idiom “Add fuel to the fire”.
 
-**Options:**
-- (1) Make somebody angry
-- (2) Make something worse
-- (3) To start a fire somewhere
-- (4) To call for help
+**Options:** (1) Make somebody angry (2) Make something worse (3) To start a fire (4) To call for help
 
-**🤔 What I understood:**
-- Topic used: **General English — Vocabulary**
-- Goal: apply the linked topic rule clearly and map the result to the exact option.
+**Solution:**  
+The idiom means to worsen an already bad situation.
 
-**💡 What I’ll use (repo-style):**
-- Use the exact concept/formula from the linked topic-pattern file.
+**Final answer:** (2) Make something worse  
+**Topic:** [General English — Vocabulary](../../23-General-English/Pattern2-Vocabulary.md)
 
-**✏️ My Solution (actual working):**
-Step 1: Apply the linked topic rule/formula to the given data or statements.
-Step 2: Obtained/verified key result: **Add fuel to fire = make worse**
-Step 3: This directly matches option **(2)**.
-
-**✅ Final Answer: (2)**
-
-- **Answer + Explanation Link:** [Direct anchor for Q3](#q3)
-- **Exact Topic-Pattern Link:** [General English — Vocabulary](../../23-General-English/Pattern2-Vocabulary.md)
-- **Question Block Link:** [Go to Q3 question](./Questions.md#q3)
+---
 
 ## Q4
 
-**❓ Question:** Five sentences are marked I, II, III, IV, V; I is fixed as the first sentence. Choose the most logical sequence. I. For thousands of years, Indians have believed that man is different from his fellow animals because of his ability to make tools. II. In modern India, people still place garlands on the machines of their different trades hoping for an auspicious response. III. They have also developed a tradition of worshipping and honouring the tools and implements they use in agriculture and business. IV. By honouring their implements they honour human ingenuity. V. Weapon worship originated with warriors honouring their weapons, the tools of their trade.
+**Question:** Five sentences (I fixed first). Choose logical sequence.  
+I. For thousands of years, Indians have believed that man is different from his fellow animals because of his ability to make tools.  
+II. In modern India, people still place garlands on machines hoping for an auspicious response.  
+III. They have also developed a tradition of worshipping tools.  
+IV. By honouring implements they honour human ingenuity.  
+V. Weapon worship originated with warriors honouring their weapons.
 
-**Options:**
-- (1) IV, V, II, III
-- (2) III, IV, V, II
-- (3) V, II, III, IV
-- (4) II, III, IV, V
+**Options:** (1) IV,V,II,III (2) III,IV,V,II (3) V,II,III,IV (4) II,III,IV,V
 
-**🤔 What I understood:**
-- Topic used: **General English — RC and Errors**
-- Goal: apply the linked topic rule clearly and map the result to the exact option.
+**Solution:**  
+After I (tool‑making ability), III (worshipping tools) follows. Then IV (honouring ingenuity), then V (weapon worship origin), then II (modern practice). Correct sequence: I, III, IV, V, II → option (2) is III,IV,V,II (since I is fixed first, the order after I is III‑IV‑V‑II).
 
-**💡 What I’ll use (repo-style):**
-- Use the exact concept/formula from the linked topic-pattern file.
+**Final answer:** (2) III,IV,V,II  
+**Topic:** [General English — RC and Errors](../../23-General-English/Pattern3-Reading-Comprehension-and-Errors.md)
 
-**✏️ My Solution (actual working):**
-Step 1: Apply the linked topic rule/formula to the given data or statements.
-Step 2: Obtained/verified key result: **Sequence: I, III, IV, V, II**
-Step 3: This directly matches option **(2)**.
-
-**✅ Final Answer: (2)**
-
-- **Answer + Explanation Link:** [Direct anchor for Q4](#q4)
-- **Exact Topic-Pattern Link:** [General English — RC and Errors](../../23-General-English/Pattern3-Reading-Comprehension-and-Errors.md)
-- **Question Block Link:** [Go to Q4 question](./Questions.md#q4)
+---
 
 ## Q5
 
-**❓ Question:** Choose the passive form of “The boys were playing cricket.”
+**Question:** Choose the passive form of “The boys were playing cricket.”
 
-**Options:**
-- (1) Cricket had been played by the boys.
-- (2) Cricket has been played by the boys.
-- (3) Cricket was played by the boys.
-- (4) Cricket was being played by the boys.
+**Options:** (1) Cricket had been played (2) Cricket has been played (3) Cricket was played (4) Cricket was being played
 
-**🤔 What I understood:**
-- Topic used: **General English — Grammar**
-- Goal: apply the linked topic rule clearly and map the result to the exact option.
+**Solution:**  
+Past continuous active → past continuous passive: “was/were being + past participle”.
 
-**💡 What I’ll use (repo-style):**
-- Use the exact concept/formula from the linked topic-pattern file.
+**Final answer:** (4) Cricket was being played by the boys.  
+**Topic:** [General English — Grammar](../../23-General-English/Pattern1-Grammar.md)
 
-**✏️ My Solution (actual working):**
-Step 1: Apply the linked topic rule/formula to the given data or statements.
-Step 2: Obtained/verified key result: **Past continuous passive form of “were playing” is “was being played”.**
-Step 3: This directly matches option **(4)**.
-
-**✅ Final Answer: (4)**
-
-- **Answer + Explanation Link:** [Direct anchor for Q5](#q5)
-- **Exact Topic-Pattern Link:** [General English — Grammar](../../23-General-English/Pattern1-Grammar.md)
-- **Question Block Link:** [Go to Q5 question](./Questions.md#q5)
+---
 
 ## Q6
 
-**❓ Question:** [SOURCE MISSING IN CURRENT 2024 FILE] — question/options must be restored from official paper source.
+**Question:** [SOURCE MISSING – question text not provided in original file]
 
-**Options:**
-- (1) [missing in source]
-- (2) [missing in source]
-- (3) [missing in source]
-- (4) [missing in source]
+**Solution:**  
+Cannot answer without the full question. Marked for restoration.
 
-**🤔 What I understood:**
-- Topic used: **General English — RC and Errors**
-- Source question block is currently missing in this file version.
+**Final answer:** (Pending source restore)  
+**Topic:** [General English — RC and Errors](../../23-General-English/Pattern3-Reading-Comprehension-and-Errors.md)
 
-**💡 What I’ll use (repo-style):**
-- Use the exact concept/formula from the linked topic-pattern file.
-
-**✏️ My Solution (actual working):**
-Step 1: Official question text not available in current repository snapshot.
-Step 2: Marked for restoration from verified source.
-Step 3: Final answer cannot be validated until source text is restored.
-
-**✅ Final Answer: [PENDING SOURCE RESTORE]**
-
-- **Answer + Explanation Link:** [Direct anchor for Q6](#q6)
-- **Exact Topic-Pattern Link:** [General English — RC and Errors](../../23-General-English/Pattern3-Reading-Comprehension-and-Errors.md)
-- **Question Block Link:** [Go to Q6 question](./Questions.md#q6)
+---
 
 ## Q7
 
-**❓ Question:** [SOURCE MISSING IN CURRENT 2024 FILE] — question/options must be restored from official paper source.
+**Question:** [SOURCE MISSING]
 
-**Options:**
-- (1) [missing in source]
-- (2) [missing in source]
-- (3) [missing in source]
-- (4) [missing in source]
+**Final answer:** (Pending source restore)
 
-**🤔 What I understood:**
-- Topic used: **General English — RC and Errors**
-- Source question block is currently missing in this file version.
-
-**💡 What I’ll use (repo-style):**
-- Use the exact concept/formula from the linked topic-pattern file.
-
-**✏️ My Solution (actual working):**
-Step 1: Official question text not available in current repository snapshot.
-Step 2: Marked for restoration from verified source.
-Step 3: Final answer cannot be validated until source text is restored.
-
-**✅ Final Answer: [PENDING SOURCE RESTORE]**
-
-- **Answer + Explanation Link:** [Direct anchor for Q7](#q7)
-- **Exact Topic-Pattern Link:** [General English — RC and Errors](../../23-General-English/Pattern3-Reading-Comprehension-and-Errors.md)
-- **Question Block Link:** [Go to Q7 question](./Questions.md#q7)
+---
 
 ## Q8
 
-**❓ Question:** [SOURCE MISSING IN CURRENT 2024 FILE] — question/options must be restored from official paper source.
+**Question:** [SOURCE MISSING]
 
-**Options:**
-- (1) [missing in source]
-- (2) [missing in source]
-- (3) [missing in source]
-- (4) [missing in source]
+**Final answer:** (Pending source restore)
 
-**🤔 What I understood:**
-- Topic used: **General English — RC and Errors**
-- Source question block is currently missing in this file version.
-
-**💡 What I’ll use (repo-style):**
-- Use the exact concept/formula from the linked topic-pattern file.
-
-**✏️ My Solution (actual working):**
-Step 1: Official question text not available in current repository snapshot.
-Step 2: Marked for restoration from verified source.
-Step 3: Final answer cannot be validated until source text is restored.
-
-**✅ Final Answer: [PENDING SOURCE RESTORE]**
-
-- **Answer + Explanation Link:** [Direct anchor for Q8](#q8)
-- **Exact Topic-Pattern Link:** [General English — RC and Errors](../../23-General-English/Pattern3-Reading-Comprehension-and-Errors.md)
-- **Question Block Link:** [Go to Q8 question](./Questions.md#q8)
+---
 
 ## Q9
 
-**❓ Question:** [SOURCE MISSING IN CURRENT 2024 FILE] — question/options must be restored from official paper source.
+**Question:** [SOURCE MISSING]
 
-**Options:**
-- (1) [missing in source]
-- (2) [missing in source]
-- (3) [missing in source]
-- (4) [missing in source]
+**Final answer:** (Pending source restore)
 
-**🤔 What I understood:**
-- Topic used: **General English — RC and Errors**
-- Source question block is currently missing in this file version.
-
-**💡 What I’ll use (repo-style):**
-- Use the exact concept/formula from the linked topic-pattern file.
-
-**✏️ My Solution (actual working):**
-Step 1: Official question text not available in current repository snapshot.
-Step 2: Marked for restoration from verified source.
-Step 3: Final answer cannot be validated until source text is restored.
-
-**✅ Final Answer: [PENDING SOURCE RESTORE]**
-
-- **Answer + Explanation Link:** [Direct anchor for Q9](#q9)
-- **Exact Topic-Pattern Link:** [General English — RC and Errors](../../23-General-English/Pattern3-Reading-Comprehension-and-Errors.md)
-- **Question Block Link:** [Go to Q9 question](./Questions.md#q9)
+---
 
 ## Q10
 
-**❓ Question:** Choose the best substitute for “One who is filled with excessive enthusiasm in religious matters”.
+**Question:** Choose the best substitute for “One who is filled with excessive enthusiasm in religious matters”.
 
-**Options:**
-- (1) Heretic
-- (2) Highbrow
-- (3) Fatalist
-- (4) Fanatic
+**Options:** (1) Heretic (2) Highbrow (3) Fatalist (4) Fanatic
 
-**🤔 What I understood:**
-- Topic used: **General English — Vocabulary**
-- Goal: apply the linked topic rule clearly and map the result to the exact option.
+**Solution:**  
+Fanatic = excessive zeal, especially in religion.
 
-**💡 What I’ll use (repo-style):**
-- Use the exact concept/formula from the linked topic-pattern file.
+**Final answer:** (4) Fanatic  
+**Topic:** [General English — Vocabulary](../../23-General-English/Pattern2-Vocabulary.md)
 
-**✏️ My Solution (actual working):**
-Step 1: Apply the linked topic rule/formula to the given data or statements.
-Step 2: Obtained/verified key result: **Past continuous passive: “Cricket was being played…”**
-Step 3: This directly matches option **(4)**.
-
-**✅ Final Answer: (4)**
-
-- **Answer + Explanation Link:** [Direct anchor for Q10](#q10)
-- **Exact Topic-Pattern Link:** [General English — Vocabulary](../../23-General-English/Pattern2-Vocabulary.md)
-- **Question Block Link:** [Go to Q10 question](./Questions.md#q10)
+---
 
 ## Q11
 
-**❓ Question:** According to the passage, which have non‑astronomers not been busy with?
+**Question:** According to the passage, which have non‑astronomers not been busy with?
 
-**Options:**
-- (1) Sinister war tactics
-- (2) Being sceptical about the universe
-- (3) Deadly chemicals
-- (4) Shiny new machines
+**Options:** (1) Sinister war tactics (2) Being sceptical about the universe (3) Deadly chemicals (4) Shiny new machines
 
-**🤔 What I understood:**
-- Topic used: **General English — RC and Errors**
-- Goal: apply the linked topic rule clearly and map the result to the exact option.
+**Solution:**  
+Based on typical RC, non‑astronomers are busy with war, chemicals, machines, but not scepticism about the universe.
 
-**💡 What I’ll use (repo-style):**
-- Use the exact concept/formula from the linked topic-pattern file.
+**Final answer:** (2) Being sceptical about the universe  
+**Topic:** [General English — RC and Errors](../../23-General-English/Pattern3-Reading-Comprehension-and-Errors.md)
 
-**✏️ My Solution (actual working):**
-Step 1: Apply the linked topic rule/formula to the given data or statements.
-Step 2: Obtained/verified key result: **Fanatic**
-Step 3: This directly matches option **(4)**.
-
-**✅ Final Answer: (4)**
-
-- **Answer + Explanation Link:** [Direct anchor for Q11](#q11)
-- **Exact Topic-Pattern Link:** [General English — RC and Errors](../../23-General-English/Pattern3-Reading-Comprehension-and-Errors.md)
-- **Question Block Link:** [Go to Q11 question](./Questions.md#q11)
+---
 
 ## Q12
 
-**❓ Question:** As per the passage
+**Question:** As per the passage
 
-**Options:**
-- (1) The author insists new planets have disturbed the world.
-- (2) New planets have made astrologers’ predictions go wrong.
-- (3) The author has a positive disposition towards scientific discoveries in general.
-- (4) New planets are discovered by astrologers.
+**Options:** (1) New planets have disturbed the world (2) New planets made astrologers’ predictions wrong (3) Author positive towards scientific discoveries (4) New planets discovered by astrologers
 
-**🤔 What I understood:**
-- Topic used: **General English — RC and Errors**
-- Goal: apply the linked topic rule clearly and map the result to the exact option.
+**Solution:**  
+The author likely has a positive disposition towards science.
 
-**💡 What I’ll use (repo-style):**
-- Use the exact concept/formula from the linked topic-pattern file.
+**Final answer:** (3) The author has a positive disposition towards scientific discoveries in general.  
+**Topic:** [General English — RC and Errors](../../23-General-English/Pattern3-Reading-Comprehension-and-Errors.md)
 
-**✏️ My Solution (actual working):**
-Step 1: Apply the linked topic rule/formula to the given data or statements.
-Step 2: Obtained/verified key result: **Non‑astronomers busy with machines, chemicals, war; not scepticism**
-Step 3: This directly matches option **(2)**.
-
-**✅ Final Answer: (2)**
-
-- **Answer + Explanation Link:** [Direct anchor for Q12](#q12)
-- **Exact Topic-Pattern Link:** [General English — RC and Errors](../../23-General-English/Pattern3-Reading-Comprehension-and-Errors.md)
-- **Question Block Link:** [Go to Q12 question](./Questions.md#q12)
+---
 
 ## Q13
 
-**❓ Question:** According to the author, who are continually searching for the truth about us and the universe?
+**Question:** According to the author, who are continually searching for the truth about us and the universe?
 
-**Options:**
-- (1) Astronomers
-- (2) Astrologers
-- (3) Sceptics
-- (4) The author himself/herself
+**Options:** (1) Astronomers (2) Astrologers (3) Sceptics (4) The author himself/herself
 
-**🤔 What I understood:**
-- Topic used: **General English — RC and Errors**
-- Goal: apply the linked topic rule clearly and map the result to the exact option.
+**Solution:**  
+Astronomers.
 
-**💡 What I’ll use (repo-style):**
-- Use the exact concept/formula from the linked topic-pattern file.
+**Final answer:** (1) Astronomers  
+**Topic:** [General English — RC and Errors](../../23-General-English/Pattern3-Reading-Comprehension-and-Errors.md)
 
-**✏️ My Solution (actual working):**
-Step 1: Apply the linked topic rule/formula to the given data or statements.
-Step 2: Obtained/verified key result: **Author positive towards science**
-Step 3: This directly matches option **(3)**.
-
-**✅ Final Answer: (3)**
-
-- **Answer + Explanation Link:** [Direct anchor for Q13](#q13)
-- **Exact Topic-Pattern Link:** [General English — RC and Errors](../../23-General-English/Pattern3-Reading-Comprehension-and-Errors.md)
-- **Question Block Link:** [Go to Q13 question](./Questions.md#q13)
+---
 
 ## Q14
 
-**❓ Question:** Mentioning “the morbid passion for war”, the author
+**Question:** Mentioning “the morbid passion for war”, the author
 
-**Options:**
-- (1) is not happy with war and spending on war.
-- (2) says it is natural to spend on war.
-- (3) says the world is after new war tactics.
-- (4) is happy that the world is not disturbing astronomers.
+**Options:** (1) is not happy with war and spending on war (2) says it is natural (3) says world is after new war tactics (4) is happy that world is not disturbing astronomers
 
-**🤔 What I understood:**
-- Topic used: **General English — RC and Errors**
-- Goal: apply the linked topic rule clearly and map the result to the exact option.
+**Solution:**  
+The author is critical of war and war spending.
 
-**💡 What I’ll use (repo-style):**
-- Use the exact concept/formula from the linked topic-pattern file.
+**Final answer:** (1) is not happy with war and spending on war.  
+**Topic:** [General English — RC and Errors](../../23-General-English/Pattern3-Reading-Comprehension-and-Errors.md)
 
-**✏️ My Solution (actual working):**
-Step 1: Apply the linked topic rule/formula to the given data or statements.
-Step 2: Obtained/verified key result: **Astronomers search for truth**
-Step 3: This directly matches option **(1)**.
-
-**✅ Final Answer: (1)**
-
-- **Answer + Explanation Link:** [Direct anchor for Q14](#q14)
-- **Exact Topic-Pattern Link:** [General English — RC and Errors](../../23-General-English/Pattern3-Reading-Comprehension-and-Errors.md)
-- **Question Block Link:** [Go to Q14 question](./Questions.md#q14)
+---
 
 ## Q15
 
-**❓ Question:** The net understanding of the passage is
+**Question:** The net understanding of the passage is
 
-**Options:**
-- (1) Astronomers are better than astrologers.
-- (2) Science has moved us from conclusive belief to reasonable understanding.
-- (3) That the Sun is not revolving around the Earth but the Earth is revolving around the Sun.
-- (4) Astrologers are to be rejected.
+**Options:** (1) Astronomers better than astrologers (2) Science moved us from conclusive belief to reasonable understanding (3) Earth revolves around Sun (4) Astrologers rejected
 
-**🤔 What I understood:**
-- Topic used: **General English — RC and Errors**
-- Goal: apply the linked topic rule clearly and map the result to the exact option.
+**Solution:**  
+The passage likely emphasises science as moving from dogma to evidence.
 
-**💡 What I’ll use (repo-style):**
-- Use the exact concept/formula from the linked topic-pattern file.
+**Final answer:** (2) Science has moved us from conclusive belief to reasonable understanding.  
+**Topic:** [General English — RC and Errors](../../23-General-English/Pattern3-Reading-Comprehension-and-Errors.md)
 
-**✏️ My Solution (actual working):**
-Step 1: Apply the linked topic rule/formula to the given data or statements.
-Step 2: Obtained/verified key result: **Author critical of war**
-Step 3: This directly matches option **(1)**.
-
-**✅ Final Answer: (1)**
-
-- **Answer + Explanation Link:** [Direct anchor for Q15](#q15)
-- **Exact Topic-Pattern Link:** [General English — RC and Errors](../../23-General-English/Pattern3-Reading-Comprehension-and-Errors.md)
-- **Question Block Link:** [Go to Q15 question](./Questions.md#q15)
+---
 
 ## Q16
 
-**❓ Question:** Ajay left home for the bus stop 15 minutes earlier than usual. It takes 10 minutes to reach the stop. He reached at 8:40 a.m. What time does he usually leave home?
+**Question:** Ajay left home for bus stop 15 minutes earlier than usual. Takes 10 minutes to reach stop. Reached at 8:40 a.m. What time does he usually leave home?
 
-**Options:**
-- (1) 8:30 a.m.
-- (2) 8:45 a.m.
-- (3) 8:55 a.m.
-- (4) (missing)
+**Options:** (1) 8:30 (2) 8:45 (3) 8:55 (4) missing
 
-**🤔 What I understood:**
-- Topic used: **Quant — Time, Speed and Distance**
-- Goal: apply the linked topic rule clearly and map the result to the exact option.
+**Solution:**  
+He reached at 8:40, travel 10 min → left at 8:30. That was 15 min earlier than usual → usual time = 8:30 + 15 = 8:45.
 
-**💡 What I’ll use (repo-style):**
-- Use the exact concept/formula from the linked topic-pattern file.
+**Final answer:** (2) 8:45 a.m.  
+**Topic:** [Quant — Time, Speed and Distance](../../02-Time-Speed-Distance/01-Basic-Concepts.md)
 
-**✏️ My Solution (actual working):**
-Step 1: Apply the linked topic rule/formula to the given data or statements.
-Step 2: Obtained/verified key result: **Science moved us to reasonable understanding**
-Step 3: This directly matches option **(2)**.
-
-**✅ Final Answer: (2)**
-
-- **Answer + Explanation Link:** [Direct anchor for Q16](#q16)
-- **Exact Topic-Pattern Link:** [Quant — Time, Speed and Distance](../../02-Time-Speed-Distance/01-Basic-Concepts.md)
-- **Question Block Link:** [Go to Q16 question](./Questions.md#q16)
+---
 
 ## Q17
 
-**❓ Question:** In the word DISTURBANCE, first letter interchanged with last, second with tenth, etc. Which letter comes after T in the newly formed word?
+**Question:** In the word DISTURBANCE, first letter interchanged with last, second with tenth, etc. Which letter comes after T in the newly formed word?
 
-**Options:**
-- (1) C
-- (2) N
-- (3) S
-- (4) E
+**Options:** (1) C (2) N (3) S (4) E
 
-**🤔 What I understood:**
-- Topic used: **Reasoning — Coding/Decoding**
-- Goal: apply the linked topic rule clearly and map the result to the exact option.
+**Solution:**  
+Word: D I S T U R B A N C E (11 letters). Swap 1↔11, 2↔10, 3↔9, 4↔8, 5↔7, 6 stays (middle).  
+New word: E C N A B R U T S I D. After T comes S.
 
-**💡 What I’ll use (repo-style):**
-- Use the exact concept/formula from the linked topic-pattern file.
+**Final answer:** (3) S  
+**Topic:** [Reasoning — Coding/Decoding](../../12-Coding-Decoding/Pattern1-Letter-Shifting.md)
 
-**✏️ My Solution (actual working):**
-Step 1: Apply the linked topic rule/formula to the given data or statements.
-Step 2: Obtained/verified key result: **Usual time 8:45 a.m.**
-Step 3: This directly matches option **(2)**.
-
-**✅ Final Answer: (2)**
-
-- **Answer + Explanation Link:** [Direct anchor for Q17](#q17)
-- **Exact Topic-Pattern Link:** [Reasoning — Coding/Decoding](../../12-Coding-Decoding/Pattern1-Letter-Shifting.md)
-- **Question Block Link:** [Go to Q17 question](./Questions.md#q17)
+---
 
 ## Q18
 
-**❓ Question:** Six roads: X, Y, Z, 1, 2, 3. Storm blocks Y. Floods block X, 1, 2. When 1 is blocked, Z also blocked. During floods and storm, which road(s) can be used?
+**Question:** Six roads: X, Y, Z, 1, 2, 3. Storm blocks Y. Floods block X, 1, 2. When 1 is blocked, Z also blocked. During both, which road(s) can be used?
 
-**Options:**
-- (1) Only Y
-- (2) Only Z
-- (3) Only 3
-- (4) Z and 2
+**Options:** (1) Only Y (2) Only Z (3) Only 3 (4) Z and 2
 
-**🤔 What I understood:**
-- Topic used: **Mathematical Logic — Connectives/Truth Tables**
-- Goal: apply the linked topic rule clearly and map the result to the exact option.
+**Solution:**  
+Flood blocks X,1,2. Storm blocks Y. 1 blocked ⇒ Z also blocked. So all except 3 are blocked. Only road 3 is usable.
 
-**💡 What I’ll use (repo-style):**
-- Use the exact concept/formula from the linked topic-pattern file.
+**Final answer:** (3) Only 3  
+**Topic:** [Mathematical Logic — Connectives/Truth Tables](../../22-Mathematical-Logic/Pattern1-Connectives-and-Truth-Tables.md)
 
-**✏️ My Solution (actual working):**
-Step 1: Apply the linked topic rule/formula to the given data or statements.
-Step 2: Obtained/verified key result: **After swapping, word = E C N A B R U T S I D; after T comes S**
-Step 3: This directly matches option **(3)**.
-
-**✅ Final Answer: (3)**
-
-- **Answer + Explanation Link:** [Direct anchor for Q18](#q18)
-- **Exact Topic-Pattern Link:** [Mathematical Logic — Connectives/Truth Tables](../../22-Mathematical-Logic/Pattern1-Connectives-and-Truth-Tables.md)
-- **Question Block Link:** [Go to Q18 question](./Questions.md#q18)
+---
 
 ## Q19
 
-**❓ Question:** Manoj and Sachin are 7th and 11th from top in a class of 31. Their ranks from bottom are
+**Question:** Manoj and Sachin are 7th and 11th from top in a class of 31. Their ranks from bottom?
 
-**Options:**
-- (1) 20th and 24th
-- (2) 24th and 20th
-- (3) 25th and 21st
-- (4) 26th and 22nd
+**Options:** (1) 20th & 24th (2) 24th & 20th (3) 25th & 21st (4) 26th & 22nd
 
-**🤔 What I understood:**
-- Topic used: **Reasoning — Ranking and Positions**
-- Goal: apply the linked topic rule clearly and map the result to the exact option.
+**Solution:**  
+Rank from bottom = (Total + 1) − rank from top.  
+Manoj: 31+1−7 = 25th from bottom.  
+Sachin: 31+1−11 = 21st from bottom.  
+So 25th and 21st.
 
-**💡 What I’ll use (repo-style):**
-- Use the exact concept/formula from the linked topic-pattern file.
+**Final answer:** (3) 25th and 21st  
+**Topic:** [Reasoning — Ranking and Positions](../../15-Seating-Arrangement/Pattern3-Ranking-and-Positions.md)
 
-**✏️ My Solution (actual working):**
-Step 1: Apply the linked topic rule/formula to the given data or statements.
-Step 2: Obtained/verified key result: **Only road 3 open**
-Step 3: This directly matches option **(3)**.
-
-**✅ Final Answer: (3)**
-
-- **Answer + Explanation Link:** [Direct anchor for Q19](#q19)
-- **Exact Topic-Pattern Link:** [Reasoning — Ranking and Positions](../../15-Seating-Arrangement/Pattern3-Ranking-and-Positions.md)
-- **Question Block Link:** [Go to Q19 question](./Questions.md#q19)
+---
 
 ## Q20
 
-**❓ Question:** Statements: All books are cakes. All cakes are apples. Conclusions: I. Some cakes are books. II. No cake is a book. III. Some apples are books. IV. All apples are books.
+**Question:** Statements: All books are cakes. All cakes are apples. Conclusions: I. Some cakes are books. II. No cake is a book. III. Some apples are books. IV. All apples are books.
 
-**Options:**
-- (1) Only I follows
-- (2) Either I or II follows
-- (3) Only I and III follow
-- (4) Either III or IV follows
+**Options:** (1) Only I follows (2) Either I or II (3) Only I and III (4) Either III or IV
 
-**🤔 What I understood:**
-- Topic used: **Reasoning — Syllogism**
-- Goal: apply the linked topic rule clearly and map the result to the exact option.
+**Solution:**  
+All books are cakes ⇒ some cakes are books (I follows). All cakes are apples ⇒ some apples are books (III follows). II and IV false.
 
-**💡 What I’ll use (repo-style):**
-- Use the exact concept/formula from the linked topic-pattern file.
+**Final answer:** (3) Only I and III follow  
+**Topic:** [Reasoning — Syllogism](../../14-Syllogisms/Pattern1-Two-Statement.md)
 
-**✏️ My Solution (actual working):**
-Step 1: Apply the linked topic rule/formula to the given data or statements.
-Step 2: Obtained/verified key result: **Missing**
-Step 3: This directly matches option **–**.
-
-**✅ Final Answer: –**
-
-- **Answer + Explanation Link:** [Direct anchor for Q20](#q20)
-- **Exact Topic-Pattern Link:** [Reasoning — Syllogism](../../14-Syllogisms/Pattern1-Two-Statement.md)
-- **Question Block Link:** [Go to Q20 question](./Questions.md#q20)
+---
 
 ## Q21
 
-**❓ Question:** Reena is twice as old as Sunitha. Three years ago she was three times as old. How old is Reena now?
+**Question:** Reena is twice as old as Sunitha. Three years ago she was three times as old. How old is Reena now?
 
-**Options:**
-- (1) 6 years
-- (2) 7 years
-- (3) 8 years
-- (4) 12 years
+**Options:** (1) 6 (2) 7 (3) 8 (4) 12
 
-**🤔 What I understood:**
-- Topic used: **Algebra — Linear Equations**
-- Goal: apply the linked topic rule clearly and map the result to the exact option.
+**Solution:**  
+Let Sunitha = x, Reena = 2x. Three years ago: 2x−3 = 3(x−3) → 2x−3 = 3x−9 → x=6. Reena = 12.
 
-**💡 What I’ll use (repo-style):**
-- Use the exact concept/formula from the linked topic-pattern file.
+**Final answer:** (4) 12 years  
+**Topic:** [Algebra — Linear Equations](../../24-Algebra-Basics/Pattern2-Linear-Equations.md)
 
-**✏️ My Solution (actual working):**
-Step 1: Apply the linked topic rule/formula to the given data or statements.
-Step 2: Obtained/verified key result: **25th and 21st**
-Step 3: This directly matches option **(3)**.
-
-**✅ Final Answer: (3)**
-
-- **Answer + Explanation Link:** [Direct anchor for Q21](#q21)
-- **Exact Topic-Pattern Link:** [Algebra — Linear Equations](../../24-Algebra-Basics/Pattern2-Linear-Equations.md)
-- **Question Block Link:** [Go to Q21 question](./Questions.md#q21)
+---
 
 ## Q22
 
-**❓ Question:** Statement: Morning walks are good for health. Conclusions: I. All healthy people go for a morning walk. II. Evening walks are harmful.
+**Question:** Statement: Morning walks are good for health. Conclusions: I. All healthy people go for a morning walk. II. Evening walks are harmful.
 
-**Options:**
-- (1) Only I follows
-- (2) Only II follows
-- (3) Neither I nor II follows
-- (4) Both follow
+**Options:** (1) Only I (2) Only II (3) Neither I nor II (4) Both
 
-**🤔 What I understood:**
-- Topic used: **Reasoning — Syllogism**
-- Goal: apply the linked topic rule clearly and map the result to the exact option.
+**Solution:**  
+The statement doesn't imply all healthy people walk, nor that evening walks are harmful. Neither follows.
 
-**💡 What I’ll use (repo-style):**
-- Use the exact concept/formula from the linked topic-pattern file.
+**Final answer:** (3) Neither I nor II follows  
+**Topic:** [Reasoning — Syllogism](../../14-Syllogisms/Pattern1-Two-Statement.md)
 
-**✏️ My Solution (actual working):**
-Step 1: Apply the linked topic rule/formula to the given data or statements.
-Step 2: Obtained/verified key result: **I and III follow**
-Step 3: This directly matches option **(3)**.
-
-**✅ Final Answer: (3)**
-
-- **Answer + Explanation Link:** [Direct anchor for Q22](#q22)
-- **Exact Topic-Pattern Link:** [Reasoning — Syllogism](../../14-Syllogisms/Pattern1-Two-Statement.md)
-- **Question Block Link:** [Go to Q22 question](./Questions.md#q22)
+---
 
 ## Q23
 
-**❓ Question:** Four milkmen rent a pasture. A: 24 cows for 3 months, B: 10 cows 5 months, C: 35 cows 4 months, D: 21 cows 3 months. A’s share is Rs.720. Total rent of the field is
+**Question:** Four milkmen rent pasture. A: 24 cows for 3 months, B: 10 cows 5 months, C: 35 cows 4 months, D: 21 cows 3 months. A’s share = Rs.720. Total rent?
 
-**Options:**
-- (1) 3000
-- (2) 2250
-- (3) 4000
-- (4) 3250
+**Options:** (1) 3000 (2) 2250 (3) 4000 (4) 3250
 
-**🤔 What I understood:**
-- Topic used: **Quant — Ratio and Proportion**
-- Goal: apply the linked topic rule clearly and map the result to the exact option.
+**Solution:**  
+Cow‑months: A=24×3=72, B=10×5=50, C=35×4=140, D=21×3=63. Total = 325 cow‑months.  
+A's share = (72/325)×Total = 720 ⇒ Total = 720×325/72 = 10×325 = 3250.
 
-**💡 What I’ll use (repo-style):**
-- Use the exact concept/formula from the linked topic-pattern file.
+**Final answer:** (4) 3250  
+**Topic:** [Quant — Ratio and Proportion](../../05-Ratio-and-Proportion/01-Basic-Ratios.md)
 
-**✏️ My Solution (actual working):**
-Step 1: Apply the linked topic rule/formula to the given data or statements.
-Step 2: Obtained/verified key result: **Image missing**
-Step 3: This directly matches option **–**.
-
-**✅ Final Answer: –**
-
-- **Answer + Explanation Link:** [Direct anchor for Q23](#q23)
-- **Exact Topic-Pattern Link:** [Quant — Ratio and Proportion](../../05-Ratio-and-Proportion/01-Basic-Ratios.md)
-- **Question Block Link:** [Go to Q23 question](./Questions.md#q23)
+---
 
 ## Q24
 
-**❓ Question:** CP = 632, SP = 765, total profit = 1596. Number of articles sold is
+**Question:** CP = 632, SP = 765, total profit = 1596. Number of articles sold?
 
-**Options:**
-- (1) 12
-- (2) 14
-- (3) 10
-- (4) 11
+**Options:** (1) 12 (2) 14 (3) 10 (4) 11
 
-**🤔 What I understood:**
-- Topic used: **Quant — Profit and Loss**
-- Goal: apply the linked topic rule clearly and map the result to the exact option.
+**Solution:**  
+Profit per article = 765−632 = 133. Number = total profit / profit per article = 1596 / 133 = 12.
 
-**💡 What I’ll use (repo-style):**
-- Use the exact concept/formula from the linked topic-pattern file.
+**Final answer:** (1) 12  
+**Topic:** [Quant — Profit and Loss](../../03-Profit-and-Loss/01-Basic-Concepts.md)
 
-**✏️ My Solution (actual working):**
-Step 1: Profit per article = SP − CP = 765 − 632 = 133.
-Step 2: Number of articles = Total profit ÷ Profit per article = 1596 ÷ 133 = 12.
-Step 3: This directly matches option **(1)**.
-
-**✅ Final Answer: (1)**
-
-- **Answer + Explanation Link:** [Direct anchor for Q24](#q24)
-- **Exact Topic-Pattern Link:** [Quant — Profit and Loss](../../03-Profit-and-Loss/01-Basic-Concepts.md)
-- **Question Block Link:** [Go to Q24 question](./Questions.md#q24)
+---
 
 ## Q25
 
-**❓ Question:** Alcohol:water = 4:3. Adding 5 L water makes it 4:5. Quantity of alcohol is
+**Question:** Alcohol:water = 4:3. Adding 5 L water makes it 4:5. Quantity of alcohol?
 
-**Options:**
-- (1) 4 L
-- (2) 5 L
-- (3) 10 L
-- (4) 9 L
+**Options:** (1) 4 (2) 5 (3) 10 (4) 9 L
 
-**🤔 What I understood:**
-- Topic used: **Quant — Ratio and Proportion**
-- Goal: apply the linked topic rule clearly and map the result to the exact option.
+**Solution:**  
+Let alcohol = 4x, water = 3x. After adding 5 L water, water = 3x+5, ratio 4x/(3x+5)=4/5 ⇒ 20x = 12x+20 ⇒ 8x=20 ⇒ x=2.5. Alcohol = 4×2.5 = 10 L.
 
-**💡 What I’ll use (repo-style):**
-- Use the exact concept/formula from the linked topic-pattern file.
+**Final answer:** (3) 10 L  
+**Topic:** [Quant — Ratio and Proportion](../../05-Ratio-and-Proportion/01-Basic-Ratios.md)
 
-**✏️ My Solution (actual working):**
-Step 1: Apply the linked topic rule/formula to the given data or statements.
-Step 2: Obtained/verified key result: **Neither conclusion follows**
-Step 3: This directly matches option **(3)**.
-
-**✅ Final Answer: (3)**
-
-- **Answer + Explanation Link:** [Direct anchor for Q25](#q25)
-- **Exact Topic-Pattern Link:** [Quant — Ratio and Proportion](../../05-Ratio-and-Proportion/01-Basic-Ratios.md)
-- **Question Block Link:** [Go to Q25 question](./Questions.md#q25)
+---
 
 ## Q26
 
-**❓ Question:** 20 men build 56 m wall in 6 days. What length can 35 men build in 3 days?
+**Question:** 20 men build 56 m wall in 6 days. What length can 35 men build in 3 days?
 
-**Options:**
-- (1) 36 m
-- (2) 25 m
-- (3) 49 m
-- (4) 50 m
+**Options:** (1) 36 (2) 25 (3) 49 (4) 50 m
 
-**🤔 What I understood:**
-- Topic used: **Quant — Time and Work**
-- Goal: apply the linked topic rule clearly and map the result to the exact option.
+**Solution:**  
+Work = men × days. 20×6 = 120 man‑days for 56 m ⇒ per man‑day = 56/120 = 7/15 m.  
+35 men × 3 days = 105 man‑days ⇒ length = 105 × (7/15) = 49 m.
 
-**💡 What I’ll use (repo-style):**
-- Use the exact concept/formula from the linked topic-pattern file.
+**Final answer:** (3) 49 m  
+**Topic:** [Quant — Time and Work](../../01-Time-and-Work/Pattern1-Basic-Together.md)
 
-**✏️ My Solution (actual working):**
-Step 1: Apply the linked topic rule/formula to the given data or statements.
-Step 2: Obtained/verified key result: **Total rent = ₹3250**
-Step 3: This directly matches option **(4)**.
-
-**✅ Final Answer: (4)**
-
-- **Answer + Explanation Link:** [Direct anchor for Q26](#q26)
-- **Exact Topic-Pattern Link:** [Quant — Time and Work](../../01-Time-and-Work/Pattern1-Basic-Together.md)
-- **Question Block Link:** [Go to Q26 question](./Questions.md#q26)
+---
 
 ## Q27
 
-**❓ Question:** A man takes 3 h 45 min to row 15 km downstream, 2 h 30 min to row 5 km upstream. Speed of river current (km/h) is
+**Question:** A man takes 3 h 45 min to row 15 km downstream, 2 h 30 min to row 5 km upstream. Speed of current?
 
-**Options:**
-- (1) 2
-- (2) 1
-- (3) 3
-- (4) 2.5
+**Options:** (1) 2 (2) 1 (3) 3 (4) 2.5 km/h
 
-**🤔 What I understood:**
-- Topic used: **Quant — Time, Speed and Distance**
-- Goal: apply the linked topic rule clearly and map the result to the exact option.
+**Solution:**  
+Downstream speed = 15 / (3.75) = 4 km/h. Upstream speed = 5 / (2.5) = 2 km/h.  
+Speed of current = (down − up)/2 = (4−2)/2 = 1 km/h.
 
-**💡 What I’ll use (repo-style):**
-- Use the exact concept/formula from the linked topic-pattern file.
+**Final answer:** (2) 1 km/h  
+**Topic:** [Quant — Time, Speed and Distance](../../02-Time-Speed-Distance/01-Basic-Concepts.md)
 
-**✏️ My Solution (actual working):**
-Step 1: Apply the linked topic rule/formula to the given data or statements.
-Step 2: Obtained/verified key result: **12 articles**
-Step 3: This directly matches option **(1)**.
-
-**✅ Final Answer: (1)**
-
-- **Answer + Explanation Link:** [Direct anchor for Q27](#q27)
-- **Exact Topic-Pattern Link:** [Quant — Time, Speed and Distance](../../02-Time-Speed-Distance/01-Basic-Concepts.md)
-- **Question Block Link:** [Go to Q27 question](./Questions.md#q27)
+---
 
 ## Q28
 
-**❓ Question:** A man standing on a 180 m bridge finds a train crosses the bridge in 20 s and him in 8 s. Length of train is
+**Question:** A man standing on a 180 m bridge sees a train cross the bridge in 20 s and him in 8 s. Length of train?
 
-**Options:**
-- (1) 120 m
-- (2) 160 m
-- (3) 90 m
-- (4) 100 m
+**Options:** (1) 120 (2) 160 (3) 90 (4) 100 m
 
-**🤔 What I understood:**
-- Topic used: **Quant — Time, Speed and Distance**
-- Goal: apply the linked topic rule clearly and map the result to the exact option.
+**Solution:**  
+Train crosses man in 8 s ⇒ speed = L/8. Crosses bridge (L+180) in 20 s ⇒ (L+180)/20 = L/8 ⇒ 8(L+180)=20L ⇒ 8L+1440=20L ⇒ 1440=12L ⇒ L=120 m.
 
-**💡 What I’ll use (repo-style):**
-- Use the exact concept/formula from the linked topic-pattern file.
+**Final answer:** (1) 120 m  
+**Topic:** [Quant — Time, Speed and Distance](../../02-Time-Speed-Distance/01-Basic-Concepts.md)
 
-**✏️ My Solution (actual working):**
-Step 1: Apply the linked topic rule/formula to the given data or statements.
-Step 2: Obtained/verified key result: **Alcohol = 10 L**
-Step 3: This directly matches option **(3)**.
-
-**✅ Final Answer: (3)**
-
-- **Answer + Explanation Link:** [Direct anchor for Q28](#q28)
-- **Exact Topic-Pattern Link:** [Quant — Time, Speed and Distance](../../02-Time-Speed-Distance/01-Basic-Concepts.md)
-- **Question Block Link:** [Go to Q28 question](./Questions.md#q28)
+---
 
 ## Q29
 
-**❓ Question:** If the seventh day of a month is three days earlier than Friday, what day is the nineteenth?
+**Question:** If the seventh day of a month is three days earlier than Friday, what day is the nineteenth?
 
-**Options:**
-- (1) Sunday
-- (2) Monday
-- (3) Tuesday
-- (4) Thursday
+**Options:** (1) Sunday (2) Monday (3) Tuesday (4) Thursday
 
-**🤔 What I understood:**
-- Topic used: **Reasoning — Calendar**
-- Goal: apply the linked topic rule clearly and map the result to the exact option.
+**Solution:**  
+Three days earlier than Friday = Tuesday. So 7th = Tuesday.  
+Then 14th = Tuesday, 21st = Tuesday. 19th = 2 days before 21st = Sunday.
 
-**💡 What I’ll use (repo-style):**
-- Use the exact concept/formula from the linked topic-pattern file.
+**Final answer:** (1) Sunday  
+**Topic:** [Reasoning — Calendar](../../33-Calendar/Pattern2-Odd-Days-and-Dates.md)
 
-**✏️ My Solution (actual working):**
-Step 1: Apply the linked topic rule/formula to the given data or statements.
-Step 2: Obtained/verified key result: **49 m**
-Step 3: This directly matches option **(3)**.
-
-**✅ Final Answer: (3)**
-
-- **Answer + Explanation Link:** [Direct anchor for Q29](#q29)
-- **Exact Topic-Pattern Link:** [Reasoning — Calendar](../../33-Calendar/Pattern2-Odd-Days-and-Dates.md)
-- **Question Block Link:** [Go to Q29 question](./Questions.md#q29)
+---
 
 ## Q30
 
-**❓ Question:** In the sequence 8953253855687335775365335738, how many 5’s are immediately followed by 3 but not immediately preceded by 7?
+**Question:** In the sequence 8953253855687335775365335738, how many 5’s are immediately followed by 3 but not immediately preceded by 7?
 
-**Options:**
-- (1) One
-- (2) Two
-- (3) Three
-- (4) Four
+**Options:** (1) One (2) Two (3) Three (4) Four
 
-**🤔 What I understood:**
-- Topic used: **Reasoning — Series (Number)**
-- Goal: apply the linked topic rule clearly and map the result to the exact option.
+**Solution:**  
+Scan: 8 9 5 3 2 5 3 8 5 5 6 8 7 3 3 5 7 7 5 3 6 5 3 3 5 7 3 8.  
+Find "53" not preceded by 7:  
+- 5(3) at positions 3: preceded by 9 → ok  
+- 5(3) at position 6: preceded by 2 → ok  
+- 5(3) at position 22: preceded by 6 → ok  
+- 5(3) at position 25? Actually 5 then 3 at 23? Let's list:  
+Positions (1-index): 3:53, 6:53, 22:53 (after 6), also 5 then 3 at 16? No. There are three such occurrences.
 
-**💡 What I’ll use (repo-style):**
-- Use the exact concept/formula from the linked topic-pattern file.
+**Final answer:** (3) Three  
+**Topic:** [Reasoning — Series (Number)](../../13-Series/Pattern1-Number-Series.md)
 
-**✏️ My Solution (actual working):**
-Step 1: Apply the linked topic rule/formula to the given data or statements.
-Step 2: Obtained/verified key result: **Current speed 1 km/h**
-Step 3: This directly matches option **(2)**.
-
-**✅ Final Answer: (2)**
-
-- **Answer + Explanation Link:** [Direct anchor for Q30](#q30)
-- **Exact Topic-Pattern Link:** [Reasoning — Series (Number)](../../13-Series/Pattern1-Number-Series.md)
-- **Question Block Link:** [Go to Q30 question](./Questions.md#q30)
+---
 
 ## Q31
 
-**❓ Question:** A pole 2√3 m high casts a shadow 2 m long. Angle of elevation of the sun is
+**Question:** A pole 2√3 m high casts a shadow 2 m long. Angle of elevation of sun?
 
-**Options:**
-- (1) 60°
-- (2) 45°
-- (3) 30°
-- (4) 15°
+**Options:** (1) 60° (2) 45° (3) 30° (4) 15°
 
-**🤔 What I understood:**
-- Topic used: **Trigonometry — Heights and Distances**
-- Goal: apply the linked topic rule clearly and map the result to the exact option.
+**Solution:**  
+tan θ = height / shadow = (2√3)/2 = √3 ⇒ θ = 60°.
 
-**💡 What I’ll use (repo-style):**
-- Use the exact concept/formula from the linked topic-pattern file.
+**Final answer:** (1) 60°  
+**Topic:** [Trigonometry — Heights and Distances](../../27-Trigonometry/Pattern5-Heights-and-Distances.md)
 
-**✏️ My Solution (actual working):**
-Step 1: Apply the linked topic rule/formula to the given data or statements.
-Step 2: Obtained/verified key result: **Train length 120 m**
-Step 3: This directly matches option **(1)**.
-
-**✅ Final Answer: (1)**
-
-- **Answer + Explanation Link:** [Direct anchor for Q31](#q31)
-- **Exact Topic-Pattern Link:** [Trigonometry — Heights and Distances](../../27-Trigonometry/Pattern5-Heights-and-Distances.md)
-- **Question Block Link:** [Go to Q31 question](./Questions.md#q31)
+---
 
 ## Q32
 
-**❓ Question:** A cone, hemisphere and cylinder stand on equal bases and have the same height. Ratio of their volumes is
+**Question:** A cone, hemisphere and cylinder stand on equal bases and same height. Ratio of volumes?
 
-**Options:**
-- (1) 1:2:3
-- (2) 2:1:3
-- (3) 3:1:2
-- (4) 2:3:1
+**Options:** (1) 1:2:3 (2) 2:1:3 (3) 3:1:2 (4) 2:3:1
 
-**🤔 What I understood:**
-- Topic used: **Quant — Ratio and Proportion**
-- Goal: apply the linked topic rule clearly and map the result to the exact option.
+**Solution:**  
+Volume cone = (1/3)πr²h, hemisphere = (2/3)πr³ (but h = r here), cylinder = πr²h.  
+Given h = r (since hemisphere height = radius). So cone = (1/3)πr³, hemisphere = (2/3)πr³, cylinder = πr³. Ratio = 1/3 : 2/3 : 1 = 1:2:3.
 
-**💡 What I’ll use (repo-style):**
-- Use the exact concept/formula from the linked topic-pattern file.
+**Final answer:** (1) 1:2:3  
+**Topic:** [Quant — Ratio and Proportion](../../05-Ratio-and-Proportion/01-Basic-Ratios.md)
 
-**✏️ My Solution (actual working):**
-Step 1: Apply the linked topic rule/formula to the given data or statements.
-Step 2: Obtained/verified key result: **19th = Sunday**
-Step 3: This directly matches option **(1)**.
-
-**✅ Final Answer: (1)**
-
-- **Answer + Explanation Link:** [Direct anchor for Q32](#q32)
-- **Exact Topic-Pattern Link:** [Quant — Ratio and Proportion](../../05-Ratio-and-Proportion/01-Basic-Ratios.md)
-- **Question Block Link:** [Go to Q32 question](./Questions.md#q32)
+---
 
 ## Q33
 
-**❓ Question:** [Question numbers jump; likely 41‑44 follow.] 41. If the latus rectum of an ellipse equals half the minor axis, eccentricity is
+**Question:** If the latus rectum of an ellipse equals half the minor axis, eccentricity is
 
-**Options:**
-- (1) 1/√2
-- (2) √3/√2
-- (3) √3/2
-- (4) 1/2
+**Options:** (1) 1/√2 (2) √3/√2 (3) √3/2 (4) 1/2
 
-**🤔 What I understood:**
-- Topic used: **Coordinate Geometry — Conics/Lines**
-- Goal: apply the linked topic rule clearly and map the result to the exact option.
+**Solution:**  
+Latus rectum = 2b²/a. Minor axis = 2b. Given 2b²/a = (1/2)×2b = b ⇒ 2b²/a = b ⇒ 2b/a = 1 ⇒ a = 2b.  
+For ellipse, b² = a²(1−e²) ⇒ b² = 4b²(1−e²) ⇒ 1 = 4(1−e²) ⇒ 1−e² = 1/4 ⇒ e² = 3/4 ⇒ e = √3/2.
 
-**💡 What I’ll use (repo-style):**
-- Use the exact concept/formula from the linked topic-pattern file.
+**Final answer:** (3) √3/2  
+**Topic:** [Coordinate Geometry — Conics/Lines](../../26-Coordinate-Geometry/Pattern4-Conics-and-Transformations.md)
 
-**✏️ My Solution (actual working):**
-Step 1: Apply the linked topic rule/formula to the given data or statements.
-Step 2: Obtained/verified key result: **Three 5’s satisfy condition**
-Step 3: This directly matches option **(3)**.
-
-**✅ Final Answer: (3)**
-
-- **Answer + Explanation Link:** [Direct anchor for Q33](#q33)
-- **Exact Topic-Pattern Link:** [Coordinate Geometry — Conics/Lines](../../26-Coordinate-Geometry/Pattern4-Conics-and-Transformations.md)
-- **Question Block Link:** [Go to Q33 question](./Questions.md#q33)
+---
 
 ## Q34
 
-**❓ Question:** Equation of tangent to hyperbola x² − (y²/3) = 1 at (2,−3) is
+**Question:** Equation of tangent to hyperbola x² − y²/3 = 1 at (2,−3)
 
-**Options:**
-- (1) x + 2y = 0
-- (2) 2x + y = 0
-- (3) x + 2y = 1
-- (4) 2x + y = 1
+**Options:** (1) x+2y=0 (2) 2x+y=0 (3) x+2y=1 (4) 2x+y=1
 
-**🤔 What I understood:**
-- Topic used: **Coordinate Geometry — Conics/Lines**
-- Goal: apply the linked topic rule clearly and map the result to the exact option.
+**Solution:**  
+Hyperbola: x²/1 − y²/3 = 1. Equation of tangent at (x₁,y₁): xx₁ − (yy₁)/3 = 1.  
+Substitute (2,−3): x·2 − (y·(−3))/3 = 1 ⇒ 2x + y = 1.
 
-**💡 What I’ll use (repo-style):**
-- Use the exact concept/formula from the linked topic-pattern file.
+**Final answer:** (4) 2x + y = 1  
+**Topic:** [Coordinate Geometry — Conics/Lines](../../26-Coordinate-Geometry/Pattern4-Conics-and-Transformations.md)
 
-**✏️ My Solution (actual working):**
-Step 1: Apply the linked topic rule/formula to the given data or statements.
-Step 2: Obtained/verified key result: **60°**
-Step 3: This directly matches option **(1)**.
-
-**✅ Final Answer: (1)**
-
-- **Answer + Explanation Link:** [Direct anchor for Q34](#q34)
-- **Exact Topic-Pattern Link:** [Coordinate Geometry — Conics/Lines](../../26-Coordinate-Geometry/Pattern4-Conics-and-Transformations.md)
-- **Question Block Link:** [Go to Q34 question](./Questions.md#q34)
+---
 
 ## Q35
 
-**❓ Question:** Angle between x² = y and y² = x at (1,1) is
+**Question:** Angle between curves x² = y and y² = x at (1,1)
 
-**Options:**
-- (1) tan⁻¹(3/4)
-- (2) tan⁻¹(4/3)
-- (3) tan⁻¹(1/3)
-- (4) (missing)
+**Options:** (1) tan⁻¹(3/4) (2) tan⁻¹(4/3) (3) tan⁻¹(1/3) (4) missing
 
-**🤔 What I understood:**
-- Topic used: **Coordinate Geometry — Conics/Lines**
-- Goal: apply the linked topic rule clearly and map the result to the exact option.
+**Solution:**  
+Slope of x² = y: dy/dx = 2x ⇒ at (1,1), m₁ = 2.  
+Slope of y² = x: 2y dy/dx = 1 ⇒ dy/dx = 1/(2y) ⇒ at (1,1), m₂ = 1/2.  
+Angle θ: tan θ = |(m₁−m₂)/(1+m₁m₂)| = |(2−0.5)/(1+1)| = (1.5)/2 = 3/4 ⇒ θ = tan⁻¹(3/4).
 
-**💡 What I’ll use (repo-style):**
-- Use the exact concept/formula from the linked topic-pattern file.
+**Final answer:** (1) tan⁻¹(3/4)  
+**Topic:** [Coordinate Geometry — Conics/Lines](../../26-Coordinate-Geometry/Pattern4-Conics-and-Transformations.md)
 
-**✏️ My Solution (actual working):**
-Step 1: Apply the linked topic rule/formula to the given data or statements.
-Step 2: Obtained/verified key result: **1:2:3**
-Step 3: This directly matches option **(1)**.
-
-**✅ Final Answer: (1)**
-
-- **Answer + Explanation Link:** [Direct anchor for Q35](#q35)
-- **Exact Topic-Pattern Link:** [Coordinate Geometry — Conics/Lines](../../26-Coordinate-Geometry/Pattern4-Conics-and-Transformations.md)
-- **Question Block Link:** [Go to Q35 question](./Questions.md#q35)
+---
 
 ## Q36
 
-**❓ Question:** [SOURCE MISSING IN CURRENT 2024 FILE] — question/options must be restored from official paper source.
+**Question:** [SOURCE MISSING – question not provided]
 
-**Options:**
-- (1) [missing in source]
-- (2) [missing in source]
-- (3) [missing in source]
-- (4) [missing in source]
+**Final answer:** (Pending source restore)
 
-**🤔 What I understood:**
-- Topic used: **Coordinate Geometry — Conics/Lines**
-- Source question block is currently missing in this file version.
-
-**💡 What I’ll use (repo-style):**
-- Use the exact concept/formula from the linked topic-pattern file.
-
-**✏️ My Solution (actual working):**
-Step 1: Official question text not available in current repository snapshot.
-Step 2: Marked for restoration from verified source.
-Step 3: Final answer cannot be validated until source text is restored.
-
-**✅ Final Answer: [PENDING SOURCE RESTORE]**
-
-- **Answer + Explanation Link:** [Direct anchor for Q36](#q36)
-- **Exact Topic-Pattern Link:** [Coordinate Geometry — Conics/Lines](../../26-Coordinate-Geometry/Pattern4-Conics-and-Transformations.md)
-- **Question Block Link:** [Go to Q36 question](./Questions.md#q36)
+---
 
 ## Q37
 
-**❓ Question:** [SOURCE MISSING IN CURRENT 2024 FILE] — question/options must be restored from official paper source.
+**Question:** [SOURCE MISSING]
 
-**Options:**
-- (1) [missing in source]
-- (2) [missing in source]
-- (3) [missing in source]
-- (4) [missing in source]
+**Final answer:** (Pending source restore)
 
-**🤔 What I understood:**
-- Topic used: **Coordinate Geometry — Conics/Lines**
-- Source question block is currently missing in this file version.
-
-**💡 What I’ll use (repo-style):**
-- Use the exact concept/formula from the linked topic-pattern file.
-
-**✏️ My Solution (actual working):**
-Step 1: Official question text not available in current repository snapshot.
-Step 2: Marked for restoration from verified source.
-Step 3: Final answer cannot be validated until source text is restored.
-
-**✅ Final Answer: [PENDING SOURCE RESTORE]**
-
-- **Answer + Explanation Link:** [Direct anchor for Q37](#q37)
-- **Exact Topic-Pattern Link:** [Coordinate Geometry — Conics/Lines](../../26-Coordinate-Geometry/Pattern4-Conics-and-Transformations.md)
-- **Question Block Link:** [Go to Q37 question](./Questions.md#q37)
+---
 
 ## Q38
 
-**❓ Question:** [SOURCE MISSING IN CURRENT 2024 FILE] — question/options must be restored from official paper source.
+**Question:** [SOURCE MISSING]
 
-**Options:**
-- (1) [missing in source]
-- (2) [missing in source]
-- (3) [missing in source]
-- (4) [missing in source]
+**Final answer:** (Pending source restore)
 
-**🤔 What I understood:**
-- Topic used: **Coordinate Geometry — Conics/Lines**
-- Source question block is currently missing in this file version.
-
-**💡 What I’ll use (repo-style):**
-- Use the exact concept/formula from the linked topic-pattern file.
-
-**✏️ My Solution (actual working):**
-Step 1: Official question text not available in current repository snapshot.
-Step 2: Marked for restoration from verified source.
-Step 3: Final answer cannot be validated until source text is restored.
-
-**✅ Final Answer: [PENDING SOURCE RESTORE]**
-
-- **Answer + Explanation Link:** [Direct anchor for Q38](#q38)
-- **Exact Topic-Pattern Link:** [Coordinate Geometry — Conics/Lines](../../26-Coordinate-Geometry/Pattern4-Conics-and-Transformations.md)
-- **Question Block Link:** [Go to Q38 question](./Questions.md#q38)
+---
 
 ## Q39
 
-**❓ Question:** [SOURCE MISSING IN CURRENT 2024 FILE] — question/options must be restored from official paper source.
+**Question:** [SOURCE MISSING]
 
-**Options:**
-- (1) [missing in source]
-- (2) [missing in source]
-- (3) [missing in source]
-- (4) [missing in source]
+**Final answer:** (Pending source restore)
 
-**🤔 What I understood:**
-- Topic used: **Coordinate Geometry — Conics/Lines**
-- Source question block is currently missing in this file version.
-
-**💡 What I’ll use (repo-style):**
-- Use the exact concept/formula from the linked topic-pattern file.
-
-**✏️ My Solution (actual working):**
-Step 1: Official question text not available in current repository snapshot.
-Step 2: Marked for restoration from verified source.
-Step 3: Final answer cannot be validated until source text is restored.
-
-**✅ Final Answer: [PENDING SOURCE RESTORE]**
-
-- **Answer + Explanation Link:** [Direct anchor for Q39](#q39)
-- **Exact Topic-Pattern Link:** [Coordinate Geometry — Conics/Lines](../../26-Coordinate-Geometry/Pattern4-Conics-and-Transformations.md)
-- **Question Block Link:** [Go to Q39 question](./Questions.md#q39)
+---
 
 ## Q40
 
-**❓ Question:** [SOURCE MISSING IN CURRENT 2024 FILE] — question/options must be restored from official paper source.
+**Question:** [SOURCE MISSING]
 
-**Options:**
-- (1) [missing in source]
-- (2) [missing in source]
-- (3) [missing in source]
-- (4) [missing in source]
+**Final answer:** (Pending source restore)
 
-**🤔 What I understood:**
-- Topic used: **Coordinate Geometry — Conics/Lines**
-- Source question block is currently missing in this file version.
-
-**💡 What I’ll use (repo-style):**
-- Use the exact concept/formula from the linked topic-pattern file.
-
-**✏️ My Solution (actual working):**
-Step 1: Official question text not available in current repository snapshot.
-Step 2: Marked for restoration from verified source.
-Step 3: Final answer cannot be validated until source text is restored.
-
-**✅ Final Answer: [PENDING SOURCE RESTORE]**
-
-- **Answer + Explanation Link:** [Direct anchor for Q40](#q40)
-- **Exact Topic-Pattern Link:** [Coordinate Geometry — Conics/Lines](../../26-Coordinate-Geometry/Pattern4-Conics-and-Transformations.md)
-- **Question Block Link:** [Go to Q40 question](./Questions.md#q40)
+---
 
 ## Q41
 
-**❓ Question:** Distance between foci of x²/16 − y²/9 = 1 is
+**Question:** Distance between foci of x²/16 − y²/9 = 1
 
-**Options:**
-- (1) 10
-- (2) 5
-- (3) 20
-- (4) 40
+**Options:** (1) 10 (2) 5 (3) 20 (4) 40
 
-**🤔 What I understood:**
-- Topic used: **Coordinate Geometry — Conics/Lines**
-- Goal: apply the linked topic rule clearly and map the result to the exact option.
+**Solution:**  
+a²=16, b²=9 ⇒ c² = a²+b² = 25 ⇒ c=5. Distance between foci = 2c = 10.
 
-**💡 What I’ll use (repo-style):**
-- Use the exact concept/formula from the linked topic-pattern file.
+**Final answer:** (1) 10  
+**Topic:** [Coordinate Geometry — Conics/Lines](../../26-Coordinate-Geometry/Pattern4-Conics-and-Transformations.md)
 
-**✏️ My Solution (actual working):**
-Step 1: Apply the linked topic rule/formula to the given data or statements.
-Step 2: Obtained/verified key result: **e = √3/2**
-Step 3: This directly matches option **(3)**.
-
-**✅ Final Answer: (3)**
-
-- **Answer + Explanation Link:** [Direct anchor for Q41](#q41)
-- **Exact Topic-Pattern Link:** [Coordinate Geometry — Conics/Lines](../../26-Coordinate-Geometry/Pattern4-Conics-and-Transformations.md)
-- **Question Block Link:** [Go to Q41 question](./Questions.md#q41)
+---
 
 ## Q42
 
-**❓ Question:** Annual income from investing £6,800 in 10% stock at 136 is
+**Question:** Annual income from investing £6,800 in 10% stock at 136
 
-**Options:**
-- (1) 500
-- (2) 600
-- (3) 400
-- (4) 300
+**Options:** (1) 500 (2) 600 (3) 400 (4) 300
 
-**🤔 What I understood:**
-- Topic used: **Quant — Simple/Compound Interest**
-- Goal: apply the linked topic rule clearly and map the result to the exact option.
+**Solution:**  
+Face value of stock = (investment / market price) × face value per share? Actually, for stock, dividend is on face value. Assuming face value = £100, market price = 136. Number of shares = 6800/136 = 50 shares. Income = 10% of face value × 50 = 10% of 100×50 = 10×50 = £500.
 
-**💡 What I’ll use (repo-style):**
-- Use the exact concept/formula from the linked topic-pattern file.
+**Final answer:** (1) 500  
+**Topic:** [Quant — Simple/Compound Interest](../../06-Simple-Compound-Interest/03-CI-vs-SI-Comparison.md)
 
-**✏️ My Solution (actual working):**
-Step 1: Apply the linked topic rule/formula to the given data or statements.
-Step 2: Obtained/verified key result: **2x + y = 1**
-Step 3: This directly matches option **(4)**.
-
-**✅ Final Answer: (4)**
-
-- **Answer + Explanation Link:** [Direct anchor for Q42](#q42)
-- **Exact Topic-Pattern Link:** [Quant — Simple/Compound Interest](../../06-Simple-Compound-Interest/03-CI-vs-SI-Comparison.md)
-- **Question Block Link:** [Go to Q42 question](./Questions.md#q42)
+---
 
 ## Q43
 
-**❓ Question:** Which Boolean statement is incorrect? a. x∨0 = x, x∧1 = x b. x∨x′ = 1, x∧x′ = 0 c. x∧(x∨y) = x d. x∧(x∧y) = x∨y
+**Question:** Which Boolean statement is incorrect?  
+a. x∨0 = x, x∧1 = x b. x∨x′ = 1, x∧x′ = 0 c. x∧(x∨y) = x d. x∧(x∧y) = x∨y
 
-**Options:**
-- (1) a, b, c
-- (2) a only
-- (3) c only
-- (4) d only
+**Options:** (1) a,b,c (2) a only (3) c only (4) d only
 
-**🤔 What I understood:**
-- Topic used: **Boolean Algebra — Simplification**
-- Goal: apply the linked topic rule clearly and map the result to the exact option.
+**Solution:**  
+a, b, c are correct identities. d is false: x∧(x∧y) = x∧y, not x∨y.
 
-**💡 What I’ll use (repo-style):**
-- Use the exact concept/formula from the linked topic-pattern file.
+**Final answer:** (4) d only  
+**Topic:** [Boolean Algebra — Simplification](../../28-Boolean-Algebra/Pattern3-Simplification-Strategies.md)
 
-**✏️ My Solution (actual working):**
-Step 1: Apply the linked topic rule/formula to the given data or statements.
-Step 2: Obtained/verified key result: **tan⁻¹(3/4)**
-Step 3: This directly matches option **(1)**.
-
-**✅ Final Answer: (1)**
-
-- **Answer + Explanation Link:** [Direct anchor for Q43](#q43)
-- **Exact Topic-Pattern Link:** [Boolean Algebra — Simplification](../../28-Boolean-Algebra/Pattern3-Simplification-Strategies.md)
-- **Question Block Link:** [Go to Q43 question](./Questions.md#q43)
+---
 
 ## Q44
 
-**❓ Question:** Boolean equation of NOR gate is
+**Question:** Boolean equation of NOR gate is
 
-**Options:**
-- (1) C = A+B
-- (2) C = A + B
-- (3) C = A·B
-- (4) C = A·B
+**Options:** (1) C = A+B (2) C = A + B (with overline?) (3) C = A·B (4) C = A·B (with overline)
 
-**🤔 What I understood:**
-- Topic used: **Boolean Algebra — Simplification**
-- Goal: apply the linked topic rule clearly and map the result to the exact option.
+**Solution:**  
+NOR is NOT OR: C = (A+B)′.
 
-**💡 What I’ll use (repo-style):**
-- Use the exact concept/formula from the linked topic-pattern file.
+**Final answer:** (2) or (4) depending on notation; typically C = (A+B)′.  
+**Topic:** [Boolean Algebra — Simplification](../../28-Boolean-Algebra/Pattern3-Simplification-Strategies.md)
 
-**✏️ My Solution (actual working):**
-Step 1: Apply the linked topic rule/formula to the given data or statements.
-Step 2: Obtained/verified key result: **Distance = 10**
-Step 3: This directly matches option **(1)**.
-
-**✅ Final Answer: (1)**
-
-- **Answer + Explanation Link:** [Direct anchor for Q44](#q44)
-- **Exact Topic-Pattern Link:** [Boolean Algebra — Simplification](../../28-Boolean-Algebra/Pattern3-Simplification-Strategies.md)
-- **Question Block Link:** [Go to Q44 question](./Questions.md#q44)
+---
 
 ## Q45
 
-**❓ Question:** Dual of x ∨ (y ∧ 0) is
+**Question:** Dual of x ∨ (y ∧ 0) is
 
-**Options:**
-- (1) x ∧ (y ∨ 1)
-- (2) x ∨ (y ∨ 1)
-- (3) x′ ∨ (y ∧ 0)
-- (4) (x ∨ y) ∨ 0
+**Options:** (1) x ∧ (y ∨ 1) (2) x ∨ (y ∨ 1) (3) x′ ∨ (y ∧ 0) (4) (x ∨ y) ∨ 0
 
-**🤔 What I understood:**
-- Topic used: **Boolean Algebra — Simplification**
-- Goal: apply the linked topic rule clearly and map the result to the exact option.
+**Solution:**  
+Dual swaps ∨ with ∧ and 0 with 1. Original: x ∨ (y ∧ 0). Dual: x ∧ (y ∨ 1).
 
-**💡 What I’ll use (repo-style):**
-- Use the exact concept/formula from the linked topic-pattern file.
+**Final answer:** (1) x ∧ (y ∨ 1)  
+**Topic:** [Boolean Algebra — Simplification](../../28-Boolean-Algebra/Pattern3-Simplification-Strategies.md)
 
-**✏️ My Solution (actual working):**
-Step 1: Apply the linked topic rule/formula to the given data or statements.
-Step 2: Obtained/verified key result: **Income = 500**
-Step 3: This directly matches option **(1)**.
-
-**✅ Final Answer: (1)**
-
-- **Answer + Explanation Link:** [Direct anchor for Q45](#q45)
-- **Exact Topic-Pattern Link:** [Boolean Algebra — Simplification](../../28-Boolean-Algebra/Pattern3-Simplification-Strategies.md)
-- **Question Block Link:** [Go to Q45 question](./Questions.md#q45)
+---
 
 ## Q46
 
-**❓ Question:** In Boolean algebra, if a∧x = b∧x and a∧x′ = b∧x′, then
+**Question:** In Boolean algebra, if a∧x = b∧x and a∧x′ = b∧x′, then
 
-**Options:**
-- (1) a > b
-- (2) a < b
-- (3) a = b²
-- (4) a = b
+**Options:** (1) a > b (2) a < b (3) a = b² (4) a = b
 
-**🤔 What I understood:**
-- Topic used: **Reasoning — Series (Letter)**
-- Goal: apply the linked topic rule clearly and map the result to the exact option.
+**Solution:**  
+Multiplying both equations and adding? Actually, a = a∧(x∨x′) = (a∧x)∨(a∧x′) = (b∧x)∨(b∧x′) = b∧(x∨x′) = b. So a = b.
 
-**💡 What I’ll use (repo-style):**
-- Use the exact concept/formula from the linked topic-pattern file.
+**Final answer:** (4) a = b  
+**Topic:** [Boolean Algebra — Simplification](../../28-Boolean-Algebra/Pattern3-Simplification-Strategies.md)
 
-**✏️ My Solution (actual working):**
-Step 1: Apply the linked topic rule/formula to the given data or statements.
-Step 2: Obtained/verified key result: **d is incorrect**
-Step 3: This directly matches option **(4)**.
-
-**✅ Final Answer: (4)**
-
-- **Answer + Explanation Link:** [Direct anchor for Q46](#q46)
-- **Exact Topic-Pattern Link:** [Boolean Algebra — Simplification](../../28-Boolean-Algebra/Pattern3-Simplification-Strategies.md)
-- **Question Block Link:** [Go to Q46 question](./Questions.md#q46)
+---
 
 ## Q47
 
-**❓ Question:** x′ ∧ (x ∨ y) simplifies to
+**Question:** x′ ∧ (x ∨ y) simplifies to
 
-**Options:**
-- (1) x∧y
-- (2) x′∧y
-- (3) x′∧y′
-- (4) x∧x′
+**Options:** (1) x∧y (2) x′∧y (3) x′∧y′ (4) x∧x′
 
-**🤔 What I understood:**
-- Topic used: **Boolean Algebra — Simplification**
-- Goal: apply the linked topic rule clearly and map the result to the exact option.
+**Solution:**  
+By distributive law: x′∧(x∨y) = (x′∧x) ∨ (x′∧y) = 0 ∨ (x′∧y) = x′∧y.
 
-**💡 What I’ll use (repo-style):**
-- Use the exact concept/formula from the linked topic-pattern file.
+**Final answer:** (2) x′∧y  
+**Topic:** [Boolean Algebra — Simplification](../../28-Boolean-Algebra/Pattern3-Simplification-Strategies.md)
 
-**✏️ My Solution (actual working):**
-Step 1: Apply the linked topic rule/formula to the given data or statements.
-Step 2: Obtained/verified key result: **NOR = A·B**
-Step 3: This directly matches option **(4)**.
-
-**✅ Final Answer: (4)**
-
-- **Answer + Explanation Link:** [Direct anchor for Q47](#q47)
-- **Exact Topic-Pattern Link:** [Boolean Algebra — Simplification](../../28-Boolean-Algebra/Pattern3-Simplification-Strategies.md)
-- **Question Block Link:** [Go to Q47 question](./Questions.md#q47)
+---
 
 ## Q48
 
-**❓ Question:** √(2 + √(2 + 2cos4θ)) equals
+**Question:** √(2 + √(2 + 2cos4θ)) equals
 
-**Options:**
-- (1) cosθ
-- (2) 2cosθ
-- (3) cos2θ
-- (4) 2sinθ
+**Options:** (1) cosθ (2) 2cosθ (3) cos2θ (4) 2sinθ
 
-**🤔 What I understood:**
-- Topic used: **Trigonometry — Compound/Double Angle**
-- Goal: apply the linked topic rule clearly and map the result to the exact option.
+**Solution:**  
+Use cos4θ = 2cos²2θ − 1. Then 2+2cos4θ = 2+4cos²2θ−2 = 4cos²2θ ⇒ √(2+2cos4θ)=2|cos2θ|. Then √(2 + 2|cos2θ|). For θ small, = 2|cosθ|? Actually known identity: √(2+2cos2φ)=2|cosφ|. So inner = 2cos2θ (positive). Then √(2+2cos2θ)=2|cosθ|. If θ in range, = 2cosθ.
 
-**💡 What I’ll use (repo-style):**
-- Use the exact concept/formula from the linked topic-pattern file.
+**Final answer:** (2) 2cosθ  
+**Topic:** [Trigonometry — Compound/Double Angle](../../27-Trigonometry/Pattern2-Compound-and-Double-Angle.md)
 
-**✏️ My Solution (actual working):**
-Step 1: Apply the linked topic rule/formula to the given data or statements.
-Step 2: Obtained/verified key result: **Dual: x ∧ (y ∨ 1)**
-Step 3: This directly matches option **(1)**.
-
-**✅ Final Answer: (1)**
-
-- **Answer + Explanation Link:** [Direct anchor for Q48](#q48)
-- **Exact Topic-Pattern Link:** [Trigonometry — Compound/Double Angle](../../27-Trigonometry/Pattern2-Compound-and-Double-Angle.md)
-- **Question Block Link:** [Go to Q48 question](./Questions.md#q48)
+---
 
 ## Q49
 
-**❓ Question:** tan⁻¹1 + tan⁻¹2 + tan⁻¹3 =
+**Question:** tan⁻¹1 + tan⁻¹2 + tan⁻¹3 =
 
-**Options:**
-- (1) π/4
-- (2) π/2
-- (3) 0
-- (4) π
+**Options:** (1) π/4 (2) π/2 (3) 0 (4) π
 
-**🤔 What I understood:**
-- Topic used: **Trigonometry — Compound/Double Angle**
-- Goal: apply the linked topic rule clearly and map the result to the exact option.
+**Solution:**  
+tan⁻¹1 = π/4. tan⁻¹2 + tan⁻¹3 = π + tan⁻¹((2+3)/(1−6)) = π + tan⁻¹(−1) = π − π/4 = 3π/4. Then total = π/4 + 3π/4 = π.
 
-**💡 What I’ll use (repo-style):**
-- Use the exact concept/formula from the linked topic-pattern file.
+**Final answer:** (4) π  
+**Topic:** [Trigonometry — Compound/Double Angle](../../27-Trigonometry/Pattern2-Compound-and-Double-Angle.md)
 
-**✏️ My Solution (actual working):**
-Step 1: Apply the linked topic rule/formula to the given data or statements.
-Step 2: Obtained/verified key result: **a = b**
-Step 3: This directly matches option **(4)**.
-
-**✅ Final Answer: (4)**
-
-- **Answer + Explanation Link:** [Direct anchor for Q49](#q49)
-- **Exact Topic-Pattern Link:** [Trigonometry — Compound/Double Angle](../../27-Trigonometry/Pattern2-Compound-and-Double-Angle.md)
-- **Question Block Link:** [Go to Q49 question](./Questions.md#q49)
+---
 
 ## Q50
 
-**❓ Question:** If cosB = sinA/(2sinC), the triangle is
+**Question:** If cosB = sinA/(2sinC), the triangle is
 
-**Options:**
-- (1) equilateral
-- (2) isosceles
-- (3) right‑angled
-- (4) scalene
+**Options:** (1) equilateral (2) isosceles (3) right‑angled (4) scalene
 
-**🤔 What I understood:**
-- Topic used: **Trigonometry — Compound/Double Angle**
-- Goal: apply the linked topic rule clearly and map the result to the exact option.
+**Solution:**  
+Using sine rule: sinA/a = sinC/c ⇒ sinA/sinC = a/c. Then cosB = (a/c)/2 = a/(2c). But also cosB = (a²+c²−b²)/(2ac). Equate and simplify leads to a² + c² − b² = a² ⇒ c² = b² ⇒ b=c. So isosceles.
 
-**💡 What I’ll use (repo-style):**
-- Use the exact concept/formula from the linked topic-pattern file.
+**Final answer:** (2) isosceles  
+**Topic:** [Trigonometry — Compound/Double Angle](../../27-Trigonometry/Pattern2-Compound-and-Double-Angle.md)
 
-**✏️ My Solution (actual working):**
-Step 1: Apply the linked topic rule/formula to the given data or statements.
-Step 2: Obtained/verified key result: **x′ ∧ y**
-Step 3: This directly matches option **(2)**.
-
-**✅ Final Answer: (2)**
-
-- **Answer + Explanation Link:** [Direct anchor for Q50](#q50)
-- **Exact Topic-Pattern Link:** [Trigonometry — Compound/Double Angle](../../27-Trigonometry/Pattern2-Compound-and-Double-Angle.md)
-- **Question Block Link:** [Go to Q50 question](./Questions.md#q50)
+---
 
 ## Q51
 
-**❓ Question:** 1/sin10° − √3/cos10° =
+**Question:** 1/sin10° − √3/cos10° =
 
-**Options:**
-- (1) 4
-- (2) 3
-- (3) 2
-- (4) 1
+**Options:** (1) 4 (2) 3 (3) 2 (4) 1
 
-**🤔 What I understood:**
-- Topic used: **Trigonometry — Compound/Double Angle**
-- Goal: apply the linked topic rule clearly and map the result to the exact option.
+**Solution:**  
+Write as (cos10° − √3 sin10°)/(sin10° cos10°). Multiply numerator and denominator by 2: 2(½ cos10° − (√3/2) sin10°) / (sin20°/2) = 4( sin30° cos10° − cos30° sin10° ) / sin20° = 4 sin(20°)/sin20° = 4.
 
-**💡 What I’ll use (repo-style):**
-- Use the exact concept/formula from the linked topic-pattern file.
+**Final answer:** (1) 4  
+**Topic:** [Trigonometry — Compound/Double Angle](../../27-Trigonometry/Pattern2-Compound-and-Double-Angle.md)
 
-**✏️ My Solution (actual working):**
-Step 1: Apply the linked topic rule/formula to the given data or statements.
-Step 2: Obtained/verified key result: **2cosθ**
-Step 3: This directly matches option **(2)**.
-
-**✅ Final Answer: (2)**
-
-- **Answer + Explanation Link:** [Direct anchor for Q51](#q51)
-- **Exact Topic-Pattern Link:** [Trigonometry — Compound/Double Angle](../../27-Trigonometry/Pattern2-Compound-and-Double-Angle.md)
-- **Question Block Link:** [Go to Q51 question](./Questions.md#q51)
+---
 
 ## Q52
 
-**❓ Question:** If cot⁻¹(n/π) > π/6, n∈ℕ, max n is
+**Question:** If cot⁻¹(n/π) > π/6, n∈ℕ, max n is
 
-**Options:**
-- (1) 1
-- (2) 5
-- (3) 9
-- (4) 3
+**Options:** (1) 1 (2) 5 (3) 9 (4) 3
 
-**🤔 What I understood:**
-- Topic used: **Sets and Relations — Sets/Venn**
-- Goal: apply the linked topic rule clearly and map the result to the exact option.
+**Solution:**  
+cot⁻¹(x) > π/6 ⇒ x < cot(π/6) = √3 ≈ 1.732. So n/π < 1.732 ⇒ n < 1.732π ≈ 5.44. Natural numbers n ≤ 5. Max n = 5.
 
-**💡 What I’ll use (repo-style):**
-- Use the exact concept/formula from the linked topic-pattern file.
+**Final answer:** (2) 5  
+**Topic:** [Trigonometry — Inverse Trig and Equations](../../27-Trigonometry/Pattern4-Inverse-Trig-and-Equations.md)
 
-**✏️ My Solution (actual working):**
-Step 1: Apply the linked topic rule/formula to the given data or statements.
-Step 2: Obtained/verified key result: **π**
-Step 3: This directly matches option **(4)**.
-
-**✅ Final Answer: (4)**
-
-- **Answer + Explanation Link:** [Direct anchor for Q52](#q52)
-- **Exact Topic-Pattern Link:** [Trigonometry — Inverse Trig and Equations](../../27-Trigonometry/Pattern4-Inverse-Trig-and-Equations.md)
-- **Question Block Link:** [Go to Q52 question](./Questions.md#q52)
+---
 
 ## Q53
 
-**❓ Question:** P(A passes) = 2/3, P(B passes) = 3/5. Probability only one passes is
+**Question:** P(A passes) = 2/3, P(B passes) = 3/5. Probability only one passes is
 
-**Options:**
-- (1) 2/5
-- (2) 4/15
-- (3) 2/15
-- (4) 7/15
+**Options:** (1) 2/5 (2) 4/15 (3) 2/15 (4) 7/15
 
-**🤔 What I understood:**
-- Topic used: **Quant — Probability**
-- Goal: apply the linked topic rule clearly and map the result to the exact option.
+**Solution:**  
+Only A passes = (2/3)×(1−3/5) = (2/3)×(2/5)=4/15. Only B passes = (1−2/3)×(3/5) = (1/3)×(3/5)=1/5=3/15. Total = 4/15+3/15=7/15.
 
-**💡 What I’ll use (repo-style):**
-- Use the exact concept/formula from the linked topic-pattern file.
+**Final answer:** (4) 7/15  
+**Topic:** [Quant — Probability](../../10-Probability/01-Basic-Probability.md)
 
-**✏️ My Solution (actual working):**
-Step 1: Apply the linked topic rule/formula to the given data or statements.
-Step 2: Obtained/verified key result: **Isosceles**
-Step 3: This directly matches option **(2)**.
-
-**✅ Final Answer: (2)**
-
-- **Answer + Explanation Link:** [Direct anchor for Q53](#q53)
-- **Exact Topic-Pattern Link:** [Quant — Probability](../../10-Probability/01-Basic-Probability.md)
-- **Question Block Link:** [Go to Q53 question](./Questions.md#q53)
+---
 
 ## Q54
 
-**❓ Question:** P(A)=1/4, P(B)=1/3, P(A∪B)=1/2. P(A∩B′) =
+**Question:** P(A)=1/4, P(B)=1/3, P(A∪B)=1/2. P(A∩B′) =
 
-**Options:**
-- (1) 1/4
-- (2) 1/3
-- (3) 1/6
-- (4) 1/2
+**Options:** (1) 1/4 (2) 1/3 (3) 1/6 (4) 1/2
 
-**🤔 What I understood:**
-- Topic used: **Quant — Probability**
-- Goal: apply the linked topic rule clearly and map the result to the exact option.
+**Solution:**  
+P(A∩B) = P(A)+P(B)−P(A∪B) = 1/4+1/3−1/2 = (3+4−6)/12 = 1/12.  
+P(A∩B′) = P(A)−P(A∩B) = 1/4 − 1/12 = (3−1)/12 = 2/12 = 1/6.
 
-**💡 What I’ll use (repo-style):**
-- Use the exact concept/formula from the linked topic-pattern file.
+**Final answer:** (3) 1/6  
+**Topic:** [Quant — Probability](../../10-Probability/01-Basic-Probability.md)
 
-**✏️ My Solution (actual working):**
-Step 1: Apply the linked topic rule/formula to the given data or statements.
-Step 2: Obtained/verified key result: **4**
-Step 3: This directly matches option **(1)**.
-
-**✅ Final Answer: (1)**
-
-- **Answer + Explanation Link:** [Direct anchor for Q54](#q54)
-- **Exact Topic-Pattern Link:** [Quant — Probability](../../10-Probability/01-Basic-Probability.md)
-- **Question Block Link:** [Go to Q54 question](./Questions.md#q54)
+---
 
 ## Q55
 
-**❓ Question:** Faulty design 10%. Collapse if faulty 95%, if not 45%. House collapsed. Probability it was due to faulty design =
+**Question:** Faulty design 10%. Collapse if faulty 95%, if not 45%. House collapsed. Probability it was due to faulty design?
 
-**Options:**
-- (1) 0.91
-- (2) 0.091
-- (3) 0.19
-- (4) 0.019
+**Options:** (1) 0.91 (2) 0.091 (3) 0.19 (4) 0.019
 
-**🤔 What I understood:**
-- Topic used: **Quant — Percentages**
-- Goal: apply the linked topic rule clearly and map the result to the exact option.
+**Solution:**  
+P(faulty) = 0.1, P(collapse|faulty)=0.95, P(collapse|not)=0.45.  
+P(collapse) = 0.1×0.95 + 0.9×0.45 = 0.095 + 0.405 = 0.5.  
+P(faulty|collapse) = (0.1×0.95)/0.5 = 0.095/0.5 = 0.19.
 
-**💡 What I’ll use (repo-style):**
-- Use the exact concept/formula from the linked topic-pattern file.
+**Final answer:** (3) 0.19  
+**Topic:** [Quant — Probability](../../10-Probability/01-Basic-Probability.md)
 
-**✏️ My Solution (actual working):**
-Step 1: Apply the linked topic rule/formula to the given data or statements.
-Step 2: Obtained/verified key result: **n = 5**
-Step 3: This directly matches option **(2)**.
-
-**✅ Final Answer: (2)**
-
-- **Answer + Explanation Link:** [Direct anchor for Q55](#q55)
-- **Exact Topic-Pattern Link:** [Quant — Probability](../../10-Probability/01-Basic-Probability.md)
-- **Question Block Link:** [Go to Q55 question](./Questions.md#q55)
+---
 
 ## Q56
 
-**❓ Question:** P(live 60→70)=0.65. In 10 persons aged 60, probability at least 7 survive =
+**Question:** P(live 60→70)=0.65. In 10 persons aged 60, probability at least 7 survive?
 
-**Options:**
-- (1) 0.3158
-- (2) 0.5318
-- (3) 0.5138
-- (4) 0.5831
+**Options:** (1) 0.3158 (2) 0.5318 (3) 0.5138 (4) 0.5831
 
-**🤔 What I understood:**
-- Topic used: **Reasoning — Blood Relations**
-- Goal: apply the linked topic rule clearly and map the result to the exact option.
+**Solution:**  
+Binomial n=10, p=0.65. P(X≥7) = sum_{k=7}^{10} C(10,k)(0.65)^k(0.35)^{10−k}. Compute approximate: known value ≈ 0.5138.
 
-**💡 What I’ll use (repo-style):**
-- Use the exact concept/formula from the linked topic-pattern file.
+**Final answer:** (3) 0.5138  
+**Topic:** [Quant — Probability](../../10-Probability/01-Basic-Probability.md)
 
-**✏️ My Solution (actual working):**
-Step 1: Apply the linked topic rule/formula to the given data or statements.
-Step 2: Obtained/verified key result: **7/15**
-Step 3: This directly matches option **(4)**.
-
-**✅ Final Answer: (4)**
-
-- **Answer + Explanation Link:** [Direct anchor for Q56](#q56)
-- **Exact Topic-Pattern Link:** [Quant — Probability](../../10-Probability/01-Basic-Probability.md)
-- **Question Block Link:** [Go to Q56 question](./Questions.md#q56)
+---
 
 ## Q57
 
-**❓ Question:** Quartile coefficient of skewness is
+**Question:** Quartile coefficient of skewness is
 
-**Options:**
-- (1) (Q₃+Q₂−2Q₁)/(Q₃−Q₁)
-- (2) (Q₃+Q₁−2Q₂)/(Q₃−Q₁)
-- (3) (Q₃+Q₂−2Q₁)/(Q₁−Q₃)
-- (4) (Q₃+Q₁−2Q₂)/(Q₂−Q₁)
+**Options:** (1) (Q₃+Q₂−2Q₁)/(Q₃−Q₁) (2) (Q₃+Q₁−2Q₂)/(Q₃−Q₁) (3) ... (4) ...
 
-**🤔 What I understood:**
-- Topic used: **Statistics — Variance and Skewness**
-- Goal: apply the linked topic rule clearly and map the result to the exact option.
+**Solution:**  
+Standard formula: (Q₃ + Q₁ − 2Q₂) / (Q₃ − Q₁).
 
-**💡 What I’ll use (repo-style):**
-- Use the exact concept/formula from the linked topic-pattern file.
+**Final answer:** (2)  
+**Topic:** [Statistics — Variance and Skewness](../../19-Statistics/Pattern2-Variance-and-SD.md)
 
-**✏️ My Solution (actual working):**
-Step 1: Apply the linked topic rule/formula to the given data or statements.
-Step 2: Obtained/verified key result: **1/6**
-Step 3: This directly matches option **(3)**.
-
-**✅ Final Answer: (3)**
-
-- **Answer + Explanation Link:** [Direct anchor for Q57](#q57)
-- **Exact Topic-Pattern Link:** [Statistics — Variance and Skewness](../../19-Statistics/Pattern2-Variance-and-SD.md)
-- **Question Block Link:** [Go to Q57 question](./Questions.md#q57)
+---
 
 ## Q58
 
-**❓ Question:** A set of processes and procedures that transform data into information and knowledge is a(n)
+**Question:** A set of processes and procedures that transform data into information and knowledge is a(n)
 
-**Options:**
-- (1) Information system
-- (2) Database system
-- (3) Knowledge system
-- (4) Computer system
+**Options:** (1) Information system (2) Database system (3) Knowledge system (4) Computer system
 
-**🤔 What I understood:**
-- Topic used: **Computer Awareness — Fundamentals**
-- Goal: apply the linked topic rule clearly and map the result to the exact option.
+**Solution:**  
+Information system.
 
-**💡 What I’ll use (repo-style):**
-- Use the exact concept/formula from the linked topic-pattern file.
+**Final answer:** (1) Information system  
+**Topic:** [Computer Awareness — Fundamentals](../../18-Computer-Awareness/02-Computer-Fundamentals.md)
 
-**✏️ My Solution (actual working):**
-Step 1: Apply the linked topic rule/formula to the given data or statements.
-Step 2: Obtained/verified key result: **0.19**
-Step 3: This directly matches option **(3)**.
-
-**✅ Final Answer: (3)**
-
-- **Answer + Explanation Link:** [Direct anchor for Q58](#q58)
-- **Exact Topic-Pattern Link:** [Computer Awareness — Fundamentals](../../18-Computer-Awareness/02-Computer-Fundamentals.md)
-- **Question Block Link:** [Go to Q58 question](./Questions.md#q58)
+---
 
 ## Q59
 
-**❓ Question:** Default character coding in HTML‑5 is
+**Question:** Default character coding in HTML‑5 is
 
-**Options:**
-- (1) UTF‑4
-- (2) UTF‑8
-- (3) UTF‑16
-- (4) UTF‑32
+**Options:** (1) UTF‑4 (2) UTF‑8 (3) UTF‑16 (4) UTF‑32
 
-**🤔 What I understood:**
-- Topic used: **Computer Awareness — Data Representation/Binary Arithmetic**
-- Goal: apply the linked topic rule clearly and map the result to the exact option.
+**Solution:**  
+UTF‑8.
 
-**💡 What I’ll use (repo-style):**
-- Use the exact concept/formula from the linked topic-pattern file.
+**Final answer:** (2) UTF‑8  
+**Topic:** [Computer Awareness — Data Representation/Binary Arithmetic](../../18-Computer-Awareness/09-Data-Representation-and-Binary-Arithmetic.md)
 
-**✏️ My Solution (actual working):**
-Step 1: Apply the linked topic rule/formula to the given data or statements.
-Step 2: Obtained/verified key result: **0.5138**
-Step 3: This directly matches option **(3)**.
-
-**✅ Final Answer: (3)**
-
-- **Answer + Explanation Link:** [Direct anchor for Q59](#q59)
-- **Exact Topic-Pattern Link:** [Computer Awareness — Data Representation/Binary Arithmetic](../../18-Computer-Awareness/09-Data-Representation-and-Binary-Arithmetic.md)
-- **Question Block Link:** [Go to Q59 question](./Questions.md#q59)
+---
 
 ## Q60
 
-**❓ Question:** Fastest memory in a computer system is
+**Question:** Fastest memory in a computer system is
 
-**Options:**
-- (1) ROM
-- (2) RAM
-- (3) Cache memory
-- (4) Pen drive
+**Options:** (1) ROM (2) RAM (3) Cache memory (4) Pen drive
 
-**🤔 What I understood:**
-- Topic used: **Computer Awareness — Fundamentals**
-- Goal: apply the linked topic rule clearly and map the result to the exact option.
+**Solution:**  
+Cache memory.
 
-**💡 What I’ll use (repo-style):**
-- Use the exact concept/formula from the linked topic-pattern file.
+**Final answer:** (3) Cache memory  
+**Topic:** [Computer Awareness — Fundamentals](../../18-Computer-Awareness/02-Computer-Fundamentals.md)
 
-**✏️ My Solution (actual working):**
-Step 1: Apply the linked topic rule/formula to the given data or statements.
-Step 2: Obtained/verified key result: **(Q₃+Q₁−2Q₂)/(Q₃−Q₁)**
-Step 3: This directly matches option **(2)**.
-
-**✅ Final Answer: (2)**
-
-- **Answer + Explanation Link:** [Direct anchor for Q60](#q60)
-- **Exact Topic-Pattern Link:** [Computer Awareness — Fundamentals](../../18-Computer-Awareness/02-Computer-Fundamentals.md)
-- **Question Block Link:** [Go to Q60 question](./Questions.md#q60)
+---
 
 ## Q61
 
-**❓ Question:** Decreasing order of storage capacity
+**Question:** Decreasing order of storage capacity
 
-**Options:**
-- (1) Primary Memory, Magnetic Disk, CPU Registers, Cache
-- (2) CPU Registers, Cache, Primary Memory, Magnetic Disk
-- (3) Magnetic Disk, Primary Memory, Cache, CPU Registers
-- (4) CPU Registers, Primary Memory, Cache, Magnetic Disk
+**Options:** (1) Primary Memory, Magnetic Disk, CPU Registers, Cache  
+(2) CPU Registers, Cache, Primary Memory, Magnetic Disk  
+(3) Magnetic Disk, Primary Memory, Cache, CPU Registers  
+(4) CPU Registers, Primary Memory, Cache, Magnetic Disk
 
-**🤔 What I understood:**
-- Topic used: **Computer Awareness — Fundamentals**
-- Goal: apply the linked topic rule clearly and map the result to the exact option.
+**Solution:**  
+Magnetic Disk > Primary Memory > Cache > CPU Registers.
 
-**💡 What I’ll use (repo-style):**
-- Use the exact concept/formula from the linked topic-pattern file.
+**Final answer:** (3)  
+**Topic:** [Computer Awareness — Fundamentals](../../18-Computer-Awareness/02-Computer-Fundamentals.md)
 
-**✏️ My Solution (actual working):**
-Step 1: Apply the linked topic rule/formula to the given data or statements.
-Step 2: Obtained/verified key result: **Information system**
-Step 3: This directly matches option **(1)**.
-
-**✅ Final Answer: (1)**
-
-- **Answer + Explanation Link:** [Direct anchor for Q61](#q61)
-- **Exact Topic-Pattern Link:** [Computer Awareness — Fundamentals](../../18-Computer-Awareness/02-Computer-Fundamentals.md)
-- **Question Block Link:** [Go to Q61 question](./Questions.md#q61)
+---
 
 ## Q62
 
-**❓ Question:** 3GL and 4GL: S1: Both non‑portable. S2: 3GL mostly compiled. S3: 4GL align with minimum work and skill. S4: 3GL are user‑friendly with intelligent defaults. Correct:
+**Question:** 3GL and 4GL statements: S1: Both non‑portable. S2: 3GL mostly compiled. S3: 4GL align with minimum work and skill. S4: 3GL are user‑friendly with intelligent defaults. Correct?
 
-**Options:**
-- (1) S1, S4 only
-- (2) S2, S3 only
-- (3) S1, S3 only
-- (4) S1, S2 only
+**Options:** (1) S1,S4 only (2) S2,S3 only (3) S1,S3 only (4) S1,S2 only
 
-**🤔 What I understood:**
-- Topic used: **Computer Awareness — Fundamentals**
-- Goal: apply the linked topic rule clearly and map the result to the exact option.
+**Solution:**  
+S2 true, S3 true. S1 false (some are portable), S4 false (3GL not that user‑friendly). So S2,S3.
 
-**💡 What I’ll use (repo-style):**
-- Use the exact concept/formula from the linked topic-pattern file.
+**Final answer:** (2) S2, S3 only  
+**Topic:** [Computer Awareness — Fundamentals](../../18-Computer-Awareness/02-Computer-Fundamentals.md)
 
-**✏️ My Solution (actual working):**
-Step 1: Apply the linked topic rule/formula to the given data or statements.
-Step 2: Obtained/verified key result: **UTF‑8**
-Step 3: This directly matches option **(2)**.
-
-**✅ Final Answer: (2)**
-
-- **Answer + Explanation Link:** [Direct anchor for Q62](#q62)
-- **Exact Topic-Pattern Link:** [Computer Awareness — Fundamentals](../../18-Computer-Awareness/02-Computer-Fundamentals.md)
-- **Question Block Link:** [Go to Q62 question](./Questions.md#q62)
+---
 
 ## Q63
 
-**❓ Question:** Match: a. Pointing device b. Output device c. Browser d. Memory i. Chrome ii. Cache iii. Printer iv. Mouse
+**Question:** Match: a. Pointing device, b. Output device, c. Browser, d. Memory with i. Chrome, ii. Cache, iii. Printer, iv. Mouse
 
-**Options:**
-- (1) a‑iv; b‑iii; c‑ii; d‑i
-- (2) a‑iv; b‑ii; c‑iii; d‑i
-- (3) a‑iv; b‑iii; c‑i; d‑ii
-- (4) a‑iv; b‑i; c‑ii; d‑iii
+**Options:** (1) a‑iv; b‑iii; c‑ii; d‑i (2) a‑iv; b‑ii; c‑iii; d‑i (3) a‑iv; b‑iii; c‑i; d‑ii (4) a‑iv; b‑i; c‑ii; d‑iii
 
-**🤔 What I understood:**
-- Topic used: **Computer Awareness — Fundamentals**
-- Goal: apply the linked topic rule clearly and map the result to the exact option.
+**Solution:**  
+Mouse (pointing), Printer (output), Chrome (browser), Cache (memory). So a‑iv, b‑iii, c‑i, d‑ii.
 
-**💡 What I’ll use (repo-style):**
-- Use the exact concept/formula from the linked topic-pattern file.
+**Final answer:** (3)  
+**Topic:** [Computer Awareness — Fundamentals](../../18-Computer-Awareness/02-Computer-Fundamentals.md)
 
-**✏️ My Solution (actual working):**
-Step 1: Apply the linked topic rule/formula to the given data or statements.
-Step 2: Obtained/verified key result: **Cache memory**
-Step 3: This directly matches option **(3)**.
-
-**✅ Final Answer: (3)**
-
-- **Answer + Explanation Link:** [Direct anchor for Q63](#q63)
-- **Exact Topic-Pattern Link:** [Computer Awareness — Fundamentals](../../18-Computer-Awareness/02-Computer-Fundamentals.md)
-- **Question Block Link:** [Go to Q63 question](./Questions.md#q63)
+---
 
 ## Q64
 
-**❓ Question:** High‑level language: a. Easier to use. b. Uses English‑like words. c. Computer cannot understand directly.
+**Question:** High‑level language: a. Easier to use. b. Uses English‑like words. c. Computer cannot understand directly.
 
-**Options:**
-- (1) all correct
-- (2) a and c only
-- (3) a and b only
-- (4) only c
+**Options:** (1) all correct (2) a and c only (3) a and b only (4) only c
 
-**🤔 What I understood:**
-- Topic used: **Computer Awareness — Fundamentals**
-- Goal: apply the linked topic rule clearly and map the result to the exact option.
+**Solution:**  
+All three statements are true.
 
-**💡 What I’ll use (repo-style):**
-- Use the exact concept/formula from the linked topic-pattern file.
+**Final answer:** (1) all correct  
+**Topic:** [Computer Awareness — Fundamentals](../../18-Computer-Awareness/02-Computer-Fundamentals.md)
 
-**✏️ My Solution (actual working):**
-Step 1: Apply the linked topic rule/formula to the given data or statements.
-Step 2: Obtained/verified key result: **Magnetic Disk, Primary Memory, Cache, CPU Registers**
-Step 3: This directly matches option **(3)**.
-
-**✅ Final Answer: (3)**
-
-- **Answer + Explanation Link:** [Direct anchor for Q64](#q64)
-- **Exact Topic-Pattern Link:** [Computer Awareness — Fundamentals](../../18-Computer-Awareness/02-Computer-Fundamentals.md)
-- **Question Block Link:** [Go to Q64 question](./Questions.md#q64)
+---
 
 ## Q65
 
-**❓ Question:** Decimal 100 to Octal and Hexadecimal:
+**Question:** Decimal 100 to Octal and Hexadecimal
 
-**Options:**
-- (1) 123₍₈₎, AB₍₁₆₎
-- (2) 64₍₈₎, 144₍₁₆₎
-- (3) 144₍₈₎, 64₍₁₆₎
-- (4) 74₍₈₎, A1₍₁₆₎
+**Options:** (1) 123₈, AB₁₆ (2) 64₈, 144₁₆ (3) 144₈, 64₁₆ (4) 74₈, A1₁₆
 
-**🤔 What I understood:**
-- Topic used: **Reasoning — Series (Letter)**
-- Goal: apply the linked topic rule clearly and map the result to the exact option.
+**Solution:**  
+100 decimal = 144 octal (1×64+4×8+4), = 64 hexadecimal (6×16+4).
 
-**💡 What I’ll use (repo-style):**
-- Use the exact concept/formula from the linked topic-pattern file.
+**Final answer:** (3) 144₈, 64₁₆  
+**Topic:** [Computer Awareness — Number Systems](../../18-Computer-Awareness/01-Number-Systems.md)
 
-**✏️ My Solution (actual working):**
-Step 1: Apply the linked topic rule/formula to the given data or statements.
-Step 2: Obtained/verified key result: **S2, S3 only**
-Step 3: This directly matches option **(2)**.
-
-**✅ Final Answer: (2)**
-
-- **Answer + Explanation Link:** [Direct anchor for Q65](#q65)
-- **Exact Topic-Pattern Link:** [Computer Awareness — Number Systems](../../18-Computer-Awareness/01-Number-Systems.md)
-- **Question Block Link:** [Go to Q65 question](./Questions.md#q65)
+---
 
 ## Q66
 
-**❓ Question:** 1024 KB in binary means ______ bytes.
+**Question:** 1024 KB in binary means ______ bytes.
 
-**Options:**
-- (1) 1 Kilobyte
-- (2) 1 Gigabyte
-- (3) 1 Terabyte
-- (4) 1 Megabyte
+**Options:** (1) 1 Kilobyte (2) 1 Gigabyte (3) 1 Terabyte (4) 1 Megabyte
 
-**🤔 What I understood:**
-- Topic used: **Computer Awareness — Number Systems**
-- Goal: apply the linked topic rule clearly and map the result to the exact option.
+**Solution:**  
+1024 KB = 1 MB (binary).
 
-**💡 What I’ll use (repo-style):**
-- Use the exact concept/formula from the linked topic-pattern file.
+**Final answer:** (4) 1 Megabyte  
+**Topic:** [Computer Awareness — Number Systems](../../18-Computer-Awareness/01-Number-Systems.md)
 
-**✏️ My Solution (actual working):**
-Step 1: Apply the linked topic rule/formula to the given data or statements.
-Step 2: Obtained/verified key result: **a‑iv, b‑iii, c‑i, d‑ii**
-Step 3: This directly matches option **(3)**.
-
-**✅ Final Answer: (3)**
-
-- **Answer + Explanation Link:** [Direct anchor for Q66](#q66)
-- **Exact Topic-Pattern Link:** [Computer Awareness — Number Systems](../../18-Computer-Awareness/01-Number-Systems.md)
-- **Question Block Link:** [Go to Q66 question](./Questions.md#q66)
+---
 
 ## Q67
 
-**❓ Question:** Match: a. 10101₂ b. DAD₁₆ c. One’s complement of 1101₂ d. 401₈ i. 6655₈ ii. 101₁₆ iii. 21₁₀ iv. 0010₂
+**Question:** Match: a. 10101₂, b. DAD₁₆, c. One’s complement of 1101₂, d. 401₈ with i. 6655₈, ii. 101₁₆, iii. 21₁₀, iv. 0010₂
 
-**Options:**
-- (1) a‑ii; b‑i; c‑iii; d‑iv
-- (2) a‑iii; b‑i; c‑iv; d‑ii
-- (3) a‑iii; b‑ii; c‑i; d‑iv
-- (4) a‑i; b‑iii; c‑iv; d‑ii
+**Options:** (1) a‑ii; b‑i; c‑iii; d‑iv (2) a‑iii; b‑i; c‑iv; d‑ii (3) a‑iii; b‑ii; c‑i; d‑iv (4) a‑i; b‑iii; c‑iv; d‑ii
 
-**🤔 What I understood:**
-- Topic used: **Computer Awareness — Number Systems**
-- Goal: apply the linked topic rule clearly and map the result to the exact option.
+**Solution:**  
+a) 10101₂ = 21₁₀ → iii. b) DAD₁₆ = 3501₁₀ = 6655₈ → i. c) 1’s complement of 1101₂ = 0010₂ → iv. d) 401₈ = 257₁₀ = 101₁₆ → ii. So a‑iii, b‑i, c‑iv, d‑ii.
 
-**💡 What I’ll use (repo-style):**
-- Use the exact concept/formula from the linked topic-pattern file.
+**Final answer:** (2)  
+**Topic:** [Computer Awareness — Number Systems](../../18-Computer-Awareness/01-Number-Systems.md)
 
-**✏️ My Solution (actual working):**
-Step 1: Apply the linked topic rule/formula to the given data or statements.
-Step 2: Obtained/verified key result: **All correct**
-Step 3: This directly matches option **(1)**.
-
-**✅ Final Answer: (1)**
-
-- **Answer + Explanation Link:** [Direct anchor for Q67](#q67)
-- **Exact Topic-Pattern Link:** [Computer Awareness — Number Systems](../../18-Computer-Awareness/01-Number-Systems.md)
-- **Question Block Link:** [Go to Q67 question](./Questions.md#q67)
+---
 
 ## Q68
 
-**❓ Question:** Match: a. BCD b. EBCDIC c. ASCII d. Unicode i. IBM mainframe ii. electronic communication iii. all written languages iv. decimal digits in binary
+**Question:** Match: a. BCD, b. EBCDIC, c. ASCII, d. Unicode with i. IBM mainframe, ii. electronic communication, iii. all written languages, iv. decimal digits in binary
 
-**Options:**
-- (1) a‑iii; b‑iv; c‑i; d‑ii
-- (2) a‑iv; b‑i; c‑ii; d‑iii
-- (3) a‑iv; b‑iii; c‑ii; d‑i
-- (4) a‑i; b‑ii; c‑iii; d‑iv
+**Options:** (1) a‑iii; b‑iv; c‑i; d‑ii (2) a‑iv; b‑i; c‑ii; d‑iii (3) a‑iv; b‑iii; c‑ii; d‑i (4) a‑i; b‑ii; c‑iii; d‑iv
 
-**🤔 What I understood:**
-- Topic used: **Computer Awareness — Data Representation/Binary Arithmetic**
-- Goal: apply the linked topic rule clearly and map the result to the exact option.
+**Solution:**  
+BCD → decimal digits (iv), EBCDIC → IBM mainframe (i), ASCII → electronic communication (ii), Unicode → all languages (iii). So a‑iv, b‑i, c‑ii, d‑iii.
 
-**💡 What I’ll use (repo-style):**
-- Use the exact concept/formula from the linked topic-pattern file.
+**Final answer:** (2)  
+**Topic:** [Computer Awareness — Data Representation/Binary Arithmetic](../../18-Computer-Awareness/09-Data-Representation-and-Binary-Arithmetic.md)
 
-**✏️ My Solution (actual working):**
-Step 1: Apply the linked topic rule/formula to the given data or statements.
-Step 2: Obtained/verified key result: **144₍₈₎, 64₍₁₆₎**
-Step 3: This directly matches option **(3)**.
-
-**✅ Final Answer: (3)**
-
-- **Answer + Explanation Link:** [Direct anchor for Q68](#q68)
-- **Exact Topic-Pattern Link:** [Computer Awareness — Data Representation/Binary Arithmetic](../../18-Computer-Awareness/09-Data-Representation-and-Binary-Arithmetic.md)
-- **Question Block Link:** [Go to Q68 question](./Questions.md#q68)
+---
 
 ## Q69
 
-**❓ Question:** In normalized floating‑point, MSB of mantissa is
+**Question:** In normalized floating‑point, MSB of mantissa is
 
-**Options:**
-- (1) -1
-- (2) 0
-- (3) 1
-- (4) 2
+**Options:** (1) -1 (2) 0 (3) 1 (4) 2
 
-**🤔 What I understood:**
-- Topic used: **Computer Awareness — Data Representation/Binary Arithmetic**
-- Goal: apply the linked topic rule clearly and map the result to the exact option.
+**Solution:**  
+Normalized mantissa has MSB = 1 (hidden bit).
 
-**💡 What I’ll use (repo-style):**
-- Use the exact concept/formula from the linked topic-pattern file.
+**Final answer:** (3) 1  
+**Topic:** [Computer Awareness — Data Representation/Binary Arithmetic](../../18-Computer-Awareness/09-Data-Representation-and-Binary-Arithmetic.md)
 
-**✏️ My Solution (actual working):**
-Step 1: Apply the linked topic rule/formula to the given data or statements.
-Step 2: Obtained/verified key result: **1 Megabyte**
-Step 3: This directly matches option **(4)**.
-
-**✅ Final Answer: (4)**
-
-- **Answer + Explanation Link:** [Direct anchor for Q69](#q69)
-- **Exact Topic-Pattern Link:** [Computer Awareness — Data Representation/Binary Arithmetic](../../18-Computer-Awareness/09-Data-Representation-and-Binary-Arithmetic.md)
-- **Question Block Link:** [Go to Q69 question](./Questions.md#q69)
+---
 
 ## Q70
 
-**❓ Question:** Product of 0110₂ and 0110₂ is
+**Question:** Product of 0110₂ and 0110₂
 
-**Options:**
-- (1) 011100
-- (2) 110110
-- (3) 100100
-- (4) 011011
+**Options:** (1) 011100 (2) 110110 (3) 100100 (4) 011011
 
-**🤔 What I understood:**
-- Topic used: **Computer Awareness — Data Representation/Binary Arithmetic**
-- Goal: apply the linked topic rule clearly and map the result to the exact option.
+**Solution:**  
+0110₂ = 6, 6×6=36 = 100100₂.
 
-**💡 What I’ll use (repo-style):**
-- Use the exact concept/formula from the linked topic-pattern file.
+**Final answer:** (3) 100100  
+**Topic:** [Computer Awareness — Data Representation/Binary Arithmetic](../../18-Computer-Awareness/09-Data-Representation-and-Binary-Arithmetic.md)
 
-**✏️ My Solution (actual working):**
-Step 1: Apply the linked topic rule/formula to the given data or statements.
-Step 2: Obtained/verified key result: **a‑iii, b‑i, c‑iv, d‑ii**
-Step 3: This directly matches option **(2)**.
-
-**✅ Final Answer: (2)**
-
-- **Answer + Explanation Link:** [Direct anchor for Q70](#q70)
-- **Exact Topic-Pattern Link:** [Computer Awareness — Data Representation/Binary Arithmetic](../../18-Computer-Awareness/09-Data-Representation-and-Binary-Arithmetic.md)
-- **Question Block Link:** [Go to Q70 question](./Questions.md#q70)
+---
 
 ## Q71
 
-**❓ Question:** In floating‑point representation, the signed fixed‑point part and decimal position are
+**Question:** In floating‑point representation, the signed fixed‑point part and decimal position are
 
-**Options:**
-- (1) Mantissa, Exponent
-- (2) Exponent, Mantissa
-- (3) Float, Exponent
-- (4) Mantissa, Float
+**Options:** (1) Mantissa, Exponent (2) Exponent, Mantissa (3) Float, Exponent (4) Mantissa, Float
 
-**🤔 What I understood:**
-- Topic used: **Computer Awareness — Data Representation/Binary Arithmetic**
-- Goal: apply the linked topic rule clearly and map the result to the exact option.
+**Solution:**  
+Mantissa (significand) and exponent.
 
-**💡 What I’ll use (repo-style):**
-- Use the exact concept/formula from the linked topic-pattern file.
+**Final answer:** (1) Mantissa, Exponent  
+**Topic:** [Computer Awareness — Data Representation/Binary Arithmetic](../../18-Computer-Awareness/09-Data-Representation-and-Binary-Arithmetic.md)
 
-**✏️ My Solution (actual working):**
-Step 1: Apply the linked topic rule/formula to the given data or statements.
-Step 2: Obtained/verified key result: **a‑iv, b‑i, c‑ii, d‑iii**
-Step 3: This directly matches option **(2)**.
-
-**✅ Final Answer: (2)**
-
-- **Answer + Explanation Link:** [Direct anchor for Q71](#q71)
-- **Exact Topic-Pattern Link:** [Computer Awareness — Data Representation/Binary Arithmetic](../../18-Computer-Awareness/09-Data-Representation-and-Binary-Arithmetic.md)
-- **Question Block Link:** [Go to Q71 question](./Questions.md#q71)
+---
 
 ## Q72
 
-**❓ Question:** Division of 111000₂ by 100₂ is
+**Question:** Division of 111000₂ by 100₂
 
-**Options:**
-- (1) 1101
-- (2) 1100
-- (3) 1110
-- (4) 1001
+**Options:** (1) 1101 (2) 1100 (3) 1110 (4) 1001
 
-**🤔 What I understood:**
-- Topic used: **Computer Awareness — Data Representation/Binary Arithmetic**
-- Goal: apply the linked topic rule clearly and map the result to the exact option.
+**Solution:**  
+111000₂ = 56, 100₂ = 4, 56/4 = 14 = 1110₂.
 
-**💡 What I’ll use (repo-style):**
-- Use the exact concept/formula from the linked topic-pattern file.
+**Final answer:** (3) 1110  
+**Topic:** [Computer Awareness — Data Representation/Binary Arithmetic](../../18-Computer-Awareness/09-Data-Representation-and-Binary-Arithmetic.md)
 
-**✏️ My Solution (actual working):**
-Step 1: Apply the linked topic rule/formula to the given data or statements.
-Step 2: Obtained/verified key result: **1**
-Step 3: This directly matches option **(3)**.
-
-**✅ Final Answer: (3)**
-
-- **Answer + Explanation Link:** [Direct anchor for Q72](#q72)
-- **Exact Topic-Pattern Link:** [Computer Awareness — Data Representation/Binary Arithmetic](../../18-Computer-Awareness/09-Data-Representation-and-Binary-Arithmetic.md)
-- **Question Block Link:** [Go to Q72 question](./Questions.md#q72)
+---
 
 ## Q73
 
-**❓ Question:** Match binary to unsigned decimal: a. 00100011 → 35 b. 10100011 → 163 c. 11111111 → 255 d. 10000000 → 128
+**Question:** Match binary to unsigned decimal: a. 00100011 → 35, b. 10100011 → 163, c. 11111111 → 255, d. 10000000 → 128
 
-**Options:**
-- (1) a‑ii; b‑iii; c‑iv; d‑i
-- (2) a‑iii; b‑iv; c‑ii; d‑i
-- (3) a‑iv; b‑i; c‑ii; d‑iii
-- (4) a‑i; b‑iii; c‑iv; d‑ii
+**Options:** (1) a‑ii; b‑iii; c‑iv; d‑i (2) a‑iii; b‑iv; c‑ii; d‑i (3) a‑iv; b‑i; c‑ii; d‑iii (4) a‑i; b‑iii; c‑iv; d‑ii
 
-**🤔 What I understood:**
-- Topic used: **Computer Awareness — Number Systems**
-- Goal: apply the linked topic rule clearly and map the result to the exact option.
+**Solution:**  
+All are correctly matched; order in options likely (4) a‑i, b‑iii, c‑iv, d‑ii.
 
-**💡 What I’ll use (repo-style):**
-- Use the exact concept/formula from the linked topic-pattern file.
+**Final answer:** (4)  
+**Topic:** [Computer Awareness — Number Systems](../../18-Computer-Awareness/01-Number-Systems.md)
 
-**✏️ My Solution (actual working):**
-Step 1: Apply the linked topic rule/formula to the given data or statements.
-Step 2: Obtained/verified key result: **100100**
-Step 3: This directly matches option **(3)**.
-
-**✅ Final Answer: (3)**
-
-- **Answer + Explanation Link:** [Direct anchor for Q73](#q73)
-- **Exact Topic-Pattern Link:** [Computer Awareness — Number Systems](../../18-Computer-Awareness/01-Number-Systems.md)
-- **Question Block Link:** [Go to Q73 question](./Questions.md#q73)
+---
 
 ## Q74
 
-**❓ Question:** Starting a computer system is called
+**Question:** Starting a computer system is called
 
-**Options:**
-- (1) Booting
-- (2) Padding
-- (3) Deeping
-- (4) Morphing
+**Options:** (1) Booting (2) Padding (3) Deeping (4) Morphing
 
-**🤔 What I understood:**
-- Topic used: **Computer Awareness — Fundamentals**
-- Goal: apply the linked topic rule clearly and map the result to the exact option.
+**Solution:**  
+Booting.
 
-**💡 What I’ll use (repo-style):**
-- Use the exact concept/formula from the linked topic-pattern file.
+**Final answer:** (1) Booting  
+**Topic:** [Computer Awareness — Fundamentals](../../18-Computer-Awareness/02-Computer-Fundamentals.md)
 
-**✏️ My Solution (actual working):**
-Step 1: Apply the linked topic rule/formula to the given data or statements.
-Step 2: Obtained/verified key result: **Mantissa, Exponent**
-Step 3: This directly matches option **(1)**.
-
-**✅ Final Answer: (1)**
-
-- **Answer + Explanation Link:** [Direct anchor for Q74](#q74)
-- **Exact Topic-Pattern Link:** [Computer Awareness — Fundamentals](../../18-Computer-Awareness/02-Computer-Fundamentals.md)
-- **Question Block Link:** [Go to Q74 question](./Questions.md#q74)
+---
 
 ## Q75
 
-**❓ Question:** Interface to OS services is provided by
+**Question:** Interface to OS services is provided by
 
-**Options:**
-- (1) Library
-- (2) Assembly Instructions
-- (3) System Calls
-- (4) API
+**Options:** (1) Library (2) Assembly Instructions (3) System Calls (4) API
 
-**🤔 What I understood:**
-- Topic used: **Computer Awareness — Operating Systems**
-- Goal: apply the linked topic rule clearly and map the result to the exact option.
+**Solution:**  
+System calls (or API). Both are correct, but system calls are the direct interface.
 
-**💡 What I’ll use (repo-style):**
-- Use the exact concept/formula from the linked topic-pattern file.
+**Final answer:** (3) System Calls  
+**Topic:** [Computer Awareness — Operating Systems](../../18-Computer-Awareness/05-Operating-Systems.md)
 
-**✏️ My Solution (actual working):**
-Step 1: Apply the linked topic rule/formula to the given data or statements.
-Step 2: Obtained/verified key result: **1110**
-Step 3: This directly matches option **(3)**.
-
-**✅ Final Answer: (3)**
-
-- **Answer + Explanation Link:** [Direct anchor for Q75](#q75)
-- **Exact Topic-Pattern Link:** [Computer Awareness — Operating Systems](../../18-Computer-Awareness/05-Operating-Systems.md)
-- **Question Block Link:** [Go to Q75 question](./Questions.md#q75)
+---
 
 ## Q76
 
-**❓ Question:** Open‑source OS: a. Free to use and distribute b. Easy to customize c. Availability of technical support
+**Question:** Open‑source OS: a. Free to use and distribute b. Easy to customize c. Availability of technical support
 
-**Options:**
-- (1) a, b, c
-- (2) a and b only
-- (3) b and c only
-- (4) c only
+**Options:** (1) a,b,c (2) a,b only (3) b,c only (4) c only
 
-**🤔 What I understood:**
-- Topic used: **Computer Awareness — Operating Systems**
-- Goal: apply the linked topic rule clearly and map the result to the exact option.
+**Solution:**  
+Open source is free and customizable; technical support may not be guaranteed. So a and b only.
 
-**💡 What I’ll use (repo-style):**
-- Use the exact concept/formula from the linked topic-pattern file.
+**Final answer:** (2) a and b only  
+**Topic:** [Computer Awareness — Operating Systems](../../18-Computer-Awareness/05-Operating-Systems.md)
 
-**✏️ My Solution (actual working):**
-Step 1: Apply the linked topic rule/formula to the given data or statements.
-Step 2: Obtained/verified key result: **a‑iv, b‑i, c‑ii, d‑iii**
-Step 3: This directly matches option **(3)**.
-
-**✅ Final Answer: (3)**
-
-- **Answer + Explanation Link:** [Direct anchor for Q76](#q76)
-- **Exact Topic-Pattern Link:** [Computer Awareness — Operating Systems](../../18-Computer-Awareness/05-Operating-Systems.md)
-- **Question Block Link:** [Go to Q76 question](./Questions.md#q76)
+---
 
 ## Q77
 
-**❓ Question:** OS statements: S1: OS is a resource manager. S2: OS is an interface between user and computer. S3: Primary function is application development.
+**Question:** OS statements: S1: OS is a resource manager. S2: OS is an interface between user and computer. S3: Primary function is application development.
 
-**Options:**
-- (1) S1, S2, S3 correct
-- (2) Only S1 correct
-- (3) Only S2 correct
-- (4) S1 and S2 correct, S3 incorrect
+**Options:** (1) all correct (2) only S1 (3) only S2 (4) S1 and S2 correct, S3 incorrect
 
-**🤔 What I understood:**
-- Topic used: **Reasoning — Series (Letter)**
-- Goal: apply the linked topic rule clearly and map the result to the exact option.
+**Solution:**  
+S1 true, S2 true, S3 false (application development is not OS primary function).
 
-**💡 What I’ll use (repo-style):**
-- Use the exact concept/formula from the linked topic-pattern file.
+**Final answer:** (4) S1 and S2 correct, S3 incorrect  
+**Topic:** [Computer Awareness — Operating Systems](../../18-Computer-Awareness/05-Operating-Systems.md)
 
-**✏️ My Solution (actual working):**
-Step 1: Apply the linked topic rule/formula to the given data or statements.
-Step 2: Obtained/verified key result: **Booting**
-Step 3: This directly matches option **(1)**.
-
-**✅ Final Answer: (1)**
-
-- **Answer + Explanation Link:** [Direct anchor for Q77](#q77)
-- **Exact Topic-Pattern Link:** [Computer Awareness — Operating Systems](../../18-Computer-Awareness/05-Operating-Systems.md)
-- **Question Block Link:** [Go to Q77 question](./Questions.md#q77)
+---
 
 ## Q78
 
-**❓ Question:** Gantt chart primarily displays
+**Question:** Gantt chart primarily displays
 
-**Options:**
-- (1) Financial performance
-- (2) Market share analysis
-- (3) Project schedule (inferred)
+**Options:** (1) Financial performance (2) Market share (3) Project schedule
 
-**🤔 What I understood:**
-- Topic used: **Computer Awareness — Operating Systems**
-- Goal: apply the linked topic rule clearly and map the result to the exact option.
+**Solution:**  
+Project schedule.
 
-**💡 What I’ll use (repo-style):**
-- Use the exact concept/formula from the linked topic-pattern file.
+**Final answer:** (3) Project schedule  
+**Topic:** [Computer Awareness — Operating Systems](../../18-Computer-Awareness/05-Operating-Systems.md)
 
-**✏️ My Solution (actual working):**
-Step 1: Apply the linked topic rule/formula to the given data or statements.
-Step 2: Obtained/verified key result: **System Calls**
-Step 3: This directly matches option **(3)**.
-
-**✅ Final Answer: (3)**
-
-- **Answer + Explanation Link:** [Direct anchor for Q78](#q78)
-- **Exact Topic-Pattern Link:** [Computer Awareness — Operating Systems](../../18-Computer-Awareness/05-Operating-Systems.md)
-- **Question Block Link:** [Go to Q78 question](./Questions.md#q78)
+---
 
 ## Q79
 
-**❓ Question:** Porter’s Five Forces: a. Threat of new entrants b. Power of suppliers c. Competition among competitors d. Bargaining power of buyers
+**Question:** Porter’s Five Forces: a. Threat of new entrants, b. Power of suppliers, c. Competition among competitors, d. Bargaining power of buyers
 
-**Options:**
-- (1) a and b only
-- (2) a and c only
-- (3) b and d only
-- (4) a, b, c, d
+**Options:** (1) a,b only (2) a,c only (3) b,d only (4) a,b,c,d
 
-**🤔 What I understood:**
-- Topic used: **General Awareness — Business/Finance**
-- Goal: apply the linked topic rule clearly and map the result to the exact option.
+**Solution:**  
+All four are part of Porter’s Five Forces (plus threat of substitutes).
 
-**💡 What I’ll use (repo-style):**
-- Use the exact concept/formula from the linked topic-pattern file.
+**Final answer:** (4) a,b,c,d  
+**Topic:** [General Awareness — Business/Finance](../../29-General-Awareness/Pattern2-Business-and-Finance.md)
 
-**✏️ My Solution (actual working):**
-Step 1: Apply the linked topic rule/formula to the given data or statements.
-Step 2: Obtained/verified key result: **a, b, c**
-Step 3: This directly matches option **(1)**.
-
-**✅ Final Answer: (1)**
-
-- **Answer + Explanation Link:** [Direct anchor for Q79](#q79)
-- **Exact Topic-Pattern Link:** [General Awareness — Business/Finance](../../29-General-Awareness/Pattern2-Business-and-Finance.md)
-- **Question Block Link:** [Go to Q79 question](./Questions.md#q79)
+---
 
 ## Q80
 
-**❓ Question:** Match year to event: a. 1971 – ii. Indo‑Soviet Treaty b. 1974 – i. First Nuclear Test c. 1975 – iii. Emergency d. 1984 – iv. Assassination of Indira Gandhi
+**Question:** Match year to event: a. 1971 – ii. Indo‑Soviet Treaty, b. 1974 – i. First Nuclear Test, c. 1975 – iii. Emergency, d. 1984 – iv. Assassination of Indira Gandhi
 
-**Options:**
-- (1) a‑i; b‑ii; c‑iii; d‑iv
-- (2) a‑ii; b‑i; c‑iii; d‑iv
-- (3) a‑iv; b‑ii; c‑iii; d‑i
-- (4) (missing)
+**Options:** (1) a‑i; b‑ii; c‑iii; d‑iv (2) a‑ii; b‑i; c‑iii; d‑iv (3) a‑iv; b‑ii; c‑iii; d‑i (4) missing
 
-**🤔 What I understood:**
-- Topic used: **General Awareness — Core**
-- Goal: apply the linked topic rule clearly and map the result to the exact option.
+**Solution:**  
+1971: Indo‑Soviet Treaty, 1974: Nuclear test (Smiling Buddha), 1975: Emergency, 1984: Indira Gandhi assassination. So a‑ii, b‑i, c‑iii, d‑iv.
 
-**💡 What I’ll use (repo-style):**
-- Use the exact concept/formula from the linked topic-pattern file.
+**Final answer:** (2)  
+**Topic:** [General Awareness — Core](../../29-General-Awareness/Pattern1-General-Awareness.md)
 
-**✏️ My Solution (actual working):**
-Step 1: Apply the linked topic rule/formula to the given data or statements.
-Step 2: Obtained/verified key result: **S1, S2 correct, S3 incorrect**
-Step 3: This directly matches option **(4)**.
-
-**✅ Final Answer: (4)**
-
-- **Answer + Explanation Link:** [Direct anchor for Q80](#q80)
-- **Exact Topic-Pattern Link:** [General Awareness — Core](../../29-General-Awareness/Pattern1-General-Awareness.md)
-- **Question Block Link:** [Go to Q80 question](./Questions.md#q80)
+---
 
 ## Q81
 
-**❓ Question:** Primary functions of a Central bank: a. Regulating money supply b. Supervising commercial banks c. Setting interest rates d. Managing government revenue collection
+**Question:** Primary functions of a Central bank: a. Regulating money supply, b. Supervising commercial banks, c. Setting interest rates, d. Managing government revenue collection
 
-**Options:**
-- (1) a and b only
-- (2) a and c only
-- (3) a, b, c only
-- (4) All of the above
+**Options:** (1) a,b only (2) a,c only (3) a,b,c only (4) All of the above
 
-**🤔 What I understood:**
-- Topic used: **Sets and Relations — Sets/Venn**
-- Goal: apply the linked topic rule clearly and map the result to the exact option.
+**Solution:**  
+a, b, c are functions; d is not (revenue collection is treasury). So a,b,c only.
 
-**💡 What I’ll use (repo-style):**
-- Use the exact concept/formula from the linked topic-pattern file.
+**Final answer:** (3) a,b,c only  
+**Topic:** [General Awareness — Business/Finance](../../29-General-Awareness/Pattern2-Business-and-Finance.md)
 
-**✏️ My Solution (actual working):**
-Step 1: Apply the linked topic rule/formula to the given data or statements.
-Step 2: Obtained/verified key result: **(Likely Project schedule)**
-Step 3: This directly matches option **–**.
-
-**✅ Final Answer: –**
-
-- **Answer + Explanation Link:** [Direct anchor for Q81](#q81)
-- **Exact Topic-Pattern Link:** [General Awareness — Business/Finance](../../29-General-Awareness/Pattern2-Business-and-Finance.md)
-- **Question Block Link:** [Go to Q81 question](./Questions.md#q81)
+---
 
 ## Q82
 
-**❓ Question:** Which is not a stage in Tuckman’s Model?
+**Question:** Which is not a stage in Tuckman’s Model?
 
-**Options:**
-- (1) Forming
-- (2) Storming
-- (3) Performing
-- (4) Stabilizing
+**Options:** (1) Forming (2) Storming (3) Performing (4) Stabilizing
 
-**🤔 What I understood:**
-- Topic used: **General Awareness — Culture/Entrepreneurship/Communication**
-- Goal: apply the linked topic rule clearly and map the result to the exact option.
+**Solution:**  
+Tuckman: Forming, Storming, Norming, Performing, Adjourning. Stabilizing is not a stage.
 
-**💡 What I’ll use (repo-style):**
-- Use the exact concept/formula from the linked topic-pattern file.
+**Final answer:** (4) Stabilizing  
+**Topic:** [General Awareness — Culture/Entrepreneurship/Communication](../../29-General-Awareness/Pattern5-Culture-Entrepreneurship-and-Communication.md)
 
-**✏️ My Solution (actual working):**
-Step 1: Apply the linked topic rule/formula to the given data or statements.
-Step 2: Obtained/verified key result: **All four**
-Step 3: This directly matches option **(4)**.
-
-**✅ Final Answer: (4)**
-
-- **Answer + Explanation Link:** [Direct anchor for Q82](#q82)
-- **Exact Topic-Pattern Link:** [General Awareness — Culture/Entrepreneurship/Communication](../../29-General-Awareness/Pattern5-Culture-Entrepreneurship-and-Communication.md)
-- **Question Block Link:** [Go to Q82 question](./Questions.md#q82)
+---
 
 ## Q83
 
-**❓ Question:** Intermodal transportation:
+**Question:** Intermodal transportation:
 
-**Options:**
-- (1) Using multiple types of transportation for a shipment
-- (2) Exclusive use of railways
-- (3) Road transportation only
-- (4) Air combined with sea
+**Options:** (1) Using multiple types of transportation (2) Exclusive railways (3) Road only (4) Air+sea
 
-**🤔 What I understood:**
-- Topic used: **General Awareness — Business/Finance**
-- Goal: apply the linked topic rule clearly and map the result to the exact option.
+**Solution:**  
+Intermodal = using multiple modes.
 
-**💡 What I’ll use (repo-style):**
-- Use the exact concept/formula from the linked topic-pattern file.
+**Final answer:** (1) Using multiple types of transportation for a shipment  
+**Topic:** [General Awareness — Business/Finance](../../29-General-Awareness/Pattern2-Business-and-Finance.md)
 
-**✏️ My Solution (actual working):**
-Step 1: Apply the linked topic rule/formula to the given data or statements.
-Step 2: Obtained/verified key result: **a‑ii, b‑i, c‑iii, d‑iv**
-Step 3: This directly matches option **(2)**.
-
-**✅ Final Answer: (2)**
-
-- **Answer + Explanation Link:** [Direct anchor for Q83](#q83)
-- **Exact Topic-Pattern Link:** [General Awareness — Business/Finance](../../29-General-Awareness/Pattern2-Business-and-Finance.md)
-- **Question Block Link:** [Go to Q83 question](./Questions.md#q83)
+---
 
 ## Q84
 
-**❓ Question:** Business incubators commonly provide: a. Networking opportunities b. Long‑term financial investment c. Legal/regulatory assistance d. R&D funding
+**Question:** Business incubators commonly provide: a. Networking, b. Long‑term investment, c. Legal/regulatory assistance, d. R&D funding
 
-**Options:**
-- (1) a and b only
-- (2) c only
-- (3) c and d only
-- (4) a, c, d only
+**Options:** (1) a,b only (2) c only (3) c,d only (4) a,c,d only
 
-**🤔 What I understood:**
-- Topic used: **General Awareness — Culture/Entrepreneurship/Communication**
-- Goal: apply the linked topic rule clearly and map the result to the exact option.
+**Solution:**  
+Incubators provide networking, legal help, sometimes R&D funding, but not typically long‑term investment. So a,c,d.
 
-**💡 What I’ll use (repo-style):**
-- Use the exact concept/formula from the linked topic-pattern file.
+**Final answer:** (4) a,c,d only  
+**Topic:** [General Awareness — Culture/Entrepreneurship/Communication](../../29-General-Awareness/Pattern5-Culture-Entrepreneurship-and-Communication.md)
 
-**✏️ My Solution (actual working):**
-Step 1: Apply the linked topic rule/formula to the given data or statements.
-Step 2: Obtained/verified key result: **a, b, c only**
-Step 3: This directly matches option **(3)**.
-
-**✅ Final Answer: (3)**
-
-- **Answer + Explanation Link:** [Direct anchor for Q84](#q84)
-- **Exact Topic-Pattern Link:** [General Awareness — Culture/Entrepreneurship/Communication](../../29-General-Awareness/Pattern5-Culture-Entrepreneurship-and-Communication.md)
-- **Question Block Link:** [Go to Q84 question](./Questions.md#q84)
+---
 
 ## Q85
 
-**❓ Question:** Theory of General Relativity is associated with
+**Question:** Theory of General Relativity is associated with
 
-**Options:**
-- (1) Isaac Newton
-- (2) Albert Einstein
-- (3) Galileo Galilei
-- (4) Niels Bohr
+**Options:** (1) Newton (2) Einstein (3) Galileo (4) Bohr
 
-**🤔 What I understood:**
-- Topic used: **General Awareness — Science/Tech/Health**
-- Goal: apply the linked topic rule clearly and map the result to the exact option.
+**Solution:**  
+Albert Einstein.
 
-**💡 What I’ll use (repo-style):**
-- Use the exact concept/formula from the linked topic-pattern file.
+**Final answer:** (2) Albert Einstein  
+**Topic:** [General Awareness — Science/Tech/Health](../../29-General-Awareness/Pattern4-Science-Tech-and-Health.md)
 
-**✏️ My Solution (actual working):**
-Step 1: Apply the linked topic rule/formula to the given data or statements.
-Step 2: Obtained/verified key result: **Stabilizing**
-Step 3: This directly matches option **(4)**.
-
-**✅ Final Answer: (4)**
-
-- **Answer + Explanation Link:** [Direct anchor for Q85](#q85)
-- **Exact Topic-Pattern Link:** [General Awareness — Science/Tech/Health](../../29-General-Awareness/Pattern4-Science-Tech-and-Health.md)
-- **Question Block Link:** [Go to Q85 question](./Questions.md#q85)
+---
 
 ## Q86
 
-**❓ Question:** Analysis focusing on a company’s financial statements is
+**Question:** Analysis focusing on a company’s financial statements is
 
-**Options:**
-- (1) Technical Analysis
-- (2) Fundamental Analysis
-- (3) Sentiment Analysis
-- (4) Quantitative Analysis
+**Options:** (1) Technical (2) Fundamental (3) Sentiment (4) Quantitative
 
-**🤔 What I understood:**
-- Topic used: **General Awareness — Business/Finance**
-- Goal: apply the linked topic rule clearly and map the result to the exact option.
+**Solution:**  
+Fundamental analysis.
 
-**💡 What I’ll use (repo-style):**
-- Use the exact concept/formula from the linked topic-pattern file.
+**Final answer:** (2) Fundamental Analysis  
+**Topic:** [General Awareness — Business/Finance](../../29-General-Awareness/Pattern2-Business-and-Finance.md)
 
-**✏️ My Solution (actual working):**
-Step 1: Apply the linked topic rule/formula to the given data or statements.
-Step 2: Obtained/verified key result: **Multiple transport types**
-Step 3: This directly matches option **(1)**.
-
-**✅ Final Answer: (1)**
-
-- **Answer + Explanation Link:** [Direct anchor for Q86](#q86)
-- **Exact Topic-Pattern Link:** [General Awareness — Business/Finance](../../29-General-Awareness/Pattern2-Business-and-Finance.md)
-- **Question Block Link:** [Go to Q86 question](./Questions.md#q86)
+---
 
 ## Q87
 
-**❓ Question:** True about cultural assimilation: a. Minority adopts prevailing culture. b. Always leads to complete loss of original culture. c. Can result in blending of cultures.
+**Question:** True about cultural assimilation: a. Minority adopts prevailing culture. b. Always leads to complete loss of original culture. c. Can result in blending of cultures.
 
-**Options:**
-- (1) a and b only
-- (2) b and c only
-- (3) a and c only
-- (4) a, b, c
+**Options:** (1) a,b only (2) b,c only (3) a,c only (4) a,b,c
 
-**🤔 What I understood:**
-- Topic used: **Quant — Profit and Loss**
-- Goal: apply the linked topic rule clearly and map the result to the exact option.
+**Solution:**  
+a is true, c is true, b is not always true. So a and c only.
 
-**💡 What I’ll use (repo-style):**
-- Use the exact concept/formula from the linked topic-pattern file.
+**Final answer:** (3) a and c only  
+**Topic:** [General Awareness — Culture/Entrepreneurship/Communication](../../29-General-Awareness/Pattern5-Culture-Entrepreneurship-and-Communication.md)
 
-**✏️ My Solution (actual working):**
-Step 1: Apply the linked topic rule/formula to the given data or statements.
-Step 2: Obtained/verified key result: **a, c, d**
-Step 3: This directly matches option **(4)**.
-
-**✅ Final Answer: (4)**
-
-- **Answer + Explanation Link:** [Direct anchor for Q87](#q87)
-- **Exact Topic-Pattern Link:** [General Awareness — Culture/Entrepreneurship/Communication](../../29-General-Awareness/Pattern5-Culture-Entrepreneurship-and-Communication.md)
-- **Question Block Link:** [Go to Q87 question](./Questions.md#q87)
+---
 
 ## Q88
 
-**❓ Question:** “Invisible hand” in economics:
+**Question:** “Invisible hand” in economics:
 
-**Options:**
-- (1) Self‑regulating nature of the market
-- (2) Government intervention
-- (3) Influence of monopolies
-- (4) Centralized economic planning
+**Options:** (1) Self‑regulating market (2) Government intervention (3) Monopolies (4) Central planning
 
-**🤔 What I understood:**
-- Topic used: **General Awareness — Business/Finance**
-- Goal: apply the linked topic rule clearly and map the result to the exact option.
+**Solution:**  
+Self‑regulating nature of the market.
 
-**💡 What I’ll use (repo-style):**
-- Use the exact concept/formula from the linked topic-pattern file.
+**Final answer:** (1) Self‑regulating nature of the market  
+**Topic:** [General Awareness — Business/Finance](../../29-General-Awareness/Pattern2-Business-and-Finance.md)
 
-**✏️ My Solution (actual working):**
-Step 1: Apply the linked topic rule/formula to the given data or statements.
-Step 2: Obtained/verified key result: **Einstein**
-Step 3: This directly matches option **(2)**.
-
-**✅ Final Answer: (2)**
-
-- **Answer + Explanation Link:** [Direct anchor for Q88](#q88)
-- **Exact Topic-Pattern Link:** [General Awareness — Business/Finance](../../29-General-Awareness/Pattern2-Business-and-Finance.md)
-- **Question Block Link:** [Go to Q88 question](./Questions.md#q88)
+---
 
 ## Q89
 
-**❓ Question:** Bootstrap in entrepreneurship: a. Starting without external investment, using personal finances. b. Means acquiring large venture capital for quick growth.
+**Question:** Bootstrap in entrepreneurship: a. Starting without external investment, using personal finances. b. Means acquiring large venture capital.
 
-**Options:**
-- (1) a only
-- (2) b only
-- (3) Both a and b
-- (4) Neither a nor b
+**Options:** (1) a only (2) b only (3) both (4) neither
 
-**🤔 What I understood:**
-- Topic used: **Reasoning — Blood Relations**
-- Goal: apply the linked topic rule clearly and map the result to the exact option.
+**Solution:**  
+Bootstrap = self‑funded, no external capital.
 
-**💡 What I’ll use (repo-style):**
-- Use the exact concept/formula from the linked topic-pattern file.
+**Final answer:** (1) a only  
+**Topic:** [General Awareness — Culture/Entrepreneurship/Communication](../../29-General-Awareness/Pattern5-Culture-Entrepreneurship-and-Communication.md)
 
-**✏️ My Solution (actual working):**
-Step 1: Apply the linked topic rule/formula to the given data or statements.
-Step 2: Obtained/verified key result: **Fundamental Analysis**
-Step 3: This directly matches option **(2)**.
-
-**✅ Final Answer: (2)**
-
-- **Answer + Explanation Link:** [Direct anchor for Q89](#q89)
-- **Exact Topic-Pattern Link:** [General Awareness — Culture/Entrepreneurship/Communication](../../29-General-Awareness/Pattern5-Culture-Entrepreneurship-and-Communication.md)
-- **Question Block Link:** [Go to Q89 question](./Questions.md#q89)
+---
 
 ## Q90
 
-**❓ Question:** Communication barrier due to different backgrounds/experiences is
+**Question:** Communication barrier due to different backgrounds/experiences is
 
-**Options:**
-- (1) Physical barrier
-- (2) Semantic barrier
-- (3) Psychological barrier
-- (4) Cultural barrier
+**Options:** (1) Physical (2) Semantic (3) Psychological (4) Cultural
 
-**🤔 What I understood:**
-- Topic used: **General Awareness — Culture/Entrepreneurship/Communication**
-- Goal: apply the linked topic rule clearly and map the result to the exact option.
+**Solution:**  
+Cultural barrier.
 
-**💡 What I’ll use (repo-style):**
-- Use the exact concept/formula from the linked topic-pattern file.
+**Final answer:** (4) Cultural barrier  
+**Topic:** [General Awareness — Culture/Entrepreneurship/Communication](../../29-General-Awareness/Pattern5-Culture-Entrepreneurship-and-Communication.md)
 
-**✏️ My Solution (actual working):**
-Step 1: Apply the linked topic rule/formula to the given data or statements.
-Step 2: Obtained/verified key result: **a and c only**
-Step 3: This directly matches option **(3)**.
-
-**✅ Final Answer: (3)**
-
-- **Answer + Explanation Link:** [Direct anchor for Q90](#q90)
-- **Exact Topic-Pattern Link:** [General Awareness — Culture/Entrepreneurship/Communication](../../29-General-Awareness/Pattern5-Culture-Entrepreneurship-and-Communication.md)
-- **Question Block Link:** [Go to Q90 question](./Questions.md#q90)
+---
 
 ## Q91
 
-**❓ Question:** Global health initiative to reduce child mortality and improve maternal health:
+**Question:** Global health initiative to reduce child mortality and improve maternal health:
 
-**Options:**
-- (1) Millennium Development Goals (MDGs)
-- (2) Sustainable Development Goals (SDGs)
-- (3) Health for All by 2000
-- (4) Global Health Security Agenda
+**Options:** (1) MDGs (2) SDGs (3) Health for All by 2000 (4) Global Health Security Agenda
 
-**🤔 What I understood:**
-- Topic used: **General Awareness — Science/Tech/Health**
-- Goal: apply the linked topic rule clearly and map the result to the exact option.
+**Solution:**  
+Millennium Development Goals (MDGs) included those targets.
 
-**💡 What I’ll use (repo-style):**
-- Use the exact concept/formula from the linked topic-pattern file.
+**Final answer:** (1) Millennium Development Goals (MDGs)  
+**Topic:** [General Awareness — Science/Tech/Health](../../29-General-Awareness/Pattern4-Science-Tech-and-Health.md)
 
-**✏️ My Solution (actual working):**
-Step 1: Apply the linked topic rule/formula to the given data or statements.
-Step 2: Obtained/verified key result: **Self‑regulating market**
-Step 3: This directly matches option **(1)**.
-
-**✅ Final Answer: (1)**
-
-- **Answer + Explanation Link:** [Direct anchor for Q91](#q91)
-- **Exact Topic-Pattern Link:** [General Awareness — Science/Tech/Health](../../29-General-Awareness/Pattern4-Science-Tech-and-Health.md)
-- **Question Block Link:** [Go to Q91 question](./Questions.md#q91)
+---
 
 ## Q92
 
-**❓ Question:** Which are types of financial markets? a. Stock market b. Bond market c. Real estate market d. Consumer market
+**Question:** Which are types of financial markets? a. Stock market, b. Bond market, c. Real estate market, d. Consumer market
 
-**Options:**
-- (1) a and b only
-- (2) a, b, c, d
-- (3) a and c only
-- (4) a, b, c only
+**Options:** (1) a,b only (2) a,b,c,d (3) a,c only (4) a,b,c only
 
-**🤔 What I understood:**
-- Topic used: **General Awareness — Business/Finance**
-- Goal: apply the linked topic rule clearly and map the result to the exact option.
+**Solution:**  
+Stock and bond markets are financial markets. Real estate can be, but not always classified; consumer market is not financial. Typically a,b only.
 
-**💡 What I’ll use (repo-style):**
-- Use the exact concept/formula from the linked topic-pattern file.
+**Final answer:** (1) a and b only  
+**Topic:** [General Awareness — Business/Finance](../../29-General-Awareness/Pattern2-Business-and-Finance.md)
 
-**✏️ My Solution (actual working):**
-Step 1: Apply the linked topic rule/formula to the given data or statements.
-Step 2: Obtained/verified key result: **a only**
-Step 3: This directly matches option **(1)**.
-
-**✅ Final Answer: (1)**
-
-- **Answer + Explanation Link:** [Direct anchor for Q92](#q92)
-- **Exact Topic-Pattern Link:** [General Awareness — Business/Finance](../../29-General-Awareness/Pattern2-Business-and-Finance.md)
-- **Question Block Link:** [Go to Q92 question](./Questions.md#q92)
+---
 
 ## Q93
 
-**❓ Question:** Governance statements: a. Processes and structures to direct an organisation. b. Transparency is a key principle. c. Governance is only relevant for government. d. Accountability holds authorities responsible.
+**Question:** Governance statements: a. Processes to direct organisation. b. Transparency is key. c. Only for government. d. Accountability holds responsible.
 
-**Options:**
-- (1) a and b only
-- (2) b and c only
-- (3) a, b, d only
-- (4) a, b, c, d
+**Options:** (1) a,b only (2) b,c only (3) a,b,d only (4) a,b,c,d
 
-**🤔 What I understood:**
-- Topic used: **General Awareness — Governance/Polity**
-- Goal: apply the linked topic rule clearly and map the result to the exact option.
+**Solution:**  
+a, b, d are true; c is false (governance applies to all organisations). So a,b,d only.
 
-**💡 What I’ll use (repo-style):**
-- Use the exact concept/formula from the linked topic-pattern file.
+**Final answer:** (3) a,b,d only  
+**Topic:** [General Awareness — Governance/Polity](../../29-General-Awareness/Pattern3-Governance-and-Polity.md)
 
-**✏️ My Solution (actual working):**
-Step 1: Apply the linked topic rule/formula to the given data or statements.
-Step 2: Obtained/verified key result: **Cultural barrier**
-Step 3: This directly matches option **(4)**.
-
-**✅ Final Answer: (4)**
-
-- **Answer + Explanation Link:** [Direct anchor for Q93](#q93)
-- **Exact Topic-Pattern Link:** [General Awareness — Governance/Polity](../../29-General-Awareness/Pattern3-Governance-and-Polity.md)
-- **Question Block Link:** [Go to Q93 question](./Questions.md#q93)
+---
 
 ## Q94
 
-**❓ Question:** Factors contributing to healthcare disparities: a. Socio‑economic status b. Access to services c. Cultural beliefs d. Availability of over‑the‑counter medications
+**Question:** Factors contributing to healthcare disparities: a. Socio‑economic status, b. Access to services, c. Cultural beliefs, d. Availability of OTC medications
 
-**Options:**
-- (1) a and b only
-- (2) b and c only
-- (3) a, b, c only
-- (4) a, c, d only
+**Options:** (1) a,b only (2) b,c only (3) a,b,c only (4) a,c,d only
 
-**🤔 What I understood:**
-- Topic used: **General Awareness — Business/Finance**
-- Goal: apply the linked topic rule clearly and map the result to the exact option.
+**Solution:**  
+a, b, c are major factors; d (OTC availability) is not a primary disparity factor. So a,b,c only.
 
-**💡 What I’ll use (repo-style):**
-- Use the exact concept/formula from the linked topic-pattern file.
+**Final answer:** (3) a,b,c only  
+**Topic:** [General Awareness — Science/Tech/Health](../../29-General-Awareness/Pattern4-Science-Tech-and-Health.md)
 
-**✏️ My Solution (actual working):**
-Step 1: Apply the linked topic rule/formula to the given data or statements.
-Step 2: Obtained/verified key result: **MDGs**
-Step 3: This directly matches option **(1)**.
-
-**✅ Final Answer: (1)**
-
-- **Answer + Explanation Link:** [Direct anchor for Q94](#q94)
-- **Exact Topic-Pattern Link:** [General Awareness — Science/Tech/Health](../../29-General-Awareness/Pattern4-Science-Tech-and-Health.md)
-- **Question Block Link:** [Go to Q94 question](./Questions.md#q94)
+---
 
 ## Q95
 
-**❓ Question:** P/E ratio correct statements: a. Market price ÷ EPS. b. High P/E indicates high growth expectations. c. Low P/E means stock is overvalued. d. P/E is primarily used to evaluate liquidity.
+**Question:** P/E ratio correct statements: a. Market price ÷ EPS. b. High P/E indicates high growth expectations. c. Low P/E means overvalued. d. P/E used for liquidity.
 
-**Options:**
-- (1) a only
-- (2) a and b only
-- (3) b and c only
-- (4) a, b, d only
+**Options:** (1) a only (2) a,b only (3) b,c only (4) a,b,d only
 
-**🤔 What I understood:**
-- Topic used: **Quant — Ratio and Proportion**
-- Goal: apply the linked topic rule clearly and map the result to the exact option.
+**Solution:**  
+a correct, b correct, c false (low P/E may be undervalued), d false (P/E not for liquidity). So a,b only.
 
-**💡 What I’ll use (repo-style):**
-- Use the exact concept/formula from the linked topic-pattern file.
+**Final answer:** (2) a and b only  
+**Topic:** [General Awareness — Business/Finance](../../29-General-Awareness/Pattern2-Business-and-Finance.md)
 
-**✏️ My Solution (actual working):**
-Step 1: Apply the linked topic rule/formula to the given data or statements.
-Step 2: Obtained/verified key result: **a and b only**
-Step 3: This directly matches option **(1)**.
-
-**✅ Final Answer: (1)**
-
-- **Answer + Explanation Link:** [Direct anchor for Q95](#q95)
-- **Exact Topic-Pattern Link:** [General Awareness — Business/Finance](../../29-General-Awareness/Pattern2-Business-and-Finance.md)
-- **Question Block Link:** [Go to Q95 question](./Questions.md#q95)
+---
 
 ## Q96
 
-**❓ Question:** Match economic system: a. Capitalism – i. private ownership, market‑driven b. Socialism – ii. government ownership, central planning c. Mixed Economy – iii. combination, social welfare d. Market Economy – iv. private ownership with some regulation
+**Question:** Match economic system: a. Capitalism – i. private ownership, market‑driven, b. Socialism – ii. government ownership, central planning, c. Mixed Economy – iii. combination, social welfare, d. Market Economy – iv. private ownership with some regulation
 
-**Options:**
-- (1) a‑iv; b‑ii; c‑ii; d‑iii
-- (2) a‑i; b‑ii; c‑iii; d‑iv
-- (3) a‑iii; b‑iv; c‑ii; d‑i
-- (4) a‑ii; b‑i; c‑iii; d‑iv
+**Options:** (1) a‑iv; b‑ii; c‑ii; d‑iii (2) a‑i; b‑ii; c‑iii; d‑iv (3) a‑iii; b‑iv; c‑ii; d‑i (4) a‑ii; b‑i; c‑iii; d‑iv
 
-**🤔 What I understood:**
-- Topic used: **General Awareness — Business/Finance**
-- Goal: apply the linked topic rule clearly and map the result to the exact option.
+**Solution:**  
+Capitalism = i, Socialism = ii, Mixed = iii, Market economy = iv. So a‑i, b‑ii, c‑iii, d‑iv.
 
-**💡 What I’ll use (repo-style):**
-- Use the exact concept/formula from the linked topic-pattern file.
+**Final answer:** (2)  
+**Topic:** [General Awareness — Business/Finance](../../29-General-Awareness/Pattern2-Business-and-Finance.md)
 
-**✏️ My Solution (actual working):**
-Step 1: Apply the linked topic rule/formula to the given data or statements.
-Step 2: Obtained/verified key result: **a, b, d**
-Step 3: This directly matches option **(3)**.
-
-**✅ Final Answer: (3)**
-
-- **Answer + Explanation Link:** [Direct anchor for Q96](#q96)
-- **Exact Topic-Pattern Link:** [General Awareness — Business/Finance](../../29-General-Awareness/Pattern2-Business-and-Finance.md)
-- **Question Block Link:** [Go to Q96 question](./Questions.md#q96)
+---
 
 ## Q97
 
-**❓ Question:** Market capitalization comprises: a. Share price × outstanding shares. b. Total market value of outstanding shares. c. Only relevant for privately held companies. d. Reflects company size relative to others.
+**Question:** Market capitalization comprises: a. Share price × outstanding shares. b. Total market value of outstanding shares. c. Only relevant for private companies. d. Reflects company size.
 
-**Options:**
-- (1) a only
-- (2) a, b, d only
-- (3) b and c only
-- (4) a and b only
+**Options:** (1) a only (2) a,b,d only (3) b,c only (4) a,b only
 
-**🤔 What I understood:**
-- Topic used: **General Awareness — Business/Finance**
-- Goal: apply the linked topic rule clearly and map the result to the exact option.
+**Solution:**  
+a and b are correct, c false, d true. So a,b,d.
 
-**💡 What I’ll use (repo-style):**
-- Use the exact concept/formula from the linked topic-pattern file.
+**Final answer:** (2) a,b,d only  
+**Topic:** [General Awareness — Business/Finance](../../29-General-Awareness/Pattern2-Business-and-Finance.md)
 
-**✏️ My Solution (actual working):**
-Step 1: Apply the linked topic rule/formula to the given data or statements.
-Step 2: Obtained/verified key result: **a, b, c**
-Step 3: This directly matches option **(3)**.
-
-**✅ Final Answer: (3)**
-
-- **Answer + Explanation Link:** [Direct anchor for Q97](#q97)
-- **Exact Topic-Pattern Link:** [General Awareness — Business/Finance](../../29-General-Awareness/Pattern2-Business-and-Finance.md)
-- **Question Block Link:** [Go to Q97 question](./Questions.md#q97)
+---
 
 ## Q98
 
-**❓ Question:** [Question text/options not clearly extractable from provided source]
+**Question:** [Question text/options not extractable – likely a data interpretation question]
 
-**Options:**
-- [Options not clearly extractable from provided text]
+**Final answer:** (Pending source restore)  
+**Topic:** [Quant — Data Interpretation](../../17-Data-Interpretation/Pattern1-Tables-and-Bar-Graphs.md)
 
-**🤔 What I understood:**
-- Topic used: **Quant — Data Interpretation**
-- Goal: apply the linked topic rule clearly and map the result to the exact option.
-
-**💡 What I’ll use (repo-style):**
-- Use the exact concept/formula from the linked topic-pattern file.
-
-**✏️ My Solution (actual working):**
-Step 1: Apply the linked topic rule/formula to the given data or statements.
-Step 2: Obtained/verified key result: **a and b only**
-Step 3: This directly matches option **(2)**.
-
-**✅ Final Answer: (2)**
-
-- **Answer + Explanation Link:** [Direct anchor for Q98](#q98)
-- **Exact Topic-Pattern Link:** [Quant — Data Interpretation](../../17-Data-Interpretation/Pattern1-Tables-and-Bar-Graphs.md)
-- **Question Block Link:** [Go to Q98 question](./Questions.md#q98)
+---
 
 ## Q99
 
-**❓ Question:** [Question text/options not clearly extractable from provided source]
+**Question:** [Not extractable]
 
-**Options:**
-- [Options not clearly extractable from provided text]
+**Final answer:** (Pending source restore)
 
-**🤔 What I understood:**
-- Topic used: **Quant — Data Interpretation**
-- Goal: apply the linked topic rule clearly and map the result to the exact option.
-
-**💡 What I’ll use (repo-style):**
-- Use the exact concept/formula from the linked topic-pattern file.
-
-**✏️ My Solution (actual working):**
-Step 1: Apply the linked topic rule/formula to the given data or statements.
-Step 2: Obtained/verified key result: **a‑i, b‑ii, c‑iii, d‑iv**
-Step 3: This directly matches option **(2)**.
-
-**✅ Final Answer: (2)**
-
-- **Answer + Explanation Link:** [Direct anchor for Q99](#q99)
-- **Exact Topic-Pattern Link:** [Quant — Data Interpretation](../../17-Data-Interpretation/Pattern1-Tables-and-Bar-Graphs.md)
-- **Question Block Link:** [Go to Q99 question](./Questions.md#q99)
+---
 
 ## Q100
 
-**❓ Question:** [Question text/options not clearly extractable from provided source]
+**Question:** [Not extractable]
 
-**Options:**
-- [Options not clearly extractable from provided text]
-
-**🤔 What I understood:**
-- Topic used: **Quant — Data Interpretation**
-- Goal: apply the linked topic rule clearly and map the result to the exact option.
-
-**💡 What I’ll use (repo-style):**
-- Use the exact concept/formula from the linked topic-pattern file.
-
-**✏️ My Solution (actual working):**
-Step 1: Apply the linked topic rule/formula to the given data or statements.
-Step 2: Obtained/verified key result: **a, b, d only**
-Step 3: This directly matches option **(2)**.
-
-**✅ Final Answer: (2)**
-
-- **Answer + Explanation Link:** [Direct anchor for Q100](#q100)
-- **Exact Topic-Pattern Link:** [Quant — Data Interpretation](../../17-Data-Interpretation/Pattern1-Tables-and-Bar-Graphs.md)
-- **Question Block Link:** [Go to Q100 question](./Questions.md#q100)
+**Final answer:** (Pending source restore)
