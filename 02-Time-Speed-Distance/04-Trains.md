@@ -212,7 +212,7 @@ Time = Distance ÷ Speed
 
 ## 📅 Previous Year Appearance (PGCET)
 
-- **2025:** ✅ Appeared → [Q51](../../papers-qp/2025/Questions.md#q51)
+- **2025:** ✅ Appeared → [Q51](../papers-qp/2025/Questions.md#q51)
 - **2024:** ❌ Not appeared
 - **2023:** ❌ Not appeared
 

@@ -217,7 +217,7 @@ Monthly rainfall (mm): Jan=80, Feb=60, Mar=40, Apr=20, May=10, Jun=90, Jul=150, 
 
 ## 📅 Previous Year Appearance (PGCET)
 
-- **2025:** ✅ Appeared → [Q57](../../papers-qp/2025/Questions.md#q57)
+- **2025:** ✅ Appeared → [Q57](../papers-qp/2025/Questions.md#q57)
 - **2024:** ❌ Not appeared
 - **2023:** ❌ Not appeared
 

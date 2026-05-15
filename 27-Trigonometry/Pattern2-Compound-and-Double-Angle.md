@@ -106,8 +106,8 @@ tan(45-30) = (tan45 - tan30)/(1 + tan45 tan30)
 
 ## 📅 Previous Year Appearance (PGCET)
 
-- **2025:** ✅ Appeared → [Q17](../../papers-qp/2025/Questions.md#q17), [Q19](../../papers-qp/2025/Questions.md#q19)
-- **2024:** ✅ Appeared → [Q48](../../papers-qp/2024/Questions.md#q48), [Q49](../../papers-qp/2024/Questions.md#q49), [Q50](../../papers-qp/2024/Questions.md#q50), [Q51](../../papers-qp/2024/Questions.md#q51)
-- **2023:** ✅ Appeared → [Q49](../../papers-qp/2023/Questions.md#q49), [Q50](../../papers-qp/2023/Questions.md#q50), [Q51](../../papers-qp/2023/Questions.md#q51), [Q52](../../papers-qp/2023/Questions.md#q52), [Q74](../../papers-qp/2023/Questions.md#q74)
+- **2025:** ✅ Appeared → [Q17](../papers-qp/2025/Questions.md#q17), [Q19](../papers-qp/2025/Questions.md#q19)
+- **2024:** ✅ Appeared → [Q48](../papers-qp/2024/Questions.md#q48), [Q49](../papers-qp/2024/Questions.md#q49), [Q50](../papers-qp/2024/Questions.md#q50), [Q51](../papers-qp/2024/Questions.md#q51)
+- **2023:** ✅ Appeared → [Q49](../papers-qp/2023/Questions.md#q49), [Q50](../papers-qp/2023/Questions.md#q50), [Q51](../papers-qp/2023/Questions.md#q51), [Q52](../papers-qp/2023/Questions.md#q52), [Q74](../papers-qp/2023/Questions.md#q74)
 
 > Links open the exact question in the respective year's paper for cross-reference.

@@ -23,3 +23,11 @@ This topic checks whether statements represent valid cause-effect relation or on
 3. Avoid confusion from **mere correlation**.
 4. If both events arise from a third factor, treat as **common cause**.
 5. If either statement can separately explain the event, treat as **independent causes**.
+
+## 📅 Previous Year Appearance (PGCET)
+
+- **2025:** ✅ Appeared → [Q60](../papers-qp/2025/Questions.md#q60)
+- **2024:** ❌ Not mapped in this repository to this exact topic folder
+- **2023:** ❌ Not mapped in this repository to this exact topic folder
+
+> Links open the exact question in the respective year's paper for cross-reference.

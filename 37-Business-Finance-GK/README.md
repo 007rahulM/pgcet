@@ -17,3 +17,11 @@ Each file contains quick concept notes + 2–3 PGCET-style MCQs with answers.
 - [inclusive-workplace.md](./inclusive-workplace.md)
 - [bond-valuation.md](./bond-valuation.md)
 - [ADAS.md](./ADAS.md)
+
+## 📅 Previous Year Appearance (PGCET)
+
+- **2025:** ✅ Appeared → [Q75](../papers-qp/2025/Questions.md#q75), [Q76](../papers-qp/2025/Questions.md#q76), [Q84](../papers-qp/2025/Questions.md#q84), [Q85](../papers-qp/2025/Questions.md#q85)
+- **2024:** ❌ Not mapped in this repository to this exact topic folder
+- **2023:** ❌ Not mapped in this repository to this exact topic folder
+
+> Links open the exact question in the respective year's paper for cross-reference.

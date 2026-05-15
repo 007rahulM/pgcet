@@ -76,7 +76,7 @@
 
 ## 📅 Previous Year Appearance (PGCET)
 
-- **2025:** ✅ Appeared → [Q67](../../papers-qp/2025/Questions.md#q67), [Q71](../../papers-qp/2025/Questions.md#q71), [Q72](../../papers-qp/2025/Questions.md#q72), [Q75](../../papers-qp/2025/Questions.md#q75), [Q76](../../papers-qp/2025/Questions.md#q76), [Q78](../../papers-qp/2025/Questions.md#q78), [Q79](../../papers-qp/2025/Questions.md#q79), [Q84](../../papers-qp/2025/Questions.md#q84), [Q85](../../papers-qp/2025/Questions.md#q85)
+- **2025:** ✅ Appeared → [Q67](../papers-qp/2025/Questions.md#q67), [Q71](../papers-qp/2025/Questions.md#q71), [Q72](../papers-qp/2025/Questions.md#q72), [Q75](../papers-qp/2025/Questions.md#q75), [Q76](../papers-qp/2025/Questions.md#q76), [Q78](../papers-qp/2025/Questions.md#q78), [Q79](../papers-qp/2025/Questions.md#q79), [Q84](../papers-qp/2025/Questions.md#q84), [Q85](../papers-qp/2025/Questions.md#q85)
 - **2024:** ❌ Not appeared
 - **2023:** ❌ Not appeared
 

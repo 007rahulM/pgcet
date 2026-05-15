@@ -329,8 +329,8 @@ Find the missing term or identify the wrong term:
 
 ## 📅 Previous Year Appearance (PGCET)
 
-- **2025:** ✅ Appeared → [Q63](../../papers-qp/2025/Questions.md#q63), [Q64](../../papers-qp/2025/Questions.md#q64)
-- **2024:** ✅ Appeared → [Q30](../../papers-qp/2024/Questions.md#q30)
-- **2023:** ✅ Appeared → [Q19](../../papers-qp/2023/Questions.md#q19), [Q20](../../papers-qp/2023/Questions.md#q20), [Q21](../../papers-qp/2023/Questions.md#q21), [Q23](../../papers-qp/2023/Questions.md#q23), [Q61](../../papers-qp/2023/Questions.md#q61)
+- **2025:** ✅ Appeared → [Q63](../papers-qp/2025/Questions.md#q63), [Q64](../papers-qp/2025/Questions.md#q64)
+- **2024:** ✅ Appeared → [Q30](../papers-qp/2024/Questions.md#q30)
+- **2023:** ✅ Appeared → [Q19](../papers-qp/2023/Questions.md#q19), [Q20](../papers-qp/2023/Questions.md#q20), [Q21](../papers-qp/2023/Questions.md#q21), [Q23](../papers-qp/2023/Questions.md#q23), [Q61](../papers-qp/2023/Questions.md#q61)
 
 > Links open the exact question in the respective year's paper for cross-reference.

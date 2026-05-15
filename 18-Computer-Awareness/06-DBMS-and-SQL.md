@@ -206,7 +206,7 @@ INNER JOIN Courses ON Students.CourseID = Courses.ID;
 
 ## 📅 Previous Year Appearance (PGCET)
 
-- **2025:** ✅ Appeared → [Q33](../../papers-qp/2025/Questions.md#q33)
+- **2025:** ✅ Appeared → [Q33](../papers-qp/2025/Questions.md#q33)
 - **2024:** ❌ Not appeared
 - **2023:** ❌ Not appeared
 

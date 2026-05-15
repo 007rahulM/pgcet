@@ -253,8 +253,8 @@ A alone gives X's gender and direct relation to Y, so relation **is already deci
 
 ## 📅 Previous Year Appearance (PGCET)
 
-- **2025:** ✅ Appeared → [Q49](../../papers-qp/2025/Questions.md#q49)
+- **2025:** ✅ Appeared → [Q49](../papers-qp/2025/Questions.md#q49)
 - **2024:** ❌ Not appeared
-- **2023:** ✅ Appeared → [Q18](../../papers-qp/2023/Questions.md#q18)
+- **2023:** ✅ Appeared → [Q18](../papers-qp/2023/Questions.md#q18)
 
 > Links open the exact question in the respective year's paper for cross-reference.

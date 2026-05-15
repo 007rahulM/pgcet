@@ -179,8 +179,8 @@ n(M∪S∪E) = 120 + 90 + 70 − 40 − 30 − 20 + 10 = **200** ✅
 
 ## 📅 Previous Year Appearance (PGCET)
 
-- **2025:** ✅ Appeared → [Q8](../../papers-qp/2025/Questions.md#q8)
+- **2025:** ✅ Appeared → [Q8](../papers-qp/2025/Questions.md#q8)
 - **2024:** ❌ Not appeared
-- **2023:** ✅ Appeared → [Q31](../../papers-qp/2023/Questions.md#q31), [Q73](../../papers-qp/2023/Questions.md#q73)
+- **2023:** ✅ Appeared → [Q31](../papers-qp/2023/Questions.md#q31), [Q73](../papers-qp/2023/Questions.md#q73)
 
 > Links open the exact question in the respective year's paper for cross-reference.

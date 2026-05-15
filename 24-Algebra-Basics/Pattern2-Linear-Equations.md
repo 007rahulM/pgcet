@@ -140,7 +140,7 @@ y = 36 - 22 = 14
 ## 📅 Previous Year Appearance (PGCET)
 
 - **2025:** ❌ Not appeared
-- **2024:** ✅ Appeared → [Q21](../../papers-qp/2024/Questions.md#q21)
+- **2024:** ✅ Appeared → [Q21](../papers-qp/2024/Questions.md#q21)
 - **2023:** ❌ Not appeared
 
 > Links open the exact question in the respective year's paper for cross-reference.

@@ -134,7 +134,7 @@ cosθ = (u·v) / (|u||v|)
 
 ## 📅 Previous Year Appearance (PGCET)
 
-- **2025:** ✅ Appeared → [Q6](../../papers-qp/2025/Questions.md#q6), [Q9](../../papers-qp/2025/Questions.md#q9), [Q10](../../papers-qp/2025/Questions.md#q10)
+- **2025:** ✅ Appeared → [Q6](../papers-qp/2025/Questions.md#q6), [Q9](../papers-qp/2025/Questions.md#q9), [Q10](../papers-qp/2025/Questions.md#q10)
 - **2024:** ❌ Not appeared
 - **2023:** ❌ Not appeared
 

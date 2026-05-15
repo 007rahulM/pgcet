@@ -200,8 +200,8 @@ Check if A = Aᵀ:
 
 ## 📅 Previous Year Appearance (PGCET)
 
-- **2025:** ✅ Appeared → [Q7](../../papers-qp/2025/Questions.md#q7)
+- **2025:** ✅ Appeared → [Q7](../papers-qp/2025/Questions.md#q7)
 - **2024:** ❌ Not appeared
-- **2023:** ✅ Appeared → [Q38](../../papers-qp/2023/Questions.md#q38), [Q45](../../papers-qp/2023/Questions.md#q45), [Q48](../../papers-qp/2023/Questions.md#q48)
+- **2023:** ✅ Appeared → [Q38](../papers-qp/2023/Questions.md#q38), [Q45](../papers-qp/2023/Questions.md#q45), [Q48](../papers-qp/2023/Questions.md#q48)
 
 > Links open the exact question in the respective year's paper for cross-reference.

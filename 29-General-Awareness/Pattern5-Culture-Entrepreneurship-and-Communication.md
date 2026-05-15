@@ -79,8 +79,8 @@
 
 ## 📅 Previous Year Appearance (PGCET)
 
-- **2025:** ✅ Appeared → [Q77](../../papers-qp/2025/Questions.md#q77), [Q80](../../papers-qp/2025/Questions.md#q80), [Q81](../../papers-qp/2025/Questions.md#q81), [Q82](../../papers-qp/2025/Questions.md#q82), [Q83](../../papers-qp/2025/Questions.md#q83)
-- **2024:** ✅ Appeared → [Q82](../../papers-qp/2024/Questions.md#q82), [Q84](../../papers-qp/2024/Questions.md#q84), [Q87](../../papers-qp/2024/Questions.md#q87), [Q89](../../papers-qp/2024/Questions.md#q89), [Q90](../../papers-qp/2024/Questions.md#q90)
-- **2023:** ✅ Appeared → [Q30](../../papers-qp/2023/Questions.md#q30)
+- **2025:** ✅ Appeared → [Q77](../papers-qp/2025/Questions.md#q77), [Q80](../papers-qp/2025/Questions.md#q80), [Q81](../papers-qp/2025/Questions.md#q81), [Q82](../papers-qp/2025/Questions.md#q82), [Q83](../papers-qp/2025/Questions.md#q83)
+- **2024:** ✅ Appeared → [Q82](../papers-qp/2024/Questions.md#q82), [Q84](../papers-qp/2024/Questions.md#q84), [Q87](../papers-qp/2024/Questions.md#q87), [Q89](../papers-qp/2024/Questions.md#q89), [Q90](../papers-qp/2024/Questions.md#q90)
+- **2023:** ✅ Appeared → [Q30](../papers-qp/2023/Questions.md#q30)
 
 > Links open the exact question in the respective year's paper for cross-reference.

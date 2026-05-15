@@ -194,8 +194,8 @@ Shortcut check: Loss % = 20² / 100 = 400 / 100 = 4% ✓
 
 ## 📅 Previous Year Appearance (PGCET)
 
-- **2025:** ✅ Appeared → [Q55](../../papers-qp/2025/Questions.md#q55)
-- **2024:** ✅ Appeared → [Q24](../../papers-qp/2024/Questions.md#q24)
+- **2025:** ✅ Appeared → [Q55](../papers-qp/2025/Questions.md#q55)
+- **2024:** ✅ Appeared → [Q24](../papers-qp/2024/Questions.md#q24)
 - **2023:** ❌ Not appeared
 
 > Links open the exact question in the respective year's paper for cross-reference.

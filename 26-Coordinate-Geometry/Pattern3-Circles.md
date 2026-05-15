@@ -101,7 +101,7 @@ Radius = √(2^2 + (-5)^2 - 13) = √(4 + 25 - 13) = √16 = 4
 
 ## 📅 Previous Year Appearance (PGCET)
 
-- **2025:** ✅ Appeared → [Q11](../../papers-qp/2025/Questions.md#q11)
+- **2025:** ✅ Appeared → [Q11](../papers-qp/2025/Questions.md#q11)
 - **2024:** ❌ Not appeared
 - **2023:** ❌ Not appeared
 

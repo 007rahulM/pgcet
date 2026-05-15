@@ -32,3 +32,11 @@ In data sufficiency, you decide whether statement A alone, B alone, both, or nei
    B: Letters are replaced by position numbers.  
    A alone gives all needed values for BOOK.  
    **Answer: A alone sufficient**
+
+## 📅 Previous Year Appearance (PGCET)
+
+- **2025:** ❌ Not mapped in this repository to this exact topic folder
+- **2024:** ❌ Not mapped in this repository to this exact topic folder
+- **2023:** ❌ Not mapped in this repository to this exact topic folder
+
+> Links open the exact question in the respective year's paper for cross-reference.

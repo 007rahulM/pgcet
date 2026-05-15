@@ -64,7 +64,7 @@
 
 ## 📅 Previous Year Appearance (PGCET)
 
-- **2025:** ✅ Appeared → [Q60](../../papers-qp/2025/Questions.md#q60)
+- **2025:** ✅ Appeared → [Q60](../papers-qp/2025/Questions.md#q60)
 - **2024:** ❌ Not appeared
 - **2023:** ❌ Not appeared
 

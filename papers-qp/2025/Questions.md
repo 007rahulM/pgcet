@@ -56,7 +56,7 @@ Each question includes two required links:
 - (4) 60
 
 - **Answer + Explanation Link:** [Open Q4 answer](./Answers-Detailed.md#q4)
-- **Exact Topic-Pattern Link:** [Algebra — Progressions/Binomial](../../24-Algebra-Basics/Pattern4-Progressions-and-Binomial.md)
+- **Exact Topic-Pattern Link:** [Binomial Expansion — Core](../../33-Binomial-Expansion/README.md)
 
 ## Q5
 
@@ -82,7 +82,7 @@ Each question includes two required links:
 - (4) 81
 
 - **Answer + Explanation Link:** [Open Q6 answer](./Answers-Detailed.md#q6)
-- **Exact Topic-Pattern Link:** [Coordinate Geometry — Lines/Distance/3D Basics](../../26-Coordinate-Geometry/Pattern2-Lines-and-Distance.md)
+- **Exact Topic-Pattern Link:** [3D Geometry — Angle Between Lines](../../34-3D-Geometry/README.md)
 
 ## Q7
 
@@ -121,7 +121,7 @@ Each question includes two required links:
 - (4) 0
 
 - **Answer + Explanation Link:** [Open Q9 answer](./Answers-Detailed.md#q9)
-- **Exact Topic-Pattern Link:** [Coordinate Geometry — Lines/Distance/3D Basics](../../26-Coordinate-Geometry/Pattern2-Lines-and-Distance.md)
+- **Exact Topic-Pattern Link:** [3D Geometry — Angle Between Lines](../../34-3D-Geometry/README.md)
 
 ## Q10
 
@@ -134,7 +134,7 @@ Each question includes two required links:
 - (4) (2, 2, 2)
 
 - **Answer + Explanation Link:** [Open Q10 answer](./Answers-Detailed.md#q10)
-- **Exact Topic-Pattern Link:** [Coordinate Geometry — Lines/Distance/3D Basics](../../26-Coordinate-Geometry/Pattern2-Lines-and-Distance.md)
+- **Exact Topic-Pattern Link:** [3D Geometry — Midpoint in 3D](../../34-3D-Geometry/README.md)
 
 ## Q11
 
@@ -807,7 +807,7 @@ Each question includes two required links:
 - (4) Both statements A and B are effects of some common cause
 
 - **Answer + Explanation Link:** [Open Q60 answer](./Answers-Detailed.md#q60)
-- **Exact Topic-Pattern Link:** [Reasoning — Cause and Effect](../../22-Mathematical-Logic/Pattern3-Cause-and-Effect.md)
+- **Exact Topic-Pattern Link:** [Cause and Effect Reasoning — Practice](../../35-Cause-and-Effect-Reasoning/README.md)
 
 ## Q61
 
@@ -833,7 +833,7 @@ Each question includes two required links:
 - (4) 55 years
 
 - **Answer + Explanation Link:** [Open Q62 answer](./Answers-Detailed.md#q62)
-- **Exact Topic-Pattern Link:** [Algebra — Core](../../24-Algebra-Basics/Pattern1-Core-Algebra.md)
+- **Exact Topic-Pattern Link:** [Problems on Ages — Sum of Ages](../../36-Problems-on-Ages/README.md)
 
 ## Q63
 
@@ -898,7 +898,7 @@ Each question includes two required links:
 - (4) The commission fee for executing the trade
 
 - **Answer + Explanation Link:** [Open Q67 answer](./Answers-Detailed.md#q67)
-- **Exact Topic-Pattern Link:** [General Awareness — 2025 Emerging Terms](../../29-General-Awareness/Pattern6-2025-Emerging-Terms.md)
+- **Exact Topic-Pattern Link:** [Business-Finance GK — Strike Price](../../37-Business-Finance-GK/strike-price.md)
 
 ## Q68
 
@@ -911,7 +911,7 @@ Each question includes two required links:
 - (4) i, ii, iii and iv
 
 - **Answer + Explanation Link:** [Open Q68 answer](./Answers-Detailed.md#q68)
-- **Exact Topic-Pattern Link:** [General Awareness — Business/Finance](../../29-General-Awareness/Pattern2-Business-and-Finance.md)
+- **Exact Topic-Pattern Link:** [Business-Finance GK — Competitive Advantage](../../37-Business-Finance-GK/competitive-advantage.md)
 
 ## Q69
 
@@ -924,7 +924,7 @@ Each question includes two required links:
 - (4) Only i, iv and v
 
 - **Answer + Explanation Link:** [Open Q69 answer](./Answers-Detailed.md#q69)
-- **Exact Topic-Pattern Link:** [General Awareness — Business/Finance](../../29-General-Awareness/Pattern2-Business-and-Finance.md)
+- **Exact Topic-Pattern Link:** [Business-Finance GK — Sector-Company Matching](../../37-Business-Finance-GK/sector-company-matching.md)
 
 ## Q70
 
@@ -941,7 +941,7 @@ Each question includes two required links:
 - (4) b, c and d
 
 - **Answer + Explanation Link:** [Open Q70 answer](./Answers-Detailed.md#q70)
-- **Exact Topic-Pattern Link:** [General Awareness — Business/Finance](../../29-General-Awareness/Pattern2-Business-and-Finance.md)
+- **Exact Topic-Pattern Link:** [Business-Finance GK — Economic Conditions](../../37-Business-Finance-GK/economic-conditions.md)
 
 ## Q71
 
@@ -954,7 +954,7 @@ Each question includes two required links:
 - (4) The leasing of foreign transport vessel for domestic use
 
 - **Answer + Explanation Link:** [Open Q71 answer](./Answers-Detailed.md#q71)
-- **Exact Topic-Pattern Link:** [General Awareness — 2025 Emerging Terms](../../29-General-Awareness/Pattern6-2025-Emerging-Terms.md)
+- **Exact Topic-Pattern Link:** [Business-Finance GK — Cabotage](../../37-Business-Finance-GK/cabotage.md)
 
 ## Q72
 
@@ -971,7 +971,7 @@ Each question includes two required links:
 - (4) d only
 
 - **Answer + Explanation Link:** [Open Q72 answer](./Answers-Detailed.md#q72)
-- **Exact Topic-Pattern Link:** [General Awareness — 2025 Emerging Terms](../../29-General-Awareness/Pattern6-2025-Emerging-Terms.md)
+- **Exact Topic-Pattern Link:** [Business-Finance GK — NCTE Functions](../../37-Business-Finance-GK/NCTE-functions.md)
 
 ## Q73
 
@@ -984,7 +984,7 @@ Each question includes two required links:
 - (4) Tamil Nadu
 
 - **Answer + Explanation Link:** [Open Q73 answer](./Answers-Detailed.md#q73)
-- **Exact Topic-Pattern Link:** [General Awareness — Core](../../29-General-Awareness/Pattern1-General-Awareness.md)
+- **Exact Topic-Pattern Link:** [Business-Finance GK — Xiaomi and Foxconn](../../37-Business-Finance-GK/xiaomi-foxconn.md)
 
 ## Q74
 
@@ -1001,7 +1001,7 @@ Each question includes two required links:
 - (4) a, b and c
 
 - **Answer + Explanation Link:** [Open Q74 answer](./Answers-Detailed.md#q74)
-- **Exact Topic-Pattern Link:** [General Awareness — Science/Tech/Health](../../29-General-Awareness/Pattern4-Science-Tech-and-Health.md)
+- **Exact Topic-Pattern Link:** [Business-Finance GK — Vitamins](../../37-Business-Finance-GK/vitamins.md)
 
 ## Q75
 
@@ -1014,7 +1014,7 @@ Each question includes two required links:
 - (4) Rs. Four Lakhs
 
 - **Answer + Explanation Link:** [Open Q75 answer](./Answers-Detailed.md#q75)
-- **Exact Topic-Pattern Link:** [General Awareness — 2025 Emerging Terms](../../29-General-Awareness/Pattern6-2025-Emerging-Terms.md)
+- **Exact Topic-Pattern Link:** [Business-Finance GK — PMSBY](../../37-Business-Finance-GK/PMSBY.md)
 
 ## Q76
 
@@ -1029,7 +1029,7 @@ Each question includes two required links:
 - (4) Neither a nor b
 
 - **Answer + Explanation Link:** [Open Q76 answer](./Answers-Detailed.md#q76)
-- **Exact Topic-Pattern Link:** [General Awareness — 2025 Emerging Terms](../../29-General-Awareness/Pattern6-2025-Emerging-Terms.md)
+- **Exact Topic-Pattern Link:** [Business-Finance GK — Health Belief Model](../../37-Business-Finance-GK/Health-Belief-Model.md)
 
 ## Q77
 
@@ -1042,7 +1042,7 @@ Each question includes two required links:
 - (4) Operational efficiency
 
 - **Answer + Explanation Link:** [Open Q77 answer](./Answers-Detailed.md#q77)
-- **Exact Topic-Pattern Link:** [General Awareness — Culture/Entrepreneurship/Communication](../../29-General-Awareness/Pattern5-Culture-Entrepreneurship-and-Communication.md)
+- **Exact Topic-Pattern Link:** [Business-Finance GK — Entrepreneurship](../../37-Business-Finance-GK/entrepreneurship.md)
 
 ## Q78
 
@@ -1055,7 +1055,7 @@ Each question includes two required links:
 - (4) Negotiate
 
 - **Answer + Explanation Link:** [Open Q78 answer](./Answers-Detailed.md#q78)
-- **Exact Topic-Pattern Link:** [General Awareness — 2025 Emerging Terms](../../29-General-Awareness/Pattern6-2025-Emerging-Terms.md)
+- **Exact Topic-Pattern Link:** [Business-Finance GK — LEARN Model](../../37-Business-Finance-GK/LEARN-model.md)
 
 ## Q79
 
@@ -1072,7 +1072,7 @@ Each question includes two required links:
 - (4) b, c and e
 
 - **Answer + Explanation Link:** [Open Q79 answer](./Answers-Detailed.md#q79)
-- **Exact Topic-Pattern Link:** [General Awareness — 2025 Emerging Terms](../../29-General-Awareness/Pattern6-2025-Emerging-Terms.md)
+- **Exact Topic-Pattern Link:** [Business-Finance GK — Inclusive Workplace](../../37-Business-Finance-GK/inclusive-workplace.md)
 
 ## Q80
 
@@ -1153,7 +1153,7 @@ Each question includes two required links:
 - (4) b, c and d
 
 - **Answer + Explanation Link:** [Open Q84 answer](./Answers-Detailed.md#q84)
-- **Exact Topic-Pattern Link:** [General Awareness — 2025 Emerging Terms](../../29-General-Awareness/Pattern6-2025-Emerging-Terms.md)
+- **Exact Topic-Pattern Link:** [Business-Finance GK — Bond Valuation](../../37-Business-Finance-GK/bond-valuation.md)
 
 ## Q85
 
@@ -1166,7 +1166,7 @@ Each question includes two required links:
 - (4) Ultrasonic sensors
 
 - **Answer + Explanation Link:** [Open Q85 answer](./Answers-Detailed.md#q85)
-- **Exact Topic-Pattern Link:** [General Awareness — 2025 Emerging Terms](../../29-General-Awareness/Pattern6-2025-Emerging-Terms.md)
+- **Exact Topic-Pattern Link:** [Business-Finance GK — ADAS](../../37-Business-Finance-GK/ADAS.md)
 
 ## Q86
 

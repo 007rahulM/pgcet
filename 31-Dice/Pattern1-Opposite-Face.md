@@ -184,7 +184,7 @@ Step 1: Back = opposite of front = 7 − 2 = **5**
 
 ## 📅 Previous Year Appearance (PGCET)
 
-- **2025:** ✅ Appeared → [Q61](../../papers-qp/2025/Questions.md#q61)
+- **2025:** ✅ Appeared → [Q61](../papers-qp/2025/Questions.md#q61)
 - **2024:** ❌ Not appeared
 - **2023:** ❌ Not appeared
 

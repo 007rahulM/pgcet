@@ -184,8 +184,8 @@ A network is a group of computers connected to **share resources and communicate
 
 ## 📅 Previous Year Appearance (PGCET)
 
-- **2025:** ✅ Appeared → [Q32](../../papers-qp/2025/Questions.md#q32)
+- **2025:** ✅ Appeared → [Q32](../papers-qp/2025/Questions.md#q32)
 - **2024:** ❌ Not appeared
-- **2023:** ✅ Appeared → [Q7](../../papers-qp/2023/Questions.md#q7), [Q59](../../papers-qp/2023/Questions.md#q59)
+- **2023:** ✅ Appeared → [Q7](../papers-qp/2023/Questions.md#q7), [Q59](../papers-qp/2023/Questions.md#q59)
 
 > Links open the exact question in the respective year's paper for cross-reference.

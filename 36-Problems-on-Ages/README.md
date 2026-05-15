@@ -32,3 +32,11 @@ Age problems in PGCET are solved with linear equations using present age as vari
    Let daughter \(=d\), mother \(=d+24\).  
    \(d+30=2(d+6)\Rightarrow d=18\), mother \(=42\).  
    **Answer: Daughter 18, Mother 42**
+
+## 📅 Previous Year Appearance (PGCET)
+
+- **2025:** ✅ Appeared → [Q62](../papers-qp/2025/Questions.md#q62)
+- **2024:** ❌ Not mapped in this repository to this exact topic folder
+- **2023:** ❌ Not mapped in this repository to this exact topic folder
+
+> Links open the exact question in the respective year's paper for cross-reference.

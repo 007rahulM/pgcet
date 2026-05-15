@@ -196,7 +196,7 @@ Step 2: At 2 hours 27 3/11 minutes, the hands are at 90°.
 
 ## 📅 Previous Year Appearance (PGCET)
 
-- **2025:** ✅ Appeared → [Q56](../../papers-qp/2025/Questions.md#q56)
+- **2025:** ✅ Appeared → [Q56](../papers-qp/2025/Questions.md#q56)
 - **2024:** ❌ Not appeared
 - **2023:** ❌ Not appeared
 

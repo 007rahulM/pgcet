@@ -176,8 +176,8 @@ Step 4: % increase Jan→Mar = (9000−8000)/8000 × 100 = 1000/8000 × 100 = **
 
 ## 📅 Previous Year Appearance (PGCET)
 
-- **2025:** ✅ Appeared → [Q58](../../papers-qp/2025/Questions.md#q58)
-- **2024:** ✅ Appeared → [Q98](../../papers-qp/2024/Questions.md#q98), [Q99](../../papers-qp/2024/Questions.md#q99), [Q100](../../papers-qp/2024/Questions.md#q100)
-- **2023:** ✅ Appeared → [Q76](../../papers-qp/2023/Questions.md#q76), [Q77](../../papers-qp/2023/Questions.md#q77), [Q78](../../papers-qp/2023/Questions.md#q78), [Q79](../../papers-qp/2023/Questions.md#q79), [Q80](../../papers-qp/2023/Questions.md#q80)
+- **2025:** ✅ Appeared → [Q58](../papers-qp/2025/Questions.md#q58)
+- **2024:** ✅ Appeared → [Q98](../papers-qp/2024/Questions.md#q98), [Q99](../papers-qp/2024/Questions.md#q99), [Q100](../papers-qp/2024/Questions.md#q100)
+- **2023:** ✅ Appeared → [Q76](../papers-qp/2023/Questions.md#q76), [Q77](../papers-qp/2023/Questions.md#q77), [Q78](../papers-qp/2023/Questions.md#q78), [Q79](../papers-qp/2023/Questions.md#q79), [Q80](../papers-qp/2023/Questions.md#q80)
 
 > Links open the exact question in the respective year's paper for cross-reference.

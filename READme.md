@@ -41,9 +41,11 @@ Every topic includes:
 | 8 | Number System (HCF, LCM) | [08-Number-System](./08-Number-System/) | 2–3 Qs |
 | 9 | Permutation & Combination | [09-Permutation-Combination](./09-Permutation-Combination/) | 2–3 Qs |
 | 10 | Probability | [10-Probability](./10-Probability/) | 2–3 Qs |
+| 10a | Binomial Expansion | [33-Binomial-Expansion](./33-Binomial-Expansion/) | 1–2 Qs |
 | 11 | Algebra Basics (identities, equations, logs, progressions) | [24-Algebra-Basics](./24-Algebra-Basics/) | 3–5 Qs |
 | 12 | Quadratic Equations | [25-Quadratic-Equations](./25-Quadratic-Equations/) | 2–4 Qs |
 | 13 | Coordinate Geometry | [26-Coordinate-Geometry](./26-Coordinate-Geometry/) | 3–4 Qs |
+| 13a | 3D Geometry | [34-3D-Geometry](./34-3D-Geometry/) | 1–2 Qs |
 | 14 | Trigonometry | [27-Trigonometry](./27-Trigonometry/) | 2–3 Qs |
 | 15 | Boolean Algebra | [28-Boolean-Algebra](./28-Boolean-Algebra/) | 1–3 Qs |
 | 19 | Statistics (Mean, SD, Variance) | [19-Statistics](./19-Statistics/) | 2–3 Qs |
@@ -77,6 +79,9 @@ Every topic includes:
 | 16 | Direction Sense | [16-Direction-Sense](./16-Direction-Sense/) | 2–3 Qs |
 | 17 | Data Interpretation | [17-Data-Interpretation](./17-Data-Interpretation/) | 3–4 Qs |
 | 17a | Counting Figures (Triangles/Squares) | [30-Counting-Figures](./30-Counting-Figures/) | 1–2 Qs |
+| 17b | Cause and Effect Reasoning | [35-Cause-and-Effect-Reasoning](./35-Cause-and-Effect-Reasoning/) | 1–2 Qs |
+| 17c | Problems on Ages | [36-Problems-on-Ages](./36-Problems-on-Ages/) | 1–2 Qs |
+| 17d | Data Sufficiency | [38-Data-Sufficiency](./38-Data-Sufficiency/) | 1–2 Qs |
 | 31 | Dice (Opposite Face & Multi-View) | [31-Dice](./31-Dice/) | 1–2 Qs |
 | 32 | Clocks (Angle & Coincidence) | [32-Clocks](./32-Clocks/) | 1–2 Qs |
 | 33 | Calendar (Day After N Days, Odd Days, Next Date) | [33-Calendar](./33-Calendar/) | 1–2 Qs |
@@ -86,6 +91,7 @@ Every topic includes:
 | # | Topic | Folder | Exam Weight |
 |---|-------|--------|------------|
 | 18 | Business, Finance, Industry, Governance, Healthcare, Culture | [29-General-Awareness](./29-General-Awareness/) | Varies |
+| 18a | Business & Finance GK (term-wise MCQs) | [37-Business-Finance-GK](./37-Business-Finance-GK/) | 2–5 Qs |
 
 ### 📝 General English
 

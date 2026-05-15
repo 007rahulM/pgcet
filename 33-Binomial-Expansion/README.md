@@ -39,3 +39,11 @@ Binomial expansion questions in PGCET usually test formula use, middle/general t
    Number of terms = 9, middle = 5th term \((r=4)\).  
    \(T_5={8\choose4}x^{8-8}=70\).  
    **Answer: 70**
+
+## 📅 Previous Year Appearance (PGCET)
+
+- **2025:** ✅ Appeared → [Q4](../papers-qp/2025/Questions.md#q4)
+- **2024:** ❌ Not mapped in this repository to this exact topic folder
+- **2023:** ✅ Appeared → [Q30](../papers-qp/2023/Questions.md#q30)
+
+> Links open the exact question in the respective year's paper for cross-reference.

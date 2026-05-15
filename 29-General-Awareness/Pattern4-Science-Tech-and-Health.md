@@ -69,8 +69,8 @@
 
 ## 📅 Previous Year Appearance (PGCET)
 
-- **2025:** ✅ Appeared → [Q74](../../papers-qp/2025/Questions.md#q74)
-- **2024:** ✅ Appeared → [Q85](../../papers-qp/2024/Questions.md#q85), [Q91](../../papers-qp/2024/Questions.md#q91), [Q94](../../papers-qp/2024/Questions.md#q94)
+- **2025:** ✅ Appeared → [Q74](../papers-qp/2025/Questions.md#q74)
+- **2024:** ✅ Appeared → [Q85](../papers-qp/2024/Questions.md#q85), [Q91](../papers-qp/2024/Questions.md#q91), [Q94](../papers-qp/2024/Questions.md#q94)
 - **2023:** ❌ Not appeared
 
 > Links open the exact question in the respective year's paper for cross-reference.

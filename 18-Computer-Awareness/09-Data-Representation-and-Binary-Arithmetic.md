@@ -99,8 +99,8 @@ Similar to decimal long division; subtract shifted divisor step by step.
 
 ## 📅 Previous Year Appearance (PGCET)
 
-- **2025:** ✅ Appeared → [Q34](../../papers-qp/2025/Questions.md#q34), [Q36](../../papers-qp/2025/Questions.md#q36), [Q38](../../papers-qp/2025/Questions.md#q38), [Q39](../../papers-qp/2025/Questions.md#q39), [Q40](../../papers-qp/2025/Questions.md#q40)
-- **2024:** ✅ Appeared → [Q59](../../papers-qp/2024/Questions.md#q59), [Q68](../../papers-qp/2024/Questions.md#q68), [Q69](../../papers-qp/2024/Questions.md#q69), [Q70](../../papers-qp/2024/Questions.md#q70), [Q71](../../papers-qp/2024/Questions.md#q71), [Q72](../../papers-qp/2024/Questions.md#q72)
+- **2025:** ✅ Appeared → [Q34](../papers-qp/2025/Questions.md#q34), [Q36](../papers-qp/2025/Questions.md#q36), [Q38](../papers-qp/2025/Questions.md#q38), [Q39](../papers-qp/2025/Questions.md#q39), [Q40](../papers-qp/2025/Questions.md#q40)
+- **2024:** ✅ Appeared → [Q59](../papers-qp/2024/Questions.md#q59), [Q68](../papers-qp/2024/Questions.md#q68), [Q69](../papers-qp/2024/Questions.md#q69), [Q70](../papers-qp/2024/Questions.md#q70), [Q71](../papers-qp/2024/Questions.md#q71), [Q72](../papers-qp/2024/Questions.md#q72)
 - **2023:** ❌ Not appeared
 
 > Links open the exact question in the respective year's paper for cross-reference.

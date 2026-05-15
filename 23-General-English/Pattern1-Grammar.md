@@ -156,8 +156,8 @@
 
 ## 📅 Previous Year Appearance (PGCET)
 
-- **2025:** ✅ Appeared → [Q91](../../papers-qp/2025/Questions.md#q91), [Q92](../../papers-qp/2025/Questions.md#q92), [Q93](../../papers-qp/2025/Questions.md#q93), [Q94](../../papers-qp/2025/Questions.md#q94), [Q95](../../papers-qp/2025/Questions.md#q95)
-- **2024:** ✅ Appeared → [Q5](../../papers-qp/2024/Questions.md#q5)
-- **2023:** ✅ Appeared → [Q36](../../papers-qp/2023/Questions.md#q36), [Q67](../../papers-qp/2023/Questions.md#q67)
+- **2025:** ✅ Appeared → [Q91](../papers-qp/2025/Questions.md#q91), [Q92](../papers-qp/2025/Questions.md#q92), [Q93](../papers-qp/2025/Questions.md#q93), [Q94](../papers-qp/2025/Questions.md#q94), [Q95](../papers-qp/2025/Questions.md#q95)
+- **2024:** ✅ Appeared → [Q5](../papers-qp/2024/Questions.md#q5)
+- **2023:** ✅ Appeared → [Q36](../papers-qp/2023/Questions.md#q36), [Q67](../papers-qp/2023/Questions.md#q67)
 
 > Links open the exact question in the respective year's paper for cross-reference.

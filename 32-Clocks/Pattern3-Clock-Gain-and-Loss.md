@@ -64,6 +64,6 @@ So here:
 
 - **2025:** ❌ Not appeared
 - **2024:** ❌ Not appeared
-- **2023:** ✅ Appeared → [Q62](../../papers-qp/2023/Questions.md#q62)
+- **2023:** ✅ Appeared → [Q62](../papers-qp/2023/Questions.md#q62)
 
 > Links open the exact question in the respective year's paper for cross-reference.

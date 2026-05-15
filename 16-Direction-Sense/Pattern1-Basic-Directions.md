@@ -221,6 +221,6 @@ Facing East + turn left (counterclockwise 90°) = North
 
 - **2025:** ❌ Not appeared
 - **2024:** ❌ Not appeared
-- **2023:** ✅ Appeared → [Q17](../../papers-qp/2023/Questions.md#q17), [Q64](../../papers-qp/2023/Questions.md#q64), [Q66](../../papers-qp/2023/Questions.md#q66)
+- **2023:** ✅ Appeared → [Q17](../papers-qp/2023/Questions.md#q17), [Q64](../papers-qp/2023/Questions.md#q64), [Q66](../papers-qp/2023/Questions.md#q66)
 
 > Links open the exact question in the respective year's paper for cross-reference.

@@ -158,7 +158,7 @@ A **proposition** is a statement that is either **TRUE (T)** or **FALSE (F)**.
 ## 📅 Previous Year Appearance (PGCET)
 
 - **2025:** ❌ Not appeared
-- **2024:** ✅ Appeared → [Q18](../../papers-qp/2024/Questions.md#q18)
-- **2023:** ✅ Appeared → [Q22](../../papers-qp/2023/Questions.md#q22)
+- **2024:** ✅ Appeared → [Q18](../papers-qp/2024/Questions.md#q18)
+- **2023:** ✅ Appeared → [Q22](../papers-qp/2023/Questions.md#q22)
 
 > Links open the exact question in the respective year's paper for cross-reference.

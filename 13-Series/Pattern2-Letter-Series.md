@@ -328,8 +328,8 @@ Step 3: Apply and convert back
 
 ## 📅 Previous Year Appearance (PGCET)
 
-- **2025:** ✅ Appeared → [Q65](../../papers-qp/2025/Questions.md#q65)
+- **2025:** ✅ Appeared → [Q65](../papers-qp/2025/Questions.md#q65)
 - **2024:** ❌ Not appeared
-- **2023:** ✅ Appeared → [Q40](../../papers-qp/2023/Questions.md#q40), [Q42](../../papers-qp/2023/Questions.md#q42), [Q68](../../papers-qp/2023/Questions.md#q68), [Q72](../../papers-qp/2023/Questions.md#q72)
+- **2023:** ✅ Appeared → [Q40](../papers-qp/2023/Questions.md#q40), [Q42](../papers-qp/2023/Questions.md#q42), [Q68](../papers-qp/2023/Questions.md#q68), [Q72](../papers-qp/2023/Questions.md#q72)
 
 > Links open the exact question in the respective year's paper for cross-reference.

@@ -224,7 +224,7 @@ So **B alone is sufficient**.
 
 ## 📅 Previous Year Appearance (PGCET)
 
-- **2025:** ✅ Appeared → [Q50](../../papers-qp/2025/Questions.md#q50)
+- **2025:** ✅ Appeared → [Q50](../papers-qp/2025/Questions.md#q50)
 - **2024:** ❌ Not appeared
 - **2023:** ❌ Not appeared
 

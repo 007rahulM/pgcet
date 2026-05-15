@@ -172,7 +172,7 @@ x² - x - 6 = 0
 
 ## 📅 Previous Year Appearance (PGCET)
 
-- **2025:** ✅ Appeared → [Q2](../../papers-qp/2025/Questions.md#q2)
+- **2025:** ✅ Appeared → [Q2](../papers-qp/2025/Questions.md#q2)
 - **2024:** ❌ Not appeared
 - **2023:** ❌ Not appeared
 

@@ -96,8 +96,8 @@ distance = 12/√3 = 4√3 m
 
 ## 📅 Previous Year Appearance (PGCET)
 
-- **2025:** ✅ Appeared → [Q52](../../papers-qp/2025/Questions.md#q52)
-- **2024:** ✅ Appeared → [Q31](../../papers-qp/2024/Questions.md#q31)
+- **2025:** ✅ Appeared → [Q52](../papers-qp/2025/Questions.md#q52)
+- **2024:** ✅ Appeared → [Q31](../papers-qp/2024/Questions.md#q31)
 - **2023:** ❌ Not appeared
 
 > Links open the exact question in the respective year's paper for cross-reference.

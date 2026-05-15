@@ -208,8 +208,8 @@ Term with x²: C(4,2) x² 2^2 = 6 × 4 = 24
 
 ## 📅 Previous Year Appearance (PGCET)
 
-- **2025:** ✅ Appeared → [Q62](../../papers-qp/2025/Questions.md#q62)
+- **2025:** ✅ Appeared → [Q62](../papers-qp/2025/Questions.md#q62)
 - **2024:** ❌ Not appeared
-- **2023:** ✅ Appeared → [Q69](../../papers-qp/2023/Questions.md#q69)
+- **2023:** ✅ Appeared → [Q69](../papers-qp/2023/Questions.md#q69)
 
 > Links open the exact question in the respective year's paper for cross-reference.

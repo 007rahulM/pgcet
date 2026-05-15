@@ -158,7 +158,7 @@ A·(A + B) = A  (Absorption)
 
 ## 📅 Previous Year Appearance (PGCET)
 
-- **2025:** ✅ Appeared → [Q27](../../papers-qp/2025/Questions.md#q27)
+- **2025:** ✅ Appeared → [Q27](../papers-qp/2025/Questions.md#q27)
 - **2024:** ❌ Not appeared
 - **2023:** ❌ Not appeared
 

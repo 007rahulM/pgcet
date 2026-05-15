@@ -193,7 +193,7 @@ Step 2: Apply formula
 
 ## 📅 Previous Year Appearance (PGCET)
 
-- **2025:** ✅ Appeared → [Q5](../../papers-qp/2025/Questions.md#q5)
+- **2025:** ✅ Appeared → [Q5](../papers-qp/2025/Questions.md#q5)
 - **2024:** ❌ Not appeared
 - **2023:** ❌ Not appeared
 

@@ -35,3 +35,11 @@ PGCET 3D geometry asks direct formula application: distance, midpoint, direction
    \(\cos\theta=\frac{1\cdot2+2\cdot1+2\cdot2}{\sqrt9\sqrt9}=\frac{8}{9}\).  
    \(\theta=\cos^{-1}(8/9)\approx27.27^\circ\).  
    **Answer: \(\cos^{-1}(8/9)\)**
+
+## 📅 Previous Year Appearance (PGCET)
+
+- **2025:** ✅ Appeared → [Q9](../papers-qp/2025/Questions.md#q9), [Q10](../papers-qp/2025/Questions.md#q10)
+- **2024:** ❌ Not mapped in this repository to this exact topic folder
+- **2023:** ❌ Not mapped in this repository to this exact topic folder
+
+> Links open the exact question in the respective year's paper for cross-reference.

@@ -188,7 +188,7 @@ Milk : Water = 9 : 7 = **9:7**
 
 ## 📅 Previous Year Appearance (PGCET)
 
-- **2025:** ✅ Appeared → [Q66](../../papers-qp/2025/Questions.md#q66)
+- **2025:** ✅ Appeared → [Q66](../papers-qp/2025/Questions.md#q66)
 - **2024:** ❌ Not appeared
 - **2023:** ❌ Not appeared
 

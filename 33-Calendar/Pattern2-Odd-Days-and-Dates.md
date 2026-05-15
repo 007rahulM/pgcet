@@ -241,7 +241,7 @@ Step 2: 1 March + 3 days = **4 March 2026**
 ## 📅 Previous Year Appearance (PGCET)
 
 - **2025:** ❌ Not appeared
-- **2024:** ✅ Appeared → [Q29](../../papers-qp/2024/Questions.md#q29)
-- **2023:** ✅ Appeared → [Q63](../../papers-qp/2023/Questions.md#q63)
+- **2024:** ✅ Appeared → [Q29](../papers-qp/2024/Questions.md#q29)
+- **2023:** ✅ Appeared → [Q63](../papers-qp/2023/Questions.md#q63)
 
 > Links open the exact question in the respective year's paper for cross-reference.
