@@ -956,11 +956,41 @@ Step 3: This directly matches option **(D)**.
 - Use the exact concept/formula from the linked topic-pattern file.
 
 **✏️ My Solution (actual working):**
-Step 1: Apply the linked topic rule/formula to the given data or statements.
-Step 2: Obtained/verified key result: **Pulled through = recovered.**
-Step 3: This directly matches option **(A)**.
+Step 1: Write \(A'\) (transpose of \(A\)):
+\[
+A'=\begin{bmatrix}
+\cos\alpha & -\sin\alpha\\
+\sin\alpha & \cos\alpha
+\end{bmatrix}
+\]
 
-**✅ Final Answer: (A)**
+Step 2: Multiply \(AA'\):
+\[
+AA'=
+\begin{bmatrix}
+\cos\alpha & \sin\alpha\\
+-\sin\alpha & \cos\alpha
+\end{bmatrix}
+\begin{bmatrix}
+\cos\alpha & -\sin\alpha\\
+\sin\alpha & \cos\alpha
+\end{bmatrix}
+=
+\begin{bmatrix}
+\cos^2\alpha+\sin^2\alpha & 0\\
+0 & \sin^2\alpha+\cos^2\alpha
+\end{bmatrix}
+=
+\begin{bmatrix}
+1 & 0\\
+0 & 1
+\end{bmatrix}
+=I
+\]
+
+Step 3: So \(AA' = I\), which matches option **(B)**.
+
+**✅ Final Answer: (B)**
 
 - **Answer + Explanation Link:** [Direct anchor for Q38](#q38)
 - **Exact Topic-Pattern Link:** [Matrices — Determinants and Operations](../../21-Matrices-and-Determinants/Pattern1-Matrix-Types-and-Operations.md)
