@@ -1,6 +1,19 @@
-### Time, Speed and Distance
+### Time Speed Distance
+
+#### ✅ Universal Shortcut (if exists)
+- **Description**: No single elimination trick reliably solves every problem in this full topic.
+- **Mathematical Reason**: This topic contains multiple sub-patterns with different governing formulas/logic, so one invariant test does not hold for all questions.
+- **How to apply in 10 seconds**: First identify the pattern type from the question stem, then apply that pattern's fastest method.
+- **Proof with 3 different problems from this repo**:
+    - Not applicable as one universal trick does not consistently solve all sub-patterns in this topic.
 
 #### ❌ No Universal Shortcut (if none exists)
 - **State clearly**: "No single trick works for all problems in this topic."
-- **Best practical method**: Convert everything to one unit first, then apply D=ST and relative speed where needed.
-- **Verification tip**: Computed time or speed must stay positive and match direction context.
+- **Best practical method**: Use pattern-first solving: identify the sub-type quickly and apply its standard fastest method.
+- **Verification tip**: After solving, run a quick bounds/logic sanity check specific to the sub-pattern.
+- **Pattern-wise quick shortcuts**:
+- **Basic Concepts**: Identify the pattern first, then apply its standard formula/method directly for faster elimination.
+- **Average Speed**: Use weighted/assumed-mean or replacement-delta method instead of full recomputation.
+- **Relative Speed**: Normalize units first and use relative speed where motion is opposite/same direction.
+- **Trains**: Identify the pattern first, then apply its standard formula/method directly for faster elimination.
+- **Boats And Streams**: Normalize units first and use relative speed where motion is opposite/same direction.
